@@ -1,0 +1,494 @@
+[
+  {
+    "id": "jimmy-neutron",
+    "prompt": "Jimmy Neutron from Jimmy Neutron: boy genius with a tall brown swirl of hair, red shirt with an atom logo. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "jenny-wakeman",
+    "prompt": "Jenny Wakeman (XJ-9) from My Life as a Teenage Robot: teenage robot girl XJ-9, white and light-blue metal body, pigtail-like antennae, blue eyes. Reimagined in a shonen anime art style, explosive action pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "donatello",
+    "prompt": "Donatello from TMNT: teenage mutant ninja turtle, green skin, purple eye mask, bo staff. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "goddard",
+    "prompt": "Goddard from Jimmy Neutron: silver robot dog with floppy metal ears and a screen on his chest. Reimagined in a shonen anime art style, strong protective stance, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "tony-stark",
+    "prompt": "Tony Stark from Iron Man: Armored Adventures: teen genius in red and gold high-tech armor with a glowing chest reactor, dark hair. Reimagined in a shonen anime art style, confident leader pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "sandy-cheeks",
+    "prompt": "Sandy Cheeks from SpongeBob SquarePants: brown squirrel in a white air suit and clear glass helmet with a pink flower. Reimagined in a shonen anime art style, explosive action pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "cindy-vortex",
+    "prompt": "Cindy Vortex from Jimmy Neutron: blonde ponytail girl genius, green top, competitive smirk. Reimagined in a shonen anime art style, explosive action pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "carl-wheezer",
+    "prompt": "Carl Wheezer from Jimmy Neutron: nervous boy with curly orange hair, big glasses, light blue shirt. Reimagined in a shonen anime art style, strong protective stance, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "sheen-estevez",
+    "prompt": "Sheen Estevez from Jimmy Neutron: hyper boy with spiky black hair, orange shirt, holding an Ultra Lord action figure. Reimagined in a shonen anime art style, mischievous playful pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "reed-richards",
+    "prompt": "Reed Richards from Fantastic Four: Mister Fantastic, stretchy scientist with graying temples, blue Fantastic Four suit. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "dib-membrane",
+    "prompt": "Dib Membrane from Invader Zim: paranormal-investigator boy with a scythe-shaped black hair spike, glasses, black trench coat. Reimagined in a shonen anime art style, mischievous playful pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "professor-membrane",
+    "prompt": "Professor Membrane from Invader Zim: tall scientist in a white lab coat with a high collar and goggles, spiky black hair. Reimagined in a shonen anime art style, confident leader pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "metalhead",
+    "prompt": "Metalhead from TMNT: robot ninja turtle made of gray metal, purple eye mask, glowing cyan eyes and an antenna. Reimagined in a shonen anime art style, strong protective stance, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "sheldon-lee",
+    "prompt": "Sheldon Lee from My Life as a Teenage Robot: nerdy boy with dark hair, glasses and braces, holding a wrench. Reimagined in a shonen anime art style, strong protective stance, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "nora-wakeman",
+    "prompt": "Dr. Nora Wakeman from My Life as a Teenage Robot: elderly robotics scientist with gray hair in a bun, glasses, white lab coat. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "tucker-foley",
+    "prompt": "Tucker Foley from Danny Phantom: tech-savvy boy with a red beret, glasses, yellow shirt and a PDA. Reimagined in a shonen anime art style, mischievous playful pose, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "jack-fenton",
+    "prompt": "Jack Fenton from Danny Phantom: big burly ghost hunter in an orange jumpsuit with goggles, holding a ghost gadget. Reimagined in a shonen anime art style, strong protective stance, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "lisa-loud",
+    "prompt": "Lisa Loud from The Loud House: tiny genius girl with brown hair, glasses and a green sweater, holding a beaker. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "kowalski",
+    "prompt": "Kowalski from The Penguins of Madagascar: tall smart penguin holding a clipboard. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "beast",
+    "prompt": "Beast from Wolverine and the X-Men: blue-furred X-Men mutant with glasses, fangs and a thoughtful expression. Reimagined in a shonen anime art style, strong protective stance, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "aang",
+    "prompt": "Aang from Avatar: The Last Airbender: young bald airbender monk with a blue arrow tattoo, orange and yellow monk robes, wooden glider staff. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "korra",
+    "prompt": "Korra from The Legend of Korra: tanned Water Tribe girl with a brown wolf-tail ponytail, blue outfit, bending water and fire. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "leonardo",
+    "prompt": "Leonardo from TMNT: teenage mutant ninja turtle leader, green skin, blue eye mask, twin katanas. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "danny-phantom",
+    "prompt": "Danny Phantom from Danny Phantom: teen ghost hero with white hair, glowing green eyes, black and white jumpsuit with a DP logo. Reimagined in a shonen anime art style, mischievous playful pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "wolverine",
+    "prompt": "Wolverine from Wolverine and the X-Men: X-Men mutant with wild black hair, sideburns, yellow and blue suit and metal claws. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "zuko",
+    "prompt": "Zuko from Avatar: The Last Airbender: Fire Nation prince with a burn scar over his left eye, black topknot, red armor, firebending. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "katara",
+    "prompt": "Katara from Avatar: The Last Airbender: Water Tribe girl with long brown hair and hair loopies, blue outfit, waterbending. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "sokka",
+    "prompt": "Sokka from Avatar: The Last Airbender: Water Tribe warrior boy with a wolf-tail haircut, blue outfit and a boomerang. Reimagined in a shonen anime art style, mischievous playful pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "toph",
+    "prompt": "Toph Beifong from Avatar: The Last Airbender: small blind earthbender girl with black hair in a bun, green outfit, pale eyes, bending rocks. Reimagined in a shonen anime art style, strong protective stance, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "raphael",
+    "prompt": "Raphael from TMNT: teenage mutant ninja turtle, green skin, red eye mask, sai daggers, tough scowl. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "michelangelo",
+    "prompt": "Michelangelo from TMNT: teenage mutant ninja turtle, green skin, orange eye mask, nunchucks and a pizza slice, big grin. Reimagined in a shonen anime art style, mischievous playful pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "el-tigre",
+    "prompt": "El Tigre (Manny Rivera) from El Tigre: Mexican boy superhero Manny Rivera in an orange tiger mask and suit with metal claws. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "human-torch",
+    "prompt": "Human Torch from Fantastic Four: Johnny Storm engulfed in flames, blue Fantastic Four suit. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "the-thing",
+    "prompt": "The Thing from Fantastic Four: orange rock-skinned strongman in blue Fantastic Four shorts. Reimagined in a shonen anime art style, strong protective stance, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "invisible-woman",
+    "prompt": "Invisible Woman from Fantastic Four: blonde heroine in a blue Fantastic Four suit creating a glowing force field. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "cyclops",
+    "prompt": "Cyclops from Wolverine and the X-Men: X-Men leader with a red ruby visor shooting an optic blast, blue and yellow suit. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "storm",
+    "prompt": "Storm from Wolverine and the X-Men: X-Men weather goddess with long white hair, dark skin, black suit and cape, lightning. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "mermaid-man",
+    "prompt": "Mermaid Man from SpongeBob SquarePants: elderly superhero with a white mustache, orange shirt with a starfish emblem, blue mask. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "barnacle-boy",
+    "prompt": "Barnacle Boy from SpongeBob SquarePants: grumpy sidekick in a white sailor hat and sailor suit with a black mask. Reimagined in a shonen anime art style, mischievous playful pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "bolin",
+    "prompt": "Bolin from The Legend of Korra: cheerful earthbender with black hair, green outfit, lifting rocks. Reimagined in a shonen anime art style, strong protective stance, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "shredder",
+    "prompt": "Shredder from TMNT: ninja master in a bladed silver helmet and face mask, armored purple robes, gauntlet blades. Reimagined in a shonen anime art style, confident leader pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "ozai",
+    "prompt": "Fire Lord Ozai from Avatar: The Last Airbender: Fire Lord with a long black beard and topknot, red and gold royal armor, flames. Reimagined in a shonen anime art style, explosive action pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "zim",
+    "prompt": "Invader Zim from Invader Zim: small green alien invader with antennae and magenta eyes, pink uniform. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "plankton",
+    "prompt": "Plankton from SpongeBob SquarePants: tiny one-eyed green plankton villain with antennae and an evil grin. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "azula",
+    "prompt": "Azula from Avatar: The Last Airbender: Fire Nation princess with black topknot and bangs, gold crown piece, blue fire and lightning. Reimagined in a shonen anime art style, explosive action pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "vlad-plasmius",
+    "prompt": "Vlad Plasmius from Danny Phantom: ghost villain with blue skin, white swept hair horns, red eyes, cape and a goatee. Reimagined in a shonen anime art style, confident leader pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "krang",
+    "prompt": "Krang from TMNT: pink brain alien with tentacles inside a robot body's belly. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "bebop",
+    "prompt": "Bebop from TMNT: mutant warthog punk with a purple mohawk and sunglasses. Reimagined in a shonen anime art style, strong protective stance, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "rocksteady",
+    "prompt": "Rocksteady from TMNT: mutant rhino thug with a red beret and military vest. Reimagined in a shonen anime art style, explosive action pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "vicky",
+    "prompt": "Vicky from The Fairly OddParents: mean redhead teen babysitter with a ponytail, green top and an evil grin. Reimagined in a shonen anime art style, mischievous playful pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "magneto",
+    "prompt": "Magneto from Wolverine and the X-Men: master of magnetism in a red helmet and purple cape, controlling metal. Reimagined in a shonen anime art style, confident leader pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "amon",
+    "prompt": "Amon from The Legend of Korra: masked revolutionary in a white mask with a red circle on the forehead, dark hooded outfit. Reimagined in a shonen anime art style, mischievous playful pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "gir",
+    "prompt": "GIR from Invader Zim: small silver robot with big cyan eyes and a goofy tongue-out smile. Reimagined in a shonen anime art style, mischievous playful pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "karen",
+    "prompt": "Karen from SpongeBob SquarePants: a computer with a green screen face on a robot stand. Reimagined in a shonen anime art style, strong protective stance, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "crocker",
+    "prompt": "Denzel Crocker from The Fairly OddParents: hunched paranoid teacher with gray hair and a twitchy grin, shouting about fairies. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "skulker",
+    "prompt": "Skulker from Danny Phantom: ghost hunter with green skin and a flaming green mohawk in gray robot armor. Reimagined in a shonen anime art style, explosive action pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "foot-soldier",
+    "prompt": "Foot Soldier from TMNT: Foot Clan ninja in a black ninja outfit and mask with glowing red eyes. Reimagined in a shonen anime art style, strong protective stance, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "ty-lee",
+    "prompt": "Ty Lee from Avatar: The Last Airbender: cheerful acrobat girl with a long brown braid in a pink outfit. Reimagined in a shonen anime art style, mischievous playful pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "baxter-stockman",
+    "prompt": "Baxter Stockman from TMNT: scientist with glasses and a lab coat beginning to mutate into a fly. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "flying-dutchman",
+    "prompt": "The Flying Dutchman from SpongeBob SquarePants: glowing green ghost pirate captain with a beard and captain's hat. Reimagined in a shonen anime art style, explosive action pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "spongebob",
+    "prompt": "SpongeBob SquarePants from SpongeBob SquarePants: SpongeBob SquarePants, yellow square sea sponge with big blue eyes, buck teeth, white shirt, red tie and brown shorts. Reimagined in a shonen anime art style, confident leader pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "po",
+    "prompt": "Po from Kung Fu Panda: Po the big friendly giant panda kung fu warrior in a fighting stance. Reimagined in a shonen anime art style, explosive action pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "appa",
+    "prompt": "Appa from Avatar: The Last Airbender: Appa the huge white flying sky bison with a brown arrow on his head. Reimagined in a shonen anime art style, strong protective stance, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "skipper",
+    "prompt": "Skipper from The Penguins of Madagascar: commander penguin with a flat head and a determined glare. Reimagined in a shonen anime art style, confident leader pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "patrick",
+    "prompt": "Patrick Star from SpongeBob SquarePants: Patrick Star, pink starfish with green and purple flower shorts and a goofy face. Reimagined in a shonen anime art style, strong protective stance, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "splinter",
+    "prompt": "Master Splinter from TMNT: wise old rat sensei in maroon robes with a walking staff. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "rocko",
+    "prompt": "Rocko from Rocko's Modern Life: Rocko the wallaby in a blue Hawaiian shirt. Reimagined in a shonen anime art style, confident leader pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "ren-hoek",
+    "prompt": "Ren Höek from The Ren & Stimpy Show: Ren the scrawny chihuahua with a crazed red-eyed glare. Reimagined in a shonen anime art style, mischievous playful pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "stimpy",
+    "prompt": "Stimpy from The Ren & Stimpy Show: Stimpy the red and white cat with a big blue nose and a dopey grin. Reimagined in a shonen anime art style, strong protective stance, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "catdog",
+    "prompt": "CatDog from CatDog: CatDog, a conjoined orange cat and yellow dog sharing one body. Reimagined in a shonen anime art style, explosive action pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "tigress",
+    "prompt": "Tigress from Kung Fu Panda: kung fu tigress warrior in a red vest in a fighting pose. Reimagined in a shonen anime art style, explosive action pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "mr-krabs",
+    "prompt": "Mr. Krabs from SpongeBob SquarePants: Mr. Krabs, red crab on tall eye stalks in a blue shirt, money-loving. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "squidward",
+    "prompt": "Squidward Tentacles from SpongeBob SquarePants: Squidward Tentacles, grumpy teal octopus with a long nose and a brown shirt, holding a clarinet. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "gary",
+    "prompt": "Gary the Snail from SpongeBob SquarePants: Gary the snail with a pink spiral shell and eyes on long stalks. Reimagined in a shonen anime art style, mischievous playful pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "norbert-beaver",
+    "prompt": "Norbert Beaver from The Angry Beavers: Norbert the cool brown beaver with buck teeth and half-closed eyes. Reimagined in a shonen anime art style, mischievous playful pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "daggett-beaver",
+    "prompt": "Daggett Beaver from The Angry Beavers: Daggett the hyper dark brown beaver with buck teeth and wide eyes. Reimagined in a shonen anime art style, explosive action pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "momo",
+    "prompt": "Momo from Avatar: The Last Airbender: Momo the winged white lemur with huge ears and big green eyes. Reimagined in a shonen anime art style, mischievous playful pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "heffer",
+    "prompt": "Heffer Wolfe from Rocko's Modern Life: Heffer the big friendly steer with horns and a goofy grin. Reimagined in a shonen anime art style, strong protective stance, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "darwin",
+    "prompt": "Darwin from The Wild Thornberrys: Darwin the chimpanzee in a white shirt looking nervous. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "otis",
+    "prompt": "Otis from Back at the Barnyard: Otis the party-loving cow standing upright. Reimagined in a shonen anime art style, explosive action pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "reptar",
+    "prompt": "Reptar from Rugrats: Reptar the green dinosaur monster with purple spikes breathing orange fire. Reimagined in a shonen anime art style, strong protective stance, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "tommy-pickles",
+    "prompt": "Tommy Pickles from Rugrats: Tommy Pickles, brave bald baby with a few hairs, blue shirt and diaper, holding a screwdriver. Reimagined in a shonen anime art style, confident leader pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "timmy-turner",
+    "prompt": "Timmy Turner from The Fairly OddParents: Timmy Turner, boy with buck teeth and a pink cap and pink shirt holding a star wand. Reimagined in a shonen anime art style, mischievous playful pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "arnold",
+    "prompt": "Arnold from Hey Arnold!: Arnold, boy with a wide head, tiny blue cap, blonde hair, green sweater over a plaid shirt. Reimagined in a shonen anime art style, confident leader pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "helga",
+    "prompt": "Helga Pataki from Hey Arnold!: Helga Pataki, girl with blonde pigtails, a pink bow, a unibrow and a pink dress. Reimagined in a shonen anime art style, explosive action pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "lincoln-loud",
+    "prompt": "Lincoln Loud from The Loud House: Lincoln Loud, boy with white spiky hair, freckles and an orange polo shirt. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "angelica",
+    "prompt": "Angelica Pickles from Rugrats: Angelica Pickles, bossy toddler girl with blonde pigtails, purple bows and a purple dress. Reimagined in a shonen anime art style, mischievous playful pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "chuckie",
+    "prompt": "Chuckie Finster from Rugrats: Chuckie Finster, nervous baby with messy red hair, purple glasses and a blue shirt. Reimagined in a shonen anime art style, strong protective stance, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "gerald",
+    "prompt": "Gerald Johanssen from Hey Arnold!: Gerald Johanssen, cool boy with tall black hair and a red number 33 jersey. Reimagined in a shonen anime art style, explosive action pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "doug-funnie",
+    "prompt": "Doug Funnie from Doug: Doug Funnie, boy with short dark hair in a green sweater vest. Reimagined in a shonen anime art style, confident leader pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "eliza-thornberry",
+    "prompt": "Eliza Thornberry from The Wild Thornberrys: Eliza Thornberry, girl with brown braids, big glasses and braces in a safari outfit, talking to animals. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "cosmo-wanda",
+    "prompt": "Cosmo & Wanda from The Fairly OddParents: Cosmo and Wanda, two fairy godparents with crowns and wands, green-haired Cosmo and pink-haired Wanda. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "otto-rocket",
+    "prompt": "Otto Rocket from Rocket Power: Otto Rocket, extreme sports boy with brown dreadlocks on a skateboard. Reimagined in a shonen anime art style, explosive action pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "phil-lil",
+    "prompt": "Phil & Lil from Rugrats: Phil and Lil DeVille, twin babies in matching green, one with a pink bow. Reimagined in a shonen anime art style, mischievous playful pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "susie",
+    "prompt": "Susie Carmichael from Rugrats: Susie Carmichael, confident girl with black pigtails and orange bows. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "skeeter",
+    "prompt": "Skeeter Valentine from Doug: Skeeter Valentine, cheerful blue-skinned boy with brown hair. Reimagined in a shonen anime art style, mischievous playful pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "reggie-rocket",
+    "prompt": "Reggie Rocket from Rocket Power: Reggie Rocket, tomboy girl in a purple backwards cap on a skateboard. Reimagined in a shonen anime art style, explosive action pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "aj",
+    "prompt": "A.J. from The Fairly OddParents: A.J., genius bald boy with glasses and an orange shirt. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "ginger",
+    "prompt": "Ginger Foutley from As Told by Ginger: Ginger Foutley, teen girl with long wavy red hair and freckles. Reimagined in a shonen anime art style, strong protective stance, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "rudy",
+    "prompt": "Rudy Tabootie from ChalkZone: Rudy Tabootie, boy with spiky black hair holding a piece of magic chalk. Reimagined in a shonen anime art style, mischievous playful pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "lori-loud",
+    "prompt": "Lori Loud from The Loud House: Lori Loud, teen girl with a blonde bob and a light blue top, looking at her phone. Reimagined in a shonen anime art style, strong protective stance, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "leo-rise",
+    "prompt": "Leonardo from TMNT: teenage mutant ninja turtle leader, green skin, blue eye mask, twin katanas, in the Rise of the TMNT style, a slimmer turtle with a blue mask and a glowing ninja sword. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "leo-mayhem",
+    "prompt": "Leonardo from TMNT: teenage mutant ninja turtle leader, green skin, blue eye mask, twin katanas, in the Mutant Mayhem movie style, a teen turtle in a dark hoodie with a blue mask. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "raph-2012",
+    "prompt": "Raphael from TMNT: teenage mutant ninja turtle, green skin, red eye mask, sai daggers, tough scowl, in the TMNT 2012 style, with a chipped shell, red mask and green eyes. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "donnie-rise",
+    "prompt": "Donatello from TMNT: teenage mutant ninja turtle, green skin, purple eye mask, bo staff, in the Rise of the TMNT style, with purple goggles and a high-tech tech-bo staff. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "mikey-pizza",
+    "prompt": "Michelangelo from TMNT: teenage mutant ninja turtle, green skin, orange eye mask, nunchucks and a pizza slice, big grin, in a spooky Halloween pizza-monster costume, with bats and jack-o-lanterns. Reimagined in a shonen anime art style, mischievous playful pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "spongebob-goofy",
+    "prompt": "SpongeBob SquarePants from SpongeBob SquarePants: SpongeBob SquarePants, yellow square sea sponge with big blue eyes, buck teeth, white shirt, red tie and brown shorts, wearing a Goofy Goober peanut hat, joyful rock-star pose. Reimagined in a shonen anime art style, confident leader pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "spongebob-xmas",
+    "prompt": "SpongeBob SquarePants from SpongeBob SquarePants: SpongeBob SquarePants, yellow square sea sponge with big blue eyes, buck teeth, white shirt, red tie and brown shorts, wearing a Santa hat in a snowy Christmas scene. Reimagined in a shonen anime art style, confident leader pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "patrick-kamp",
+    "prompt": "Patrick Star from SpongeBob SquarePants: Patrick Star, pink starfish with green and purple flower shorts and a goofy face, as a young camper in an orange cap at summer camp. Reimagined in a shonen anime art style, strong protective stance, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "tommy-paris",
+    "prompt": "Tommy Pickles from Rugrats: Tommy Pickles, brave bald baby with a few hairs, blue shirt and diaper, holding a screwdriver, in a blue beret in front of the Eiffel Tower. Reimagined in a shonen anime art style, confident leader pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "angelica-witch",
+    "prompt": "Angelica Pickles from Rugrats: Angelica Pickles, bossy toddler girl with blonde pigtails, purple bows and a purple dress, in a purple witch costume and pointed hat, with bats on Halloween night. Reimagined in a shonen anime art style, mischievous playful pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "aang-avatar-state",
+    "prompt": "Aang from Avatar: The Last Airbender: young bald airbender monk with a blue arrow tattoo, orange and yellow monk robes, wooden glider staff, in the Avatar State, eyes and arrow tattoos glowing white, surrounded by a swirling air sphere. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "korra-avatar-state",
+    "prompt": "Korra from The Legend of Korra: tanned Water Tribe girl with a brown wolf-tail ponytail, blue outfit, bending water and fire, in the Avatar State with glowing white eyes, bending all four elements. Reimagined in a shonen anime art style, explosive action pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "jimmy-boy-genius",
+    "prompt": "Jimmy Neutron from Jimmy Neutron: boy genius with a tall brown swirl of hair, red shirt with an atom logo, with goggles on his forehead, launching his homemade rocket. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, electric blue tech energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "arnold-jungle",
+    "prompt": "Arnold from Hey Arnold!: Arnold, boy with a wide head, tiny blue cap, blonde hair, green sweater over a plaid shirt, in a jungle explorer outfit with tropical leaves around him. Reimagined in a shonen anime art style, confident leader pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "danny-ghost-zone",
+    "prompt": "Danny Phantom from Danny Phantom: teen ghost hero with white hair, glowing green eyes, black and white jumpsuit with a DP logo, in the swirling green Ghost Zone with spooky portals. Reimagined in a shonen anime art style, mischievous playful pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "zim-xmas",
+    "prompt": "Invader Zim from Invader Zim: small green alien invader with antennae and magenta eyes, pink uniform, wearing a Santa suit and hat, with snow falling. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "po-lunar",
+    "prompt": "Po from Kung Fu Panda: Po the big friendly giant panda kung fu warrior in a fighting stance, in a red and gold Lunar New Year outfit with lanterns and fireworks. Reimagined in a shonen anime art style, explosive action pose, emerald green nature energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "helga-valentine",
+    "prompt": "Helga Pataki from Hey Arnold!: Helga Pataki, girl with blonde pigtails, a pink bow, a unibrow and a pink dress, holding a heart-shaped locket surrounded by pink hearts. Reimagined in a shonen anime art style, explosive action pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "super-shredder",
+    "prompt": "Shredder from TMNT: ninja master in a bladed silver helmet and face mask, armored purple robes, gauntlet blades, as hulking Super Shredder, mutated and covered in spiked armor. Reimagined in a shonen anime art style, confident leader pose, dark violet shadow energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "lincoln-movie",
+    "prompt": "Lincoln Loud from The Loud House: Lincoln Loud, boy with white spiky hair, freckles and an orange polo shirt, at a cozy autumn family feast with falling leaves. Reimagined in a shonen anime art style, clever thinking pose with a sly smile, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "quailman",
+    "prompt": "Doug Funnie from Doug: Doug Funnie, boy with short dark hair in a green sweater vest, as his superhero alter ego Quailman, with a belt worn around his head and a cape. Reimagined in a shonen anime art style, confident leader pose, blazing crimson hero energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  },
+  {
+    "id": "gerald-strawberry",
+    "prompt": "Gerald Johanssen from Hey Arnold!: Gerald Johanssen, cool boy with tall black hair and a red number 33 jersey, wearing a full strawberry costume with green leaves on his head. Reimagined in a shonen anime art style, explosive action pose, warm golden sunshine energy swirling in the background. Shonen anime trading card illustration, cel-shaded, bold clean linework, vibrant colors, dynamic speed lines, character centered from the waist up, portrait, no text, no logo, no card border."
+  }
+]
