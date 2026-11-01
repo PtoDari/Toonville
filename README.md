@@ -6,16 +6,15 @@ A personal, just-for-fun anime-style card battler starring Nickelodeon and Nickt
 - [Cast roster](docs/CAST.md): 101 characters and 22 skins
 - [Card art prompts](docs/ART_PROMPTS.md): one anime-style prompt + filename per card
 
-## Play it on your phone with Expo Go (no computer needed)
+## Play it on your phone
 
-You need: the **Expo Go** app and a free **expo.dev** account. Two phones makes it easiest.
+**https://ptodari.github.io/Toonville/**
 
-1. **Phone 1:** open **https://snack.expo.dev** in the browser (switch to "Desktop site" if it shows a simplified page) and sign in.
-2. Open the menu (☰ / "Projects") → **Import git repository** and paste:
-   `https://github.com/PtoDari/toonville/tree/claude/toonville-game`
-3. When it finishes loading, tap **Run** → **My Device**. A QR code appears.
-4. **Phone 2:** open **Expo Go** and scan the QR code. The game opens.
-   - One phone only: sign into the same Expo account in Expo Go. The Snack appears under "Recently opened" or in your projects.
+Open the link in Safari (or Chrome), then tap **Share → Add to Home Screen** to get a full-screen app icon.
+The site rebuilds automatically every time new code is pushed (see `.github/workflows/deploy-web.yml`).
+
+> Why not Expo Go? Expo Snack currently supports up to SDK 56 while the App Store Expo Go runs SDK 58,
+> so a Snack import can't run this project. The web version is the same game.
 
 ## Adding character pictures
 
