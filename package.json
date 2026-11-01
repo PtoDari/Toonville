@@ -31,7 +31,8 @@
     "sim": "tsx scripts/simulate.ts",
     "cast": "tsx scripts/generate-cast-doc.ts",
     "art-prompts": "tsx scripts/generate-art-prompts.ts",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "portraits": "tsx scripts/portraits/render.ts"
   },
   "private": true
 }

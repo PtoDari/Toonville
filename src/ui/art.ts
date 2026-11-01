@@ -14,7 +14,8 @@ export const ART_SOURCE = {
   branches: ['main', 'claude/toonville-game'],
 };
 
-const EXTENSIONS = ['png', 'jpg', 'jpeg', 'webp'];
+/** Later entries win: a real `.png` upload beats the stand-in `.jpg` portrait. */
+const EXTENSIONS = ['jpg', 'jpeg', 'webp', 'png'];
 
 /** card id (lowercase) -> raw image URL */
 let index: Map<string, string> | null = null;
@@ -30,8 +31,10 @@ async function listBranch(branch: string): Promise<[string, string][]> {
     .filter((f) => f.type === 'file' && f.download_url)
     .flatMap((f) => {
       const m = f.name.match(/^(.+)\.([a-z]+)$/i);
-      return m && EXTENSIONS.includes(m[2].toLowerCase()) ? [[m[1].toLowerCase(), f.download_url!] as [string, string]] : [];
-    });
+      return m && EXTENSIONS.includes(m[2].toLowerCase()) ? [{ id: m[1].toLowerCase(), url: f.download_url!, rank: EXTENSIONS.indexOf(m[2].toLowerCase()) }] : [];
+    })
+    .sort((a, b) => a.rank - b.rank)
+    .map(({ id, url }) => [id, url] as [string, string]);
 }
 
 export function loadArtIndex(): Promise<void> {

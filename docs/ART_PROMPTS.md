@@ -8,7 +8,8 @@ Each card shows a picture from the **`art/`** folder of the public
 ## How to add art (from your phone)
 
 1. Copy a prompt below into an AI image app you like (or draw/commission the art yourself).
-2. Save the image as **exactly** the filename shown (`.png` or `.jpg`), e.g. `spongebob.png`.
+2. Save the image as **exactly** the filename shown, as a **`.png`**, e.g. `spongebob.png`.
+   (Every card already has a stand-in `.jpg` portrait; a `.png` with the same name replaces it.)
 3. On github.com/PtoDari/toonville, open the **art** folder → **Add file → Upload files** → commit.
 4. Restart the game. The card now shows the picture.
 
