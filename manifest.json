@@ -1,0 +1,17 @@
+{
+  "name": "Toonville",
+  "short_name": "Toonville",
+  "start_url": "/Toonville/",
+  "scope": "/Toonville/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#140B2E",
+  "theme_color": "#140B2E",
+  "icons": [
+    {
+      "src": "/Toonville/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
