@@ -132,6 +132,9 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
   - **Face tattoo lettering:** garbled in the three-quarter view. It reads A, l, l, $, I, n.
   - **"High Power" lettering:** plainer than his real ornate script. The placement is right.
   - **Colours:** like his main outfit sheet, it has a violet cast, so use the hex codes listed here.
+- **Headshots, hair up:** [`characters/money/money-headshots-hair-up.jpg`](characters/money/money-headshots-hair-up.jpg), his head-and-shoulders turnaround in his main outfit: front, three-quarter, side and back, on mid grey `#808080` (made with the headshot sheet block). It's canon for his face, the face tattoo on his right temple (bare left side), his nose rings and chain. Exceptions, where the written rules here win:
+  - **Hair:** the locs are wound into a tight bun. His high top knot is looser, with the locs fanning up and out.
+  - **"High Power":** both full words show above a lower neckline. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain and nose rings).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
