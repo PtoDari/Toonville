@@ -67,18 +67,24 @@ Each main character has their own skin tone and one signature accent colour. The
 
 A young man in his early 20s. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-- **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), hair highlights `#4A4B63` (deep indigo blue), chain `#CEAF81` (gold).
+- **Reference sheet:** [`characters/money/reference-sheet.jpg`](characters/money/reference-sheet.jpg), showing his main outfit with his hair tied up. It's canon for his look and outfit, with two exceptions where the written rules here win:
+  - **Face tattoo:** the sheet puts it on his right temple in close-ups 2 and 3, and leaves it off his left side in the front view, side view and close-up 1. Follow the tattoo rules below, not the sheet.
+  - **Colours:** the sheet has a violet cast, so use the hex codes listed here, not colours picked from the image.
+- **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain and nose ring).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
-- **Hair:** dark locs with blue highlights, worn two ways: tied up high, or loose and falling past his shoulders.
-- **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, small silver nose ring in his left nostril.
+- **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
+- **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, small gold nose ring in his left nostril.
 - **Face tattoo, "All $ In" (left side only):** six small hand-lettered characters stacked upright in a vertical column. Top to bottom they read capital `A`, lowercase `l`, lowercase `l`, `$`, capital `I` with serifs (which tells it apart from the `l`s), lowercase `n`. Thin, faded blue-grey ink. The column starts at his left temple and runs down the front edge of his sideburn hairline to about cheekbone height, just in front of his ear. The right side of his face is bare.
 - **Chest tattoo:** "High Power" in script across his upper chest, by the collarbone.
-- **Outfit:** black Playboy T-shirt, blue Polo sweatpants, blue Nike Cortez sneakers, small thin gold chain.
+- **Hand tattoo:** a small black-ink "$" on the back of his right hand.
+- **Outfits:**
+  - **Main (as on his reference sheet):** black Playboy T-shirt, cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles, small thin gold chain.
+  - More outfits to come. Add each one here as its own bullet.
 
-Description for `[CHARACTER DESCRIPTION]`, hair tied up. For hair down, replace `dark locs tied up high,` with `long dark locs falling loose past his shoulders,`.
+Description for `[CHARACTER DESCRIPTION]`, with his hair tied up and his main outfit. For hair down, replace `gathered into a high top knot` with `falling loose past his shoulders`. For another outfit, replace everything after `main outfit:` with that outfit.
 
 ```
-Money, a young Black man in his early 20s: athletic lean build, grounded realistic proportions, long face with high cheekbones and a defined jaw, deep brown skin, warm brown eyes with dark lashes, calm heavy-lidded gaze, thin mustache and short chin beard; dark locs tied up high, with deep indigo-blue highlights #4A4B63; small silver nose ring in his left nostril; face tattoo on the left side of his face only: six small hand-lettered characters stacked upright in a vertical column, reading top to bottom "A", "l", "l", "$", "I", "n" (All $ In), in thin faded blue-grey ink, running from his left temple down the front edge of his sideburn to cheekbone height, just in front of his ear; the right side of his face is bare; "High Power" script tattoo across his upper chest, just showing above the collar; small thin gold chain #CEAF81; black Playboy T-shirt, blue Polo sweatpants, blue Nike Cortez sneakers
+Money, a young Black man in his early 20s: athletic lean build, grounded realistic proportions, long face with high cheekbones and a defined jaw, deep brown skin, warm brown eyes with dark lashes, calm heavy-lidded gaze, thin mustache and short chin beard; deep indigo-violet locs #2F1958 gathered into a high top knot, with faded sides and back; small gold nose ring in his left nostril; face tattoo on the left side of his face only: six small hand-lettered characters stacked upright in a vertical column, reading top to bottom "A", "l", "l", "$", "I", "n" (All $ In), in thin faded blue-grey ink, running from his left temple down the front edge of his sideburn to cheekbone height, just in front of his ear; the right side of his face is bare; "High Power" script tattoo across his upper chest, just showing above the collar; small black-ink "$" tattoo on the back of his right hand; small thin gold chain #CEAF81; main outfit: black Playboy T-shirt, cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
 ```
 
 For character sheets, add this straight after the description so the face tattoo lands on the correct side in every view. Generators mix up "his left" and "his right", so the note uses directions relative to the viewer. Every turned view faces the viewer's left, which keeps his left temple toward the camera, so the tattoo is always on the visible side:
@@ -87,7 +93,7 @@ For character sheets, add this straight after the description so the face tattoo
 ; in the front view the face tattoo is on his left temple, the viewer's right; the three-quarter view, the side view and all three expression close-ups face toward the viewer's left, so his left temple and the tattoo face the camera and his bare right temple is turned away
 ```
 
-The first sheet put the tattoo on his right temple in two close-ups and left it off his left side. Check every view for this before accepting a sheet.
+His current reference sheet has exactly this error: the tattoo is on his right temple in two close-ups and missing from his left side. Check every view before accepting a new sheet.
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
@@ -124,4 +130,4 @@ Emotion follows the same rules. In a sad beat, colours drain toward navy (night)
 
 ## About the hex codes
 
-Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. Neither set of images is stored in this repo.
+Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exception is Money's locs, which were sampled from his reference sheet, because the sheet's all-indigo locs are canon. The style references and photos are not stored in this repo. Finished character reference sheets are stored, in `characters/<name>/`.
