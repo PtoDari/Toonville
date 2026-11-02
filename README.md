@@ -10,7 +10,7 @@ Toonville is an anime series. This repo holds its visual style guide: prompt blo
 
 The character block and environment blocks are written to be pasted together. The character owns the strongest lines, darkest darks and hottest colour; the environment stays quieter so the two never compete.
 
-For a single paste, use the **all-in-one block** instead.
+For a single paste, use the **all-in-one block** instead. For character turnarounds, use the **character sheet block**.
 
 ## All-in-one block
 
@@ -28,6 +28,20 @@ Environment: thin tinted lines, never black, light hatching; slightly desaturate
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
 Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
+```
+
+## Character sheet block
+
+For turnaround sheets that keep a character consistent across shots. Replace `[CHARACTER DESCRIPTION]`, the three expressions and `[ACCENT HEX]`.
+
+It differs from the story blocks on purpose: a straight eye-level camera (wide-angle and low or aerial shots distort proportions), one even light that matches in every view, and a flat background with no scenery or text.
+
+```
+Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Row of three expression close-ups: [EXPRESSION 1], [EXPRESSION 2], [EXPRESSION 3]. Flat cloud white #DEE7E8 background, no scenery, no text.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, warm skin #C88D7F.
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; signature accent [ACCENT HEX].
+Lighting: even light from upper left, identical in every view, no bloom.
+Camera: eye level, long lens, no perspective distortion.
 ```
 
 ## Character block
