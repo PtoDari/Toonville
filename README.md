@@ -56,7 +56,7 @@ Each main character has their own skin tone and one signature accent colour. The
 
 | Character | Skin tone | Accent name | Accent hex |
 |---|---|---|---|
-| Money | Deep brown `#9B7461` | _TBD_ | `#______` |
+| Money | Deep brown `#9B7461` | Royal blue | `#5381D4` |
 | _TBD_ | _TBD_ | _TBD_ | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | `#______` |
@@ -67,7 +67,8 @@ Each main character has their own skin tone and one signature accent colour. The
 
 A young man in his early 20s. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-- **Colours:** skin `#9B7461`, hair highlights `#4A4B63` (deep indigo blue), chain `#CEAF81` (gold).
+- **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), hair highlights `#4A4B63` (deep indigo blue), chain `#CEAF81` (gold).
+- **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** dark locs with blue highlights, worn two ways: tied up high, or loose and falling past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, small silver nose ring in his left nostril.
 - **Face tattoo, "All $ In" (left side only):** six small hand-lettered characters stacked upright in a vertical column. Top to bottom they read capital `A`, lowercase `l`, lowercase `l`, `$`, capital `I` with serifs (which tells it apart from the `l`s), lowercase `n`. Thin, faded blue-grey ink. The column starts at his left temple and runs down the front edge of his sideburn hairline to about cheekbone height, just in front of his ear. The right side of his face is bare.
