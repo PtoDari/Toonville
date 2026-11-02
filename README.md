@@ -101,19 +101,19 @@ Every character has their own **character style block**: their look, tattoos and
 - their character style block
 - a sheet note, if they have features that must stay on one side
 - a short backup of their character style block
-- a sheet for each outfit in `characters/<name>/`, named `<name>-<outfit>.jpg`, with any known differences listed
+- a sheet for each outfit and hairstyle in `characters/<name>/`, named `<name>-<outfit>-<hairstyle>.jpg` (for example `-hair-up` or `-hair-down`), with any known differences listed
 
 ### Money
 
 A young man in his early 20s. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-- **Main outfit sheet:** [`characters/money/money-main-outfit.jpg`](characters/money/money-main-outfit.jpg), his official main-outfit turnaround with his hair tied up: front, three-quarter, side view facing right, side view facing left, and back. It's canon for his look, his outfit and where his tattoos sit: the face tattoo on his right temple, the "$" on his right hand, the leopard print below his left sleeve, and the tops of "High Power" above the collar in the front view. Exceptions, where the written rules here win:
+- **Main outfit, hair up:** [`characters/money/money-main-outfit-hair-up.jpg`](characters/money/money-main-outfit-hair-up.jpg), his official main-outfit turnaround with his hair tied up: front, three-quarter, side view facing right, side view facing left, and back. It's canon for his look, his outfit and where his tattoos sit: the face tattoo on his right temple, the "$" on his right hand, the leopard print below his left sleeve, and the tops of "High Power" above the collar in the front view. Exceptions, where the written rules here win:
   - **Nose rings:** each view shows one ring. He has one in each nostril.
   - **Face tattoo lettering:** a little garbled in the front view. It reads A, l, l, $, I, n.
   - **"High Power" at the collar:** reads as just the capitals H and P. The placement is right.
   - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
   - **Colours:** the sheet has a violet cast, so use the hex codes listed here, not colours picked from the image.
-- **Main outfit shirtless sheet:** [`characters/money/money-main-outfit-shirtless.jpg`](characters/money/money-main-outfit-shirtless.jpg), his official shirtless asset: the shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side (facing left) and back views. It's canon for his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits. In the side view, "Power" wraps across his left pec and the leopard print covers his left upper arm. Exceptions, where the written rules here win:
+- **Main outfit shirtless, hair up:** [`characters/money/money-main-outfit-shirtless-hair-up.jpg`](characters/money/money-main-outfit-shirtless-hair-up.jpg), his official shirtless asset: the shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side (facing left) and back views. It's canon for his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits. In the side view, "Power" wraps across his left pec and the leopard print covers his left upper arm. Exceptions, where the written rules here win:
   - **Face tattoo lettering:** garbled in the three-quarter view. It reads A, l, l, $, I, n.
   - **"High Power" lettering:** plainer than his real ornate script. The placement is right.
   - **Back view:** his left upper arm is bare. The leopard print should show on the back of that arm.
@@ -198,4 +198,4 @@ Emotion follows the same rules. In a sad beat, colours drain toward navy (night)
 
 ## About the hex codes
 
-Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exception is Money's locs, which were sampled from his first reference sheet, because that sheet's all-indigo locs are canon. The style references and photos are not stored in this repo. Finished character sheets are stored in `characters/<name>/`, one per outfit, named `<name>-<outfit>.jpg`.
+Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exception is Money's locs, which were sampled from his first reference sheet, because that sheet's all-indigo locs are canon. The style references and photos are not stored in this repo. Finished character sheets are stored in `characters/<name>/`, one per outfit and hairstyle, named `<name>-<outfit>-<hairstyle>.jpg`.
