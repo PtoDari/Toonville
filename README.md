@@ -10,6 +10,26 @@ Toonville is an anime series. This repo holds its visual style guide: prompt blo
 
 The character block and environment blocks are written to be pasted together. The character owns the strongest lines, darkest darks and hottest colour; the environment stays quieter so the two never compete.
 
+For a single paste, use the **all-in-one block** instead.
+
+## All-in-one block
+
+One block (197 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
+
+- Delete the **Night** or **Day** line you don't need. If both stay in, most generators blend them into a muddled dusk scene.
+- Replace `[ACCENT HEX]` with the character's colour from the table below.
+
+The separate blocks further down hold the same rules in more detail.
+
+```
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, warm skin #C88D7F.
+Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
+```
+
 ## Character block
 
 ```
