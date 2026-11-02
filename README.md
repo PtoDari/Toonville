@@ -81,11 +81,13 @@ Description for `[CHARACTER DESCRIPTION]`, hair tied up. For hair down, replace 
 Money, a young Black man in his early 20s: athletic lean build, grounded realistic proportions, long face with high cheekbones and a defined jaw, deep brown skin, warm brown eyes with dark lashes, calm heavy-lidded gaze, thin mustache and short chin beard; dark locs tied up high, with deep indigo-blue highlights #4A4B63; small silver nose ring in his left nostril; face tattoo on the left side of his face only: six small hand-lettered characters stacked upright in a vertical column, reading top to bottom "A", "l", "l", "$", "I", "n" (All $ In), in thin faded blue-grey ink, running from his left temple down the front edge of his sideburn to cheekbone height, just in front of his ear; the right side of his face is bare; "High Power" script tattoo across his upper chest, just showing above the collar; small thin gold chain #CEAF81; black Playboy T-shirt, blue Polo sweatpants, blue Nike Cortez sneakers
 ```
 
-For character sheets, add this straight after the description so the face tattoo lands on the correct side in every view:
+For character sheets, add this straight after the description so the face tattoo lands on the correct side in every view. Generators mix up "his left" and "his right", so the note uses directions relative to the viewer. Every turned view faces the viewer's left, which keeps his left temple toward the camera, so the tattoo is always on the visible side:
 
 ```
-; in the front view the face tattoo is on the viewer's right, and the three-quarter view, side view and expression close-ups show his left side
+; in the front view the face tattoo is on his left temple, the viewer's right; the three-quarter view, the side view and all three expression close-ups face toward the viewer's left, so his left temple and the tattoo face the camera and his bare right temple is turned away
 ```
+
+The first sheet put the tattoo on his right temple in two close-ups and left it off his left side. Check every view for this before accepting a sheet.
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
