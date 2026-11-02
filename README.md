@@ -97,6 +97,14 @@ His current reference sheet has exactly this error: the tattoo is on his right t
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
+**Short backup description (115 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to 238 words, about 1,500 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
+
+It leaves out his face shape, the "High Power" chest tattoo, the socks, the swoosh and soles, and the chain's hex code. It keeps everything that has gone wrong in past sheets: the tattoo letters and side, the viewing directions, his locs colour and the gold nose ring.
+
+```
+Money, a lean athletic young Black man in his early 20s: deep brown skin, calm heavy-lidded gaze, thin mustache and short chin beard; deep indigo-violet locs #2F1958 in a high top knot, faded sides; gold nose ring in his left nostril; face tattoo on his left temple only, letters stacked top to bottom "A", "l", "l", "$", "I", "n" in thin indigo-violet ink, from eyebrow to earlobe, just in front of his ear; small "$" tattoo on the back of his right hand; thin gold chain; black Playboy T-shirt, cuffed blue Polo joggers, blue Nike Cortez sneakers; front view: tattoo on the viewer's right; three-quarter view, side view and close-ups all face the viewer's left
+```
+
 ## Night environment block
 
 ```
