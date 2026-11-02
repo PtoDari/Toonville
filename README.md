@@ -70,13 +70,20 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 - **Colours:** skin `#9B7461`, hair highlights `#4A4B63` (deep indigo blue), chain `#CEAF81` (gold).
 - **Hair:** dark locs with blue highlights, worn two ways: tied up high, or loose and falling past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, small silver nose ring in his left nostril.
-- **Tattoos:** "All $ In" running vertically down the left side of his face along the hairline; "High Power" in script across his upper chest, by the collarbone.
+- **Face tattoo, "All $ In" (left side only):** six small hand-lettered characters stacked upright in a vertical column. Top to bottom they read capital `A`, lowercase `l`, lowercase `l`, `$`, capital `I` with serifs (which tells it apart from the `l`s), lowercase `n`. Thin, faded blue-grey ink. The column starts at his left temple and runs down the front edge of his sideburn hairline to about cheekbone height, just in front of his ear. The right side of his face is bare.
+- **Chest tattoo:** "High Power" in script across his upper chest, by the collarbone.
 - **Outfit:** black Playboy T-shirt, blue Polo sweatpants, blue Nike Cortez sneakers, small thin gold chain.
 
 Description for `[CHARACTER DESCRIPTION]`, hair tied up. For hair down, replace `dark locs tied up high,` with `long dark locs falling loose past his shoulders,`.
 
 ```
-Money, a young Black man in his early 20s: athletic lean build, grounded realistic proportions, long face with high cheekbones and a defined jaw, deep brown skin, warm brown eyes with dark lashes, calm heavy-lidded gaze, thin mustache and short chin beard; dark locs tied up high, with deep indigo-blue highlights #4A4B63; small silver nose ring in his left nostril; "All $ In" tattooed in small letters running vertically down the left side of his face along the hairline; "High Power" script tattoo across his upper chest, just showing above the collar; small thin gold chain #CEAF81; black Playboy T-shirt, blue Polo sweatpants, blue Nike Cortez sneakers
+Money, a young Black man in his early 20s: athletic lean build, grounded realistic proportions, long face with high cheekbones and a defined jaw, deep brown skin, warm brown eyes with dark lashes, calm heavy-lidded gaze, thin mustache and short chin beard; dark locs tied up high, with deep indigo-blue highlights #4A4B63; small silver nose ring in his left nostril; face tattoo on the left side of his face only: six small hand-lettered characters stacked upright in a vertical column, reading top to bottom "A", "l", "l", "$", "I", "n" (All $ In), in thin faded blue-grey ink, running from his left temple down the front edge of his sideburn to cheekbone height, just in front of his ear; the right side of his face is bare; "High Power" script tattoo across his upper chest, just showing above the collar; small thin gold chain #CEAF81; black Playboy T-shirt, blue Polo sweatpants, blue Nike Cortez sneakers
+```
+
+For character sheets, add this straight after the description so the face tattoo lands on the correct side in every view:
+
+```
+; in the front view the face tattoo is on the viewer's right, and the three-quarter view, side view and expression close-ups show his left side
 ```
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
