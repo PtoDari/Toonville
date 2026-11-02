@@ -101,20 +101,23 @@ Every character has their own **character style block**: their look, tattoos and
 - their character style block
 - a sheet note, if they have features that must stay on one side
 - a short backup of their character style block
-- their reference sheets in `characters/<name>/`, with any known differences listed
+- a sheet for each outfit in `characters/<name>/`, named `<name>-<outfit>.jpg`, with any known differences listed
 
 ### Money
 
 A young man in his early 20s. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-- **Reference sheet:** [`characters/money/reference-sheet.jpg`](characters/money/reference-sheet.jpg), showing his main outfit with his hair tied up. It's canon for his look and outfit, with these exceptions where the written rules here win:
-  - **Face tattoo:** the front view doesn't show it. It belongs on his right temple, where close-ups 2 and 3 put it.
-  - **Nose rings:** the sheet shows one, in his left nostril. He has one in each nostril.
+- **Main outfit sheet:** [`characters/money/money-main-outfit.jpg`](characters/money/money-main-outfit.jpg), his official main-outfit turnaround with his hair tied up: front, three-quarter, side view facing right, side view facing left, and back. It's canon for his look, his outfit and where his tattoos sit: the face tattoo on his right temple, the "$" on his right hand, the leopard print below his left sleeve, and the tops of "High Power" above the collar in the front view. Exceptions, where the written rules here win:
+  - **Nose rings:** each view shows one ring. He has one in each nostril.
+  - **Face tattoo lettering:** a little garbled in the front view. It reads A, l, l, $, I, n.
+  - **"High Power" at the collar:** reads as just the capitals H and P. The placement is right.
+  - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
   - **Colours:** the sheet has a violet cast, so use the hex codes listed here, not colours picked from the image.
-- **Shirtless sheet:** [`characters/money/shirtless-sheet.jpg`](characters/money/shirtless-sheet.jpg), showing his shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side and back views. It's his official shirtless asset: canon for his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits. Exceptions, where the written rules here win:
+- **Main outfit shirtless sheet:** [`characters/money/money-main-outfit-shirtless.jpg`](characters/money/money-main-outfit-shirtless.jpg), his official shirtless asset: the shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side (facing left) and back views. It's canon for his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits. In the side view, "Power" wraps across his left pec and the leopard print covers his left upper arm. Exceptions, where the written rules here win:
   - **Face tattoo lettering:** garbled in the three-quarter view. It reads A, l, l, $, I, n.
   - **"High Power" lettering:** plainer than his real ornate script. The placement is right.
-  - **Colours:** like his main sheet, it has a violet cast, so use the hex codes listed here.
+  - **Back view:** his left upper arm is bare. The leopard print should show on the back of that arm.
+  - **Colours:** like his main outfit sheet, it has a violet cast, so use the hex codes listed here.
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain and nose rings).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
@@ -123,10 +126,10 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 - **Chest tattoo, "High Power":** large ornate cursive script, with tall flourished capitals `H` and `P` and swashes under the words, in faded grey-black ink. It runs across his upper chest just below the collarbones. "High" sits on his right pec, which is the viewer's left in a front view, and "Power" crosses the sternum toward his left pec. In his main outfit, the crew-neck T-shirt covers most of it, but the tops of the lettering peek just above the front of the collar, so his character style block includes that. Any outfit that shows his chest must include the full chest tattoo text from the shirtless outfit below.
 - **Chest piece, Eye of Horus:** a large outlined Eye of Horus, in the same faded grey-black ink, under "High Power". It's centred on his chest and reaches toward the top of his stomach. Like "High Power", it's hidden by his T-shirt and lives in the shirtless outfit text. Ignore the script near his left pec; it isn't part of his design.
 - **Arm tattoo, leopard print:** open rosettes and solid spots in faded black ink, covering his left upper arm. It starts at the shoulder cap, runs down the outer arm and stops above the elbow. His left arm is the viewer's right in a front view. In his main outfit, the part below the T-shirt sleeve shows in every view where that arm is visible, so it's in his character style block.
-- **Hand tattoo:** a small, bold, hand-drawn black-ink "$" with a single vertical stroke through it, and two short ticks crossing its lower curve. It sits on the back of his right hand, nearer the wrist than the knuckles. This replaces the double-struck "$" on his reference sheet.
+- **Hand tattoo:** a small, bold, hand-drawn black-ink "$" with a single vertical stroke through it, and two short ticks crossing its lower curve. It sits on the back of his right hand, nearer the wrist than the knuckles.
 - **Outfits:**
-  - **Main (as on his reference sheet):** black Playboy T-shirt, cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles, small thin gold chain.
-  - **Shirtless (tattoo reference, as on his shirtless sheet):** no shirt, so the chest tattoo shows, with his main outfit's joggers, socks and sneakers. Use it for a tattoo reference sheet. Swap it in by replacing everything after `main outfit:` in his description with this:
+  - **Main (as on his main outfit sheet):** black Playboy T-shirt, cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles, small thin gold chain.
+  - **Shirtless (tattoo reference, as on his main outfit shirtless sheet):** no shirt, so the chest tattoo shows, with his main outfit's joggers, socks and sneakers. Use it for a tattoo reference sheet. Swap it in by replacing everything after `main outfit:` in his description with this:
 
     ```
     shirtless, showing his "High Power" chest tattoo: large ornate cursive script with tall flourished capital H and P and swashes beneath, in faded grey-black ink, running across his upper chest just below the collarbones, "High" on his right pec (the viewer's left in the front view) and "Power" crossing the sternum toward his left pec; below it, a large outlined Eye of Horus in the same faded grey-black ink, centred on his chest and reaching toward the top of his stomach; cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
@@ -195,4 +198,4 @@ Emotion follows the same rules. In a sad beat, colours drain toward navy (night)
 
 ## About the hex codes
 
-Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exception is Money's locs, which were sampled from his reference sheet, because the sheet's all-indigo locs are canon. The style references and photos are not stored in this repo. Finished character reference sheets are stored, in `characters/<name>/`.
+Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exception is Money's locs, which were sampled from his first reference sheet, because that sheet's all-indigo locs are canon. The style references and photos are not stored in this repo. Finished character sheets are stored in `characters/<name>/`, one per outfit, named `<name>-<outfit>.jpg`.
