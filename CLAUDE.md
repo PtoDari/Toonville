@@ -15,7 +15,7 @@ Toonville is an anime series. Its visual style is fixed and defined in README.md
 ## Other rules for every prompt
 
 - Use a character's short backup description only when the user asks for it, or says their generator is cutting off the full prompt. The short backups still go with the full style block.
-- A character's finished reference sheets are in `characters/<name>/`: `reference-sheet.jpg` for their main outfit, plus a sheet for each other outfit that has one (for example `shirtless-sheet.jpg`). Use them for their look and outfit. Where a sheet disagrees with the written character style block or the hex codes in README.md, the README wins, and the character's entry lists any known differences in the sheet.
+- A character's finished sheets are in `characters/<name>/`, one per outfit, named `<name>-<outfit>.jpg` (for Money: `money-main-outfit.jpg` and `money-main-outfit-shirtless.jpg`). Use them for their look and outfit. Where a sheet disagrees with the written character style block or the hex codes in README.md, the README wins, and the character's entry lists any known differences in the sheet.
 - Characters own pure black, the brightest highlights and their accent colour. Environments stay quieter so characters always read clearly.
 - Don't name existing series, characters or artists in prompts. Describe the look instead.
 
