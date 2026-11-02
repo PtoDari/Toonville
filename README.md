@@ -70,6 +70,12 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 - **Reference sheet:** [`characters/money/reference-sheet.jpg`](characters/money/reference-sheet.jpg), showing his main outfit with his hair tied up. It's canon for his look and outfit, with two exceptions where the written rules here win:
   - **Face tattoo:** the sheet puts it on his right temple in close-ups 2 and 3, and leaves it off his left side in the front view, side view and close-up 1. Follow the tattoo rules below, not the sheet.
   - **Colours:** the sheet has a violet cast, so use the hex codes listed here, not colours picked from the image.
+- **Shirtless sheet:** [`characters/money/shirtless-sheet.jpg`](characters/money/shirtless-sheet.jpg), showing his shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side and back views. It's canon for his build, with slight ab definition on the front and three-quarter views, and for the "High Power" and Eye of Horus placement. Known errors, where the written rules here win:
+  - **Leopard print:** it's on his left arm in the front and three-quarter views. It belongs on his right arm.
+  - **Face tattoo:** it's on his right temple in the front and three-quarter views. It belongs on his left temple only.
+  - **Nose ring:** the front view shows one in each nostril. He has one, in his left nostril.
+  - **"High Power" lettering:** plainer than his real ornate script. The placement is right.
+  - **Colours:** like his main sheet, it has a violet cast, so use the hex codes listed here.
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain and nose ring).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
@@ -81,7 +87,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 - **Hand tattoo:** a small, bold, hand-drawn black-ink "$" with a single vertical stroke through it, and two short ticks crossing its lower curve. It sits on the back of his right hand, nearer the wrist than the knuckles. This replaces the double-struck "$" on his reference sheet.
 - **Outfits:**
   - **Main (as on his reference sheet):** black Playboy T-shirt, cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles, small thin gold chain.
-  - **Shirtless (tattoo reference):** no shirt, so the chest tattoo shows, with his main outfit's joggers, socks and sneakers. Use it for a tattoo reference sheet. Swap it in by replacing everything after `main outfit:` in his description with this:
+  - **Shirtless (tattoo reference, as on his shirtless sheet):** no shirt, so the chest tattoo shows, with his main outfit's joggers, socks and sneakers. Use it for a tattoo reference sheet. Swap it in by replacing everything after `main outfit:` in his description with this:
 
     ```
     shirtless, showing his "High Power" chest tattoo: large ornate cursive script with tall flourished capital H and P and swashes beneath, in faded grey-black ink, running across his upper chest just below the collarbones, "High" on his right pec (the viewer's left in the front view) and "Power" crossing the sternum toward his left pec; below it, a large outlined Eye of Horus in the same faded grey-black ink, centred on his chest and reaching toward the top of his stomach; cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
