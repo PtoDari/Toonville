@@ -2,15 +2,32 @@
 
 Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it.
 
-## How to use the blocks
+## The style rule
 
-1. Start with the **character block** and add that character's skin tone and accent colour from the character table below.
-2. Add **one** environment block: night or day.
-3. Pick the story moment from the **reactive environment** table and describe it in the prompt.
+Every Toonville prompt carries the established style, word for word, with no exceptions. That includes full prompts, short backups, edits and inpainting, one-line fixes, and anything sent to an image or video tool. This is what keeps every character, environment and prop consistent.
 
-The character block and environment blocks are written to be pasted together. The character owns the strongest lines, darkest darks and hottest colour; the environment stays quieter so the two never compete.
+Every prompt is built in this order:
 
-For a single paste, use the **all-in-one block** instead. For character turnarounds, use the **character sheet block**.
+1. **Subject:** who or what, doing what, where. For a scene, add the story moment from the **reactive environment** table.
+2. **Character style block:** for every character in the shot, their own block from the Characters section below. It covers their look, tattoos and outfit, with their skin and accent hex from the character table.
+3. **Style block:** the block for the job, copied word for word.
+
+| Job | Style block | The only edits allowed |
+|---|---|---|
+| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. |
+| Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
+| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. |
+| Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
+
+Every one of those blocks opens with the **master style line**, so it appears in every prompt:
+
+```
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+```
+
+No prompt rewords, shortens or drops style wording. A style change happens only when it's asked for, and it goes into this README first.
+
+The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
 
 ## All-in-one block
 
@@ -44,7 +61,21 @@ Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
 
+## Edit block
+
+For edits and inpainting on existing Toonville art: write the edit first (what to change, and where), then the character style block for anyone being edited, then this block. For an edit that touches only the background, replace the Characters line with the all-in-one block's Environment line and its Night or Day line.
+
+```
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
+Outside the edited area, keep the image exactly as it is: same layout, lighting, camera, line weight and colours.
+```
+
+Some existing sheets drift from the style, with thinner lines, softer shading and a violet cast. An edit that carries this block can come out slightly bolder than the art around it. New sheets generated with the full style block avoid that.
+
 ## Character block
+
+Reference copy of the character rules. Prompts use the blocks in the style rule table, which already contain them.
 
 ```
 90s cel anime with comic-book inking. Line work: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: flat cel colour, one or two hard-edged shadow tones, solid spotted blacks. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
@@ -62,6 +93,15 @@ Each main character has their own skin tone and one signature accent colour. The
 | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
 ## Characters
+
+Every character has their own **character style block**: their look, tattoos and outfits, written to fill `[CHARACTER DESCRIPTION]` and to go in front of the style block in every prompt that shows them. Each character entry holds:
+
+- a row in the character table, with skin tone and accent colour
+- profile notes: colours, hair, face, tattoos and outfits
+- their character style block
+- a sheet note, if they have features that must stay on one side
+- a short backup of their character style block
+- their reference sheets in `characters/<name>/`, with any known differences listed
 
 ### Money
 
@@ -94,7 +134,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 
   - More outfits to come. Add each one here as its own bullet.
 
-Description for `[CHARACTER DESCRIPTION]`, with his hair tied up and his main outfit. For hair down, replace `gathered into a high top knot` with `falling loose past his shoulders`. For another outfit, replace everything after `main outfit:` with that outfit.
+**Money's character style block** (fills `[CHARACTER DESCRIPTION]`), with his hair tied up and his main outfit. For hair down, replace `gathered into a high top knot` with `falling loose past his shoulders`. For another outfit, replace everything after `main outfit:` with that outfit.
 
 ```
 Money, a young Black man in his early 20s: athletic lean build, grounded realistic proportions, long face with high cheekbones and a defined jaw, deep brown skin, warm brown eyes with dark lashes, calm heavy-lidded gaze, thin mustache and short chin beard; deep indigo-violet locs #2F1958 gathered into a high top knot, with faded sides and back; small gold nose ring in each nostril; face tattoo on the right side of his face only: six small hand-lettered characters stacked upright in a vertical column, reading top to bottom "A", "l", "l", "$", "I", "n" (All $ In), in clean, thin, evenly spaced print in muted indigo-violet ink, running from his right temple at eyebrow height down the front edge of his sideburn to earlobe height, just in front of his ear; the left side of his face is bare; small bold hand-drawn black-ink "$" tattoo with a single vertical stroke, on the back of his right hand near the wrist; leopard-print tattoo of open rosettes and spots in faded black ink covering his left upper arm (the viewer's right in the front view) from the shoulder cap down, stopping above the elbow; small thin gold chain #CEAF81; main outfit: black Playboy T-shirt, cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
@@ -110,7 +150,7 @@ Generators often put the face tattoo on whichever temple faces the camera, or dr
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
-**Short backup description (125 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to 248 words, about 1,600 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
+**Short backup of his character style block (125 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to 248 words, about 1,600 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
 
 It leaves out his face shape, the "High Power" chest tattoo, the socks, the swoosh and soles, and the chain's hex code. It keeps everything that has gone wrong in past sheets: the tattoo letters and side, the viewing directions, his locs colour and the gold nose rings.
 
@@ -120,11 +160,15 @@ Money, a lean athletic young Black man in his early 20s: deep brown skin, calm h
 
 ## Night environment block
 
+Reference copy of the night rules. Prompts use the all-in-one block, which already contains them.
+
 ```
 Night environment layer, same style. Line work: thin lines in dark teal #031E1C, never black, light hatching. Values: stay in the mid-to-dark range; pure black and pure white belong to characters only. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, slightly desaturated; hot accents only on signs and lamps. Composition: dense detail at the edges, a calm open area where the character stands. Depth: three layers, haze increasing with distance. Lighting: one main light source whose colour becomes the character's rim light. Reactive surfaces: wet ground, glass, neon signs, haze, rain. Rain: thin straight white streaks; wet pavement mirrors neon as long vertical colour smears. Camera: always matches the character shot's angle and lens.
 ```
 
 ## Day environment block
+
+Reference copy of the day rules. Prompts use the all-in-one block, which already contains them.
 
 ```
 Day environment layer, same style. Line work: thin lines in dark navy #344481, never black, light hatching. Values: light-to-mid range, sky and distant haze nearly white; the deepest darks belong to characters. Palette: sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, cloud white #DEE7E8, concrete grey #909BA8, sage green #9CD086, roof brown #573931, slightly desaturated. Clouds: loose painterly brushwork against a flat sky. Composition: dense detail at the edges, a calm open area where the character stands. Depth: three layers, fading to pale blue with distance. Lighting: high sun, hard cast shadows, cool sky fill as the character's rim light. Reactive surfaces: clouds, glass glints, banners, leaves, cast shadows. Camera: always matches the character shot's angle and lens.
