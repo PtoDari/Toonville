@@ -1,6 +1,6 @@
 # Toonville
 
-Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it.
+Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills.
 
 ## The style rule
 
@@ -19,6 +19,7 @@ Every prompt is built in this order:
 | Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
+| Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
 
@@ -106,6 +107,20 @@ Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
 
+## Object sheet block
+
+For the objects that belong to one character: things they carry, wear, use or are known by. Each object gets its own sheet, so it looks the same in every shot. Replace `[OBJECT DESCRIPTION]`, `[CHARACTER NAME]`, `[SKIN HEX]` and `[ACCENT HEX]`. The description comes from the object list in the owner's entry: what the object is, what it's made of, its colours as hex codes and its real size in cm. The owner's hand appears in one view, so the prompt carries their character style block too, after the subject.
+
+Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. Objects that stay in one place are part of that location's sheet instead.
+
+```
+Object sheet of [OBJECT DESCRIPTION], belonging to [CHARACTER NAME]. Front, side, back and top views of the object alone, same scale, aligned on one ground line, plus one view of it held in [CHARACTER NAME]'s hand to show its size. Flat mid grey #808080 background, no scenery, no labels or captions.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Lighting: even light from upper left, identical in every view, no bloom.
+Camera: eye level, long lens, no perspective distortion.
+```
+
 ## Edit block
 
 For edits and inpainting on existing Toonville art: write the edit first (what to change, and where), then the character style block for anyone being edited, then this block. For an edit that touches only the background, replace the Characters line with the all-in-one block's Environment line and its Night or Day line.
@@ -147,6 +162,7 @@ Every character has their own **character style block**: their look, tattoos and
 - a sheet note, if they have features that must stay on one side
 - a short backup of their character style block
 - a sheet for each outfit and hairstyle in `characters/<name>/`, named `<name>-<outfit>-<hairstyle>.jpg` (for example `-hair-up` or `-hair-down`), with any known differences listed
+- a list of the objects that belong to them, with an object sheet for each in `characters/<name>/objects/`
 
 ### Money
 
@@ -189,6 +205,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain and nose rings).
 - **Height:** 5'10" (178 cm), from the ground to the top of his head, in his sneakers, with his locs down. His top knot reaches about 6'1" (185 cm). He's about 6 heads tall, counting a head from the top of his head to his chin, and his eye line sits at about 162 cm. All of it is measured on his canon sheets and drawn on the [size chart](#size-chart).
 - **LoRA:** trigger word `mnytoon`, with a 30-image training set in [`characters/money/lora/`](characters/money/lora/). See [LoRA training](#lora-training). Base model and training settings: _TBD_, to be recorded here once it's trained.
+- **Objects:** _TBD_. List each object that belongs to him here, with what it is, what it's made of, its colours as hex codes, its real size in cm and where he carries it, then give each one an object sheet in `characters/money/objects/`.
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, a small gold nose ring in each nostril.
@@ -253,6 +270,19 @@ Each main character gets their own LoRA, trained on their canon art, so every ge
 - **One base model:** train and generate on the same base model. A LoRA trained on one base generally won't work on another.
 - **In a prompt:** select the LoRA at about 0.7–0.9 weight and start the subject with the trigger word. The character style block and the job's style block follow as usual.
 - **Before trusting it:** generate a test set (front, three-quarter, side and back, hair up and hair down) and check it against canon. For Money that's the face tattoo on his right temple, a nose ring in each nostril, his locs colour, the "$" on his right hand and the leopard print on his left arm. Small lettering like "All $ In" and "High Power" rarely comes out clean, so plan to touch it up.
+
+## Locations
+
+Every location the story uses gets an entry here before any shot is made there, following step 4 of [WORKFLOW.md](WORKFLOW.md). Each entry holds:
+
+- its name and what happens there
+- day, night or both
+- its main light source and that light's colour, which becomes the rim light of every character there
+- where characters stand: the calm open area
+- its reactive surfaces, such as signs, glass, puddles, banners and leaves
+- its location sheets in `locations/<location>/`, with any known differences listed
+
+No locations yet.
 
 ## Night environment block
 

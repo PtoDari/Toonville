@@ -16,7 +16,12 @@ Toonville is an anime series. Its visual style is fixed and defined in README.md
 
 - Use a character's short backup description only when the user asks for it, or says their generator is cutting off the full prompt. The short backups still go with the full style block.
 - A character's finished sheets are in `characters/<name>/`, one per outfit and hairstyle, named `<name>-<outfit>-<hairstyle>.jpg` (for Money: `money-main-outfit-hair-up.jpg`, `money-main-outfit-hair-down.jpg`, `money-main-outfit-shirtless-hair-up.jpg`, `money-main-outfit-shirtless-hair-down.jpg`, `money-headshots-hair-up.jpg`, `money-headshots-hair-down.jpg`, `money-medium-shot-main-outfit-hair-up.jpg`, `money-front-view-main-outfit-hair-up.jpg`, and the close-ups `money-close-up-glare-hair-up.jpg`, `money-close-up-smirk-hair-up.jpg` and `money-close-up-calm-hair-up.jpg`). Use them for their look and outfit. Where a sheet disagrees with the written character style block or the hex codes in README.md, the README wins, and the character's entry lists any known differences in the sheet.
-- Character sheets (character, turnaround and headshot sheet blocks) and single medium shots on a plain background (medium shot block) use a flat mid grey `#808080` background by default, as written in their blocks.
+- Character sheets (character, turnaround and headshot sheet blocks), object sheets (object sheet block) and single medium shots on a plain background (medium shot block) use a flat mid grey `#808080` background by default, as written in their blocks.
+- Follow WORKFLOW.md for the order of work and its checklists:
+  - Every character has their sheets, object sheets and LoRA before appearing in shots.
+  - Every location has a README entry and location sheets before shots are made there.
+  - Every still passes the canon check in step 6.
+  - Never invent an object's or location's look: ask the user, and add it to README.md first.
 - The size chart is `characters/size-chart.jpg`, and each character's height is in the character table. Keep characters' heights in every shot in proportion to it, and add each new character to it once they have a height and a turnaround sheet. If a character's height is still TBD, ask the user before placing them on the chart or in a shot with others.
 - When a prompt uses a character's LoRA (see README.md's LoRA training section), start the subject with its trigger word. The character style block and the job's style block still go in, word for word. Never add mirrored images to a training set.
 - Characters own pure black, the brightest highlights and their accent colour. Environments stay quieter so characters always read clearly.
