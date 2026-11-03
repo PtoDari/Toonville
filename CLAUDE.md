@@ -20,6 +20,12 @@ Toonville is an anime series. Its visual style is fixed and defined in README.md
 - Characters own pure black, the brightest highlights and their accent colour. Environments stay quieter so characters always read clearly.
 - Don't name existing series, characters or artists in prompts. Describe the look instead.
 
+## Show the prompt before generating
+
+- **Nothing goes to a generator without the user's go-ahead.** Before sending a prompt to OpenArt, Higgsfield or any other image or video tool, show the user the full prompt in a copyable code block, save a copy as a text file they can open, and say roughly what it will cost in credits. Then wait for the user to say to generate it.
+- **Each send needs its own go-ahead.** That covers new images, edits and inpainting, retries and fixes. If a prompt changes after the user approved it, or a result needs another try, show the new prompt and wait again.
+- Writing prompts, checking them and fixing images locally (without a generator) cost no credits and don't need a go-ahead.
+
 ## Keeping the guide current
 
 When the user adds or changes a character, skin tone, accent colour or style rule, update README.md in the same change, so every future prompt picks it up.
