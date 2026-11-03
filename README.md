@@ -16,6 +16,7 @@ Every prompt is built in this order:
 |---|---|---|
 | Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. |
 | Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
+| Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
@@ -56,6 +57,20 @@ It differs from the story blocks on purpose: a straight eye-level camera (wide-a
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Row of three expression close-ups: [EXPRESSION 1], [EXPRESSION 2], [EXPRESSION 3]. Flat cloud white #DEE7E8 background, no scenery, no labels or captions.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Lighting: even light from upper left, identical in every view, no bloom.
+Camera: eye level, long lens, no perspective distortion.
+```
+
+## Turnaround sheet block
+
+For full-body turnarounds without the expression row, so heads never overlap the standing views. Replace `[CHARACTER DESCRIPTION]`, `[SKIN HEX]` and `[ACCENT HEX]`.
+
+It's the character sheet block with one change, asked for: the row of expression close-ups is removed. Every other word is the same.
+
+```
+Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Flat cloud white #DEE7E8 background, no scenery, no labels or captions.
 Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
@@ -128,6 +143,9 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
   - **"High Power" at the collar:** reads as just the capitals H and P. The placement is right.
   - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
   - **Colours:** the sheet has a violet cast, so use the hex codes listed here, not colours picked from the image.
+- **Main outfit, hair down:** [`characters/money/money-main-outfit-hair-down.jpg`](characters/money/money-main-outfit-hair-down.jpg), his main-outfit turnaround with his locs falling loose past his shoulders: front, three-quarter, side view facing right, side view facing left, and back (made with the turnaround sheet block). It's canon for his hair down, his outfit and where his tattoos sit: the face tattoo on his right temple, the "$" on his right hand, the leopard print below his left sleeve, and the tops of "High Power" above the collar in the front view. Exceptions, where the written rules here win:
+  - **Front-view face tattoo:** shows as faint marks, because his face is too small at this sheet size for the lettering to read. It reads A, l, l, $, I, n, clearly visible in the three-quarter and right-facing views.
+  - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
 - **Main outfit shirtless, hair up:** [`characters/money/money-main-outfit-shirtless-hair-up.jpg`](characters/money/money-main-outfit-shirtless-hair-up.jpg), his official shirtless asset: the shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side (facing left) and back views. It's canon for his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits. In the side view, "Power" wraps across his left pec, and the leopard print covers his left upper arm in every view. Exceptions, where the written rules here win:
   - **Face tattoo lettering:** garbled in the three-quarter view. It reads A, l, l, $, I, n.
   - **"High Power" lettering:** plainer than his real ornate script. The placement is right.
