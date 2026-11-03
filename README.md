@@ -225,6 +225,8 @@ Money, a lean athletic young Black man in his early 20s: deep brown skin, calm h
 
 [`characters/size-chart.jpg`](characters/size-chart.jpg) keeps every character's height and proportions consistent when they're placed into film. It shows each main character in front and side views on one ground line, against a feet-and-inches ruler, a centimetre ruler and head-unit lines. So far it holds Money.
 
+![Toonville size chart: Money at 5'10" (178 cm) in front and side views, locs down and in a top knot, on one ground line, with feet, centimetre and head-unit rulers](characters/size-chart.jpg)
+
 - **How heights are measured:** from the ground to the top of the head, in the character's usual shoes, with the hair down. Anything that sits above the head, like Money's top knot, gets its own dashed line.
 - **How the chart is made:** from each character's canon turnaround sheets, not generated, so the art and proportions stay exact. Each sheet is scaled so the character's height matches the rulers, at 9 px per cm. A sheet with a different hairstyle is scaled to the same eye height.
 - **Adding a character:** once they have a height in the character table and a finished turnaround sheet, add their front and side views at their height, on the same scale and ground line, next to the others.
