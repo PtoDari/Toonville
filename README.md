@@ -128,20 +128,20 @@ Reference copy of the character rules. Prompts use the blocks in the style rule 
 
 ## Character table
 
-Each main character has their own skin tone and one signature accent colour. The skin tone fills `[SKIN HEX]`. The accent fills `[ACCENT HEX]`; it appears on the character and is the colour the environment picks up when it reacts to them.
+Each main character has their own height, skin tone and one signature accent colour. The height sets their size on the [size chart](#size-chart). The skin tone fills `[SKIN HEX]`. The accent fills `[ACCENT HEX]`; it appears on the character and is the colour the environment picks up when it reacts to them.
 
-| Character | Skin tone | Accent name | Accent hex |
-|---|---|---|---|
-| Money | Deep brown `#9B7461` | Royal blue | `#5381D4` |
-| _TBD_ | _TBD_ | _TBD_ | `#______` |
-| _TBD_ | _TBD_ | _TBD_ | `#______` |
-| _TBD_ | _TBD_ | _TBD_ | `#______` |
+| Character | Height | Skin tone | Accent name | Accent hex |
+|---|---|---|---|---|
+| Money | 5'10" (178 cm) | Deep brown `#9B7461` | Royal blue | `#5381D4` |
+| _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
+| _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
+| _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
 ## Characters
 
 Every character has their own **character style block**: their look, tattoos and outfits, written to fill `[CHARACTER DESCRIPTION]` and to go in front of the style block in every prompt that shows them. Each character entry holds:
 
-- a row in the character table, with skin tone and accent colour
+- a row in the character table, with height, skin tone and accent colour
 - profile notes: colours, hair, face, tattoos and outfits
 - their character style block
 - a sheet note, if they have features that must stay on one side
@@ -178,6 +178,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
   - **"High Power":** most of both words show above a lower neckline. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
   - **Hand tattoo:** the "$" doesn't show the two short ticks across its lower curve.
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, from his cap), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain and nose rings).
+- **Height:** 5'10" (178 cm), from the ground to the top of his head, in his sneakers, with his locs down. His top knot reaches about 6'1" (185 cm). He's about 6 heads tall, counting a head from the top of his head to his chin, and his eye line sits at about 162 cm. All of it is measured on his canon sheets and drawn on the [size chart](#size-chart).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, a small gold nose ring in each nostril.
@@ -219,6 +220,15 @@ It leaves out his face shape, the full "High Power" description, the socks, the 
 ```
 Money, a lean athletic young Black man in his early 20s: deep brown skin, calm heavy-lidded gaze, thin mustache and short chin beard; deep indigo-violet locs #2F1958 in a high top knot, faded sides; gold nose ring in each nostril; face tattoo on his right temple only, letters stacked top to bottom "A", "l", "l", "$", "I", "n" in thin indigo-violet ink, from eyebrow to earlobe, just in front of his ear; small "$" tattoo on the back of his right hand; leopard-print tattoo on his left upper arm; thin gold chain; black Playboy T-shirt, with the leopard print showing below the left sleeve and the top of the "High Power" chest script peeking above the collar; cuffed blue Polo joggers, blue Nike Cortez sneakers; front view: face tattoo on the viewer's left; three-quarter view, side view and close-ups all face the viewer's right
 ```
+
+## Size chart
+
+[`characters/size-chart.jpg`](characters/size-chart.jpg) keeps every character's height and proportions consistent when they're placed into film. It shows each main character in front and side views on one ground line, against a feet-and-inches ruler, a centimetre ruler and head-unit lines. So far it holds Money.
+
+- **How heights are measured:** from the ground to the top of the head, in the character's usual shoes, with the hair down. Anything that sits above the head, like Money's top knot, gets its own dashed line.
+- **How the chart is made:** from each character's canon turnaround sheets, not generated, so the art and proportions stay exact. Each sheet is scaled so the character's height matches the rulers, at 9 px per cm. A sheet with a different hairstyle is scaled to the same eye height.
+- **Adding a character:** once they have a height in the character table and a finished turnaround sheet, add their front and side views at their height, on the same scale and ground line, next to the others.
+- **Using it in film:** in every shot, characters' heights relative to each other match the chart. When characters are composited into a scene, scale each one by their chart height, not by how big they were drawn on their own sheet.
 
 ## Night environment block
 
