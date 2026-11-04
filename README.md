@@ -19,6 +19,7 @@ Every prompt is built in this order:
 | Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
+| Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
@@ -104,6 +105,20 @@ Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up,
 Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
+Camera: eye level, long lens, no perspective distortion.
+```
+
+## Action medium shot block
+
+For a single action shot of one character framed from the waist up, on the same plain background as the sheets, while one of their powers glows: for example, Money charging his plasma. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[GLOW SOURCE]`, `[SKIN HEX]` and `[ACCENT HEX]`. In the pose, say which way the character turns, as in the medium shot block, and which hand holds what.
+
+It's the medium shot block with one change, asked for: the lighting line lets the power glow with bloom and rim-light the character, because glowing sources get bloom and their light becomes the rim light. Every other line is the same, word for word, including the mid grey `#808080` background and the eye-level camera.
+
+```
+Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Lighting: even light from upper left; [GLOW SOURCE] is the only glowing source, with bloom, and its colour becomes the character's rim light on the side facing it.
 Camera: eye level, long lens, no perspective distortion.
 ```
 
@@ -240,6 +255,12 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
 
     ```
     black Playboy T-shirt, with the lower part of the leopard print showing below the left sleeve and the tops of his ornate grey-black cursive "High Power" chest tattoo peeking just above the front of the collar; his retracted golden rod, 30 cm of polished gold with a diamond-encrusted top and a large faceted diamond at each end, tucked into his waistband at his left hip; cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
+    ```
+
+  - **Main, in action (rod extended in his left hand):** the main outfit with the jacket, for fight and power shots, with his golden rod extended to 150 cm in his left hand instead of retracted at his hip. Swap it in by replacing everything after `main outfit:` in his description with this:
+
+    ```
+    light grey bomber jacket #C2C2C2 worn open, with a ribbed knit collar, cuffs and hem, a front zip and royal blue lining #5381D4, its long sleeves covering the leopard print; under it a black Playboy T-shirt, with the tops of his ornate grey-black cursive "High Power" chest tattoo peeking just above the front of the collar; his golden rod extended to 150 cm in his left hand, a telescoping staff of polished gold #CEAF81 with its top third encrusted with clear faceted diamonds, ending in a large faceted diamond tip, and a matching large faceted diamond end cap at the bottom; cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
     ```
 
   - **Shirtless (tattoo reference, as on his main outfit shirtless sheet):** no shirt, so the chest tattoo shows, with his main outfit's joggers, socks and sneakers. Use it for a tattoo reference sheet. Swap it in by replacing everything after `main outfit:` in his description with this:
