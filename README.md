@@ -263,7 +263,15 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
     - **Look:** the top third is encrusted with clear faceted diamonds and ends in a large faceted diamond tip. A matching large faceted diamond forms the end cap at the bottom.
     - **Carried:** retracted, tucked into his waistband at his left hip or inside his open jacket. He holds it and fires through it with his left hand, the leopard-print arm.
     - **Use:** he fights with it extended, and channels his plasma through its diamond tip (see Powers).
-    - **Object sheets:** `money-golden-rod-extended.jpg` and `money-golden-rod-retracted.jpg`, still to be made.
+    - **Object sheets:** in `characters/money/objects/`, made with the object sheet block, then fixed by hand. On both, Money's face tattoo was on his left temple, so it was painted out and inked by hand on his right temple, and stray marks on his neck were painted out.
+      - **Extended:** [`money-golden-rod-extended.jpg`](characters/money/objects/money-golden-rod-extended.jpg), in front, side and back views with a top view of the diamond tip, and Money holding it upright in his left hand. It's canon for its telescoping sections, diamond-encrusted top, large diamond tip and matching end cap. Exceptions, where the written rules here win:
+        - **Length:** it reaches about his eyes, about 165 cm. It's 150 cm, reaching about his chin.
+        - **Encrusting:** it covers about the top quarter of the staff, not the top third.
+      - **Retracted:** [`money-golden-rod-retracted.jpg`](characters/money/objects/money-golden-rod-retracted.jpg), in front, side and back views with a top view, and Money holding it in his left hand. Exceptions, where the written rules here win:
+        - **Encrusting:** it covers about the top two-thirds of the retracted rod.
+        - **Size:** in his hand it reads about 45 cm. It's 30 cm retracted.
+      - **On both sheets:** his T-shirt has no Playboy logo, and the nose rings don't match: one ring on the extended sheet, none on the retracted. He has a small gold ring in each nostril.
+      - **Design reference, not canon:** [`money-golden-rod-design-reference.jpg`](characters/money/objects/money-golden-rod-design-reference.jpg), a multi-panel sheet with close-ups of the telescoping sections and the diamonds. It's drawn in a more rendered style, has diagram arrows, and shows Money off model (short locs, a purple-grey jacket, baggy pants and Dunks), so use it only for how the rod's parts fit together.
   - **Balaclava:** a dark navy knit balaclava by Supreme, made with New Era, that he pulls over his whole head, face and neck. It hides his hair completely, so only his eyes show.
     - **Colours:** dark navy `#262737` knit with white `#E3E1F0` lettering, sampled from the product photo after converting it from Display P3 to sRGB.
     - **Look:** rows of the white "Supreme" wordmark in chunky italic knit letters repeat all the way around it in offset rows, with no stripes between them. One wide rounded eye opening runs across both eyes. A small white New Era flag logo sits on its left side, just below the eye opening, which is the viewer's right in a front view. It ends in a plain navy ribbed hem at the base of the neck.
