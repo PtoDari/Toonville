@@ -11,9 +11,9 @@ Greed and control.
 ## Ozzy
 
 - **Who he is:** kind but self-reliant, with a knack for nice things. His goals are usually about himself.
-- **Where he's from:** he grew up an orphan, raised on lies, in the orphanage hidden in the basement of the Crystal Tower, the city's tallest. In truth, he's from another world: he's the newborn crowned prince the royal convoy was carrying, and this is the planet he was meant to rule, but the ship came down on the wrong side. He knows nothing of this.
+- **Where he's from:** he grew up an orphan, raised on lies, in the orphanage hidden in the basement of the Crystal Tower, the city's tallest. In truth, he's from another world: he's the newborn crowned prince the royal convoy was carrying, and this is the planet he was meant to rule, but the ship came down on the wrong side of the mountain: the frozen side, not the far side. He knows nothing of this.
 - **Now:** he ran away from the orphanage, and he's been living on the streets, surviving and trying to understand his powers.
-- **The governor chip:** installed in him shortly after the crash, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It causes many malfunctions: now and then it spits out scrambled light frequencies, with hopes Ozzy would catch them.
+- **The governor chip:** installed in him shortly after the crash, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It causes many malfunctions: now and then it spits out scrambled light frequencies, with hopes Ozzy would catch them. The scrambled light comes out as glitchy flickers of his electric indigo.
 - **Where his powers come from:** cryptid DNA, used as a biological weapon. He doesn't know yet, and finds out during the story.
 - **What he knows:** the orphanage's hidden ways in and out, which otherwise only its staff know.
 - **Allies:** none yet. He makes some along the way.
@@ -26,11 +26,11 @@ Greed and control.
 
 None of these has a full look or a name yet, and only the doctor has colours, still to be turned into hex codes. Each one gets a README entry and sheets, following step 2 of [WORKFLOW.md](WORKFLOW.md), before appearing in a shot.
 
-- **The doctor (the main antagonist):** the head of the medical wing in the ship. He was once a respected astronaut who helped colonize four planetary systems. His latest mission took him to one of the wealthiest planets in the cosmos, to help escort a royal convoy taking the newborn crowned prince to an undisclosed inhabited planet, which the prince would rule once he came of age. Envious, the doctor orchestrated an espionage mission with a rival alien species: a third-party species of bounty hunters, paid to raid the convoy and cause a diversion. The convoy was breached and the doctor took it over, but the ship hit the mountain and slid down it, coming to rest upright as the tower seen today. He stole the golden rod, but he can't operate it properly, so he spends his time on this new planet trying to understand it and gain the power to wield it himself. He's half alien, half Tall White: he's been infusing himself with their DNA, becoming one of his own test subjects. He stands about 6'5" (196 cm), not nearly as tall as a full-blooded Tall White, with a commanding thin stature, greyish-white skin and a reddish accent. His look is otherwise TBD.
+- **The doctor (the main antagonist):** the head of the medical wing in the ship. He was once a respected astronaut who helped colonize four planetary systems. His latest mission took him to one of the wealthiest planets in the cosmos, to help escort a royal convoy taking the newborn crowned prince to an undisclosed inhabited planet, which the prince would rule once he came of age. Envious, the doctor orchestrated an espionage mission with a rival alien species: a third-party species of bounty hunters, paid to raid the convoy and cause a diversion. The convoy was breached and the doctor took it over, but the ship hit the mountain and slid down it, coming to rest upright as the tower seen today. He stole the golden rod, but he can't operate it properly, so he spends his time on this new planet trying to understand it and gain the power to wield it himself. He's half alien, half Tall White: he's been infusing himself with their DNA, becoming one of his own test subjects. The Tall Whites use him as their puppet. He hands over the orphanage's children as their subjects, and trades them illegal intergalactic secrets too. He stands about 6'5" (196 cm), not nearly as tall as a full-blooded Tall White, with a commanding thin stature, greyish-white skin and a reddish accent. His look is otherwise TBD.
 - **The medical wing:** the orphanage's medical staff, under the doctor, who experiment on the children. It doesn't always go well. Children who barely survive are fitted with cybernetic parts to keep them alive, and some grow stronger with these enhancements.
 - **The former residential parent:** the orphanage's exceptionally cruel former carer, and the target of Ozzy's personal grudge.
 - **The police officer:** relentless, consumed with greed, power and the need to correct what's wrong. Ozzy runs into them routinely.
-- **The Tall Whites:** a species of alien who are tall, pale, emotionless corporate businessmen, colonizing the far side of the mountain. They deal in secrets and switch allegiances, trading their incredible technology and cryptid DNA in exchange for subjects and a claim to the planet the ship landed on. They don't know their trades are being turned into weapons: used to wreak havoc, and the DNA for biological warfare, which is how Ozzy got his powers.
+- **The Tall Whites:** a species of alien who are tall, pale, emotionless corporate businessmen, colonizing the far side of the mountain. They deal in secrets and switch allegiances, trading their incredible technology and cryptid DNA in exchange for subjects and a claim to the planet the ship landed on. Not long after the ship crashed, they built an underground facility for illegal space trade. At first they trade with the doctor, using him as their puppet, so they can try to take the planet for themselves or have the doctor rule it as their proxy. The subjects they get are the orphanage's children, and the doctor trades them illegal intergalactic secrets as well. They don't know their trades are being turned into weapons: used to wreak havoc, and the DNA for biological warfare, which is how Ozzy got his powers.
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
 - **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion.
 
@@ -42,6 +42,7 @@ A frozen island city deep in the ice, built against a large mountain. The island
 - **The rejected part:** its torn-down rough side.
 - **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement. It's really an intergalactic spaceship, and it's Ozzy's. It's the ship the doctor took over from the royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden rod: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters.
 - **Amethyst Path:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain.
+- **The Tall Whites' underground facility:** built not long after the ship crashed, for illegal space trade.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
 - **The far side of the mountain:** a heaven on earth, with dinosaurs and cryptids.
 
@@ -70,9 +71,8 @@ Add each scene idea here as it comes, with its place, day or night, the characte
 
 ## Open questions
 
-- **The wrong side:** did the ship come down on the wrong side of the mountain, the frozen side instead of the far side?
-- **The Tall Whites' trades:** who are they trading with, and who are the subjects they get in exchange?
-- **The governor chip:** who installed it? Where on Ozzy is it, and does it show? What do its scrambled light frequencies look like?
+- **The governor chip:** who installed it? Where on Ozzy is it, and can it be seen from the outside?
+- **The underground facility:** where is it, under the city, the mountain or the far side? What does it look like?
 - **The doctor:** his name, his look, and what he was before he infused himself with Tall White DNA.
 - **Names:** the city, the mountain, the orphanage and the far side don't have names yet. The tallest tower is the Crystal Tower. Is "the crystal city" the city's name?
 - **The former residential parent:** where are they now?

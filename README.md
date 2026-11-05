@@ -323,7 +323,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
       - **Earring:** the close-up shows a small stud in his right ear. He doesn't wear one.
       - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
 - **Powers:** he channels his energy into electric indigo `#6F00FF` plasma beams, fired from his hands or from the golden rod's diamond tip. The plasma is a glowing source, so it gets bloom. While he fires it, it's the main light on him: it becomes his rim light and lights the scene around him. His heated plasma is also the only thing that can power his ship, the Crystal Tower.
-- **Governor chip:** installed in him shortly after the crash of his ship, the Crystal Tower, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It malfunctions, now and then spitting out scrambled light frequencies. Where it sits, whether it shows, and what the scrambled light looks like are TBD. None of his sheets shows it. His story is in [STORY.md](STORY.md).
+- **Governor chip:** installed in him shortly after the crash of his ship, the Crystal Tower, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It malfunctions, now and then spitting out scrambled light frequencies, which come out as glitchy flickers of his electric indigo `#6F00FF`. Where it sits and whether it can be seen are TBD. None of his sheets shows it. His story is in [STORY.md](STORY.md).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, a small gold nose ring in each nostril.
@@ -500,6 +500,15 @@ These are the things every part of the city shares.
   - **Wide view, night:** [`amethyst-path-wide-night.jpg`](locations/amethyst-path/amethyst-path-wide-night.jpg), at ground level on the path near the far side of the mountain, looking back along it at the Crystal Tower from behind. It's canon for Amethyst Path's look and for the back of the Crystal Tower. Exceptions, where the written rules here win:
     - **Rain:** none. The city has rain at night.
     - **Clouds:** loose painterly clouds, which the Day line has and the Night line doesn't.
+
+### The Tall Whites' underground facility
+
+- **What happens there:** the Tall Whites built it not long after the ship crashed, for illegal space trade. It's where they trade their technology and cryptid DNA with the doctor, for the orphanage's children and illegal intergalactic secrets.
+- **Where it is:** TBD.
+- **Look:** TBD.
+- **Day or night:** underground, so TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
 
 ### The sky structures
 
