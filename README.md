@@ -419,7 +419,7 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower and the space behind it have sheets so far.
+Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower and Amethyst Path have sheets so far.
 
 ### The frozen island city
 
@@ -453,7 +453,7 @@ These are the things every part of the city shares.
 ### The Crystal Tower and the orphanage
 
 - **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
-- **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. The orphanage's and the medical wing's looks are TBD.
+- **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
 - **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
 - **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon `#E7BF68` at the tops.
@@ -471,20 +471,17 @@ These are the things every part of the city shares.
     - **Rain:** none. The city has rain at night.
     - **Shape:** 1760×1344, not 16:9, so it's cropped to 16:9 before it goes in a video.
 
-### Behind the Crystal Tower
+### Amethyst Path
 
-Its name is TBD.
-
-- **What happens there:** the space behind the Crystal Tower, which characters cross before they reach the far side of the mountain, where the exotic foliage grows.
-- **Look:** as in its sheet: a wide road of ice tiles running between glass towers with ice-blue neon strips, with wind-blown ice drifts banked along both sides, toward a tall faceted crystal spire glowing ice blue with touches of pink. Saucer-shaped aircraft hang in a violet night sky, some casting beams of light.
+- **What happens there:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain, where the exotic foliage grows.
+- **Look:** as in its sheet: a wide road of ice tiles running between glass towers with ice-blue neon strips, with wind-blown ice drifts banked along both sides. Far down it, the Crystal Tower's back rises as a tall faceted crystal spire glowing ice blue with touches of pink. Saucer-shaped aircraft hang in a violet night sky, some casting beams of light.
 - **Day or night:** night. Day TBD.
-- **Main light:** TBD. In its sheet it's the ice-blue glow of the crystal spire and the towers' neon. **Where characters stand:** on the open ice road in the foreground.
-- **Reactive surfaces:** the ice-tile road, which mirrors the neon and the spire, and the glass towers.
-- **Sheets:** in `locations/behind-crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
-  - **Wide view, night:** [`behind-crystal-tower-wide-night.jpg`](locations/behind-crystal-tower/behind-crystal-tower-wide-night.jpg), at ground level on the ice road, looking toward the crystal spire. It's canon for this place's look. Exceptions, where the written rules here win:
+- **Main light:** TBD. In its sheet it's the ice-blue glow of the Crystal Tower and the towers' neon. **Where characters stand:** on the open ice road in the foreground.
+- **Reactive surfaces:** the ice-tile road, which mirrors the neon and the tower, and the glass towers.
+- **Sheets:** in `locations/amethyst-path/`, with each one's prompt and settings in `prompts.txt`.
+  - **Wide view, night:** [`amethyst-path-wide-night.jpg`](locations/amethyst-path/amethyst-path-wide-night.jpg), at ground level on the path near the far side of the mountain, looking back along it at the Crystal Tower from behind. It's canon for Amethyst Path's look and for the back of the Crystal Tower. Exceptions, where the written rules here win:
     - **Rain:** none. The city has rain at night.
     - **Clouds:** loose painterly clouds, which the Day line has and the Night line doesn't.
-    - **The spire:** what it is is TBD.
 
 ### The sky structures
 

@@ -35,7 +35,7 @@ A frozen island city deep in the ice, built against a large mountain. The island
 - **The towers:** the city's rich, safe part.
 - **The rejected part:** its torn-down rough side.
 - **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement.
-- **Behind the Crystal Tower:** the space characters cross before they reach the far side of the mountain.
+- **Amethyst Path:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
 - **The far side of the mountain:** a heaven on earth, with dinosaurs and cryptids.
 
