@@ -1,6 +1,6 @@
 # Toonville
 
-Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills.
+Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills. [STORY.md](STORY.md) holds the story so far: the conflict, the characters' stories, the world and the scenes.
 
 ## The style rule
 
@@ -379,7 +379,60 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-No locations yet.
+Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and no place has sheets yet.
+
+### The frozen island city
+
+These are the things every part of the city shares.
+
+- **What it is:** a city deep in the ice, resting against a large mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's occasional glow.
+- **Streets:** paved in ice. At night they catch shine from the lights. By day the sun bounces off them, and at certain times the whole city takes on a golden glow.
+- **Technology:** advanced. Cybernetic limbs and cybernetic eyes are a common sight. Vehicles are angular, and aircraft look like what we'd call UFOs.
+- **Day or night:** both.
+- **Main light:** neon at night, colours TBD. The sun by day.
+- **Reactive surfaces:** the ice streets and the towers' reflective neon.
+- **Style note:** the Day line asks for a high sun, so the golden glow isn't covered by the style yet.
+
+### The towers
+
+- **What happens there:** the rich, safe part of the city, away from the mayhem and common crime.
+- **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
+- **Day or night:** both.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** the ice streets and the towers' reflective neon.
+
+### The rejected part
+
+- **What happens there:** the city's rough side, where the mayhem and common crime are.
+- **Look:** torn-down buildings in urban ruins, with occasional neon graffiti over the torn ice towers.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** the neon graffiti. More TBD.
+
+### The tallest tower and the orphanage
+
+- **What happens there:** the tallest tower in the city stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **Look:** the tower is the city's tallest. The rest of its look, and the orphanage's and the medical wing's, are TBD.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### The sky structures
+
+- **What happens there:** small structures held in the sky by an advanced anti-gravity system, with an anti-magnetic shield against the mountain. Only the wealthiest are allowed up this high.
+- **Look:** TBD.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### The far side of the mountain
+
+- **What happens there:** a heaven on earth, being colonized by tall, pale, emotionless corporate businessmen.
+- **Look:** lush foliage and exotic wildlife, from dinosaurs to cryptids, with the freshest springs and the most vibrant fruit.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+- **Style note:** the environment rules ask for slightly desaturated colour, so how vibrant this side gets is still to decide.
 
 ## Night environment block
 
@@ -415,6 +468,16 @@ Emotion follows the same rules. In a sad beat, colours drain toward navy (night)
 - **Values:** characters own pure black, the brightest highlights and the accent colour. Backgrounds stay in a narrower, quieter range.
 - **Shared light:** the environment's main light becomes the character's rim light, so characters sit in the scene instead of looking pasted on.
 - **Space:** backgrounds keep detail at the edges and leave a calm area where the character stands.
+
+## Sound and music
+
+Toonville's sound is part of its style, as much as the art. There's no audio prompt block yet. These are the rules every scene's sound follows.
+
+- **Music:** futuristic hip-hop over a heavy bass beat, with a little EDM to carry the future. It keeps a grimy, underworld edge, even in the nicest places. Some scenes play a song to set the mood, or have a character singing along to it.
+- **Sound effects:** strong and immersive, appropriate, never over the top. Hits and kicks land at different weights. Lasers and static pop.
+- **Ambience:** the sound of the place carries the quiet moments, like wind, or traffic while a character sits before a monologue.
+- **For every viewer:** the sound carries the story on its own, so even a blind viewer can follow and enjoy it.
+- **Music rights:** TBD. A released song needs a licence for both the recording and the song itself before it goes in a video. Without one, platforms can mute or remove the video.
 
 ## About the hex codes
 

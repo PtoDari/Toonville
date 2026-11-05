@@ -56,7 +56,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 ## 5. Story and shot list
 
-- [ ] **Script or beat outline,** split into scenes.
+- [ ] **Script or beat outline,** split into scenes, in [STORY.md](STORY.md).
 - [ ] **Each scene:**
   - its location, and day or night
   - the characters, with their outfits and hairstyles
