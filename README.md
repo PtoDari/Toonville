@@ -386,10 +386,11 @@ Ozzy, a lean athletic young Black man in his early 20s: deep brown skin, calm he
 
 ### The doctor
 
-The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name and most of his look are TBD, so he has no character style block yet, and he can't appear in a shot until he does.
+The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name and parts of his look are TBD, so he has no character style block yet, and he can't appear in a shot until he does.
 
 - **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
 - **Face and hair, from his reference portrait:** a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, under thick silver-grey hair swept back from the forehead and falling to the collar. His expression is stern and tired, and he holds himself with command. The portrait isn't stored in this repo, and prompts describe these features instead of naming the person painted.
+- **Outfit:** a modernized astronaut suit, nothing bulky, fitted close to his thin frame, with medical insignia and a red patch on his left bicep for his decorated awards. The suit's colours, the insignia's design and where it sits, and whether he wears a helmet are TBD.
 - **Height:** about 6'5" (196 cm).
 - **Colours:** pale ivory skin `#EAD8C4` and a red accent `#CC4747`, both picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it.
 - **Sheets:** none yet.
