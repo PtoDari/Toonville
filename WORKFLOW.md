@@ -21,7 +21,7 @@ Do this for every main character before they appear in any shot.
 
 - [ ] **Profile:** name, age, height, skin tone and accent colour, hair, face, tattoos and marks, outfits. Hex codes are sampled from reference images, not guessed. The profile goes in the character table and their README entry.
 - [ ] **Style blocks:** their character style block, a sheet note for anything that must stay on one side, and a short backup, all in the README.
-- [ ] **Turnaround sheets:** one for each outfit and hairstyle (turnaround sheet block), with front, three-quarter, side and back views.
+- [ ] **Turnaround sheets:** one for each outfit and hairstyle (turnaround sheet block), with front, three-quarter, side and back views. A character who carries a weapon gets one with it and one without.
 - [ ] **Headshot sheets:** one for each hairstyle (headshot sheet block).
 - [ ] **Expression close-ups:** their default expressions, turned so any one-sided feature faces the camera.
 - [ ] **Object sheets:** one for each object that belongs to them (step 3).
@@ -60,13 +60,14 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Each scene:**
   - its location, and day or night
   - the characters, with their outfits and hairstyles
-  - the objects in play
+  - the objects in play, and each weapon's state: for Ozzy's golden rod, retracted at his left hip, extended in his hand, or absent
   - its story moment (quiet, tension or climax) from the README's reactive environment table
 - [ ] **Shot list:** every shot numbered, with:
   - the characters in it
   - framing (wide, medium or close-up)
   - camera angle and lens, with its camera line from the README's Camera lines
   - which way each character faces, keeping one-sided features toward the camera where the story allows
+  - each weapon's state
   - the action
   - the keyframes it needs (start, key poses, end)
 - [ ] **Storyboard:** a rough thumbnail for every shot.
@@ -86,8 +87,8 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Show before generating:** every prompt shown, saved and priced in credits before it's sent. Each image's prompt, seed and settings are recorded next to it.
 - [ ] **Keyframes:** every keyframe in a shot uses the same plate, camera, seed and settings, and changes only pose and expression. If the generator offers pose reference or image-to-image, use them to work from the previous keyframe.
 - [ ] **Canon check on every still:**
-  - [ ] each character matches their README entry and sheets: one-sided features on the right side, hair, outfit, and colours to their hex codes
-  - [ ] objects match their object sheets
+  - [ ] each character matches their README entry and sheets: one-sided features on the right side, including tattoos, implants, insignia and awards; hair, outfit, and colours to their hex codes
+  - [ ] objects match their object sheets, and each weapon is in the state the shot list records
   - [ ] heights match the size chart
   - [ ] characters are in thick black ink, and the environment is in thin tinted lines, never black
   - [ ] characters own the pure black, the brightest highlights and their accent colour
