@@ -203,7 +203,7 @@ Each main character has their own height, skin tone and one signature accent col
 | Character | Height | Skin tone | Accent name | Accent hex |
 |---|---|---|---|---|
 | Ozzy | 5'10" (178 cm) | Deep brown `#9B7461` | Royal blue | `#5381D4` |
-| The doctor (name TBD) | 6'5" (196 cm) | Greyish white, hex TBD | Reddish, name TBD | `#______` |
+| The doctor (name TBD) | 6'5" (196 cm) | Greyish white, hex TBD | Red | `#CC4747` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
@@ -391,7 +391,7 @@ The main antagonist: the head of the medical wing in the Crystal Tower. His stor
 - **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
 - **Face and hair, from his reference portrait:** a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, under thick silver-grey hair swept back from the forehead and falling to the collar. His expression is stern and tired, and he holds himself with command. The portrait isn't stored in this repo, and prompts describe these features instead of naming the person painted.
 - **Height:** about 6'5" (196 cm).
-- **Colours:** greyish-white skin and a reddish accent. Their hex codes are TBD. The reference portrait can't give them, because its skin is warm, it has a yellow varnish cast, and it has no red in it.
+- **Colours:** greyish-white skin, hex TBD, and a red accent `#CC4747`, which the user picked. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it.
 - **Sheets:** none yet.
 
 ## Size chart
@@ -575,4 +575,4 @@ Toonville's sound is part of its style, as much as the art. There's no audio pro
 
 ## About the hex codes
 
-Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exception is Ozzy's locs, which were sampled from his first reference sheet, because that sheet's all-indigo locs are canon. The style references and photos are not stored in this repo. Finished character sheets are stored in `characters/<name>/`, one per outfit and hairstyle, named `<name>-<outfit>-<hairstyle>.jpg`.
+Every hex code was sampled from pixels, not estimated. Style colours come from the style reference images. Character colours come from each character's reference photos, converted from the phone's Display P3 colour space to sRGB first. The exceptions are Ozzy's locs, which were sampled from his first reference sheet, because that sheet's all-indigo locs are canon, and the doctor's accent `#CC4747`, which the user picked. The style references and photos are not stored in this repo. Finished character sheets are stored in `characters/<name>/`, one per outfit and hairstyle, named `<name>-<outfit>-<hairstyle>.jpg`.
