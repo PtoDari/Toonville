@@ -14,14 +14,14 @@ Every prompt is built in this order:
 
 | Job | Style block | The only edits allowed |
 |---|---|---|
-| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. |
+| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
 | Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
 | Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
-| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. |
+| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
 
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
@@ -50,6 +50,46 @@ Environment: thin tinted lines, never black, light hatching; slightly desaturate
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
 Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
+```
+
+## Camera lines
+
+The all-in-one block's Camera line is the default, for wide and medium shots. A scene or plate that needs one of the shots below swaps it for that shot's line, word for word. Every line ends with the background matching the shot, so the location stays in step with the camera. Pans and other camera moves are for video, and come with a video block.
+
+**Default, for wide and medium shots:** already in the all-in-one block.
+
+```
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+```
+
+**Close-up:** a face, a hand or an object filling the frame. A long lens keeps a face undistorted. The subject says which way the character turns, so one-sided features like Ozzy's face tattoo face the camera.
+
+```
+Camera: close-up, the subject filling the frame, long lens, slightly low angle, no distortion; background soft, matching the shot.
+```
+
+**Over the shoulder:** looking past one character at what they face. The near character is in the shot, so their character style block goes in the prompt too.
+
+```
+Camera: over the shoulder, eye level, the near character's head and shoulder dark and soft in the foreground at one side of the frame; the far subject sharp, long lens; background matches the shot.
+```
+
+**POV:** through a character's eyes. Their hands show only when they act. When they do, that character's style block goes in too, so the right tattoos and the right hand show.
+
+```
+Camera: first-person point of view from the character's eye level, wide angle, their own hands foreshortened at the bottom of the frame when they act; background matches the shot.
+```
+
+**Standoff:** rule-of-thirds framing before a stand-down or an intense fight.
+
+```
+Camera: wide shot, low angle, long lens; the opposing sides on the left and right thirds of the frame, facing each other across open ground, horizon on the lower third; background matches the shot.
+```
+
+**Screen:** what a phone's front camera sees, for a live stream or a video call. Generators garble on-screen text, so it's generated at 9:16 with no app interface. The stream's or call's interface is added in editing, where the shot is placed in the 16:9 frame.
+
+```
+Camera: phone front camera held at arm's length, slightly above eye level, ultra-wide selfie lens with mild distortion at the edges, the holding arm foreshortened toward the lens at one side, vertical framing; background matches the shot; no on-screen interface, labels or captions.
 ```
 
 ## Character sheet block
@@ -389,7 +429,7 @@ These are the things every part of the city shares.
 - **Streets:** paved in ice. At night they catch shine from the lights. By day the sun bounces off them, and at certain times the whole city takes on a golden glow.
 - **Technology:** advanced. Cybernetic limbs and cybernetic eyes are a common sight. Vehicles are angular, and aircraft look like what we'd call UFOs.
 - **Day or night:** both.
-- **Main light:** neon at night, colours TBD. The sun by day.
+- **Main light:** neon at night, in colours that differ from area to area. The sun by day.
 - **Reactive surfaces:** the ice streets and the towers' reflective neon.
 - **Style note:** the Day line asks for a high sun, so the golden glow isn't covered by the style yet.
 
@@ -398,8 +438,8 @@ These are the things every part of the city shares.
 - **What happens there:** the rich, safe part of the city, away from the mayhem and common crime.
 - **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
 - **Day or night:** both.
-- **Main light:** TBD. **Where characters stand:** TBD.
-- **Reactive surfaces:** the ice streets and the towers' reflective neon.
+- **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings. Hex codes are sampled once the first location sheet is approved. By day, the sun. **Where characters stand:** TBD.
+- **Reactive surfaces:** the ice roads and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
 
 ### The rejected part
 
@@ -412,10 +452,11 @@ These are the things every part of the city shares.
 ### The tallest tower and the orphanage
 
 - **What happens there:** the tallest tower in the city stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
-- **Look:** the tower is the city's tallest. The rest of its look, and the orphanage's and the medical wing's, are TBD.
-- **Day or night:** TBD.
-- **Main light:** TBD. **Where characters stand:** TBD.
-- **Reactive surfaces:** TBD.
+- **Look:** the city's tallest tower, steel-white like the towers around it, with the same ice-blue neon and a hint of gold neon at its very top. The orphanage's and the medical wing's looks are TBD.
+- **Day or night:** night, for the test video. Day TBD.
+- **Main light:** the ice-blue neon, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved street at the tower's foot.
+- **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
+- **Sheets:** to come in `locations/tallest-tower/`, starting with an establishing wide shot at night.
 
 ### The sky structures
 
@@ -427,7 +468,7 @@ These are the things every part of the city shares.
 
 ### The far side of the mountain
 
-- **What happens there:** a heaven on earth, being colonized by tall, pale, emotionless corporate businessmen.
+- **What happens there:** a heaven on earth, being colonized by a species of alien: tall, pale, emotionless corporate businessmen.
 - **Look:** lush foliage and exotic wildlife, from dinosaurs to cryptids, with the freshest springs and the most vibrant fruit.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.

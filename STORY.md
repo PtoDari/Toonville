@@ -25,8 +25,7 @@ None of these has a look, a name or colours yet. Each one gets a README entry an
 - **The medical wing (the main antagonists):** the orphanage's medical staff, who experiment on the children. It doesn't always go well. Children who barely survive are fitted with cybernetic parts to keep them alive, and some grow stronger with these enhancements.
 - **The former residential parent:** the orphanage's exceptionally cruel former carer, and the target of Ozzy's personal grudge.
 - **The police officer:** relentless, consumed with greed, power and the need to correct what's wrong. Ozzy runs into them routinely.
-- **The corporate businessmen:** tall, pale and emotionless, colonizing the far side of the mountain. They trade secrets and switch allegiances in exchange for incredible technology and cryptid DNA.
-- **The aliens:** they trade that technology and DNA, not knowing it's being turned into weapons. The weapons have been used to wreak havoc, and the DNA for biological warfare, which is how Ozzy got his powers.
+- **The aliens:** a species of alien who are tall, pale, emotionless corporate businessmen, colonizing the far side of the mountain. They deal in secrets and switch allegiances, trading incredible technology and cryptid DNA. They don't know their trades are being turned into weapons: used to wreak havoc, and the DNA for biological warfare, which is how Ozzy got his powers.
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
 
 ## The world
@@ -54,15 +53,16 @@ Not stills and transitions: the camera moves.
   - interesting camera angles throughout
 - **Screens:** some scenes are a character broadcasting live, as on TikTok, or on a FaceTime-style video call. Those shots look like it.
 
-The README's camera rules don't cover all of these yet. The open questions below track it.
+Each kind of shot has its camera line in the README's [Camera lines](README.md#camera-lines): close-up, over the shoulder, POV, standoff for the rule-of-thirds framing, and screen for live streams and video calls. Pans and other camera moves come with a video block.
 
 ## Scenes
 
-No scenes written up yet. Add each scene idea here as it comes, with its place, day or night, the characters in it and what happens. Ideas don't need to be in order.
+Add each scene idea here as it comes, with its place, day or night, the characters in it and what happens. Ideas don't need to be in order.
+
+- **Test video:** Ozzy alone, at night, on the ice street at the foot of the tallest tower, the one with the orphanage hidden in its basement. Ice-blue neon reflects off the steel towers and the ice road, with hints of gold neon at the very tops of the buildings.
 
 ## Open questions
 
-- **The businessmen and the aliens:** are the tall, pale businessmen the aliens, or people trading with the aliens?
-- **Names:** the city, the mountain, the tallest tower, the orphanage and the far side don't have names yet.
+- **The aliens' trades:** who are they trading their technology and cryptid DNA with, and who turns it into weapons?
+- **Names:** the city, the mountain, the tallest tower, the orphanage and the far side don't have names yet. Is "the crystal city" the city's name?
 - **Ozzy now:** does he still live at the orphanage, or did he get out? And where is the former residential parent now?
-- **Camera rules:** close-ups, over-the-shoulder, POV and screen shots need camera lines of their own in the README, since the scene camera line asks for wide-angle low or aerial shots.
