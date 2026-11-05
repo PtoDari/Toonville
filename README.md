@@ -427,6 +427,7 @@ These are the things every part of the city shares.
 
 - **What it is:** a city deep in the ice, resting against a large mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's occasional glow.
 - **Streets:** paved in ice. At night they catch shine from the lights. By day the sun bounces off them, and at certain times the whole city takes on a golden glow.
+- **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon.
 - **Technology:** advanced. Cybernetic limbs and cybernetic eyes are a common sight. Vehicles are angular, and aircraft look like what we'd call UFOs.
 - **Day or night:** both.
 - **Main light:** neon at night, in colours that differ from area to area. The sun by day.
