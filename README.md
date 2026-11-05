@@ -256,7 +256,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
   - **Colours:** they lean rosy and violet, so use the hex codes listed here.
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, sampled from the cap in his reference photos, and the colour of his jacket lining), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain, nose rings and golden rod), jacket `#C2C2C2` (light grey), plasma `#6F00FF` (electric indigo).
 - **Height:** 5'10" (178 cm), from the ground to the top of his head, in his sneakers, with his locs down. His top knot reaches about 6'1" (185 cm). He's about 6 heads tall, counting a head from the top of his head to his chin, and his eye line sits at about 162 cm. All of it is measured on his canon sheets and drawn on the [size chart](#size-chart).
-- **LoRA:** trigger word `ozzytoon`, with a 30-image training set in [`characters/ozzy/lora/`](characters/ozzy/lora/). See [LoRA training](#lora-training). Base model and training settings: _TBD_, to be recorded here once it's trained.
+- **LoRA:** not used for now; see [LoRA training](#lora-training). His 30-image training set stays in [`characters/ozzy/lora/`](characters/ozzy/lora/), with the trigger word `ozzytoon`, in case that changes.
 - **Objects:** he keeps many stolen artifacts. Each one gets an entry here and an object sheet in `characters/ozzy/objects/`.
   - **Golden rod:** a stolen artifact, and his weapon. It's a telescoping staff of polished gold `#CEAF81`, the same gold as his chain.
     - **Size:** 150 cm long extended, reaching about his chin, and 30 cm retracted.
@@ -355,6 +355,8 @@ Ozzy, a lean athletic young Black man in his early 20s: deep brown skin, calm he
 - **Using it in film:** in every shot, characters' heights relative to each other match the chart. When characters are composited into a scene, scale each one by their chart height, not by how big they were drawn on their own sheet.
 
 ## LoRA training
+
+**Not used for now.** Toonville is going ahead without LoRAs, so prompts carry no trigger word. Each character stays consistent through their character style block and the job's style block, with their saved sheets attached as image references where the generator allows it. The notes below, and Ozzy's training set, are kept in case LoRAs come back.
 
 Each main character gets their own LoRA, trained on their canon art, so every generation keeps their face, hair and tattoos. The LoRA holds who the character is, and the style block still holds the Toonville look, so prompts carry both.
 
