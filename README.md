@@ -386,14 +386,26 @@ Ozzy, a lean athletic young Black man in his early 20s: deep brown skin, calm he
 
 ### The doctor
 
-The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name and parts of his look are TBD, so he has no character style block yet, and he can't appear in a shot until he does.
+The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name is TBD, so prompts call him "the doctor".
 
 - **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
 - **Face and hair, from his reference portrait:** a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, under thick silver-grey hair swept back from the forehead and falling to the collar. His expression is stern and tired, and he holds himself with command. The portrait isn't stored in this repo, and prompts describe these features instead of naming the person painted.
 - **Outfit:** a modernized astronaut suit in olive grey `#5F6352`, nothing bulky, fitted close to his thin frame. Its medical insignia is a black Rod of Asclepius, a single snake coiled around a staff, on the suit's right bicep. A patch in his red accent `#CC4747` on the left bicep stands for his decorated awards. He never wears a helmet, so his face is always bare.
 - **Height:** about 6'5" (196 cm).
 - **Colours:** pale ivory skin `#EAD8C4`, a red accent `#CC4747` and an olive grey suit `#5F6352`, all picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it.
-- **Sheets:** none yet.
+- **Sheets:** none yet. They go in `characters/doctor/`.
+
+**The doctor's character style block** (fills `[CHARACTER DESCRIPTION]`). His face and hair come from the reference portrait, and every colour and suit detail comes from this entry. He has no default expressions yet, so his first sheet uses the turnaround sheet block, which has no expression row.
+
+```
+The doctor, a tall, gaunt older man with a commanding thin stature: a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, and a stern, tired gaze; pale ivory skin; thick silver-grey hair swept back from the forehead and falling to the collar; bare face, no helmet; outfit: a sleek modernized astronaut suit in olive grey #5F6352, fitted close to his thin frame, nothing bulky; a black Rod of Asclepius insignia, a single snake coiled around a staff, on the suit's right bicep; a red #CC4747 award patch on the suit's left bicep
+```
+
+For sheets, add this straight after the description, so the insignia and the patch land on the right arms. Like Ozzy's sheet note, it uses directions relative to the viewer, and every turned view faces the viewer's right:
+
+```
+; in the front view the black Rod of Asclepius is on his right bicep, the viewer's left, and the red patch is on his left bicep, the viewer's right; in the back view the red patch is on the viewer's left and the insignia on the viewer's right; the three-quarter view and the side view face toward the viewer's right, so his right bicep and the insignia face the camera
+```
 
 ## Size chart
 
