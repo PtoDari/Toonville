@@ -15,6 +15,7 @@ Greed and control.
 - **Where his powers come from:** cryptid DNA, used as a biological weapon. He doesn't know yet, and finds out during the story.
 - **What he knows:** the orphanage's hidden ways in and out, which otherwise only its staff know.
 - **Allies:** none yet. He makes some along the way.
+- **His ship:** the Crystal Tower is his ship, and he's its key. Only his heated plasma can power it, built up by the generators in its control room and by his golden rod, whose diamonds hold his charge and shine at the frequency that powers the ship's accelerators and boosters.
 - **Personal grudge:** against the orphanage's former residential parent, who was exceptionally cruel.
 - **Run-ins:** routine clashes with a relentless police officer.
 
@@ -34,7 +35,7 @@ A frozen island city deep in the ice, built against a large mountain. The island
 
 - **The towers:** the city's rich, safe part.
 - **The rejected part:** its torn-down rough side.
-- **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement. It's really an intergalactic spaceship. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing.
+- **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement. It's really an intergalactic spaceship, and it's Ozzy's. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden rod: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters.
 - **Amethyst Path:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
 - **The far side of the mountain:** a heaven on earth, with dinosaurs and cryptids.
@@ -67,4 +68,5 @@ Add each scene idea here as it comes, with its place, day or night, the characte
 - **The aliens' trades:** who are they trading their technology and cryptid DNA with, and who turns it into weapons?
 - **Names:** the city, the mountain, the orphanage and the far side don't have names yet. The tallest tower is the Crystal Tower. Is "the crystal city" the city's name?
 - **Ozzy now:** does he still live at the orphanage, or did he get out? And where is the former residential parent now?
-- **The Crystal Tower's ship:** who took it over, and whose ship was it before? What is the missing key, and where is it? Does anyone in the city know the tower is a ship?
+- **The Crystal Tower's ship:** who took it over? How is it Ozzy's ship: is he from another world? Does he know it's his, or that he's its key? Does anyone in the city know the tower is a ship?
+- **The golden rod:** it's one of his stolen artifacts, so who did he steal it from, and does he know what it does for the ship?
