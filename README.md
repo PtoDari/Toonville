@@ -419,7 +419,7 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower has a sheet so far.
+Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower and the space behind it have sheets so far.
 
 ### The frozen island city
 
@@ -463,6 +463,28 @@ These are the things every part of the city shares.
     - **Lines:** dark navy, not the night's dark teal `#031E1C`.
     - **Values:** a little bright for night's mid-to-dark range, so the towers read pale.
     - **Snow:** drifts lie on the ground and the ledges, which this entry doesn't call for.
+  - **Drone view, night:** [`crystal-tower-drone-night.jpg`](locations/crystal-tower/crystal-tower-drone-night.jpg), the drone view leaving the tower: high above the road, looking down it away from the tower, whose gold-lit top sits at the bottom of the frame, with the city's towers walling both sides, vehicles parked along the road's left side, lamps with warm gold lights along both edges, and a saucer-shaped aircraft over the road. It's canon for the drone view's camera and layout. Exceptions, where the written rules here win:
+    - **Towers:** dark and stone-textured. They're steel-white.
+    - **Neon:** signs in pink and cyan, with garbled lettering. The towers' neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
+    - **Tower top:** a block crown lit gold, not the two gold-tipped spires of the establishing shot.
+    - **Lines and texture:** heavy, near-black lines and a gritty texture, not flat cel colour with thin tinted lines.
+    - **Rain:** none. The city has rain at night.
+    - **Shape:** 1760×1344, not 16:9, so it's cropped to 16:9 before it goes in a video.
+
+### Behind the Crystal Tower
+
+Its name is TBD.
+
+- **What happens there:** the space behind the Crystal Tower, which characters cross before they reach the far side of the mountain, where the exotic foliage grows.
+- **Look:** as in its sheet: a wide road of ice tiles running between glass towers with ice-blue neon strips, with wind-blown ice drifts banked along both sides, toward a tall faceted crystal spire glowing ice blue with touches of pink. Saucer-shaped aircraft hang in a violet night sky, some casting beams of light.
+- **Day or night:** night. Day TBD.
+- **Main light:** TBD. In its sheet it's the ice-blue glow of the crystal spire and the towers' neon. **Where characters stand:** on the open ice road in the foreground.
+- **Reactive surfaces:** the ice-tile road, which mirrors the neon and the spire, and the glass towers.
+- **Sheets:** in `locations/behind-crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
+  - **Wide view, night:** [`behind-crystal-tower-wide-night.jpg`](locations/behind-crystal-tower/behind-crystal-tower-wide-night.jpg), at ground level on the ice road, looking toward the crystal spire. It's canon for this place's look. Exceptions, where the written rules here win:
+    - **Rain:** none. The city has rain at night.
+    - **Clouds:** loose painterly clouds, which the Day line has and the Night line doesn't.
+    - **The spire:** what it is is TBD.
 
 ### The sky structures
 

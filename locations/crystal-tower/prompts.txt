@@ -6,3 +6,6 @@ Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+
+crystal-tower-drone-night.jpg
+Made outside this project's Higgsfield account, 1760x1344. Tool, prompt and seed not recorded.
