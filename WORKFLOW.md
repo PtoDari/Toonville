@@ -12,7 +12,7 @@ Do this once, and again whenever something changes.
 
 - [ ] **Base model:** one base model chosen for the whole series and recorded in the README, so every still comes from the same model.
 - [ ] **Settings:** fixed and recorded in the README, and the same for every still: sampler, steps, guidance (CFG) and clip skip, where the generator shows them.
-- [ ] **Frame size:** every story still is 16:9. Generate at the base model's 16:9 size and upscale every still the same way to 1920×1080. Sheets keep their own sizes.
+- [ ] **Frame size:** every story still is 16:9. Generate at the base model's 16:9 size and upscale every still the same way to 1920×1080. Sheets keep their own sizes. Screen shots (live streams and video calls) are generated at 9:16 and placed in the 16:9 frame in editing.
 - [ ] **Folders and names:** set up as in [Files and names](#files-and-names).
 
 ## 2. Each character
@@ -56,7 +56,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 ## 5. Story and shot list
 
-- [ ] **Script or beat outline,** split into scenes.
+- [ ] **Script or beat outline,** split into scenes, in [STORY.md](STORY.md).
 - [ ] **Each scene:**
   - its location, and day or night
   - the characters, with their outfits and hairstyles
@@ -65,7 +65,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Shot list:** every shot numbered, with:
   - the characters in it
   - framing (wide, medium or close-up)
-  - camera angle and lens
+  - camera angle and lens, with its camera line from the README's Camera lines
   - which way each character faces, keeping one-sided features toward the camera where the story allows
   - the action
   - the keyframes it needs (start, key poses, end)

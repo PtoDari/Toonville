@@ -1,6 +1,6 @@
 # Toonville
 
-Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills.
+Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills. [STORY.md](STORY.md) holds the story so far: the conflict, the characters' stories, the world and the scenes.
 
 ## The style rule
 
@@ -14,14 +14,14 @@ Every prompt is built in this order:
 
 | Job | Style block | The only edits allowed |
 |---|---|---|
-| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. |
+| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
 | Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
 | Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
-| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. |
+| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
 
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
@@ -50,6 +50,46 @@ Environment: thin tinted lines, never black, light hatching; slightly desaturate
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
 Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
+```
+
+## Camera lines
+
+The all-in-one block's Camera line is the default, for wide and medium shots. A scene or plate that needs one of the shots below swaps it for that shot's line, word for word. Every line ends with the background matching the shot, so the location stays in step with the camera. Pans and other camera moves are for video, and come with a video block.
+
+**Default, for wide and medium shots:** already in the all-in-one block.
+
+```
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+```
+
+**Close-up:** a face, a hand or an object filling the frame. A long lens keeps a face undistorted. The subject says which way the character turns, so one-sided features like Ozzy's face tattoo face the camera.
+
+```
+Camera: close-up, the subject filling the frame, long lens, slightly low angle, no distortion; background soft, matching the shot.
+```
+
+**Over the shoulder:** looking past one character at what they face. The near character is in the shot, so their character style block goes in the prompt too.
+
+```
+Camera: over the shoulder, eye level, the near character's head and shoulder dark and soft in the foreground at one side of the frame; the far subject sharp, long lens; background matches the shot.
+```
+
+**POV:** through a character's eyes. Their hands show only when they act. When they do, that character's style block goes in too, so the right tattoos and the right hand show.
+
+```
+Camera: first-person point of view from the character's eye level, wide angle, their own hands foreshortened at the bottom of the frame when they act; background matches the shot.
+```
+
+**Standoff:** rule-of-thirds framing before a stand-down or an intense fight.
+
+```
+Camera: wide shot, low angle, long lens; the opposing sides on the left and right thirds of the frame, facing each other across open ground, horizon on the lower third; background matches the shot.
+```
+
+**Screen:** what a phone's front camera sees, for a live stream or a video call. Generators garble on-screen text, so it's generated at 9:16 with no app interface. The stream's or call's interface is added in editing, where the shot is placed in the 16:9 frame.
+
+```
+Camera: phone front camera held at arm's length, slightly above eye level, ultra-wide selfie lens with mild distortion at the edges, the holding arm foreshortened toward the lens at one side, vertical framing; background matches the shot; no on-screen interface, labels or captions.
 ```
 
 ## Character sheet block
@@ -379,7 +419,86 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-No locations yet.
+Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower and Amethyst Path have sheets so far.
+
+### The frozen island city
+
+These are the things every part of the city shares.
+
+- **What it is:** a city deep in the ice, resting against a large mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's occasional glow.
+- **Streets:** paved in ice. At night they catch shine from the lights. By day the sun bounces off them, and at certain times the whole city takes on a golden glow.
+- **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon.
+- **Technology:** advanced. Cybernetic limbs and cybernetic eyes are a common sight. Vehicles are angular, and aircraft look like what we'd call UFOs.
+- **Day or night:** both.
+- **Main light:** neon at night, in colours that differ from area to area. The sun by day.
+- **Reactive surfaces:** the ice streets and the towers' reflective neon.
+- **Style note:** the Day line asks for a high sun, so the golden glow isn't covered by the style yet.
+
+### The towers
+
+- **What happens there:** the rich, safe part of the city, away from the mayhem and common crime.
+- **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
+- **Day or night:** both.
+- **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun. **Where characters stand:** TBD.
+- **Reactive surfaces:** the ice roads and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
+
+### The rejected part
+
+- **What happens there:** the city's rough side, where the mayhem and common crime are.
+- **Look:** torn-down buildings in urban ruins, with occasional neon graffiti over the torn ice towers.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** the neon graffiti. More TBD.
+
+### The Crystal Tower and the orphanage
+
+- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
+- **Day or night:** night, for the test video. Day TBD.
+- **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
+- **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon `#E7BF68` at the tops.
+- **Sheets:** in `locations/crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
+  - **Establishing shot, night:** [`crystal-tower-wide-night.jpg`](locations/crystal-tower/crystal-tower-wide-night.jpg), a wide low-angle shot from the ice road, looking up the Crystal Tower with the snowy mountain behind it, flanked by towers whose tops glow gold, with angular armoured vehicles parked on the right and a saucer-shaped aircraft crossing the sky (made with the all-in-one block, without the Characters line). It's canon for the tower's look and place, the neon colours, the ice road and the entrance doors. Exceptions, where the written rules here win:
+    - **Rain:** no rain streaks, only faint specks that read like light snow. The city has rain at night.
+    - **Lines:** dark navy, not the night's dark teal `#031E1C`.
+    - **Values:** a little bright for night's mid-to-dark range, so the towers read pale.
+    - **Snow:** drifts lie on the ground and the ledges, which this entry doesn't call for.
+  - **Drone view, night:** [`crystal-tower-drone-night.jpg`](locations/crystal-tower/crystal-tower-drone-night.jpg), the drone view leaving the tower: high above the road, looking down it away from the tower, whose gold-lit top sits at the bottom of the frame, with the city's towers walling both sides, vehicles parked along the road's left side, lamps with warm gold lights along both edges, and a saucer-shaped aircraft over the road. It's canon for the drone view's camera and layout. Exceptions, where the written rules here win:
+    - **Towers:** dark and stone-textured. They're steel-white.
+    - **Neon:** signs in pink and cyan, with garbled lettering. The towers' neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
+    - **Tower top:** a block crown lit gold, not the two gold-tipped spires of the establishing shot.
+    - **Lines and texture:** heavy, near-black lines and a gritty texture, not flat cel colour with thin tinted lines.
+    - **Rain:** none. The city has rain at night.
+    - **Shape:** 1760×1344, not 16:9, so it's cropped to 16:9 before it goes in a video.
+
+### Amethyst Path
+
+- **What happens there:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain, where the exotic foliage grows.
+- **Look:** as in its sheet: a wide road of ice tiles running between glass towers with ice-blue neon strips, with wind-blown ice drifts banked along both sides. Far down it, the Crystal Tower's back rises as a tall faceted crystal spire glowing ice blue with touches of pink. Saucer-shaped aircraft hang in a violet night sky, some casting beams of light.
+- **Day or night:** night. Day TBD.
+- **Main light:** TBD. In its sheet it's the ice-blue glow of the Crystal Tower and the towers' neon. **Where characters stand:** on the open ice road in the foreground.
+- **Reactive surfaces:** the ice-tile road, which mirrors the neon and the tower, and the glass towers.
+- **Sheets:** in `locations/amethyst-path/`, with each one's prompt and settings in `prompts.txt`.
+  - **Wide view, night:** [`amethyst-path-wide-night.jpg`](locations/amethyst-path/amethyst-path-wide-night.jpg), at ground level on the path near the far side of the mountain, looking back along it at the Crystal Tower from behind. It's canon for Amethyst Path's look and for the back of the Crystal Tower. Exceptions, where the written rules here win:
+    - **Rain:** none. The city has rain at night.
+    - **Clouds:** loose painterly clouds, which the Day line has and the Night line doesn't.
+
+### The sky structures
+
+- **What happens there:** small structures held in the sky by an advanced anti-gravity system, with an anti-magnetic shield against the mountain. Only the wealthiest are allowed up this high.
+- **Look:** TBD.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### The far side of the mountain
+
+- **What happens there:** a heaven on earth, being colonized by a species of alien: tall, pale, emotionless corporate businessmen.
+- **Look:** lush foliage and exotic wildlife, from dinosaurs to cryptids, with the freshest springs and the most vibrant fruit.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+- **Style note:** the environment rules ask for slightly desaturated colour, so how vibrant this side gets is still to decide.
 
 ## Night environment block
 
@@ -415,6 +534,16 @@ Emotion follows the same rules. In a sad beat, colours drain toward navy (night)
 - **Values:** characters own pure black, the brightest highlights and the accent colour. Backgrounds stay in a narrower, quieter range.
 - **Shared light:** the environment's main light becomes the character's rim light, so characters sit in the scene instead of looking pasted on.
 - **Space:** backgrounds keep detail at the edges and leave a calm area where the character stands.
+
+## Sound and music
+
+Toonville's sound is part of its style, as much as the art. There's no audio prompt block yet. These are the rules every scene's sound follows.
+
+- **Music:** futuristic hip-hop over a heavy bass beat, with a little EDM to carry the future. It keeps a grimy, underworld edge, even in the nicest places. Some scenes play a song to set the mood, or have a character singing along to it.
+- **Sound effects:** strong and immersive, appropriate, never over the top. Hits and kicks land at different weights. Lasers and static pop.
+- **Ambience:** the sound of the place carries the quiet moments, like wind, or traffic while a character sits before a monologue.
+- **For every viewer:** the sound carries the story on its own, so even a blind viewer can follow and enjoy it.
+- **Music rights:** TBD. A released song needs a licence for both the recording and the song itself before it goes in a video. Without one, platforms can mute or remove the video.
 
 ## About the hex codes
 

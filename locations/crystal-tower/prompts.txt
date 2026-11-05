@@ -1,0 +1,11 @@
+crystal-tower-wide-night.jpg
+Generator: Higgsfield, model nano_banana_2_1, 2K, 16:9 (2752x1536). Job a4a8415b-f657-4237-a9e6-370e313e285d. No seed reported.
+Prompt:
+Establishing wide shot at night of the tallest tower in a frozen city of steel-white towers, rising from the foot of a large mountain that fills the sky behind it. Seen from a low angle on the ice-paved street at the tower's base, looking up its full height. Ice-blue neon runs up the steel towers and reflects off their steel and the ice road; hints of gold neon glow only at the very tops of the buildings. Angular vehicles along the street; an aircraft shaped like a UFO glides between the towers. A quiet night: steady neon, soft reflections. A calm, open stretch of ice street in the foreground at the tower's base, with the tower's entrance doors at street level for scale. No people, no labels or captions.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+
+crystal-tower-drone-night.jpg
+Made outside this project's Higgsfield account, 1760x1344. Tool, prompt and seed not recorded.
