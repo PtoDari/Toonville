@@ -13,7 +13,7 @@ Greed and control.
 - **Who he is:** kind but self-reliant, with a knack for nice things. His goals are usually about himself.
 - **Where he's from:** he grew up an orphan, raised on lies, in the orphanage hidden in the basement of the Crystal Tower, the city's tallest. In truth, he's from another world: he's the newborn crowned prince the royal convoy was carrying, and this is the planet he was meant to rule, but the ship came down on the wrong side of the mountain: the frozen side, not the far side. He knows nothing of this.
 - **Now:** he ran away from the orphanage, and he's been living on the streets, surviving and trying to understand his powers.
-- **The governor chip:** installed in him shortly after the crash, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It causes many malfunctions: now and then it spits out scrambled light frequencies, with hopes Ozzy would catch them. The scrambled light comes out as glitchy flickers of his electric indigo.
+- **The governor chip:** the doctor installed it in Ozzy's right hand, near his "$" tattoo, shortly after the crash, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It causes many malfunctions: now and then it spits out scrambled light frequencies, with hopes Ozzy would catch them. The scrambled light comes out as glitchy flickers of his electric indigo.
 - **Where his powers come from:** cryptid DNA, used as a biological weapon. He doesn't know yet, and finds out during the story.
 - **What he knows:** the orphanage's hidden ways in and out, which otherwise only its staff know.
 - **Allies:** none yet. He makes some along the way.
@@ -42,7 +42,7 @@ A frozen island city deep in the ice, built against a large mountain. The island
 - **The rejected part:** its torn-down rough side.
 - **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement. It's really an intergalactic spaceship, and it's Ozzy's. It's the ship the doctor took over from the royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden rod: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters.
 - **Amethyst Path:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain.
-- **The Tall Whites' underground facility:** built not long after the ship crashed, for illegal space trade.
+- **The Tall Whites' underground facility:** on the far side of the mountain, before the forbidden foliage, built not long after the ship crashed, for illegal space trade.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
 - **The far side of the mountain:** a heaven on earth, with dinosaurs and cryptids.
 
@@ -71,9 +71,9 @@ Add each scene idea here as it comes, with its place, day or night, the characte
 
 ## Open questions
 
-- **The governor chip:** who installed it? Where on Ozzy is it, and can it be seen from the outside?
-- **The underground facility:** where is it, under the city, the mountain or the far side? What does it look like?
+- **The governor chip:** can it be seen from the outside? Does its indigo flicker show through the skin of his hand?
+- **The underground facility:** what does it look like?
 - **The doctor:** his name, his look, and what he was before he infused himself with Tall White DNA.
-- **Names:** the city, the mountain, the orphanage and the far side don't have names yet. The tallest tower is the Crystal Tower. Is "the crystal city" the city's name?
+- **Names:** the city, the mountain, the orphanage and the far side don't have names yet. The tallest tower is the Crystal Tower. Is "the crystal city" the city's name, and is "the forbidden foliage" the name of the far side's wilds?
 - **The former residential parent:** where are they now?
 - **The Crystal Tower's ship:** does anyone in the city know the tower is a ship?
