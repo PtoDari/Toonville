@@ -323,7 +323,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
       - **Earring:** the close-up shows a small stud in his right ear. He doesn't wear one.
       - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
 - **Powers:** he channels his energy into electric indigo `#6F00FF` plasma beams, fired from his hands or from the golden rod's diamond tip. The plasma is a glowing source, so it gets bloom. While he fires it, it's the main light on him: it becomes his rim light and lights the scene around him. His heated plasma is also the only thing that can power his ship, the Crystal Tower.
-- **Governor chip:** the doctor installed it in his right hand, near his "$" tattoo, shortly after the crash of his ship, the Crystal Tower, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It malfunctions, now and then spitting out scrambled light frequencies, which come out as glitchy flickers of his electric indigo `#6F00FF`. Whether it can be seen is TBD. None of his sheets shows it. His story is in [STORY.md](STORY.md).
+- **Governor chip:** the doctor installed it in his right hand, near his "$" tattoo, shortly after the crash of his ship, the Crystal Tower, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It malfunctions, now and then spitting out scrambled light frequencies, which come out as glitchy flickers of his electric indigo `#6F00FF`. It can be seen from the outside, and when it glitches, the indigo flicker shows through the skin of his hand near the "$". Its look when it isn't glitching is TBD, so it isn't in his character style block yet. None of his sheets shows it. His story is in [STORY.md](STORY.md).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, a small gold nose ring in each nostril.
@@ -389,8 +389,9 @@ Ozzy, a lean athletic young Black man in his early 20s: deep brown skin, calm he
 The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name and most of his look are TBD, so he has no character style block yet, and he can't appear in a shot until he does.
 
 - **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
+- **Face and hair, from his reference portrait:** a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, under thick silver-grey hair swept back from the forehead and falling to the collar. His expression is stern and tired, and he holds himself with command. The portrait isn't stored in this repo, and prompts describe these features instead of naming the person painted.
 - **Height:** about 6'5" (196 cm).
-- **Colours:** greyish-white skin and a reddish accent. Their hex codes are TBD, to be sampled from a reference.
+- **Colours:** greyish-white skin and a reddish accent. Their hex codes are TBD. The reference portrait can't give them, because its skin is warm, it has a yellow varnish cast, and it has no red in it.
 - **Sheets:** none yet.
 
 ## Size chart
@@ -491,7 +492,7 @@ These are the things every part of the city shares.
 
 ### Amethyst Path
 
-- **What happens there:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain, where the exotic foliage grows.
+- **What happens there:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain, where the Forbidden Foliage grows.
 - **Look:** as in its sheet: a wide road of ice tiles running between glass towers with ice-blue neon strips, with wind-blown ice drifts banked along both sides. Far down it, the Crystal Tower's back rises as a tall faceted crystal spire glowing ice blue with touches of pink. Saucer-shaped aircraft hang in a violet night sky, some casting beams of light.
 - **Day or night:** night. Day TBD.
 - **Main light:** TBD. In its sheet it's the ice-blue glow of the Crystal Tower and the towers' neon. **Where characters stand:** on the open ice road in the foreground.
@@ -504,7 +505,7 @@ These are the things every part of the city shares.
 ### The Tall Whites' underground facility
 
 - **What happens there:** the Tall Whites built it not long after the ship crashed, for illegal space trade. It's where they trade their technology and cryptid DNA with the doctor, for the orphanage's children and illegal intergalactic secrets.
-- **Where it is:** on the far side of the mountain, before the forbidden foliage.
+- **Where it is:** on the far side of the mountain, before the Forbidden Foliage.
 - **Look:** TBD.
 - **Day or night:** underground, so TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
@@ -518,9 +519,9 @@ These are the things every part of the city shares.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
-### The far side of the mountain
+### The Forbidden Foliage
 
-- **What happens there:** a heaven on earth, being colonized by the Tall Whites, a species of alien: tall, pale, emotionless corporate businessmen.
+- **What happens there:** the wilds on the far side of the mountain, a heaven on earth, being colonized by the Tall Whites, a species of alien: tall, pale, emotionless corporate businessmen.
 - **Look:** lush foliage and exotic wildlife, from dinosaurs to cryptids, with the freshest springs and the most vibrant fruit.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
