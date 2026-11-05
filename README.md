@@ -203,7 +203,7 @@ Each main character has their own height, skin tone and one signature accent col
 | Character | Height | Skin tone | Accent name | Accent hex |
 |---|---|---|---|---|
 | Ozzy | 5'10" (178 cm) | Deep brown `#9B7461` | Royal blue | `#5381D4` |
-| _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
+| The doctor (name TBD) | 6'5" (196 cm) | Greyish white, hex TBD | Reddish, name TBD | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
@@ -323,6 +323,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
       - **Earring:** the close-up shows a small stud in his right ear. He doesn't wear one.
       - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
 - **Powers:** he channels his energy into electric indigo `#6F00FF` plasma beams, fired from his hands or from the golden rod's diamond tip. The plasma is a glowing source, so it gets bloom. While he fires it, it's the main light on him: it becomes his rim light and lights the scene around him. His heated plasma is also the only thing that can power his ship, the Crystal Tower.
+- **Governor chip:** installed in him shortly after the crash of his ship, the Crystal Tower, to keep him from reaching his power too quickly and to stop the ship from recognizing him. It malfunctions, now and then spitting out scrambled light frequencies. Where it sits, whether it shows, and what the scrambled light looks like are TBD. None of his sheets shows it. His story is in [STORY.md](STORY.md).
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, a small gold nose ring in each nostril.
@@ -382,6 +383,15 @@ It leaves out his face shape, the full "High Power" description, the jacket's co
 ```
 Ozzy, a lean athletic young Black man in his early 20s: deep brown skin, calm heavy-lidded gaze, thin mustache and short chin beard; deep indigo-violet locs #2F1958 in a high top knot, faded sides; gold nose ring in each nostril; face tattoo on his right temple only, letters stacked top to bottom "A", "l", "l", "$", "I", "n" in thin indigo-violet ink, from eyebrow to earlobe, just in front of his ear; small "$" tattoo on the back of his right hand; leopard-print tattoo on his left upper arm, hidden by his jacket; thin gold chain; light grey bomber jacket worn open, royal blue lining, over a black Playboy T-shirt, with the top of the "High Power" chest script peeking above the collar; retracted gold rod with a diamond at each end at his left hip; cuffed blue Polo joggers, blue Nike Cortez sneakers; front view: face tattoo on the viewer's left; three-quarter view, side view and close-ups all face the viewer's right
 ```
+
+### The doctor
+
+The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name and most of his look are TBD, so he has no character style block yet, and he can't appear in a shot until he does.
+
+- **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
+- **Height:** about 6'5" (196 cm).
+- **Colours:** greyish-white skin and a reddish accent. Their hex codes are TBD, to be sampled from a reference.
+- **Sheets:** none yet.
 
 ## Size chart
 
@@ -452,7 +462,7 @@ These are the things every part of the city shares.
 
 ### The Crystal Tower and the orphanage
 
-- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. It's really an intergalactic spaceship, and it's Ozzy's: the ship the doctor, the main antagonist, took over from a royal convoy before it crashed on the side of the mountain (see [STORY.md](STORY.md)). It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden rod: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing, headed by the doctor, experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. It's really an intergalactic spaceship, and it's Ozzy's: the ship the doctor, the main antagonist, took over from a royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today (see [STORY.md](STORY.md)). It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden rod: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing, headed by the doctor, experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
 - **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
 - **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
@@ -501,7 +511,7 @@ These are the things every part of the city shares.
 
 ### The far side of the mountain
 
-- **What happens there:** a heaven on earth, being colonized by a species of alien: tall, pale, emotionless corporate businessmen.
+- **What happens there:** a heaven on earth, being colonized by the Tall Whites, a species of alien: tall, pale, emotionless corporate businessmen.
 - **Look:** lush foliage and exotic wildlife, from dinosaurs to cryptids, with the freshest springs and the most vibrant fruit.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
