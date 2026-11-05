@@ -11,7 +11,7 @@ Greed and control.
 ## Ozzy
 
 - **Who he is:** kind but self-reliant. His goals are usually about himself.
-- **Where he's from:** he grew up an orphan in the orphanage hidden in the basement of the city's tallest tower. In truth, he was abducted long ago, and he doesn't know it.
+- **Where he's from:** he grew up an orphan in the orphanage hidden in the basement of the Crystal Tower, the city's tallest. In truth, he was abducted long ago, and he doesn't know it.
 - **Where his powers come from:** cryptid DNA, used as a biological weapon. He doesn't know yet, and finds out during the story.
 - **What he knows:** the orphanage's hidden ways in and out, which otherwise only its staff know.
 - **Allies:** none yet. He makes some along the way.
@@ -34,7 +34,7 @@ A frozen island city deep in the ice, built against a large mountain. The island
 
 - **The towers:** the city's rich, safe part.
 - **The rejected part:** its torn-down rough side.
-- **The tallest tower:** at the foot of the mountain, with the orphanage hidden in its basement.
+- **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
 - **The far side of the mountain:** a heaven on earth, with dinosaurs and cryptids.
 
@@ -59,10 +59,10 @@ Each kind of shot has its camera line in the README's [Camera lines](README.md#c
 
 Add each scene idea here as it comes, with its place, day or night, the characters in it and what happens. Ideas don't need to be in order.
 
-- **Test video:** Ozzy alone, at night, on the ice street at the foot of the tallest tower, the one with the orphanage hidden in its basement. Ice-blue neon reflects off the steel towers and the ice road, with hints of gold neon at the very tops of the buildings.
+- **Test video:** Ozzy alone, at night, on the ice road in front of the Crystal Tower, with the orphanage hidden in its basement. Ice-blue neon reflects off the steel towers and the ice road, with hints of gold neon at the very tops of the buildings.
 
 ## Open questions
 
 - **The aliens' trades:** who are they trading their technology and cryptid DNA with, and who turns it into weapons?
-- **Names:** the city, the mountain, the tallest tower, the orphanage and the far side don't have names yet. Is "the crystal city" the city's name?
+- **Names:** the city, the mountain, the orphanage and the far side don't have names yet. The tallest tower is the Crystal Tower. Is "the crystal city" the city's name?
 - **Ozzy now:** does he still live at the orphanage, or did he get out? And where is the former residential parent now?

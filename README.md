@@ -419,7 +419,7 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and no place has sheets yet.
+Toonville's world is a frozen island city deep in the ice, built against a large mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower has a sheet so far.
 
 ### The frozen island city
 
@@ -439,7 +439,7 @@ These are the things every part of the city shares.
 - **What happens there:** the rich, safe part of the city, away from the mayhem and common crime.
 - **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
 - **Day or night:** both.
-- **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings. Hex codes are sampled once the first location sheet is approved. By day, the sun. **Where characters stand:** TBD.
+- **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun. **Where characters stand:** TBD.
 - **Reactive surfaces:** the ice roads and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
 
 ### The rejected part
@@ -450,14 +450,19 @@ These are the things every part of the city shares.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** the neon graffiti. More TBD.
 
-### The tallest tower and the orphanage
+### The Crystal Tower and the orphanage
 
-- **What happens there:** the tallest tower in the city stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
-- **Look:** the city's tallest tower, steel-white like the towers around it, with the same ice-blue neon and a hint of gold neon at its very top. The orphanage's and the medical wing's looks are TBD.
+- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
-- **Main light:** the ice-blue neon, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved street at the tower's foot.
-- **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
-- **Sheets:** to come in `locations/tallest-tower/`, starting with an establishing wide shot at night.
+- **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
+- **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon `#E7BF68` at the tops.
+- **Sheets:** in `locations/crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
+  - **Establishing shot, night:** [`crystal-tower-wide-night.jpg`](locations/crystal-tower/crystal-tower-wide-night.jpg), a wide low-angle shot from the ice road, looking up the Crystal Tower with the snowy mountain behind it, flanked by towers whose tops glow gold, with angular armoured vehicles parked on the right and a saucer-shaped aircraft crossing the sky (made with the all-in-one block, without the Characters line). It's canon for the tower's look and place, the neon colours, the ice road and the entrance doors. Exceptions, where the written rules here win:
+    - **Rain:** no rain streaks, only faint specks that read like light snow. The city has rain at night.
+    - **Lines:** dark navy, not the night's dark teal `#031E1C`.
+    - **Values:** a little bright for night's mid-to-dark range, so the towers read pale.
+    - **Snow:** drifts lie on the ground and the ledges, which this entry doesn't call for.
 
 ### The sky structures
 
