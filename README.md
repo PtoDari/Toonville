@@ -452,7 +452,7 @@ These are the things every part of the city shares.
 
 ### The Crystal Tower and the orphanage
 
-- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. It's really an intergalactic spaceship. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
 - **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
 - **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.

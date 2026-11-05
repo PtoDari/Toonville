@@ -34,7 +34,7 @@ A frozen island city deep in the ice, built against a large mountain. The island
 
 - **The towers:** the city's rich, safe part.
 - **The rejected part:** its torn-down rough side.
-- **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement.
+- **The Crystal Tower:** the city's tallest, at the foot of the mountain, with the orphanage hidden in its basement. It's really an intergalactic spaceship. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing.
 - **Amethyst Path:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
 - **The far side of the mountain:** a heaven on earth, with dinosaurs and cryptids.
@@ -67,3 +67,4 @@ Add each scene idea here as it comes, with its place, day or night, the characte
 - **The aliens' trades:** who are they trading their technology and cryptid DNA with, and who turns it into weapons?
 - **Names:** the city, the mountain, the orphanage and the far side don't have names yet. The tallest tower is the Crystal Tower. Is "the crystal city" the city's name?
 - **Ozzy now:** does he still live at the orphanage, or did he get out? And where is the former residential parent now?
+- **The Crystal Tower's ship:** who took it over, and whose ship was it before? What is the missing key, and where is it? Does anyone in the city know the tower is a ship?
