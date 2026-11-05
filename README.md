@@ -203,7 +203,7 @@ Each main character has their own height, skin tone and one signature accent col
 | Character | Height | Skin tone | Accent name | Accent hex |
 |---|---|---|---|---|
 | Ozzy | 5'10" (178 cm) | Deep brown `#9B7461` | Royal blue | `#5381D4` |
-| The doctor (name TBD) | 6'5" (196 cm) | Pale ivory `#EAD8C4` | Red | `#CC4747` |
+| Dr. Erich Heyes, the doctor | 6'5" (196 cm) | Pale ivory `#EAD8C4` | Red | `#CC4747` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
@@ -384,21 +384,21 @@ It leaves out his face shape, the full "High Power" description, the jacket's co
 Ozzy, a lean athletic young Black man in his early 20s: deep brown skin, calm heavy-lidded gaze, thin mustache and short chin beard; deep indigo-violet locs #2F1958 in a high top knot, faded sides; gold nose ring in each nostril; face tattoo on his right temple only, letters stacked top to bottom "A", "l", "l", "$", "I", "n" in thin indigo-violet ink, from eyebrow to earlobe, just in front of his ear; small "$" tattoo on the back of his right hand; leopard-print tattoo on his left upper arm, hidden by his jacket; thin gold chain; light grey bomber jacket worn open, royal blue lining, over a black Playboy T-shirt, with the top of the "High Power" chest script peeking above the collar; retracted gold rod with a diamond at each end at his left hip; cuffed blue Polo joggers, blue Nike Cortez sneakers; front view: face tattoo on the viewer's left; three-quarter view, side view and close-ups all face the viewer's right
 ```
 
-### The doctor
+### Dr. Erich Heyes
 
-The main antagonist: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md). His name is TBD, so prompts call him "the doctor".
+The main antagonist, known as the doctor: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md).
 
 - **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
 - **Face and hair, from his reference portrait:** a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, under thick silver-grey hair swept back from the forehead and falling to the collar. His expression is stern and tired, and he holds himself with command. The portrait isn't stored in this repo, and prompts describe these features instead of naming the person painted.
 - **Outfit:** a modernized astronaut suit in olive grey `#5F6352`, nothing bulky, fitted close to his thin frame. Its medical insignia is a black Rod of Asclepius, a single snake coiled around a staff, on the suit's right bicep. A patch in his red accent `#CC4747` on the left bicep stands for his decorated awards. He never wears a helmet, so his face is always bare.
 - **Height:** about 6'5" (196 cm).
 - **Colours:** pale ivory skin `#EAD8C4`, a red accent `#CC4747` and an olive grey suit `#5F6352`, all picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it.
-- **Sheets:** none yet. They go in `characters/doctor/`.
+- **Sheets:** none yet. They go in `characters/heyes/`, named `heyes-<outfit>.jpg`.
 
-**The doctor's character style block** (fills `[CHARACTER DESCRIPTION]`). His face and hair come from the reference portrait, and every colour and suit detail comes from this entry. He has no default expressions yet, so his first sheet uses the turnaround sheet block, which has no expression row.
+**Dr. Heyes's character style block** (fills `[CHARACTER DESCRIPTION]`). His face and hair come from the reference portrait, and every colour and suit detail comes from this entry. He has no default expressions yet, so his first sheet uses the turnaround sheet block, which has no expression row.
 
 ```
-the doctor, a tall, gaunt older man with a commanding thin stature: a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, and a stern, tired gaze; pale ivory skin; thick silver-grey hair swept back from the forehead and falling to the collar; bare face, no helmet; outfit: a sleek modernized astronaut suit in olive grey #5F6352, fitted close to his thin frame, nothing bulky; a black Rod of Asclepius insignia, a single snake coiled around a staff, on the suit's right bicep; a red #CC4747 award patch on the suit's left bicep
+Dr. Erich Heyes, a tall, gaunt older man with a commanding thin stature: a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, and a stern, tired gaze; pale ivory skin; thick silver-grey hair swept back from the forehead and falling to the collar; bare face, no helmet; outfit: a sleek modernized astronaut suit in olive grey #5F6352, fitted close to his thin frame, nothing bulky; a black Rod of Asclepius insignia, a single snake coiled around a staff, on the suit's right bicep; a red #CC4747 award patch on the suit's left bicep
 ```
 
 For sheets, add this straight after the description, so the insignia and the patch land on the right arms. Like Ozzy's sheet note, it uses directions relative to the viewer, and every turned view faces the viewer's right:
