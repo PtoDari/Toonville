@@ -223,7 +223,7 @@ Every character has their own **character style block**: their look, tattoos and
 
 A young man in his early 20s. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-Every sheet below shows the "$" tattoo on his right hand, or leaves it out, and none shows the governor chip. Both belong on his left hand: the "$" on the web between the thumb and index finger, and the chip on the inside of the wrist. The written rules here win.
+Every sheet below except the governor chip's object sheet shows the "$" tattoo on his right hand, or leaves it out, and none of them shows the governor chip. Both belong on his left hand: the "$" on the web between the thumb and index finger, and the chip on the inside of the wrist. The written rules here win.
 
 - **Main outfit with jacket, hair up:** [`characters/ozzy/ozzy-main-outfit-jacket-hair-up.jpg`](characters/ozzy/ozzy-main-outfit-jacket-hair-up.jpg), his main outfit as worn in most shots, with the grey bomber jacket open and his hair tied up: front, three-quarter, side view facing right, side view facing left, and back, on mid grey `#808080` (made with the turnaround sheet block, then fixed by hand). It's canon for the jacket outfit, the face tattoo on his right temple (bare left side), and where the retracted golden rod sits: at his left hip. Exceptions, where the written rules here win:
   - **Golden rod:** painted in by hand. The generator put it in his right hand, so it was painted out, and the retracted rod was placed at his left hip in the front, left-facing side and back views. In the three-quarter and right-facing side views his body hides it. Its top diamond sits in front of the jacket hem, not tucked under it.
@@ -319,7 +319,14 @@ Every sheet below shows the "$" tattoo on his right hand, or leaves it out, and 
     - **Colours:** sampled from the reference image: symbol sky blue `#70B3F7`, light band lavender `#8D8EDB`, wires blue `#6C73B5`, steel `#86808D` and port amber `#B36A3B`. When it glitches, its light flickers his electric indigo `#6F00FF`.
     - **Size:** about the same size as his "$" tattoo, roughly 3 cm across.
     - **In his wrist:** set flush into the inside of his left wrist, level with the skin, never sticking out like a button. Only its glass face and thin steel rim show, with its faint lavender ring of light around the rim.
-    - **Object sheet:** none yet.
+    - **Object sheet:** [`ozzy-governor-chip.jpg`](characters/ozzy/objects/ozzy-governor-chip.jpg), made outside this project's Higgsfield account from the object sheet prompt, at 1536×1024. It has a large head close-up; a turnaround of him in his main outfit with the jacket, in front, three-quarter, side, back three-quarter and back views; close-ups of his face tattoo, his chest and his hands; the chip on its own from the front, both sides and the back; the chip set into the inside of his left wrist; a cutaway of it under the skin; and the retracted rod at his hip. It's canon for the chip's look, including the four screws on its steel back and its bow-tie symbol, and for how it sits flush inside his left wrist with its lavender glow. Exceptions, where the written rules here win:
+      - **"$" tattoo:** in the hand panel at the bottom left it's on his left hand, but on the back of the hand just above the web, not on the web itself. In the small hand panel on the right, it's on the back of his right hand.
+      - **Chip on the forearm panel:** in the small panel on the right, it sits partway up the forearm, not at the wrist.
+      - **Face tattoo lettering:** both face close-ups read A, A, l, $, I, n, with an A in place of the first l. It reads A, l, l, $, I, n.
+      - **Earrings:** the close-ups show a gold stud in each ear. He doesn't wear earrings.
+      - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
+      - **Golden rod:** plain gold with a red band and a diamond at each end, without the diamond-encrusted top third.
+      - **Style:** more rendered than the Toonville look, with heavy hatching.
   - **Balaclava:** a dark navy knit balaclava by Supreme, made with New Era, that he pulls over his whole head, face and neck. It hides his hair completely, so only his eyes show.
     - **Colours:** dark navy `#262737` knit with white `#E3E1F0` lettering, sampled from the product photo after converting it from Display P3 to sRGB.
     - **Look:** rows of the white "Supreme" wordmark in chunky italic knit letters repeat all the way around it in offset rows, with no stripes between them. One wide rounded eye opening runs across both eyes. A small white New Era flag logo sits on its left side, just below the eye opening, which is the viewer's right in a front view. It ends in a plain navy ribbed hem at the base of the neck.
