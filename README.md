@@ -302,7 +302,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
     - **Size:** 150 cm long extended, reaching about his chin, and 30 cm retracted.
     - **Look:** the top third is encrusted with clear faceted diamonds and ends in a large faceted diamond tip. A matching large faceted diamond forms the end cap at the bottom.
     - **Carried:** retracted, tucked into his waistband at his left hip or inside his open jacket. He holds it and fires through it with his left hand, the leopard-print arm.
-    - **Use:** he fights with it extended, and channels his plasma through its diamond tip (see Powers).
+    - **Use:** he fights with it extended, and channels his plasma through its diamond tip (see Powers). It's also what powers his ship, the Crystal Tower: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. While they hold his charge, the diamonds glow his electric indigo plasma `#6F00FF`, with bloom, since they're a glowing source.
     - **Object sheets:** in `characters/ozzy/objects/`, made with the object sheet block, then fixed by hand. On both, Ozzy's face tattoo was on his left temple, so it was painted out and inked by hand on his right temple, and stray marks on his neck were painted out.
       - **Extended:** [`ozzy-golden-rod-extended.jpg`](characters/ozzy/objects/ozzy-golden-rod-extended.jpg), in front, side and back views with a top view of the diamond tip, and Ozzy holding it upright in his left hand. It's canon for its telescoping sections, diamond-encrusted top, large diamond tip and matching end cap. Exceptions, where the written rules here win:
         - **Length:** it reaches about his eyes, about 165 cm. It's 150 cm, reaching about his chin.
@@ -322,7 +322,7 @@ A young man in his early 20s. Tone: understated and grounded, with realistic pro
       - **Style:** more rendered than the Toonville look, with hatching, at only 1536×1024. Use his character sheets for his look.
       - **Earring:** the close-up shows a small stud in his right ear. He doesn't wear one.
       - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
-- **Powers:** he channels his energy into electric indigo `#6F00FF` plasma beams, fired from his hands or from the golden rod's diamond tip. The plasma is a glowing source, so it gets bloom. While he fires it, it's the main light on him: it becomes his rim light and lights the scene around him.
+- **Powers:** he channels his energy into electric indigo `#6F00FF` plasma beams, fired from his hands or from the golden rod's diamond tip. The plasma is a glowing source, so it gets bloom. While he fires it, it's the main light on him: it becomes his rim light and lights the scene around him. His heated plasma is also the only thing that can power his ship, the Crystal Tower.
 - **Accent note:** royal blue is on trial. Its hue sits between the core palette's cobalt and violet, so check night scenes in particular to see whether he still stands out from the background when the environment picks up his accent.
 - **Hair:** deep indigo-violet locs all over, not just highlights, with faded sides and back. Worn two ways: gathered into a high top knot, or falling loose past his shoulders.
 - **Face:** warm brown eyes with dark lashes, thin mustache and short chin beard, a small gold nose ring in each nostril.
@@ -452,7 +452,7 @@ These are the things every part of the city shares.
 
 ### The Crystal Tower and the orphanage
 
-- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **What happens there:** the Crystal Tower, the tallest tower in the city, stands at the foot of the mountain, in the good part of the city among the towers. It's really an intergalactic spaceship, and it's Ozzy's: the ship the doctor, the main antagonist, took over from a royal convoy before it crashed on the side of the mountain (see [STORY.md](STORY.md)). It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden rod: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing, headed by the doctor, experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
 - **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
 - **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
@@ -470,6 +470,14 @@ These are the things every part of the city shares.
     - **Lines and texture:** heavy, near-black lines and a gritty texture, not flat cel colour with thin tinted lines.
     - **Rain:** none. The city has rain at night.
     - **Shape:** 1760×1344, not 16:9, so it's cropped to 16:9 before it goes in a video.
+
+### The Crystal Tower's control room
+
+- **What happens there:** the room inside the Crystal Tower where Ozzy powers his ship. Its generators help him build up his heated plasma, and his golden rod's diamonds shine at the frequency that powers the ship's accelerators and boosters.
+- **Look:** TBD.
+- **Day or night:** inside, so TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
 
 ### Amethyst Path
 
