@@ -561,7 +561,7 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and its nightlife is where Wave, the intergalactic patrol officer, moonlights as a DJ (see [STORY.md](STORY.md)).
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and Wave, the intergalactic patrol officer, moonlights as a DJ at his nightclub there (see [STORY.md](STORY.md)).
 - **Look:** from the user's reference image, which isn't stored in this repo, with colours sampled from it: dark blue-black towers `#0D1A29` with warm amber-lit shop windows `#E89641` at street level, yellow neon `#FFDE14` in strips and bands, cyan neon panels `#0DF7FF` and the odd red `#FF443E` vertical sign, over a wet, cracked dark street `#0D2D4D` with yellow road lines that mirrors every light in long smears, under a dark night-blue sky `#142837`. Its signs are blank glowing panels, with no lettering. The reference's glowing crystal spire isn't part of Midtown.
 - **Day or night:** night, for the test video. Day TBD.
 - **Main light:** at night, its neon: yellow, amber, cyan and red. Which one is the main light depends on the spot, TBD. **Where characters stand:** TBD.
@@ -572,6 +572,14 @@ These are the things every part of the city shares.
 
 - **What happens there:** an alley in Midtown that Ozzy walks down, unseen, in the test video: the audience hears him and sees his shadow on the ground or a building, then a low sweeping shot comes down to his feet (see [STORY.md](STORY.md)).
 - **Look:** Midtown's look, above. The alley's own details are TBD.
+- **Day or night:** night.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### Wave's nightclub
+
+- **What happens there:** Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
+- **Look:** TBD. Its name is TBD too.
 - **Day or night:** night.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
