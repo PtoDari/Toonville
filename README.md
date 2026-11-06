@@ -443,22 +443,24 @@ Ozzy, a lean athletic 19-year-old Black man: deep brown skin, calm heavy-lidded 
 
 The main antagonist, known as the doctor: the head of the medical wing in the Crystal Tower. His story is in [STORY.md](STORY.md).
 
-- **Known so far:** half alien, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
+- **Known so far:** half human, half Tall White, from infusing himself with their DNA. He has a commanding thin stature, though he's not nearly as tall as a full-blooded Tall White.
 - **Build:** tall, thin and gaunt, with long limbs and a narrow frame, the same in every outfit and view. Never bulky or muscular.
 - **Face and hair, from his reference portrait:** a long, gaunt, deeply lined face with a high forehead, a heavy furrowed brow over deep-set, hooded pale eyes, a long straight nose and thin downturned lips, under thick silver-grey hair swept back from the forehead and falling to the collar. His expression is stern and tired, and he holds himself with command. The portrait isn't stored in this repo, and prompts describe these features instead of naming the person painted.
 - **Right hand:** black and cybernetic, from the hand up the forearm, with segmented fingers, joints, panels and mechanical detail. His left hand is natural.
-- **Outfit, his Combat Skin:** a modernized astronaut suit in olive grey `#5F6352`, nothing bulky, fitted close to his thin frame. As on his Combat Skin sheets, it has a high stand-up collar with a front zip, thin matte silver trim lines over the shoulders and chest and down the legs, a belt with a square silver buckle, and hexagonal knee plates. His streamlined mechanized boots, in black and charcoal metal with silver trim, reach mid-calf, with a round joint at each ankle and chunky soles. He never wears a helmet, so his face is always bare. Its markings come from the user's references:
+- **Outfit, his Combat Skin:** a modernized astronaut suit in olive grey `#5F6352`, nothing bulky, fitted close to his thin frame. As on his Combat Skin sheets, it has a high stand-up collar with a front zip, thin matte silver trim lines over the shoulders and chest and down the legs, a belt with a square silver buckle, and hexagonal knee plates. His streamlined mechanized boots, in black and charcoal metal with silver trim, reach mid-calf, with a round joint at each ankle and chunky soles. He never wears a space helmet with it, so his face is bare. Its markings come from the user's references:
   - **Left chest:** three award decorations together: a winged insignia, a space mission insignia and a full multicoloured ribbon bar. From top to bottom on his sheets: silver wings with a star above, a silver space badge with a star, an orbit and a laurel, and the ribbon bar.
   - **Centre of the torso:** a large emblem, from a reference the user supplied: a silver globe circled by an orbit ring, over a laurel wreath, with a white three-pointed star in front. It sits on his lower chest, above the belt.
   - **Left upper arm:** a red `#CC4747` circular patch holding a black diamond with a white double lightning-rune insignia. The runes are the historical SS runes, used on purpose: the user confirmed it, so keep them as they are. Generators may refuse or garble them, so they may need painting in by hand.
   - **Right upper arm:** his medical insignia, a black Rod of Asclepius: a single snake coiled around a staff.
   - **Left and right** are his own: in a front view his left side is on the viewer's right, and in a back view it's on the viewer's left.
+- **Crown helmet:** a helmet he fashioned to resemble a crown, with a small scrambler inside, so the young Tall Whites can't breach his mind (see [STORY.md](STORY.md)). He wears it with his Combat Skin, and any time he's in the presence of a Tall White. Its look is TBD, so his sheets and his character style block don't show it yet: once it's decided, it goes into his style block.
 - **Height:** about 6'5" (196 cm), barefoot, from the ground to the top of his head. He's about 7 heads tall, counting a head from the top of his head to his chin. His boots add about 4 cm, so in them he stands about 200 cm. It's measured on his Combat Skin turnaround and drawn on the [size chart](#size-chart).
 - **Colours:** pale ivory skin `#EAD8C4`, a red accent `#CC4747` and an olive grey suit `#5F6352`, all picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it. The rest come from the palette swatches on his expanded sheet, adopted by the user: silver-grey hair `#9E9199`, matte silver trim `#A99E9F`, black metal `#212128` for his boots and cybernetic hand, and silver `#B2B2B7` for his award decorations and emblem.
 - **Sheets:** in `characters/heyes/`, named `heyes-<outfit>.jpg`. Both were approved in earlier work. The user's original award and insignia references, which aren't stored in this repo, are the authority for fine detail.
   - **Combat Skin turnaround:** [`heyes-combat-skin.jpg`](characters/heyes/heyes-combat-skin.jpg), front, three-quarter, side and back views, full body, on flat grey, at 1536×1024. It's canon for his Combat Skin: his build, face and hair, the suit's details, the boots, the cybernetic right hand and where every marking sits. In every view, each marking and the cybernetic hand are on the correct side. Exceptions, where the written rules here win:
     - **Colours:** colour-corrected by hand toward the master style and his hex codes: his warm tan skin was recoloured to pale ivory `#EAD8C4`, and the suit pulled toward `#5F6352`.
     - **Left-arm patch:** a black disc inside the red ring, not a black diamond.
+    - **Crown helmet:** not shown. He wears it with his Combat Skin.
   - **Expanded Combat Skin sheet:** [`heyes-combat-skin-expanded.jpg`](characters/heyes/heyes-combat-skin-expanded.jpg), a design sheet and a secondary guide, at 1536×1024. It has:
     - a five-view turnaround, with a back three-quarter view
     - a face close-up and a head turnaround
@@ -470,6 +472,7 @@ The main antagonist, known as the doctor: the head of the medical wing in the Cr
     - **Style:** a dark navy background with a title, labels and panel borders, and a more rendered look. The title misspells "turnaround" as "TURNARUND".
     - **Skin and hair:** the warm tan skin was recoloured by hand to pale ivory `#EAD8C4`, including the palette's skin swatch, though its label still reads "Warm Ivory". In places the hair reads more lavender than `#9E9199`.
     - **Left-arm patch:** a black disc inside the red ring in the figure views. The detail panel shows the canon black diamond.
+    - **Crown helmet:** not shown. He wears it with his Combat Skin.
     - **Rod of Asclepius:** the detail panel puts it on a grey round patch. On the suit it's drawn straight on the sleeve.
     - **Palette:** its suit `#554D3C`, insignia red `#C12A24` and skin `#F1BF91` swatches differ from the user's picks, so use the hex codes listed here. Its other swatches, for trim, boots and cybernetics, emblem and awards, and hair, are adopted as his hex codes.
 
@@ -536,8 +539,8 @@ Toonville's world is a frozen island city deep in the ice, built against a large
 
 These are the things every part of the city shares.
 
-- **What it is:** a city deep in the ice, resting against a large mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's rare glow: the sun appears only once every six months.
-- **Layout:** three parts. The wealthy part, the towers, is at the foot of the mountain, where the Crystal Tower is lodged. The rejected part is far from it, and midtown, for the common folk, the working class, separates the two. As far as the public knows, the city begins at the Crystal Tower and runs onward from it: they don't know about Amethyst Path or the Forbidden Foliage behind it.
+- **What it is:** a city deep in the ice, resting against a large mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's rare glow: the sun appears only once every six months. It grew up in the 19 years since the ship crashed, established quickly with the Tall Whites' technology and the remaining survivors of the royal fleet's main ship.
+- **Layout:** three parts. The Diamond District, the wealthy part with its towers, is at the foot of the mountain, where the Crystal Tower is lodged. Sunnymead, the rejected part, is far from it, and Midtown, for the common folk, the working class, separates the two. As far as the public knows, the city begins at the Crystal Tower and runs onward from it: they don't know about Amethyst Path or the Forbidden Foliage behind it.
 - **The mountain:** the Crystal Tower blocks its passages, and there's no way around it. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, a hidden route between the city and the far side, which can be opened by thought, or by an incredibly fast hover bike with a Tall White's help; and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain, where no one goes, because of the Tall Whites. The hover bike's look is TBD.
 - **Streets:** paved in ice. At night they catch shine from the lights. When the sun is out, it bounces off them, and at certain times the whole city takes on a golden glow.
 - **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon.
@@ -547,9 +550,9 @@ These are the things every part of the city shares.
 - **Reactive surfaces:** the ice streets and the towers' reflective neon.
 - **Style note:** the Day line asks for a high sun, which fits the days the sun is out. The golden glow, and days without the sun, aren't covered by the style yet.
 
-### The towers
+### The Diamond District
 
-- **What happens there:** the rich, safe part of the city, away from the mayhem and common crime. It's at the foot of the mountain, around the Crystal Tower, far from the rejected part, with midtown between them.
+- **What happens there:** the rich, safe part of the city, away from the mayhem and common crime. It's at the foot of the mountain, around the Crystal Tower, far from Sunnymead, with Midtown between them.
 - **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
 - **Day or night:** both.
 - **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun. **Where characters stand:** TBD.
@@ -557,15 +560,23 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the wealthy part, the towers, from the rejected part.
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and its nightlife is where Wave, the police officer, moonlights as a DJ (see [STORY.md](STORY.md)).
 - **Look:** TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
-### The rejected part
+### The Chase Tower
 
-- **What happens there:** the city's rough side, where the mayhem and common crime are. It's far from the wealthy part, with midtown between them.
+- **What happens there:** a tall residential building in Midtown.
+- **Look:** TBD.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### Sunnymead
+
+- **What happens there:** the rejected part of the city, its rough side, where the mayhem and common crime are. It's far from the Diamond District, with Midtown between them.
 - **Look:** torn-down buildings in urban ruins, with occasional neon graffiti over the torn ice towers.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
@@ -573,11 +584,11 @@ These are the things every part of the city shares.
 
 ### The Crystal Tower and the orphanage
 
-- **What happens there:** the Crystal Tower, the tallest tower in the city, is lodged at the foot of the mountain, in the wealthy part of the city among the towers. It blocks the mountain's passages, and there's no way around the mountain. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain (see the frozen island city above). The public knows only the tower's designated entrance, for everyone else and for visitors, which is equipped with hangars. The visitors come on business or for intergalactic travel, and even the businessmen don't know what they're funding. No one goes to the true doors, because of the Tall Whites. Visitors to the planet push straight on into the city and its amenities: as far as anyone knows, the city begins at the tower and runs onward from it. There are parts of the tower the public never sees or knows about. It's really an intergalactic spaceship, and it's Ozzy's: the ship the doctor, the main antagonist, took over from a royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today (see [STORY.md](STORY.md)). It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden staff: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing, headed by the doctor, experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **What happens there:** the Crystal Tower, the tallest tower in the city, is lodged at the foot of the mountain, in the Diamond District, the wealthy part of the city, among its towers. It blocks the mountain's passages, and there's no way around the mountain. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain (see the frozen island city above). The public knows only the tower's designated entrance, for everyone else and for visitors, which is equipped with hangars. The visitors come on business or for intergalactic travel, and even the businessmen don't know what they're funding. No one goes to the true doors, because of the Tall Whites. Visitors to the planet push straight on into the city and its amenities: as far as anyone knows, the city begins at the tower and runs onward from it. There are parts of the tower the public never sees or knows about. It's really an intergalactic spaceship, and it's Ozzy's: a biological vessel that incubates him and makes him stronger, and provides planetary travel at record speeds, with no expense spared for the prince. It's the ship the doctor, the main antagonist, took over from a royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today (see [STORY.md](STORY.md)). Only the doctor and the Tall Whites know it's a ship, and Ozzy finds out eventually. It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden staff: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. The doctor set it up not to help children, but to brainwash and condition them, and its medical wing, headed by him, experiments on them. Its hidden ways in and out are known only to the staff, and to Ozzy.
 - **The ship and Ozzy:** the ship recognizes Ozzy's DNA from his childhood and calls to him. Parts of the orphanage respond to him, and doors sometimes open for him. The control room is barred off and seems to call for him, and systems near it malfunction or refuse commands. Strong electrical surges flash from the top of the tower: the ship trying to reach its owner, and to tell whether the frequency it senses is his. The surges' colour is TBD.
 - **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. The looks of the designated entrance's hangars and of the true doors caved into the mountain are TBD. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
-- **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
+- **Main light:** the ice-blue neon `#6CB5D8`, as in the Diamond District, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
 - **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon `#E7BF68` at the tops.
 - **Sheets:** in `locations/crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
   - **Establishing shot, night:** [`crystal-tower-wide-night.jpg`](locations/crystal-tower/crystal-tower-wide-night.jpg), a wide low-angle shot from the ice road, looking up the Crystal Tower with the snowy mountain behind it, flanked by towers whose tops glow gold, with angular armoured vehicles parked on the right and a saucer-shaped aircraft crossing the sky (made with the all-in-one block, without the Characters line). It's canon for the tower's look and place, the neon colours, the ice road and the entrance doors. Exceptions, where the written rules here win:
@@ -585,7 +596,7 @@ These are the things every part of the city shares.
     - **Snow:** drifts lie on the ground and the ledges, which this entry doesn't call for.
   - **Drone view, night:** [`crystal-tower-drone-night.jpg`](locations/crystal-tower/crystal-tower-drone-night.jpg), the drone view leaving the tower: high above the road, looking down it away from the tower, whose gold-lit top sits at the bottom of the frame, with the city's towers walling both sides, vehicles parked along the road's left side, lamps with warm gold lights along both edges, and a saucer-shaped aircraft over the road. It's canon for the drone view's camera and layout. Exceptions, where the written rules here win:
     - **Towers:** dark and stone-textured. They're steel-white.
-    - **Neon:** signs in pink and cyan, with garbled lettering. The towers' neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
+    - **Neon:** signs in pink and cyan, with garbled lettering. The Diamond District's neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
     - **Tower top:** a block crown lit gold, not the two gold-tipped spires of the establishing shot.
     - **Lines and texture:** heavy lines and a gritty texture, not flat cel colour with thin tinted lines. The near-black lines were tinted toward dark teal `#031E1C` by hand, and large black areas toward navy `#09102E`.
     - **Rain:** added by hand as thin straight white streaks.
