@@ -537,7 +537,7 @@ Toonville's world is a frozen island city deep in the ice, built against a large
 These are the things every part of the city shares.
 
 - **What it is:** a city deep in the ice, resting against a large mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's rare glow: the sun appears only once every six months.
-- **Layout:** three parts. The wealthy part, the towers, is at the foot of the mountain, where the Crystal Tower is lodged. The rejected part is far from it, and midtown, for the common folk, the working class, separates the two. As far as the public knows, the city begins at the Crystal Tower and runs onward from it: they don't know about Amethyst Path or the Forbidden Foliage behind it.
+- **Layout:** three parts. The Diamond District, the wealthy part with its towers, is at the foot of the mountain, where the Crystal Tower is lodged. Sunnymead, the rejected part, is far from it, and Midtown, for the common folk, the working class, separates the two. As far as the public knows, the city begins at the Crystal Tower and runs onward from it: they don't know about Amethyst Path or the Forbidden Foliage behind it.
 - **The mountain:** the Crystal Tower blocks its passages, and there's no way around it. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, a hidden route between the city and the far side, which can be opened by thought, or by an incredibly fast hover bike with a Tall White's help; and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain, where no one goes, because of the Tall Whites. The hover bike's look is TBD.
 - **Streets:** paved in ice. At night they catch shine from the lights. When the sun is out, it bounces off them, and at certain times the whole city takes on a golden glow.
 - **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon.
@@ -547,9 +547,9 @@ These are the things every part of the city shares.
 - **Reactive surfaces:** the ice streets and the towers' reflective neon.
 - **Style note:** the Day line asks for a high sun, which fits the days the sun is out. The golden glow, and days without the sun, aren't covered by the style yet.
 
-### The towers
+### The Diamond District
 
-- **What happens there:** the rich, safe part of the city, away from the mayhem and common crime. It's at the foot of the mountain, around the Crystal Tower, far from the rejected part, with midtown between them.
+- **What happens there:** the rich, safe part of the city, away from the mayhem and common crime. It's at the foot of the mountain, around the Crystal Tower, far from Sunnymead, with Midtown between them.
 - **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
 - **Day or night:** both.
 - **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun. **Where characters stand:** TBD.
@@ -557,15 +557,15 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the wealthy part, the towers, from the rejected part.
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part.
 - **Look:** TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
-### The rejected part
+### Sunnymead
 
-- **What happens there:** the city's rough side, where the mayhem and common crime are. It's far from the wealthy part, with midtown between them.
+- **What happens there:** the rejected part of the city, its rough side, where the mayhem and common crime are. It's far from the Diamond District, with Midtown between them.
 - **Look:** torn-down buildings in urban ruins, with occasional neon graffiti over the torn ice towers.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
@@ -573,11 +573,11 @@ These are the things every part of the city shares.
 
 ### The Crystal Tower and the orphanage
 
-- **What happens there:** the Crystal Tower, the tallest tower in the city, is lodged at the foot of the mountain, in the wealthy part of the city among the towers. It blocks the mountain's passages, and there's no way around the mountain. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain (see the frozen island city above). The public knows only the tower's designated entrance, for everyone else and for visitors, which is equipped with hangars. The visitors come on business or for intergalactic travel, and even the businessmen don't know what they're funding. No one goes to the true doors, because of the Tall Whites. Visitors to the planet push straight on into the city and its amenities: as far as anyone knows, the city begins at the tower and runs onward from it. There are parts of the tower the public never sees or knows about. It's really an intergalactic spaceship, and it's Ozzy's: the ship the doctor, the main antagonist, took over from a royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today (see [STORY.md](STORY.md)). It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden staff: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing, headed by the doctor, experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
+- **What happens there:** the Crystal Tower, the tallest tower in the city, is lodged at the foot of the mountain, in the Diamond District, the wealthy part of the city, among its towers. It blocks the mountain's passages, and there's no way around the mountain. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain (see the frozen island city above). The public knows only the tower's designated entrance, for everyone else and for visitors, which is equipped with hangars. The visitors come on business or for intergalactic travel, and even the businessmen don't know what they're funding. No one goes to the true doors, because of the Tall Whites. Visitors to the planet push straight on into the city and its amenities: as far as anyone knows, the city begins at the tower and runs onward from it. There are parts of the tower the public never sees or knows about. It's really an intergalactic spaceship, and it's Ozzy's: the ship the doctor, the main antagonist, took over from a royal convoy before it hit the mountain and slid down it, coming to rest upright as the tower seen today (see [STORY.md](STORY.md)). It stays standing upright, as a tower, to provide all the amenities the ones who took it over need, and it lies dormant because its key is missing: Ozzy is the key. Powering it takes an incredible amount of heated plasma. In its control room, generators help him build up his power, but he also needs his golden staff: it increases his power, and its diamonds hold his charge and shine at a specific frequency that powers the ship's accelerators and boosters. The orphanage is in its basement, hidden from the public, who don't know it exists. Its medical wing, headed by the doctor, experiments on the children. Its hidden ways in and out are known only to the staff, and to Ozzy.
 - **The ship and Ozzy:** the ship recognizes Ozzy's DNA from his childhood and calls to him. Parts of the orphanage respond to him, and doors sometimes open for him. The control room is barred off and seems to call for him, and systems near it malfunction or refuse commands. Strong electrical surges flash from the top of the tower: the ship trying to reach its owner, and to tell whether the frequency it senses is his. The surges' colour is TBD.
 - **Look:** the city's tallest tower, steel-white like the towers around it, in stepped tiers ringed with framework, with ice-blue neon running up its face and two spires at its top, each tipped with a small gold light. Its entrance doors sit at the head of the ice road. The looks of the designated entrance's hangars and of the true doors caved into the mountain are TBD. From behind, seen from far along Amethyst Path, it rises as one tall faceted crystal spire glowing ice blue with touches of pink, as in Amethyst Path's sheet. The orphanage's and the medical wing's looks are TBD.
 - **Day or night:** night, for the test video. Day TBD.
-- **Main light:** the ice-blue neon `#6CB5D8`, as in the towers, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
+- **Main light:** the ice-blue neon `#6CB5D8`, as in the Diamond District, so it's the rim light on everyone there. **Where characters stand:** on the ice-paved road in front of the tower's entrance doors.
 - **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon `#E7BF68` at the tops.
 - **Sheets:** in `locations/crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
   - **Establishing shot, night:** [`crystal-tower-wide-night.jpg`](locations/crystal-tower/crystal-tower-wide-night.jpg), a wide low-angle shot from the ice road, looking up the Crystal Tower with the snowy mountain behind it, flanked by towers whose tops glow gold, with angular armoured vehicles parked on the right and a saucer-shaped aircraft crossing the sky (made with the all-in-one block, without the Characters line). It's canon for the tower's look and place, the neon colours, the ice road and the entrance doors. Exceptions, where the written rules here win:
@@ -585,7 +585,7 @@ These are the things every part of the city shares.
     - **Snow:** drifts lie on the ground and the ledges, which this entry doesn't call for.
   - **Drone view, night:** [`crystal-tower-drone-night.jpg`](locations/crystal-tower/crystal-tower-drone-night.jpg), the drone view leaving the tower: high above the road, looking down it away from the tower, whose gold-lit top sits at the bottom of the frame, with the city's towers walling both sides, vehicles parked along the road's left side, lamps with warm gold lights along both edges, and a saucer-shaped aircraft over the road. It's canon for the drone view's camera and layout. Exceptions, where the written rules here win:
     - **Towers:** dark and stone-textured. They're steel-white.
-    - **Neon:** signs in pink and cyan, with garbled lettering. The towers' neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
+    - **Neon:** signs in pink and cyan, with garbled lettering. The Diamond District's neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
     - **Tower top:** a block crown lit gold, not the two gold-tipped spires of the establishing shot.
     - **Lines and texture:** heavy lines and a gritty texture, not flat cel colour with thin tinted lines. The near-black lines were tinted toward dark teal `#031E1C` by hand, and large black areas toward navy `#09102E`.
     - **Rain:** added by hand as thin straight white streaks.
