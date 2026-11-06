@@ -36,6 +36,16 @@ No prompt rewords, shortens or drops style wording. A style change happens only 
 
 The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
 
+## Video spec
+
+Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all.
+
+- **Everything made for a video follows it:** stills, keyframes, storyboards, background plates, and any turnaround or other sheet that appears in a video are 16:9 and finished at 1920×1080. Generate at the generator's 16:9 size, then scale every image to 1920×1080 the same way.
+- **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
+- **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
+- **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
+- **Saved images that aren't 16:9 yet:** each needs a 16:9 version before it goes in a video, with sheets padded out on their own flat grey and scenes cropped. They are the doctor's two sheets and the balaclava and governor chip object sheets (3:2), the hair-up medium shot, the front view and the three close-ups (portrait), and the Crystal Tower's drone view. The size chart and the golden rod's design reference are only references, and stay as they are.
+
 ## All-in-one block
 
 One block (197 words) that merges the character block, both environment blocks and the reactive rule. Before using it:

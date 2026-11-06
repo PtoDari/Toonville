@@ -12,7 +12,8 @@ Do this once, and again whenever something changes.
 
 - [ ] **Base model:** one base model chosen for the whole series and recorded in the README, so every still comes from the same model.
 - [ ] **Settings:** fixed and recorded in the README, and the same for every still: sampler, steps, guidance (CFG) and clip skip, where the generator shows them.
-- [ ] **Frame size:** every story still is 16:9. Generate at the base model's 16:9 size and upscale every still the same way to 1920×1080. Sheets keep their own sizes. Screen shots (live streams and video calls) are generated at 9:16 and placed in the 16:9 frame in editing.
+- [ ] **Video spec:** every video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 fps, as in the README's [Video spec](README.md#video-spec).
+- [ ] **Frame size:** every story still, keyframe, storyboard frame and plate is 16:9. Generate at the base model's 16:9 size and upscale every still the same way to 1920×1080. Sheets keep their own sizes as references, but any sheet that appears in a video gets a 16:9 version at 1920×1080. Screen shots (live streams and video calls) are generated at 9:16 and placed in the 16:9 frame in editing.
 - [ ] **Folders and names:** set up as in [Files and names](#files-and-names).
 
 ## 2. Each character
@@ -70,7 +71,8 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - each weapon's state
   - the action
   - the keyframes it needs (start, key poses, end)
-- [ ] **Storyboard:** a rough thumbnail for every shot.
+  - its length in seconds, with every shot together making the video's 30 seconds
+- [ ] **Storyboard:** a rough 16:9 thumbnail for every shot.
 - [ ] **Continuity:** checked across every scene:
   - characters stay on their side of the line of action
   - eyelines match
@@ -100,7 +102,8 @@ These are the things a character carries, wears, uses or is known by, such as a 
 ## 7. Ready for animation
 
 - [ ] Every shot in the shot list has all of its keyframes.
-- [ ] Every still has the same frame size.
+- [ ] Every still has the same frame size: 16:9 at 1920×1080.
+- [ ] Every clip runs at 24 fps, and the cut runs 30 seconds.
 - [ ] Every shot's background plate is kept next to its stills, so characters can later be separated and animated over the background.
 - [ ] Neighbouring shots cut together: screen direction, eyelines, light and reactive state carry across the cut.
 - [ ] A final pass through every scene in order, with each character compared side by side against their sheets.
