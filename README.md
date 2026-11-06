@@ -44,7 +44,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **Saved images that aren't 16:9 yet:** each needs a 16:9 version before it goes in a video, with sheets padded out on their own flat grey and scenes cropped. They are the doctor's two sheets and the balaclava and governor chip object sheets (3:2), the hair-up medium shot, the front view and the three close-ups (portrait), and the Crystal Tower's drone view. The size chart and the golden rod's design reference are only references, and stay as they are.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets and the balaclava and governor chip object sheets (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart and the golden rod's design reference are only references, and stay as they are.
 
 ## All-in-one block
 
@@ -198,7 +198,7 @@ Characters: bold black ink #030308, thick tapered contours, thin interiors, hatc
 Outside the edited area, keep the image exactly as it is: same layout, lighting, camera, line weight and colours.
 ```
 
-Some existing sheets drift from the style, with thinner lines, softer shading and a violet cast. An edit that carries this block can come out slightly bolder than the art around it. New sheets generated with the full style block avoid that.
+Some existing sheets drift from the style, with thinner lines and softer shading. Their colour casts have been corrected by hand (see [Restyled images](#restyled-images)), but line weight and shading can't be fixed that way, so an edit that carries this block can come out slightly bolder than the art around it. New sheets generated with the full style block avoid that.
 
 ## Character block
 
@@ -246,13 +246,13 @@ Each outfit gets two turnarounds, one with his golden rod and one without. The b
   - **Face tattoo lettering:** garbled in every view. It reads A, l, l, $, I, n. The left-facing view had it on his left temple, so it was painted out there.
   - **Hair:** the locs are wound into a tight bun. His high top knot is looser, with the locs fanning up and out.
   - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
-  - **Colours:** the jacket reads darker and violet-tinted, so use `#C2C2C2` and the other hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here; the jacket still reads a little darker than `#C2C2C2`.
   - **Repaint traces:** close up, his right hand in the back view has a straight left edge, and the front view's jacket panel has a lighter patch where the rod's top diamond was.
 - **Main outfit with jacket, hair down (`SKIN_003`, with the rod):** [`characters/ozzy/ozzy-main-outfit-jacket-hair-down.jpg`](characters/ozzy/ozzy-main-outfit-jacket-hair-down.jpg), the same jacket turnaround with his locs falling loose past his shoulders: front, three-quarter, side view facing right, side view facing left, and back, on mid grey `#808080` (made with the turnaround sheet block, then fixed by hand). It's canon for the jacket outfit with his hair down, the face tattoo on his right temple (bare left side), and the retracted golden rod at his left hip. Exceptions, where the written rules here win:
   - **Golden rod:** painted in by hand, as on his hair-up jacket sheet: at his left hip in the front, left-facing side and back views, hidden by his body in the three-quarter and right-facing side views, with its top diamond in front of the jacket hem.
   - **Face tattoo:** faint marks in the front view, because his face is too small at this sheet size, and garbled in the three-quarter and right-facing views. It reads A, l, l, $, I, n.
   - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
-  - **Colours:** the jacket reads darker and violet-tinted, so use `#C2C2C2` and the other hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here; the jacket still reads a little darker than `#C2C2C2`.
   - **Repaint traces:** close up, his right hand in the back view has a straight left edge.
 - **Main outfit with jacket, balaclava (`SKIN_001`, with the rod):** [`characters/ozzy/ozzy-main-outfit-jacket-balaclava.jpg`](characters/ozzy/ozzy-main-outfit-jacket-balaclava.jpg), his main outfit with the jacket open and his balaclava pulled on, so only his eyes show: front, three-quarter, side and back, on mid grey `#808080` (made with the turnaround sheet block, then fixed by hand). It's canon for how the balaclava looks with his main outfit and the retracted golden rod at his left hip. Exceptions, where the written rules here win:
   - **Mirrored:** the generator drew him the wrong way round, so the rod was painted out on his right side and placed at his left hip, and the "$" was moved from his left hand to his right. The "$" has since moved to the web of his left hand, so on this sheet it's on the wrong hand again. The turned views still face the viewer's left, the opposite of his other sheets; with the mask on, nothing on his face is one-sided.
@@ -276,7 +276,7 @@ Each outfit gets two turnarounds, one with his golden rod and one without. The b
   - **"High Power":** both full words show above a lower neckline. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
   - **Turned views:** they face the viewer's left, the opposite of his other sheets; with the mask on, nothing on his face is one-sided.
   - **Expression:** the three-quarter view's brow is sterner than the relaxed neutral look the block asks for.
-  - **Colours:** the navy reads a little lighter than `#262737`, so use the hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here.
 - **Medium shot, main outfit, balaclava:** [`characters/ozzy/ozzy-medium-shot-main-outfit-balaclava.jpg`](characters/ozzy/ozzy-medium-shot-main-outfit-balaclava.jpg), a single shot in his main outfit with the jacket and his balaclava on, framed from the waist up and turned toward the viewer's right, on mid grey `#808080` (made with the medium shot block, then fixed by hand). It's canon for the balaclava's offset rows of lettering and his chain. Exceptions, where the written rules here win:
   - **New Era flag:** the generator put it on his right side, so it was painted out. His left side, where it belongs, is turned away.
   - **Golden rod:** he was drawing it from his waistband with his right hand, so it was painted out. His left hip, where it belongs, is turned away, so it doesn't show.
@@ -291,18 +291,18 @@ Each outfit gets two turnarounds, one with his golden rod and one without. The b
   - **Face tattoo lettering:** a little garbled in the front view. It reads A, l, l, $, I, n.
   - **"High Power" at the collar:** reads as just the capitals H and P. The placement is right.
   - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
-  - **Colours:** the sheet has a violet cast, so use the hex codes listed here, not colours picked from the image.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here, removing the violet cast it had. The Playboy bunny on the T-shirt is still violet; it's white.
 - **Main outfit, hair down (`SKIN_007`, without the rod):** [`characters/ozzy/ozzy-main-outfit-hair-down.jpg`](characters/ozzy/ozzy-main-outfit-hair-down.jpg), his main-outfit turnaround with his locs falling loose past his shoulders: front, three-quarter, side view facing right, side view facing left, and back (made with the turnaround sheet block). It's canon for his hair down, his outfit and where his tattoos sit: the face tattoo on his right temple, the leopard print below his left sleeve, and the tops of "High Power" above the collar in the front view. Exceptions, where the written rules here win:
   - **Front-view face tattoo:** shows as faint marks, because his face is too small at this sheet size for the lettering to read. It reads A, l, l, $, I, n, clearly visible in the three-quarter and right-facing views.
   - **Side-view sneakers:** chunkier than the slim Cortez in the other views.
 - **Main outfit shirtless, hair up (`SKIN_005`, without the rod):** [`characters/ozzy/ozzy-main-outfit-shirtless-hair-up.jpg`](characters/ozzy/ozzy-main-outfit-shirtless-hair-up.jpg), his official shirtless asset: the shirtless tattoo-reference outfit with his hair tied up, in front, three-quarter, side (facing left) and back views. It's canon for his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits. In the side view, "Power" wraps across his left pec, and the leopard print covers his left upper arm in every view. Exceptions, where the written rules here win:
   - **Face tattoo lettering:** garbled in the three-quarter view. It reads A, l, l, $, I, n.
   - **"High Power" lettering:** plainer than his real ornate script. The placement is right.
-  - **Colours:** like his main outfit sheet, it has a violet cast, so use the hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here, removing the violet cast it had.
 - **Main outfit shirtless, hair down (`SKIN_004`, without the rod):** [`characters/ozzy/ozzy-main-outfit-shirtless-hair-down.jpg`](characters/ozzy/ozzy-main-outfit-shirtless-hair-down.jpg), the shirtless tattoo-reference outfit with his locs falling loose past his shoulders, in front, three-quarter, side (facing left) and back views (made with the turnaround sheet block). It's canon for his hair down shirtless, his build (with slight ab definition on the front and three-quarter views), his nose rings, and where every tattoo sits: the face tattoo on his right temple, reading A, l, l, $, I, n in the three-quarter view; "High Power" across his upper chest with the Eye of Horus below; and the leopard print on his left upper arm in every view. In the side view, his bare left temple faces the camera and "Power" shows across his chest. Exceptions, where the written rules here win:
   - **Front-view face tattoo:** shows as faint marks, because his face is too small at this sheet size for the lettering to read. It's on the correct temple.
   - **"High Power" lettering:** plainer than his real ornate script, without the swashes beneath. The placement is right.
-  - **Colours:** his skin reads a little lighter and rosier than canon, so use the hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here.
 - **Headshots, hair up:** [`characters/ozzy/ozzy-headshots-hair-up.jpg`](characters/ozzy/ozzy-headshots-hair-up.jpg), his head-and-shoulders turnaround in his main outfit: front, three-quarter, side and back, on mid grey `#808080` (made with the headshot sheet block). It's canon for his face, the face tattoo on his right temple (bare left side), his nose rings and chain. Exceptions, where the written rules here win:
   - **Hair:** the locs are wound into a tight bun. His high top knot is looser, with the locs fanning up and out.
   - **"High Power":** both full words show above a lower neckline. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
@@ -315,11 +315,11 @@ Each outfit gets two turnarounds, one with his golden rod and one without. The b
   - **Nose rings:** only one ring shows. He has one in each nostril.
   - **Face tattoo lettering:** a little garbled. It reads A, l, l, $, I, n.
   - **"High Power" at the collar:** reads as just the capitals H and P. The placement is right.
-  - **Colours:** the violet cast of that sheet, so use the hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here, as on that sheet. The Playboy bunny is still violet; it's white.
 - **Close-ups, hair up:** [`ozzy-close-up-glare-hair-up.jpg`](characters/ozzy/ozzy-close-up-glare-hair-up.jpg), [`ozzy-close-up-smirk-hair-up.jpg`](characters/ozzy/ozzy-close-up-smirk-hair-up.jpg) and [`ozzy-close-up-calm-hair-up.jpg`](characters/ozzy/ozzy-close-up-calm-hair-up.jpg) in `characters/ozzy/`, his three default expressions as head close-ups, each centred at 1792×2400 on mid grey `#808080`. They're cut at full resolution from the expression row of his first hair-up sheet. The glare and smirk turn toward the viewer's right with the face tattoo on his right temple, and the calm look turns toward the viewer's left, showing his bare left temple. They're canon for his expressions and his face from close up. Exceptions, where the written rules here win:
   - **Nose rings:** the glare and smirk show one small gold stud, and the calm look shows none. He has a small gold ring in each nostril.
   - **Collar:** a white collar band shows at the neck, and "High Power" doesn't show. His main outfit is a black crew-neck T-shirt with the tops of the lettering just above the collar.
-  - **Colours:** they lean rosy and violet, so use the hex codes listed here.
+  - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here, removing the rosy, violet cast they had.
 - **Colours:** skin `#9B7461`, accent `#5381D4` (royal blue, sampled from the cap in his reference photos, and the colour of his jacket lining), locs `#2F1958` (deep indigo-violet, with shadow `#1E083C` and highlight `#422D7A`), gold `#CEAF81` (chain, nose rings and golden rod), jacket `#C2C2C2` (light grey), plasma `#6F00FF` (electric indigo).
 - **Height:** 6'2" (188 cm) barefoot, from the ground to the top of his head, with his locs down. He's about 6 heads tall, counting a head from the top of his head to his chin. His body and proportions are the same in every outfit, masked or not: his clothes, hair, balaclava and what he carries change, but his build doesn't. The camera angle and his shoes can change how tall he looks on screen, never his real height. Barefoot, his top knot reaches about 6'5" (196 cm) and his eye line sits at about 171 cm. His sneakers add about 2.5 cm, so in them he stands about 190.5 cm. All of it is measured on his canon sheets and drawn on the [size chart](#size-chart).
 - **LoRA:** not used for now; see [LoRA training](#lora-training). His 30-image training set stays in [`characters/ozzy/lora/`](characters/ozzy/lora/), with the trigger word `ozzytoon`, in case that changes. Its images show the "$" on his right hand, from before it moved to his left.
@@ -445,10 +445,8 @@ The main antagonist, known as the doctor: the head of the medical wing in the Cr
 - **Colours:** pale ivory skin `#EAD8C4`, a red accent `#CC4747` and an olive grey suit `#5F6352`, all picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it. The rest come from the palette swatches on his expanded sheet, adopted by the user: silver-grey hair `#9E9199`, matte silver trim `#A99E9F`, black metal `#212128` for his boots and cybernetic hand, and silver `#B2B2B7` for his award decorations and emblem.
 - **Sheets:** in `characters/heyes/`, named `heyes-<outfit>.jpg`. Both were approved in earlier work. The user's original award and insignia references, which aren't stored in this repo, are the authority for fine detail.
   - **Combat Skin turnaround:** [`heyes-combat-skin.jpg`](characters/heyes/heyes-combat-skin.jpg), front, three-quarter, side and back views, full body, on flat grey, at 1536×1024. It's canon for his Combat Skin: his build, face and hair, the suit's details, the boots, the cybernetic right hand and where every marking sits. In every view, each marking and the cybernetic hand are on the correct side. Exceptions, where the written rules here win:
-    - **Skin:** warm tan, not pale ivory `#EAD8C4`.
-    - **Suit:** it reads a little browner than `#5F6352`.
+    - **Colours:** colour-corrected by hand toward the master style and his hex codes: his warm tan skin was recoloured to pale ivory `#EAD8C4`, and the suit pulled toward `#5F6352`.
     - **Left-arm patch:** a black disc inside the red ring, not a black diamond.
-    - **Background:** a slightly darker grey than `#808080`.
   - **Expanded Combat Skin sheet:** [`heyes-combat-skin-expanded.jpg`](characters/heyes/heyes-combat-skin-expanded.jpg), a design sheet and a secondary guide, at 1536×1024. It has:
     - a five-view turnaround, with a back three-quarter view
     - a face close-up and a head turnaround
@@ -458,7 +456,7 @@ The main antagonist, known as the doctor: the head of the medical wing in the Cr
 
     In every view, each marking and the cybernetic hand are on the correct side. Exceptions, where the written rules here win:
     - **Style:** a dark navy background with a title, labels and panel borders, and a more rendered look. The title misspells "turnaround" as "TURNARUND".
-    - **Skin and hair:** warm tan skin, not pale ivory, and in places the hair reads more lavender than `#9E9199`.
+    - **Skin and hair:** the warm tan skin was recoloured by hand to pale ivory `#EAD8C4`, including the palette's skin swatch, though its label still reads "Warm Ivory". In places the hair reads more lavender than `#9E9199`.
     - **Left-arm patch:** a black disc inside the red ring in the figure views. The detail panel shows the canon black diamond.
     - **Rod of Asclepius:** the detail panel puts it on a grey round patch. On the suit it's drawn straight on the sleeve.
     - **Palette:** its suit `#554D3C`, insignia red `#C12A24` and skin `#F1BF91` swatches differ from the user's picks, so use the hex codes listed here. Its other swatches, for trim, boots and cybernetics, emblem and awards, and hair, are adopted as his hex codes.
@@ -474,6 +472,15 @@ For sheets, add this straight after the description, so the insignia, the patch,
 ```
 ; in the front view the black Rod of Asclepius and the cybernetic hand are on his right side, the viewer's left, and the red patch and the award decorations are on his left side, the viewer's right; in the back view the red patch is on the viewer's left and the insignia and the cybernetic hand are on the viewer's right; the three-quarter view and the side view face toward the viewer's right, so his right bicep, the insignia and the cybernetic hand face the camera
 ```
+
+## Restyled images
+
+On 2026-11-06 every saved character sheet, object sheet and location sheet was brought back toward the master style by hand, without regenerating anything, so every hand fix on them stays. The design reference for the golden rod (not canon) and the LoRA training set (not used) were left as they were.
+
+- **Character and object sheets:** one colour correction per sheet, fitted to its background, ink, skin and, where they show, his locs or balaclava navy, his jacket, the gold and his blues, so the cast is removed and they land on their hex codes. The background region is now exactly flat mid grey `#808080`, the darkest lines are ink `#030308`, and sheets that had almost no grain got fine film grain.
+- **Dr. Heyes:** his warm tan skin recoloured to pale ivory `#EAD8C4` on both sheets, with the suit, hair, background and ink corrected on his turnaround. His expanded sheet keeps its dark design-sheet panels.
+- **Night locations:** rain added as thin straight white streaks, thin line work tinted toward dark teal `#031E1C`, large black areas toward navy `#09102E`, and pale areas pulled into night's mid-to-dark range, with neon and lamps kept bright.
+- **What a hand fix can't change:** line weight, hatching and how rendered a sheet looks. Those differences stay listed in each sheet's entry, and only a new generation with the full style block fixes them.
 
 ## Size chart
 
@@ -552,17 +559,15 @@ These are the things every part of the city shares.
 - **Reactive surfaces:** the ice road and the steel towers, which reflect the ice-blue neon, and the gold neon `#E7BF68` at the tops.
 - **Sheets:** in `locations/crystal-tower/`, with each one's prompt and settings in `prompts.txt`.
   - **Establishing shot, night:** [`crystal-tower-wide-night.jpg`](locations/crystal-tower/crystal-tower-wide-night.jpg), a wide low-angle shot from the ice road, looking up the Crystal Tower with the snowy mountain behind it, flanked by towers whose tops glow gold, with angular armoured vehicles parked on the right and a saucer-shaped aircraft crossing the sky (made with the all-in-one block, without the Characters line). It's canon for the tower's look and place, the neon colours, the ice road and the entrance doors. Exceptions, where the written rules here win:
-    - **Rain:** no rain streaks, only faint specks that read like light snow. The city has rain at night.
-    - **Lines:** dark navy, not the night's dark teal `#031E1C`.
-    - **Values:** a little bright for night's mid-to-dark range, so the towers read pale.
+    - **Restyled by hand:** rain added as thin straight white streaks, thin line work tinted toward dark teal `#031E1C`, and the pale towers pulled down into night's mid-to-dark range. The heavier lines stay dark navy.
     - **Snow:** drifts lie on the ground and the ledges, which this entry doesn't call for.
   - **Drone view, night:** [`crystal-tower-drone-night.jpg`](locations/crystal-tower/crystal-tower-drone-night.jpg), the drone view leaving the tower: high above the road, looking down it away from the tower, whose gold-lit top sits at the bottom of the frame, with the city's towers walling both sides, vehicles parked along the road's left side, lamps with warm gold lights along both edges, and a saucer-shaped aircraft over the road. It's canon for the drone view's camera and layout. Exceptions, where the written rules here win:
     - **Towers:** dark and stone-textured. They're steel-white.
     - **Neon:** signs in pink and cyan, with garbled lettering. The towers' neon is ice blue `#6CB5D8` with gold `#E7BF68` at the tops, and nothing in the city carries lettering in prompts.
     - **Tower top:** a block crown lit gold, not the two gold-tipped spires of the establishing shot.
-    - **Lines and texture:** heavy, near-black lines and a gritty texture, not flat cel colour with thin tinted lines.
-    - **Rain:** none. The city has rain at night.
-    - **Shape:** 1760×1344, not 16:9, so it's cropped to 16:9 before it goes in a video.
+    - **Lines and texture:** heavy lines and a gritty texture, not flat cel colour with thin tinted lines. The near-black lines were tinted toward dark teal `#031E1C` by hand, and large black areas toward navy `#09102E`.
+    - **Rain:** added by hand as thin straight white streaks.
+    - **Shape:** 1760×1344, not 16:9. Its 16:9 version, [`crystal-tower-drone-night-16x9.jpg`](locations/crystal-tower/crystal-tower-drone-night-16x9.jpg), is cropped around the centre to 1920×1080, keeping the aircraft and the tower's gold-lit top, and losing the far glow at the end of the road and the lower edge of the tower block.
 
 ### The Crystal Tower's control room
 
@@ -581,7 +586,7 @@ These are the things every part of the city shares.
 - **Reactive surfaces:** the ice-tile road, which mirrors the neon and the tower, and the glass towers.
 - **Sheets:** in `locations/amethyst-path/`, with each one's prompt and settings in `prompts.txt`.
   - **Wide view, night:** [`amethyst-path-wide-night.jpg`](locations/amethyst-path/amethyst-path-wide-night.jpg), at ground level on the path near the far side of the mountain, looking back along it at the Crystal Tower from behind. It's canon for Amethyst Path's look and for the back of the Crystal Tower. Exceptions, where the written rules here win:
-    - **Rain:** none. The city has rain at night.
+    - **Rain:** added by hand as thin straight white streaks.
     - **Clouds:** loose painterly clouds, which the Day line has and the Night line doesn't.
 
 ### The Tall Whites' underground facility
