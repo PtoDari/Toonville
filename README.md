@@ -579,9 +579,19 @@ These are the things every part of the city shares.
 ### Wave's nightclub
 
 - **What happens there:** Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
-- **Look:** TBD. Its name is TBD too. It's in the first scene, so it's being designed first.
+- **What it is:** a medium-sized underground nightclub. Its name is TBD. It's in the first scene, so it's being designed first.
+- **Layout:** from the user's design brief. It's spacious, with generous routes through it and clearly separated zones, so it never reads as one open empty room.
+  - **Entrance:** a street-facing entrance at the front leads into a graffiti-covered entrance lobby, which opens straight into the main club. The first view from the lobby is the dance floor. The street front's look is TBD.
+  - **Dance floor:** large, dark and mostly open, in the centre of the room, and kept unobstructed.
+  - **Lounge booths:** seated booths along both side walls, behind industrial concrete half walls and dark metal partitions with cyan and violet neon trim.
+  - **Graffiti:** one dedicated custom graffiti artwork on each side wall, facing each other across the room. The rest of the walls are mostly abstract graffiti. The two artworks' designs are TBD.
+  - **Bar:** a full-width bar along the rear wall, with room for customers in front of it and for staff behind it.
+  - **Bathrooms:** near the back, close to the bar, with a clear entrance and room to reach it without blocking the bar, the lounges or the routes through the room. How many stalls and fixtures it has isn't decided.
+  - **DJ platform:** Wave's platform floats directly over the centre of the dance floor, high above it and out of the crowd's reach, with no supports, stairs, ladders, bridges or public way up. Wave reaches it from the roof. It's enclosed in illuminated cyan glass, and behind him one massive continuous LED display shows animated equalizer patterns. There's generous clearance between the dance floor, the platform and the ceiling.
+  - **Ceiling:** covered entirely by a projected Milky Way galaxy in deep navy, cyan and violet, with moving spotlights overhead and haze over the dance floor.
+- **Look:** a dark underground electronic music venue of industrial concrete, dark metal and abstract graffiti, lit mainly in cyan and violet. Its hex codes are TBD.
 - **Day or night:** night.
-- **Main light:** TBD. **Where characters stand:** TBD.
+- **Main light:** cyan and violet, the club's dominant light, with hex codes TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
 ### The Chase Tower
