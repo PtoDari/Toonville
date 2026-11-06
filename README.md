@@ -561,7 +561,7 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and Wave, the intergalactic patrol officer, moonlights as a DJ at his nightclub there (see [STORY.md](STORY.md)).
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and Wave, the intergalactic patrol officer, moonlights as a DJ at Orion, his nightclub there (see [STORY.md](STORY.md)).
 - **Look:** from the user's reference image, which isn't stored in this repo, with colours sampled from it: dark blue-black towers `#0D1A29` with warm amber-lit shop windows `#E89641` at street level, yellow neon `#FFDE14` in strips and bands, cyan neon panels `#0DF7FF` and the odd red `#FF443E` vertical sign, over a wet, cracked dark street `#0D2D4D` with yellow road lines that mirrors every light in long smears, under a dark night-blue sky `#142837`. Its signs are blank glowing panels, with no lettering. The reference's glowing crystal spire isn't part of Midtown.
 - **Day or night:** night, for the test video. Day TBD.
 - **Main light:** at night, its neon: yellow, amber, cyan and red. Which one is the main light depends on the spot, TBD. **Where characters stand:** TBD.
@@ -576,12 +576,13 @@ These are the things every part of the city shares.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
-### Wave's nightclub
+### Orion, Wave's nightclub
 
-- **What happens there:** Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
-- **What it is:** a medium-sized underground nightclub. Its name is TBD. It's in the first scene, so it's being designed first.
+- **What happens there:** Orion, Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
+- **What it is:** a medium-sized underground nightclub, called Orion. It's in the first scene, so it's being designed first.
 - **Layout:** from the user's design brief. It's spacious, with generous routes through it and clearly separated zones, so it never reads as one open empty room.
-  - **Entrance:** a street-facing entrance at the front leads into a graffiti-covered entrance lobby, which opens straight into the main club. The first view from the lobby is the dance floor. The street front's look is TBD.
+  - **Entrance:** a street-facing entrance at the front leads into a graffiti-covered entrance lobby, which opens straight into the main club. The first view from the lobby is the dance floor.
+  - **Street front:** its neon outside spells "Orion", and the rest of its neon outside is plain light, with no lettering. In prompts the sign is made blank, and "Orion" is added in editing, because generators garble lettering. The sign's colour and lettering style, and the rest of the street front's look, are TBD.
   - **Dance floor:** large, dark and mostly open, in the centre of the room, and kept unobstructed.
   - **Lounge booths:** seated booths along both side walls, behind industrial concrete half walls and dark metal partitions with cyan and violet neon trim.
   - **Graffiti:** one dedicated custom graffiti artwork on each side wall, facing each other across the room. The rest of the walls are mostly abstract graffiti. The two artworks' designs are TBD.
