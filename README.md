@@ -579,7 +579,7 @@ These are the things every part of the city shares.
 ### The Chase Tower
 
 - **What happens there:** a tall residential building in Midtown.
-- **Look:** TBD.
+- **Look:** from the user's plaza reference image, which isn't stored in this repo, with colours sampled from it: a very tall tower of glowing blue glass `#3A8BD9`, brightest `#6BD1F4` where it glows, wrapped in a dark blue steel framework `#254999` of crossing beams, its lit floors showing through, tapering to a single spire with a white glowing tip. It rises above Midtown's dark towers. The rings of light around it in the reference are TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
