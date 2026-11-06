@@ -565,7 +565,7 @@ These are the things every part of the city shares.
 
 ### The Chase Tower
 
-- **What happens there:** a tower in Midtown. What happens there is TBD.
+- **What happens there:** a tall residential building in Midtown.
 - **Look:** TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
