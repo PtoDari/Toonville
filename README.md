@@ -6,6 +6,8 @@ Toonville is an anime series. This repo holds its visual style guide: prompt blo
 
 Every Toonville prompt carries the established style, word for word, with no exceptions. That includes full prompts, short backups, edits and inpainting, one-line fixes, and anything sent to an image or video tool. This is what keeps every character, environment and prop consistent.
 
+Every generation reflects it too. From now on, every image and video made for Toonville, in any tool, comes from a prompt that carries the master style line below and the job's style block, word for word. Each result is checked against the style before it's accepted, and one that drifts from it isn't used: it's fixed or made again.
+
 Every prompt is built in this order:
 
 1. **Subject:** who or what, doing what, where. For a scene, add the story moment from the **reactive environment** table.
