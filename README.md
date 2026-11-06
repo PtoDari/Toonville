@@ -557,7 +557,15 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part.
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there.
+- **Look:** TBD.
+- **Day or night:** TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### The Chase Tower
+
+- **What happens there:** a tower in Midtown. What happens there is TBD.
 - **Look:** TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
