@@ -61,7 +61,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Each scene:**
   - its location, and day or night
   - the characters, with their outfits and hairstyles
-  - the objects in play, and each weapon's state: for Ozzy's golden rod, retracted at his left hip, extended in his hand, or absent
+  - the objects in play, and each weapon's state: for Ozzy's golden staff, retracted at his left hip, extended in his hand, or absent
   - its story moment (quiet, tension or climax) from the README's reactive environment table
 - [ ] **Shot list:** every shot numbered, with:
   - the characters in it
