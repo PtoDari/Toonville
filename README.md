@@ -579,7 +579,7 @@ These are the things every part of the city shares.
 ### Wave's nightclub
 
 - **What happens there:** Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
-- **Look:** TBD. Its name is TBD too.
+- **Look:** TBD. Its name is TBD too. It's in the first scene, so it's being designed first.
 - **Day or night:** night.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
