@@ -59,7 +59,7 @@ Only Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pa
 
 ## The world
 
-Lepus, a frozen island city deep in the ice, built against Crystal Mountain. The island is a frozen desert. On the mountain's far side, a lush wild land is being colonized. The city grew up in the 19 years since the crash. With the Tall Whites' technology and the remaining survivors of the royal fleet's main ship, it was established quickly, and Ozzy, who ran away from the orphanage at 15, saw some of it grow. The Forbidden Foliage stays blocked off to the populace. Each place's look is in the README's [Locations](README.md#locations) section:
+Lepus, a frozen island city deep in the ice, built against Crystal Mountain. It's a metropolis, with extensive urban sprawl, many neighbourhoods and long-distance travel between districts. The island is a frozen desert. On the mountain's far side, a lush wild land is being colonized. The city grew up in the 19 years since the crash. With the Tall Whites' technology and the remaining survivors of the royal fleet's main ship, it was established quickly, and Ozzy, who ran away from the orphanage at 15, saw some of it grow. The Forbidden Foliage stays blocked off to the populace. Each place's look is in the README's [Locations](README.md#locations) section:
 
 - **The Diamond District:** the city's rich, safe part, with its towers, at the foot of the mountain, where the Crystal Tower is lodged.
 - **Midtown:** the part for the city's common folk, the working class, separating the Diamond District from Sunnymead. It has a nightlife, where Wave moonlights as a DJ.
