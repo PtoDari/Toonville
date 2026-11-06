@@ -562,7 +562,15 @@ These are the things every part of the city shares.
 
 - **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and its nightlife is where Wave, the intergalactic patrol officer, moonlights as a DJ (see [STORY.md](STORY.md)).
 - **Look:** TBD.
-- **Day or night:** TBD.
+- **Day or night:** night, for the test video. Day TBD.
+- **Main light:** TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+
+### The Midtown alley
+
+- **What happens there:** an alley in Midtown that Ozzy walks down, unseen, in the test video: the audience hears him and sees his shadow on the ground or a building, then a low sweeping shot comes down to his feet (see [STORY.md](STORY.md)).
+- **Look:** TBD.
+- **Day or night:** night.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 

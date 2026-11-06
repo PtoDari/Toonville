@@ -92,7 +92,7 @@ Each kind of shot has its camera line in the README's [Camera lines](README.md#c
 
 Add each scene idea here as it comes, with its place, day or night, the characters in it and what happens. Ideas don't need to be in order.
 
-- **Test video, the alley:** Ozzy walks down an alley, unseen. The camera takes in the look of the place, and the audience hears him rather than sees him. His shadow shows on the ground or on a building, then a low sweeping shot comes down to his feet. Which alley, and day or night, are TBD.
+- **Test video, the alley:** Ozzy walks down an alley, unseen. The camera takes in the look of the place, and the audience hears him rather than sees him. His shadow shows on the ground or on a building, then a low sweeping shot comes down to his feet. It's an alley in Midtown, at night.
 - **Saved, the Crystal Tower at night:** the earlier test video idea. Ozzy alone, at night, on the ice road in front of the Crystal Tower, with the orphanage hidden in its basement. Ice-blue neon reflects off the steel towers and the ice road, with hints of gold neon at the very tops of the buildings. Saved for when the video is built: a drone shot leaving the tower, flying high down the road over the city, as in the Crystal Tower's drone view.
 
 ## Reveal timeline
