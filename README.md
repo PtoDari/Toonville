@@ -560,7 +560,7 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and its nightlife is where Wave, the police officer, moonlights as a DJ (see [STORY.md](STORY.md)).
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and its nightlife is where Wave, the intergalactic patrol officer, moonlights as a DJ (see [STORY.md](STORY.md)).
 - **Look:** TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
