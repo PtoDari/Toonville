@@ -44,7 +44,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets and the golden staff's design reference (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference and Orion's concept blueprint (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, and Orion's blueprint on its own navy), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -533,7 +533,7 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-Toonville's world is Lepus, a frozen island city deep in the ice, built against Crystal Mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower and Amethyst Path have sheets so far.
+Toonville's world is Lepus, a frozen island city deep in the ice, built against Crystal Mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower, Amethyst Path and Orion have sheets so far.
 
 ### Lepus, the frozen island city
 
@@ -591,10 +591,29 @@ These are the things every part of the city shares.
   - **DJ platform:** Wave's platform floats directly over the centre of the dance floor, high above it and out of the crowd's reach, with no supports, stairs, ladders, bridges or public way up. Wave reaches it from the roof. It's enclosed completely in illuminated cyan glass, and behind him one massive continuous LED display shows animated equalizer patterns. There's generous clearance between the dance floor, the platform and the ceiling.
   - **Ceiling:** covered entirely by a projected Milky Way galaxy in deep navy, cyan and violet, with moving spotlights overhead and haze over the dance floor.
 - **Look:** a dark underground electronic music venue of industrial concrete, dark metal and abstract graffiti, lit mainly in cyan and violet. Inside, the light comes only from illuminated surfaces and light sources, with no readable words or neon signs. Its hex codes are TBD.
-- **Layout references:** the user's two concept blueprints, which aren't stored in this repo.
 - **Day or night:** night.
 - **Main light:** cyan and violet, the club's dominant light, with hex codes TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
+- **Sheets:** in `locations/orion/`, with its prompt and settings in `prompts.txt`.
+  - **Concept blueprint, night:** [`orion-blueprint-night.jpg`](locations/orion/orion-blueprint-night.jpg), made by the user in ChatGPT from their brief, with their two earlier concept blueprints as layout references (those aren't stored in this repo), then fixed by hand. At 1536×1024, it has the top-down floor plan in the middle. On the left are the exterior with the "ORION" sign, a lounge booth and a lounge section detail. On the right are a side section, a front elevation of the DJ platform and the projected galaxy ceiling. A title block and a materials key run along the bottom. It's canon for the club's layout:
+    - the street entrance and the graffiti lobby
+    - the booths, with a dedicated graffiti panel, down both side walls
+    - the full-width bar, with the staff area behind it
+    - the men's and women's bathrooms at the back right
+    - the open central dance floor
+    - the floating platform in its cyan glass box, with the equalizer display behind the console
+    - the galaxy ceiling with its spotlights
+    - the lounges' construction: concrete half wall, dark metal partition with cyan and violet neon trim, and booth seating
+
+    Its insets show one take on the street front, the sign and the booths, and their looks stay TBD until they're approved. Exceptions, where the written rules here win:
+    - **Lobby doors:** a pair of swing doors stood where the lobby meets the club, so they were painted out. The lobby opens straight into the club.
+    - **Platform:** in the side section, two unlabelled dashed lines ran from the ceiling to the platform and read as hanging cables, so they were painted out. It has no supports. In the plan it's drawn as a lit box on the dance floor; it floats high overhead.
+    - **Dance floor:** in the side section, a glowing cyan strip lies on the floor under the platform. The floor has no built-in illuminated panels: it only catches reflected light.
+    - **Women's bathroom door:** it opens about one door's width from the top right-hand booth, which is tight.
+    - **Street front:** the exterior shows double glass doors, where the plan shows one swing door. A small plaque with garbled marks sits high on the wall to the right of the sign. There's no rain, only wet reflections, where the Night line asks for both.
+    - **Style:** a glossy, saturated digital illustration with heavy glow, not 90s cel anime with comic-book inking and film grain. Its graffiti and neon are brighter than the slightly desaturated environment rule.
+    - **Repaint traces:** very close up, faint marks inside the platform's glass box, where the dashed lines met it.
+    - **16:9 version:** [`orion-blueprint-night-16x9.jpg`](locations/orion/orion-blueprint-night-16x9.jpg), padded at the sides on the sheet's own navy to 1920×1080.
 
 ### The Chase Tower
 
