@@ -625,6 +625,15 @@ These are the things every part of the city shares.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
+### Orion
+
+- **What happens there:** an underground nightclub in Midtown where Wave moonlights as a DJ.
+- **Look:** a medium-sized industrial nightclub, seen from its graffiti-covered entrance lobby, which opens directly into the club with no door. The club is empty in the quiet establishing view. A large, dark, open dance floor fills the centre; it has no built-in lights and catches only reflected light. High above the centre of the dance floor floats a fully enclosed DJ platform made of illuminated cyan glass `#24C1D9`, with no supports, stairs, ladders, bridges or cables. Behind the empty console is one massive continuous LED display playing dark-goldenrod `#8B6508` equalizer bars. The ceiling projects a Milky Way in deep navy, cyan and violet, with streaking stars glowing dark goldenrod `#8B6508`; moving spotlights hang overhead and haze sits over the dance floor. Seated lounge booths line both side walls, behind industrial concrete half walls and dark metal partitions with cyan `#24C1D9` and violet `#6F00FF` neon trim. Abstract graffiti covers the walls. A full-width bar spans the entire rear wall, with stools in front and staff space behind it. Two separate bathroom doors are at the back right, just forward of the bar. Materials are industrial concrete and dark metal; lighting is mainly cyan and violet. No lettering, signs, labels or captions appear inside.
+- **Day or night:** night.
+- **Main light:** cyan and violet nightclub lighting, with the DJ platform and its display as prominent glowing sources. **Where characters stand:** TBD.
+- **Reactive surfaces:** the glass DJ platform, the dark dance floor, the neon-trimmed partitions and the haze.
+- **Sheets:** the empty interior establishing wide view has been approved as a reference in the conversation. Its repository path is TBD. The generated image has some deviations from the written design: the entrance lobby is not strongly distinguished from the dance floor; the bar and bathroom doors read more centrally placed than specified; and the rendering leans more polished than the required flat cel-colour treatment. The written design and style rules above remain authoritative.
+
 ### The Chase Tower
 
 - **What happens there:** a tall residential building in Midtown.
