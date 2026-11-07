@@ -44,7 +44,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint and establishing shot (from 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -802,6 +802,20 @@ These are the things every part of the city shares.
     - **Violet:** its violet neon reads `#7D20CC`, a little warmer than the club's violet, Ozzy's electric indigo `#6F00FF`. The "ORION" sign's canopy violet `#9D1AF0` is part of the canon sign and stays as it is.
     - **Repaint traces:** very close up, faint marks inside the platform's glass box, where the dashed lines met it.
     - **16:9 version:** [`orion-blueprint-night-16x9.jpg`](locations/orion/orion-blueprint-night-16x9.jpg), padded at the sides on the sheet's own navy to 1920×1080.
+  - **Establishing shot, night:** [`orion-wide-night.jpg`](locations/orion/orion-wide-night.jpg), made by the user and made canon by the user, at 1672×941, from the prompt in `prompts.txt`. It's a wide low view from the graffiti-covered lobby, framed by its walls, looking straight into the empty club in its quiet state. It's canon for:
+    - the view from the lobby, with no door between the lobby and the club
+    - the dark, open dance floor catching reflections
+    - the DJ platform floating high over the centre with no supports, in its cyan glass box, with the LED display behind the console playing dark goldenrod equalizer bars
+    - the galaxy ceiling, with dark goldenrod stars streaking across it, and the spotlights and haze
+    - the booths down both side walls, behind concrete half walls and dark metal partitions with cyan and violet neon trim
+    - the bar with its stools, and the two bathroom doors at the back right
+
+    Exceptions, where the written rules here win:
+    - **Bar:** it sits in the middle of the rear wall, with graffiti on either side. It spans the whole rear wall.
+    - **Bathroom doors:** set into the rear wall beside the bar. They're just forward of the rear wall, so nothing shortens the bar.
+    - **Style:** smoother and glossier than 90s cel anime with comic-book inking, with strong glow and little hatching, and more saturated than the slightly desaturated environment rule. A few lines read near black, where the environment's lines are thin and tinted.
+    - **Colours:** the equalizer bars and stars read brighter `#DFA523` than dark goldenrod `#8B6508`, the violet lighter `#9143E8` than `#6F00FF`, and the cyan brighter `#03D5E4` than `#24C1D9`.
+    - **16:9 version:** [`orion-wide-night-16x9.jpg`](locations/orion/orion-wide-night-16x9.jpg), scaled to 1920×1080.
 
 ### The Chase Tower
 
