@@ -61,3 +61,7 @@ orion-aerial-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of 
 orion-booth-night.jpg
 The view from a booth, night, in the calm setting: made by the user and made canon by the user, 1672x941, the camera-position sheet's booth view on its own. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 orion-booth-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-bar-night.jpg
+The view from behind the bar, night, in the calm setting: made by the user and made canon by the user, 1672x941, the camera-position sheet's bar view on its own. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-bar-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
