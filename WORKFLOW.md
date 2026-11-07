@@ -62,7 +62,8 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - its location, and day or night
   - the characters, with their outfits and hairstyles
   - the objects in play, and each weapon's state: for Ozzy's golden staff, retracted at his left hip, extended in his hand, or absent
-  - its story moment (quiet, tension or climax) from the README's reactive environment table
+  - its story moment (quiet, tension or climax) from the README's reactive environment table, and the character the scene reacts to, whose accent the location takes on
+  - the location's reactive state for that moment, inside and outside where the scene uses both, from the location's README entry
 - [ ] **Shot list:** every shot numbered, with:
   - the characters in it
   - framing (wide, medium or close-up)
@@ -70,6 +71,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - which way each character faces, keeping one-sided features toward the camera where the story allows
   - each weapon's state
   - the action
+  - which doors are open: a door that opens for characters, like Orion's sliding doors, is open only while someone goes through it
   - the keyframes it needs (start, key poses, end)
   - its length in seconds, with every shot together making the video's 30 seconds
 - [ ] **Storyboard:** a rough 16:9 thumbnail for every shot.
