@@ -493,13 +493,13 @@ For sheets, add this straight after the description, so the insignia, the patch,
 The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub in Midtown, and becomes Ozzy's ally down the line. His story is in [STORY.md](STORY.md).
 
 - **Known so far:** he's 22, still the age he was when the convoy left, because the crash kept him in cryogenic sleep until Ozzy released him. His com chip is severed and still down, so he can't speak at all.
-- **References:** two photos the user supplied, for his face, hair and skin, and two illustrations of him at the decks, for his build, outfit, headphones, com chip and power. None of them is stored in this repo, and prompts describe his features instead of naming the person photographed.
+- **References:** two photos the user supplied, for his face and skin, and two illustrations of him at the decks, for his build, outfit, headphones, com chip and power. None of them is stored in this repo, and prompts describe his features instead of naming the person photographed.
 - **Build:** tall and athletic, with broad shoulders, as in the illustrations.
 - **Face and hair, from the photos:**
   - **Face:** warm brown skin, dark brown eyes, a high forehead and a wide, warm smile.
   - **Beard:** full and short, with a mustache, near-black `#261C17`.
-  - **Locs:** long and dark brown `#261F18`, falling past his chest, with warmer auburn-brown ends `#3B2D24`. The illustrations draw them black; the photos' brown is canon.
-- **Com chip, on his left side only:** his severed com chip, shown as thin glowing cyan `#2EB9DB` circuit lines running across his left cheek and jaw into a small mechanical plate at his left jaw and ear. His left side is the viewer's right in a front view. The right side of his face is bare.
+  - **Locs:** long and reddish brown `#4F211A`, falling past his chest, with copper cuffs `#C56C21` on some of them. They follow the user's sheets, as the user chose, in place of the photos' dark brown `#261F18`.
+- **Com chip, on his left side only:** his severed com chip, shown as thin glowing cyan `#2EB9DB` circuit lines running from his left temple, up at the hairline, down across his left cheek and jaw into a small mechanical plate at his left jaw and ear. The temple lines follow the user's sheets, as the user chose. His left side is the viewer's right in a front view. The right side of his face is bare.
 - **Powers:** sonic. In their muted state, which he can use as DJ tech, they show as holographic equalizer bars rising from his open palms, glowing cyan `#28DFF5`, blue `#108AE9` and pink-violet `#BC29E4`. The bars are a glowing source, so they get bloom. What his sonic powers look like and do at full strength is TBD.
 - **Outfits:** two, his DJ skin and his combat skin, confirmed by the user. Large over-ear DJ headphones hang around his neck in both.
   - **DJ skin, as on his DJ turnaround:**
@@ -521,8 +521,7 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
     - **Headphones:** gunmetal earcups `#503F4F` with dark goldenrod trim, each showing a glowing cyan waveform icon `#51E6E6`. Each earcup sits on a hinged arm at his suit's collar.
     - **The change:** the earcups rise on their arms to his ears, and face guards slide forward from them along his jaw. A crest piece closes over the top of his head, a jaw ring closes under his chin, and a visor glowing cyan `#06D5DF` closes over his face. His locs fall free behind and below the mask. It's built from five parts: the two earcups with their face guards, the crest piece, the jaw ring and the visor. The mask covers his com chip.
     - **Mechanism sheet:** [`wave-headphones-mask-mechanism.jpg`](characters/wave/objects/wave-headphones-mask-mechanism.jpg), made by the user, at 1536×1024. It shows the change in three front views and five profiles, with close-ups of an earcup and its hinged arm, an exploded view of the parts, and the finished mask from the front and back. It's canon for the headphones, the mask and how one becomes the other. It isn't canon for his look, which comes from his turnarounds. Exceptions, where the written rules here win:
-      - **Locs:** redder and lighter `#4A221A` than his dark brown `#261F18`, with copper-gold cuffs `#B0521D` on some locs.
-      - **Com chip:** its circuit lines also run up his left temple to the hairline. They're on his left cheek and jaw only.
+      - **Locs:** a little darker `#4A221A` than his reddish brown `#4F211A`, with darker cuffs `#B0521D`.
       - **Gold:** warmer and more orange `#A25E10` than his dark goldenrod `#8B6508`.
       - **Background:** grey `#726D6D`, not mid grey `#808080`.
       - **Diagram arrows** run between the stages.
@@ -530,22 +529,20 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
 - **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. On his DJ turnaround he's about 8 heads tall, counting a head from the top of his head to his chin. He goes on the [size chart](#size-chart) next.
 - **Colours:**
   - **Skin:** `#9C6C4E`, the average of the forehead and cheeks in both photos. The photos carry no colour profile, so they were read as sRGB.
-  - **Hair:** locs `#261F18` with ends `#3B2D24`, and beard `#261C17`.
+  - **Hair:** locs `#4F211A` with copper cuffs `#C56C21`, sampled from his DJ turnaround, and beard `#261C17`, from the photos.
   - **Accent:** dark goldenrod `#8B6508`, picked by the user.
   - **Outfit, com chip and power:** sampled from the grey-background illustration.
 - **Accent note:** dark goldenrod `#8B6508`, chosen by the user, shows on both outfits. On his DJ skin it's the collar trim, front zip, cuffs, shoulder seams and sneaker soles. On his combat skin it's the shoulder plates, wrist gauntlets, gloved hands, belt, thigh pouches and a few trim lines.
 - **Close colours:** his skin is within a few shades of Ozzy's `#9B7461`, and his suit's violet `#7009E9` is almost exactly Ozzy's electric indigo `#6F00FF`, which is also Orion's violet light.
 - **Sheets:** in `characters/wave/`, named `wave-<outfit>.jpg`. His combat skin turnaround is coming from the user.
   - **DJ skin turnaround:** [`wave-dj-skin.jpg`](characters/wave/wave-dj-skin.jpg), made by the user, at 1536×1024. It has front, three-quarter, side and back views, full body, with close-ups of his face, the collar and an earcup, a hand and a sneaker, on grey. It's canon for his DJ skin, his face and build, the com chip on his left side, and the headphones around his neck. Its three-quarter and side views face the viewer's left, as his sheet note asks. Exceptions, where the written rules here win:
-    - **Locs:** redder `#4F211A` than his dark brown `#261F18`, with copper cuffs `#C56C21` on some locs, as on his mechanism sheet.
-    - **Com chip:** its circuit lines also run up his left temple, as on his mechanism sheet. They're on his left cheek and jaw only.
     - **Colours:** skin `#A15A35` against `#9C6C4E`, gold `#BE7819` against `#8B6508`, a more magenta violet `#BE20EF` against `#7009E9`, a violet-black suit `#181220`, and a grey background `#777272`, not mid grey `#808080`.
     - **16:9 version:** [`wave-dj-skin-16x9.jpg`](characters/wave/wave-dj-skin-16x9.jpg), padded at the sides on the sheet's own grey to 1920×1080.
 
 **Wave's character style block** (fills `[CHARACTER DESCRIPTION]`). His skin and accent fill the style block's hex slots as usual. He has no default sheet expressions yet, so a new sheet of him uses the turnaround sheet block. His power isn't in the block: a shot that shows it adds it to the subject.
 
 ```
-Wave, a 22-year-old Black man: tall, athletic build with broad shoulders; warm brown skin; dark brown eyes and a high forehead; full, short near-black beard and mustache #261C17; long dark brown locs #261F18 with warmer auburn-brown ends #3B2D24, falling past his chest; his severed com chip on the left side of his face only: thin glowing cyan #2EB9DB circuit lines running across his left cheek and jaw into a small mechanical plate at his left jaw and ear; the right side of his face is bare; outfit: a fitted near-black tech suit #000002 with thin glowing neon lines in cyan #1BD1F2 and violet #7009E9 and a few dark goldenrod #8B6508 trim lines; in dark goldenrod #8B6508, its armoured shoulder plates, its wrist gauntlets with cables running from them, its gloved hands, its belt and the pouches on his thighs; large over-ear DJ headphones around his neck, with gunmetal #503F4F earcups each showing a glowing cyan #51E6E6 waveform icon
+Wave, a 22-year-old Black man: tall, athletic build with broad shoulders; warm brown skin; dark brown eyes and a high forehead; full, short near-black beard and mustache #261C17; long reddish-brown locs #4F211A falling past his chest, with copper cuffs #C56C21 on some of them; his severed com chip on the left side of his face only: thin glowing cyan #2EB9DB circuit lines running from his left temple down across his left cheek and jaw into a small mechanical plate at his left jaw and ear; the right side of his face is bare; outfit: a fitted near-black tech suit #000002 with thin glowing neon lines in cyan #1BD1F2 and violet #7009E9 and a few dark goldenrod #8B6508 trim lines; in dark goldenrod #8B6508, its armoured shoulder plates, its wrist gauntlets with cables running from them, its gloved hands, its belt and the pouches on his thighs; large over-ear DJ headphones around his neck, with gunmetal #503F4F earcups each showing a glowing cyan #51E6E6 waveform icon
 ```
 
 That's his combat skin. For his DJ skin, replace everything after `outfit:` with this:
@@ -557,7 +554,7 @@ a fitted near-black #000002 long-sleeved top with a high collar trimmed in dark 
 For sheets, add this straight after the description, so the com chip lands on the right side. Like Ozzy's and the doctor's sheet notes, it uses directions relative to the viewer. His one-sided feature is on his left, so his turned views face the viewer's left, the opposite of theirs:
 
 ```
-; in the front view the com chip's circuit lines and plate are on his left cheek and jaw, the viewer's right, and the right side of his face is bare; the three-quarter view and the side view face toward the viewer's left, so his left cheek and the com chip face the camera
+; in the front view the com chip's circuit lines and plate are on his left temple, cheek and jaw, the viewer's right, and the right side of his face is bare; the three-quarter view and the side view face toward the viewer's left, so his left cheek and the com chip face the camera
 ```
 
 ## Restyled images
