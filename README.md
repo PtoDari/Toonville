@@ -22,6 +22,7 @@ Every prompt is built in this order:
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
 | Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
+| Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
@@ -172,6 +173,20 @@ Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left; [GLOW SOURCE] is the only glowing source, with bloom, and its colour becomes the character's rim light on the side facing it.
 Camera: eye level, long lens, no perspective distortion.
+```
+
+## Full-body action pose block
+
+For a single full-body action pose of one character on the same plain background as the sheets, without a glowing power. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[SKIN HEX]` and `[ACCENT HEX]`. Describe the complete pose clearly, including the placement of both hands and feet, the direction the character faces and the distribution of their weight. Keep the whole figure visible from head to feet.
+
+Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. The pose is dynamic, but the camera does not distort anatomy or proportions.
+
+```
+Full-body action pose of [CHARACTER DESCRIPTION]. Single figure, shown head to feet, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Lighting: even light from upper left, identical in every view, no bloom.
+Camera: eye level, long lens, no perspective distortion; full figure kept inside the frame.
 ```
 
 ## Object sheet block
