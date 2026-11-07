@@ -529,6 +529,7 @@ Wave, a 22-year-old Black man: tall, athletic build with broad shoulders; warm b
 
 #### Sheet note
 Wave's com chip and cyan circuitry are on his own LEFT side only. In a front view, they appear on the viewer's RIGHT. His loc tips are dark goldenrod #8B6508, not auburn or copper.
+- **Approved combat pose reference:** Wave's full-body Bagua Zhang palm-strike stance, generated 2026-11-07, is approved canon. Use it as the pose reference for this martial-arts action stance. The image is retained in the conversation; the written character and colour specifications above remain authoritative.
 
 #### Short backup
 Tall athletic Black man, warm brown skin, dark eyes, full short dark beard, long dark brown locs with dark goldenrod tips, and cyan circuitry on his LEFT cheek and jaw only.
