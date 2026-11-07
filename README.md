@@ -500,7 +500,7 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
   - **Beard:** full and short, with a mustache, near-black `#261C17`.
   - **Locs:** long and dark brown `#261F18`, falling past his chest, with warmer auburn-brown ends `#3B2D24`. The illustrations draw them black; the photos' brown is canon.
 - **Com chip, on his left side only:** his severed com chip, shown as thin glowing cyan `#2EB9DB` circuit lines running across his left cheek and jaw into a small mechanical plate at his left jaw and ear. His left side is the viewer's right in a front view. The right side of his face is bare.
-- **Power:** holographic equalizer bars that rise from his open palms, glowing cyan `#28DFF5`, blue `#108AE9` and pink-violet `#BC29E4`. It's a power of his, held in a muted state, which he can use as DJ tech. What it is at full strength is TBD. The bars are a glowing source, so they get bloom.
+- **Powers:** sonic. In their muted state, which he can use as DJ tech, they show as holographic equalizer bars rising from his open palms, glowing cyan `#28DFF5`, blue `#108AE9` and pink-violet `#BC29E4`. The bars are a glowing source, so they get bloom. What his sonic powers look like and do at full strength is TBD.
 - **Outfit, from the illustrations:** a fitted near-black tech suit `#000002` with armoured shoulder plates and thin glowing neon lines in cyan `#1BD1F2` and violet `#7009E9`, wrist gauntlets with cables running from them, a belt and pouches on his thighs, and large over-ear DJ headphones around his neck. Its name is TBD.
 - **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. He goes on the [size chart](#size-chart) once he has a turnaround sheet.
 - **Colours:**
