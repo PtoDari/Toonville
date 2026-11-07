@@ -65,3 +65,19 @@ orion-booth-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of u
 orion-bar-night.jpg
 The view from behind the bar, night, in the calm setting: made by the user and made canon by the user, 1672x941, the camera-position sheet's bar view on its own. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 orion-bar-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-platform-close-night.jpg
+The DJ platform close-up, night, in the calm setting: made by the user and made canon by the user, 1672x941, one of four close-up interior shots the user made for consistency in scene production. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-platform-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-bar-close-night.jpg
+The bar close-up, night, in the calm setting: made by the user and made canon by the user, 1672x941, one of the four close-up interior shots. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-bar-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-booths-close-night.jpg
+The booth-row close-up, night, in the calm setting: made by the user and made canon by the user, 1672x941, one of the four close-up interior shots. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-booths-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-lobby-calm-night.jpg
+The view from the lobby, night, in the calm setting: made by the user and made canon by the user, 1671x941, the last of the four close-up interior shots. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-lobby-calm-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
