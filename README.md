@@ -39,265 +39,13 @@ The character, night and day blocks further down are reference copies that spell
 
 ## Video spec
 
-Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all.
+Every Toonville video is 30 seconds long, 1080p (1920Ã1080), 16:9, at 24 frames per second: 720 frames in all.
 
-- **Everything made for a video follows it:** stills, keyframes, storyboards, background plates, and any turnaround or other sheet that appears in a video are 16:9 and finished at 1920×1080. Generate at the generator's 16:9 size, then scale every image to 1920×1080 the same way.
+- **Everything made for a video follows it:** stills, keyframes, storyboards, background plates, and any turnaround or other sheet that appears in a video are 16:9 and finished at 1920Ã1080. Generate at the generator's 16:9 size, then scale every image to 1920Ã1080 the same way.
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
-- **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets and the golden staff's design reference (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
-
-## All-in-one block
-
-One block (197 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
-
-- Delete the **Night** or **Day** line you don't need. If both stay in, most generators blend them into a muddled dusk scene.
-- Replace `[SKIN HEX]` and `[ACCENT HEX]` with the character's colours from the character table below.
-
-The separate blocks further down hold the same rules in more detail.
-
-```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
-Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
-Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
-Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
-Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
-```
-
-## Camera lines
-
-The all-in-one block's Camera line is the default, for wide and medium shots. A scene or plate that needs one of the shots below swaps it for that shot's line, word for word. Every line ends with the background matching the shot, so the location stays in step with the camera. Pans and other camera moves are for video, and come with a video block.
-
-**Default, for wide and medium shots:** already in the all-in-one block.
-
-```
-Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
-```
-
-**Close-up:** a face, a hand or an object filling the frame. A long lens keeps a face undistorted. The subject says which way the character turns, so one-sided features like Ozzy's face tattoo face the camera.
-
-```
-Camera: close-up, the subject filling the frame, long lens, slightly low angle, no distortion; background soft, matching the shot.
-```
-
-**Over the shoulder:** looking past one character at what they face. The near character is in the shot, so their character style block goes in the prompt too.
-
-```
-Camera: over the shoulder, eye level, the near character's head and shoulder dark and soft in the foreground at one side of the frame; the far subject sharp, long lens; background matches the shot.
-```
-
-**POV:** through a character's eyes. Their hands show only when they act. When they do, that character's style block goes in too, so the right tattoos and the right hand show.
-
-```
-Camera: first-person point of view from the character's eye level, wide angle, their own hands foreshortened at the bottom of the frame when they act; background matches the shot.
-```
-
-**Standoff:** rule-of-thirds framing before a stand-down or an intense fight.
-
-```
-Camera: wide shot, low angle, long lens; the opposing sides on the left and right thirds of the frame, facing each other across open ground, horizon on the lower third; background matches the shot.
-```
-
-**Screen:** what a phone's front camera sees, for a live stream or a video call. Generators garble on-screen text, so it's generated at 9:16 with no app interface. The stream's or call's interface is added in editing, where the shot is placed in the 16:9 frame.
-
-```
-Camera: phone front camera held at arm's length, slightly above eye level, ultra-wide selfie lens with mild distortion at the edges, the holding arm foreshortened toward the lens at one side, vertical framing; background matches the shot; no on-screen interface, labels or captions.
-```
-
-## Character sheet block
-
-For turnaround sheets that keep a character consistent across shots. Replace `[CHARACTER DESCRIPTION]`, the three expressions, `[SKIN HEX]` and `[ACCENT HEX]`.
-
-It differs from the story blocks on purpose: a straight eye-level camera (wide-angle and low or aerial shots distort proportions), one even light that matches in every view, and a flat mid grey `#808080` background with no scenery, labels or captions. Mid grey is the default background for every character sheet, including the turnaround and headshot sheet blocks below. It says "no labels or captions" rather than "no text", because generators read "no text" as no lettering anywhere and can erase tattoos and clothing logos.
-
-```
-Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Row of three expression close-ups: [EXPRESSION 1], [EXPRESSION 2], [EXPRESSION 3]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left, identical in every view, no bloom.
-Camera: eye level, long lens, no perspective distortion.
-```
-
-## Turnaround sheet block
-
-For full-body turnarounds without the expression row, so heads never overlap the standing views. Replace `[CHARACTER DESCRIPTION]`, `[SKIN HEX]` and `[ACCENT HEX]`.
-
-It's the character sheet block with one change, asked for: the row of expression close-ups is removed. Every other word is the same.
-
-```
-Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left, identical in every view, no bloom.
-Camera: eye level, long lens, no perspective distortion.
-```
-
-## Headshot sheet block
-
-For head-and-shoulders turnarounds that keep a character's face, hair and face tattoos consistent. Replace `[CHARACTER DESCRIPTION]`, `[SKIN HEX]` and `[ACCENT HEX]`.
-
-It's the character sheet block with one change, asked for: head-and-shoulders views instead of full body. Every style line is the same, word for word, including the mid grey background.
-
-```
-Headshot turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views of the head and shoulders, same size and scale, eyes aligned on one level, relaxed neutral expression. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left, identical in every view, no bloom.
-Camera: eye level, long lens, no perspective distortion.
-```
-
-## Medium shot block
-
-For a single shot of one character framed from the waist up, on the same plain background as the sheets. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[SKIN HEX]` and `[ACCENT HEX]`. In the pose, say which way the character turns, so features that must stay on one side (like Ozzy's face tattoo) face the camera.
-
-Its style lines are the sheet blocks' lines, word for word: one even light, an eye-level long-lens camera and flat mid grey `#808080`. A medium shot set in a place uses the all-in-one block instead.
-
-```
-Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left, identical in every view, no bloom.
-Camera: eye level, long lens, no perspective distortion.
-```
-
-## Action medium shot block
-
-For a single action shot of one character framed from the waist up, on the same plain background as the sheets, while one of their powers glows: for example, Ozzy charging his plasma. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[GLOW SOURCE]`, `[SKIN HEX]` and `[ACCENT HEX]`. In the pose, say which way the character turns, as in the medium shot block, and which hand holds what.
-
-It's the medium shot block with one change, asked for: the lighting line lets the power glow with bloom and rim-light the character, because glowing sources get bloom and their light becomes the rim light. Every other line is the same, word for word, including the mid grey `#808080` background and the eye-level camera.
-
-```
-Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left; [GLOW SOURCE] is the only glowing source, with bloom, and its colour becomes the character's rim light on the side facing it.
-Camera: eye level, long lens, no perspective distortion.
-```
-
-## Full-body action pose block
-
-For a single full-body action pose of one character on the same plain background as the sheets, without a glowing power. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[SKIN HEX]` and `[ACCENT HEX]`. Describe the complete pose clearly, including the placement of both hands and feet, the direction the character faces and the distribution of their weight. Keep the whole figure visible from head to feet.
-
-Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. The pose is dynamic, but the camera does not distort anatomy or proportions.
-
-```
-Full-body action pose of [CHARACTER DESCRIPTION]. Single figure, shown head to feet, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left, identical in every view, no bloom.
-Camera: eye level, long lens, no perspective distortion; full figure kept inside the frame.
-```
-
-## Object sheet block
-
-For the objects that belong to one character: things they carry, wear, use or are known by. Each object gets its own sheet, so it looks the same in every shot. Replace `[OBJECT DESCRIPTION]`, `[CHARACTER NAME]`, `[SKIN HEX]` and `[ACCENT HEX]`. The description comes from the object list in the owner's entry: what the object is, what it's made of, its colours as hex codes and its real size in cm. The owner's hand appears in one view, so the prompt carries their character style block too, after the subject.
-
-Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. Objects that stay in one place are part of that location's sheet instead.
-
-```
-Object sheet of [OBJECT DESCRIPTION], belonging to [CHARACTER NAME]. Front, side, back and top views of the object alone, same scale, aligned on one ground line, plus one view of it held in [CHARACTER NAME]'s hand to show its size. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
-Lighting: even light from upper left, identical in every view, no bloom.
-Camera: eye level, long lens, no perspective distortion.
-```
-
-## Edit block
-
-For edits and inpainting on existing Toonville art: write the edit first (what to change, and where), then the character style block for anyone being edited, then this block. For an edit that touches only the background, replace the Characters line with the all-in-one block's Environment line and its Night or Day line.
-
-```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
-Outside the edited area, keep the image exactly as it is: same layout, lighting, camera, line weight and colours.
-```
-
-Some existing sheets drift from the style, with thinner lines and softer shading. Their colour casts have been corrected by hand (see [Restyled images](#restyled-images)), but line weight and shading can't be fixed that way, so an edit that carries this block can come out slightly bolder than the art around it. New sheets generated with the full style block avoid that.
-
-## Character block
-
-Reference copy of the character rules. Prompts use the blocks in the style rule table, which already contain them.
-
-```
-90s cel anime with comic-book inking. Line work: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: flat cel colour, one or two hard-edged shadow tones, solid spotted blacks. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
-```
-
-## Character table
-
-Each main character has their own height, skin tone and one signature accent colour. The height, measured barefoot, sets their size on the [size chart](#size-chart). The skin tone fills `[SKIN HEX]`. The accent fills `[ACCENT HEX]`; it appears on the character and is the colour the environment picks up when it reacts to them.
-
-| Character | Height | Skin tone | Accent name | Accent hex |
-|---|---|---|---|---|
-| Ozzy | 6'2" (188 cm) | Deep brown `#9B7461` | Electric indigo | `#6F00FF` |
-| Dr. Erich Heyes, the doctor | 6'5" (196 cm) | Pale ivory `#EAD8C4` | Red | `#CC4747` |
-| _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
-| _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
-
-## Characters
-
-Every character has their own **character style block**: their look, tattoos and outfits, written to fill `[CHARACTER DESCRIPTION]` and to go in front of the style block in every prompt that shows them. Each character entry holds:
-
-- a row in the character table, with height, skin tone and accent colour
-- profile notes: colours, hair, face, tattoos and outfits
-- their character style block
-- a sheet note, if they have features that must stay on one side
-- a short backup of their character style block
-- a sheet for each outfit and hairstyle in `characters/<name>/`, named `<name>-<outfit>-<hairstyle>.jpg` (for example `-hair-up` or `-hair-down`), with any known differences listed; a character who carries a weapon gets one turnaround with it and one without
-- a list of the objects that belong to them, with an object sheet for each in `characters/<name>/objects/`
-
-Asset IDs from earlier work label characters (`CHAR_`), their outfits (`SKIN_`) and their objects (`PROP_`). Keep them as given.
-
-### Ozzy
-
-- **Approved jacket-on boxing combat reference:** the full-body bare-fist boxing guard image generated 2026-11-07 is approved canon for this combat pose, jacket-on outfit, and the absence of Ozzy's golden staff. The image is retained in the conversation. Its visible wrist implant, back-of-hand `# Toonville
-
-Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills. [STORY.md](STORY.md) holds the story so far: the conflict, the characters' stories, the world and the scenes.
-
-## The style rule
-
-Every Toonville prompt carries the established style, word for word, with no exceptions. That includes full prompts, short backups, edits and inpainting, one-line fixes, and anything sent to an image or video tool. This is what keeps every character, environment and prop consistent.
-
-Every generation reflects it too. From now on, every image and video made for Toonville, in any tool, comes from a prompt that carries the master style line below and the job's style block, word for word. Each result is checked against the style before it's accepted, and one that drifts from it isn't used: it's fixed or made again.
-
-Every prompt is built in this order:
-
-1. **Subject:** who or what, doing what, where. For a scene, add the story moment from the **reactive environment** table.
-2. **Character style block:** for every character in the shot, their own block from the Characters section below. It covers their look, tattoos and outfit, with their skin and accent hex from the character table.
-3. **Style block:** the block for the job, copied word for word.
-
-| Job | Style block | The only edits allowed |
-|---|---|---|
-| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
-| Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
-| Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
-| Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
-| Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
-| Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
-| Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
-| Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
-| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
-| Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
-
-Every one of those blocks opens with the **master style line**, so it appears in every prompt:
-
-```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-```
-
-No prompt rewords, shortens or drops style wording. A style change happens only when it's asked for, and it goes into this README first.
-
-The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
-
-## Video spec
-
-Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all.
-
-- **Everything made for a video follows it:** stills, keyframes, storyboards, background plates, and any turnaround or other sheet that appears in a video are 16:9 and finished at 1920×1080. Generate at the generator's 16:9 size, then scale every image to 1920×1080 the same way.
-- **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
-- **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
-- **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets and the golden staff's design reference (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920Ã1080 at 24 fps before it's cut in.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920Ã1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets and the golden staff's design reference (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920Ã1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -578,12 +326,12 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
 - **Medium shot, main outfit, hair up:** [`characters/ozzy/ozzy-medium-shot-main-outfit-hair-up.jpg`](characters/ozzy/ozzy-medium-shot-main-outfit-hair-up.jpg), a single shot in his main outfit with his hair up, framed from the waist up and turned slightly toward the viewer's right, on mid grey `#808080` (made with the medium shot block). The generator mirrored him, so the shot was flipped and his tattoos were put back where they belong. It's canon for how he looks in a single shot: the face tattoo on his right temple in front of his ear, reading A, l, l, $, I, n; the leopard print below his left sleeve; a nose ring in each nostril; and his chain. Exceptions, where the written rules here win:
   - **"High Power":** most of both words show above a lower neckline. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
   - **Hand tattoo:** the "$" doesn't show the two short ticks across its lower curve.
-- **Front view, main outfit, hair up:** [`characters/ozzy/ozzy-front-view-main-outfit-hair-up.jpg`](characters/ozzy/ozzy-front-view-main-outfit-hair-up.jpg), the front view from his hair-up main-outfit sheet on its own, full body and centred, at the medium shot's size (1792×2400) on mid grey `#808080`. It's cut from that sheet at full resolution, with the sheet's ground line taken out, so it's canon for the same things and carries the same exceptions, where the written rules here win:
+- **Front view, main outfit, hair up:** [`characters/ozzy/ozzy-front-view-main-outfit-hair-up.jpg`](characters/ozzy/ozzy-front-view-main-outfit-hair-up.jpg), the front view from his hair-up main-outfit sheet on its own, full body and centred, at the medium shot's size (1792Ã2400) on mid grey `#808080`. It's cut from that sheet at full resolution, with the sheet's ground line taken out, so it's canon for the same things and carries the same exceptions, where the written rules here win:
   - **Nose rings:** only one ring shows. He has one in each nostril.
   - **Face tattoo lettering:** a little garbled. It reads A, l, l, $, I, n.
   - **"High Power" at the collar:** reads as just the capitals H and P. The placement is right.
   - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here, as on that sheet. The Playboy bunny is still violet; it's white.
-- **Close-ups, hair up:** [`ozzy-close-up-glare-hair-up.jpg`](characters/ozzy/ozzy-close-up-glare-hair-up.jpg), [`ozzy-close-up-smirk-hair-up.jpg`](characters/ozzy/ozzy-close-up-smirk-hair-up.jpg) and [`ozzy-close-up-calm-hair-up.jpg`](characters/ozzy/ozzy-close-up-calm-hair-up.jpg) in `characters/ozzy/`, his three default expressions as head close-ups, each centred at 1792×2400 on mid grey `#808080`. They're cut at full resolution from the expression row of his first hair-up sheet. The glare and smirk turn toward the viewer's right with the face tattoo on his right temple, and the calm look turns toward the viewer's left, showing his bare left temple. They're canon for his expressions and his face from close up. Exceptions, where the written rules here win:
+- **Close-ups, hair up:** [`ozzy-close-up-glare-hair-up.jpg`](characters/ozzy/ozzy-close-up-glare-hair-up.jpg), [`ozzy-close-up-smirk-hair-up.jpg`](characters/ozzy/ozzy-close-up-smirk-hair-up.jpg) and [`ozzy-close-up-calm-hair-up.jpg`](characters/ozzy/ozzy-close-up-calm-hair-up.jpg) in `characters/ozzy/`, his three default expressions as head close-ups, each centred at 1792Ã2400 on mid grey `#808080`. They're cut at full resolution from the expression row of his first hair-up sheet. The glare and smirk turn toward the viewer's right with the face tattoo on his right temple, and the calm look turns toward the viewer's left, showing his bare left temple. They're canon for his expressions and his face from close up. Exceptions, where the written rules here win:
   - **Nose rings:** the glare and smirk show one small gold stud, and the calm look shows none. He has a small gold ring in each nostril.
   - **Collar:** a white collar band shows at the neck, and "High Power" doesn't show. His main outfit is a black crew-neck T-shirt with the tops of the lettering just above the collar.
   - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here, removing the rosy, violet cast they had.
@@ -605,7 +353,7 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
         - **Encrusting:** it covers about the top two-thirds of the retracted staff.
         - **Size:** in his hand it reads about 45 cm. It's 30 cm retracted.
       - **On both sheets:** his T-shirt has no Playboy logo, and the nose rings don't match: one ring on the extended sheet, none on the retracted. He has a small gold ring in each nostril.
-      - **Design reference:** [`ozzy-golden-staff-design-reference.jpg`](characters/ozzy/objects/ozzy-golden-staff-design-reference.jpg), a multi-panel design sheet, made canon by the user, at 1536×1024. It has:
+      - **Design reference:** [`ozzy-golden-staff-design-reference.jpg`](characters/ozzy/objects/ozzy-golden-staff-design-reference.jpg), a multi-panel design sheet, made canon by the user, at 1536Ã1024. It has:
         - extended and retracted views, most with the diamond encrusting and one of each without it
         - close-ups of the encrusted and plain sections, the collars between sections, the faceted diamond tip and the end cap
         - top views of the diamonds
@@ -617,13 +365,13 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
         - **Encrusting:** on the extended views it covers about the top sixth of the staff, and one extended and one retracted view show none. Its top third is encrusted.
         - **Style:** more rendered than the Toonville look, with diagram arrows and panel borders.
         - **Colours:** colour-corrected by hand toward the master style and the hex codes listed here: the panels are flat mid grey and the gold is close to `#CEAF81`. His joggers read a little greyer than on his other sheets.
-        - **16:9 version:** [`ozzy-golden-staff-design-reference-16x9.jpg`](characters/ozzy/objects/ozzy-golden-staff-design-reference-16x9.jpg), padded at the sides on flat grey to 1920×1080.
+        - **16:9 version:** [`ozzy-golden-staff-design-reference-16x9.jpg`](characters/ozzy/objects/ozzy-golden-staff-design-reference-16x9.jpg), padded at the sides on flat grey to 1920Ã1080.
   - **Governor chip:** a cybernetic implant on the inside of his left wrist, not one of his stolen artifacts: the doctor put it there (see Governor chip below). It's never a handheld device, and it's only ever shown out of his wrist after he rips it out.
     - **Look:** from the user's reference image, which isn't stored in this repo: a squat round puck of brushed steel, with a polished steel bezel around a domed black glass face. On the face, a single glowing sky-blue line folds into two triangles meeting at a point, like an angular infinity sign. A thin band of lavender light circles the puck below the bezel, and a frosted base disc glows the same lavender underneath. A fine vent grille, a tiny button and a small amber port sit on its side. A short bundle of braided blue, violet and white wires runs from its side to a small rectangular steel anchor plate with two screws.
     - **Colours:** sampled from the reference image: symbol sky blue `#70B3F7`, light band lavender `#8D8EDB`, wires blue `#6C73B5`, steel `#86808D` and port amber `#B36A3B`. When it glitches, its light flickers his electric indigo `#6F00FF`.
     - **Size:** about the same size as his "$" tattoo, roughly 3 cm across.
     - **In his wrist:** set flush into the inside of his left wrist, level with the skin, never sticking out like a button. Only its glass face and thin steel rim show, with its faint lavender ring of light around the rim. It's never on his right arm, his palm or his hand, and in a palm-up view it shows on the inside of his left wrist.
-    - **Object sheet:** [`ozzy-governor-chip.jpg`](characters/ozzy/objects/ozzy-governor-chip.jpg), made outside this project's Higgsfield account from the object sheet prompt, at 1536×1024, then fixed by hand. It has a large head close-up; a turnaround of him in his main outfit with the jacket, in front, three-quarter, side, back three-quarter and back views; close-ups of his face tattoo, his chest and his hands; the chip on its own from the front, both sides and the back; the chip set into the inside of his left wrist; a cutaway of it under the skin; and the retracted staff at his hip. It's canon for the chip's look, including the four screws on its steel back and its bow-tie symbol, and for how it sits flush inside his left wrist with its lavender glow. Exceptions, where the written rules here win:
+    - **Object sheet:** [`ozzy-governor-chip.jpg`](characters/ozzy/objects/ozzy-governor-chip.jpg), made outside this project's Higgsfield account from the object sheet prompt, at 1536Ã1024, then fixed by hand. It has a large head close-up; a turnaround of him in his main outfit with the jacket, in front, three-quarter, side, back three-quarter and back views; close-ups of his face tattoo, his chest and his hands; the chip on its own from the front, both sides and the back; the chip set into the inside of his left wrist; a cutaway of it under the skin; and the retracted staff at his hip. It's canon for the chip's look, including the four screws on its steel back and its bow-tie symbol, and for how it sits flush inside his left wrist with its lavender glow. Exceptions, where the written rules here win:
       - **"$" tattoo:** in the hand panel at the bottom left it's on his left hand, but on the back of the hand just above the web, not on the web itself. The small hand panel on the right had it on his right hand, so it was painted out there.
       - **Chip on the forearm panel:** in the small panel on the right, it sits partway up the forearm, not at the wrist.
       - **Face tattoo lettering:** both face close-ups read A, A, l, $, I, n, so in each the second letter was painted out and replaced with a copy of the sheet's own "l". They now read A, l, l, $, I, n.
@@ -639,7 +387,7 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
     - **Worn:** pulled all the way down, with its neck bunched in soft folds above his collar. For prompts, use the balaclava swap under his character style block.
     - **Object sheet:** [`ozzy-balaclava.jpg`](characters/ozzy/objects/ozzy-balaclava.jpg) in `characters/ozzy/objects/`, made from the object sheet block in ChatGPT, then fixed by hand: front, side, back and top views of the balaclava on its own, Ozzy holding it in his right hand, a view of him wearing it, an unmasked close-up and a full-body turnaround in his main outfit. It's canon for the balaclava's look: the offset rows of lettering with no stripes, the eye opening, the ribbed hem and the New Era flag on its left side. The unmasked close-up is also a good reference for his face tattoo, reading A, l, l, $, I, n on his right temple, and a nose ring in each nostril. Exceptions, where the written rules here win:
       - **"$" tattoo:** the full-body front view had it on both hands, so the one on his left hand was painted out. The "$" has since moved to the web of his left hand, so the one left on his right hand is now the wrong one.
-      - **Style:** more rendered than the Toonville look, with hatching, at only 1536×1024. Use his character sheets for his look.
+      - **Style:** more rendered than the Toonville look, with hatching, at only 1536Ã1024. Use his character sheets for his look.
       - **Earring:** the close-up shows a small stud in his right ear. He doesn't wear one.
       - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
 - **Powers:** he channels his energy into electric indigo `#6F00FF` plasma beams, fired from his hands or from the golden staff's diamond tip. The plasma is a glowing source, so it gets bloom. While he fires it, it's the main light on him: it becomes his rim light and lights the scene around him. His heated plasma is also the only thing that can power his ship, the Crystal Tower. He was born with these powers: he thinks they're electricity, but he really ionizes the gas in the air into plasma. The smaller crackle he takes for electricity looks light blue, with its hex code still TBD, while his plasma stays electric indigo. He charges from light, such as neon, the city's lights, starry nights and, above all, the sun, and stores the charge. The small star remnants he collects glow; their colour, and the look of the Star Seeds he makes from them, are TBD. How his powers work is in [STORY.md](STORY.md).
@@ -724,11 +472,11 @@ The main antagonist, known as the doctor: the head of the medical wing in the Cr
 - **Height:** about 6'5" (196 cm), barefoot, from the ground to the top of his head. He's about 7 heads tall, counting a head from the top of his head to his chin. His boots add about 4 cm, so in them he stands about 200 cm. It's measured on his Combat Skin turnaround and drawn on the [size chart](#size-chart).
 - **Colours:** pale ivory skin `#EAD8C4`, a red accent `#CC4747` and an olive grey suit `#5F6352`, all picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it. The rest come from the palette swatches on his expanded sheet, adopted by the user: silver-grey hair `#9E9199`, matte silver trim `#A99E9F`, black metal `#212128` for his boots and cybernetic hand, and silver `#B2B2B7` for his award decorations and emblem.
 - **Sheets:** in `characters/heyes/`, named `heyes-<outfit>.jpg`. Both were approved in earlier work. The user's original award and insignia references, which aren't stored in this repo, are the authority for fine detail.
-  - **Combat Skin turnaround:** [`heyes-combat-skin.jpg`](characters/heyes/heyes-combat-skin.jpg), front, three-quarter, side and back views, full body, on flat grey, at 1536×1024. It's canon for his Combat Skin: his build, face and hair, the suit's details, the boots, the cybernetic right hand and where every marking sits. In every view, each marking and the cybernetic hand are on the correct side. Exceptions, where the written rules here win:
+  - **Combat Skin turnaround:** [`heyes-combat-skin.jpg`](characters/heyes/heyes-combat-skin.jpg), front, three-quarter, side and back views, full body, on flat grey, at 1536Ã1024. It's canon for his Combat Skin: his build, face and hair, the suit's details, the boots, the cybernetic right hand and where every marking sits. In every view, each marking and the cybernetic hand are on the correct side. Exceptions, where the written rules here win:
     - **Colours:** colour-corrected by hand toward the master style and his hex codes: his warm tan skin was recoloured to pale ivory `#EAD8C4`, and the suit pulled toward `#5F6352`.
     - **Left-arm patch:** a black disc inside the red ring, not a black diamond.
     - **Crown helmet:** not shown. He wears it with his Combat Skin.
-  - **Expanded Combat Skin sheet:** [`heyes-combat-skin-expanded.jpg`](characters/heyes/heyes-combat-skin-expanded.jpg), a design sheet and a secondary guide, at 1536×1024. It has:
+  - **Expanded Combat Skin sheet:** [`heyes-combat-skin-expanded.jpg`](characters/heyes/heyes-combat-skin-expanded.jpg), a design sheet and a secondary guide, at 1536Ã1024. It has:
     - a five-view turnaround, with a back three-quarter view
     - a face close-up and a head turnaround
     - three expressions: neutral, thinking with his cybernetic hand at his chin, and commanding
@@ -755,7 +503,7 @@ For sheets, add this straight after the description, so the insignia, the patch,
 ; in the front view the black Rod of Asclepius and the cybernetic hand are on his right side, the viewer's left, and the red patch and the award decorations are on his left side, the viewer's right; in the back view the red patch is on the viewer's left and the insignia and the cybernetic hand are on the viewer's right; the three-quarter view and the side view face toward the viewer's right, so his right bicep, the insignia and the cybernetic hand face the camera
 ```
 
-### Wave — Intergalactic Patrol Officer (`CHAR_002`)
+### Wave â Intergalactic Patrol Officer (`CHAR_002`)
 
 - **Age:** 22
 - **Height:** 6'4" (193 cm), barefoot.
@@ -790,7 +538,7 @@ Wave's com chip and cyan circuitry are on his own LEFT side only. In a front vie
 Tall athletic Black man, warm brown skin, dark eyes, full short dark beard, long dark brown locs with dark goldenrod tips, and cyan circuitry on his LEFT cheek and jaw only.
 
 #### Objects
-Wave has one personal object: `PROP_002`, an integrated transforming gold headphones/combat helmet. It has a dark goldenrod finish #8B6508 and a cyan visor #2EB9DB. Dimensions: 22 cm wide × 27 cm high × 29 cm deep. In DJ mode it docks into the raised collar. In Combat mode it becomes a full-face helmet with a continuous cyan visor. No other personal weapons, gadgets or accessories are established.
+Wave has one personal object: `PROP_002`, an integrated transforming gold headphones/combat helmet. It has a dark goldenrod finish #8B6508 and a cyan visor #2EB9DB. Dimensions: 22 cm wide Ã 27 cm high Ã 29 cm deep. In DJ mode it docks into the raised collar. In Combat mode it becomes a full-face helmet with a continuous cyan visor. No other personal weapons, gadgets or accessories are established.
 
 ## Restyled images
 
@@ -818,12 +566,12 @@ On 2026-11-06 every saved character sheet, object sheet and location sheet was b
 
 Each main character gets their own LoRA, trained on their canon art, so every generation keeps their face, hair and tattoos. The LoRA holds who the character is, and the style block still holds the Toonville look, so prompts carry both.
 
-- **Training sets:** in `characters/<name>/lora/`. Every canon view sits on its own 1024×1024 mid grey square, with a caption file of the same name, and `captions.csv` lists them all. Ozzy's set has 30 images, cut from his saved sheets, his medium shot and his three expression close-ups, with the trigger word `ozzytoon`.
+- **Training sets:** in `characters/<name>/lora/`. Every canon view sits on its own 1024Ã1024 mid grey square, with a caption file of the same name, and `captions.csv` lists them all. Ozzy's set has 30 images, cut from his saved sheets, his medium shot and his three expression close-ups, with the trigger word `ozzytoon`.
 - **Never mirror:** turn off flip, mirror or horizontal-flip augmentation in the trainer. Ozzy's face tattoo, "$" hand and leopard arm are one-sided, and mirrored copies would teach them on both sides.
 - **Captions name only what changes:** view and facing direction, framing, hair, outfit, expression and background. What never changes stays out of the captions so it binds to the trigger word: for Ozzy, his face, locs colour, tattoos, nose rings and chain. Known sheet differences are captioned, such as `tight bun` or `low neckline, chest tattoo text visible`, so they don't become part of him.
 - **Colours:** sources with a violet cast are colour-matched to his hair-down sheets before training.
 - **One base model:** train and generate on the same base model. A LoRA trained on one base generally won't work on another.
-- **In a prompt:** select the LoRA at about 0.7–0.9 weight and start the subject with the trigger word. The character style block and the job's style block follow as usual.
+- **In a prompt:** select the LoRA at about 0.7â0.9 weight and start the subject with the trigger word. The character style block and the job's style block follow as usual.
 - **Before trusting it:** generate a test set (front, three-quarter, side and back, hair up and hair down) and check it against canon. For Ozzy that's the face tattoo on his right temple, a nose ring in each nostril, his locs colour, the "$" on the web of his left hand and the leopard print on his left arm. Small lettering like "All $ In" and "High Power" rarely comes out clean, so plan to touch it up.
 
 ## Locations
@@ -904,7 +652,7 @@ These are the things every part of the city shares.
     - **Tower top:** a block crown lit gold, not the two gold-tipped spires of the establishing shot.
     - **Lines and texture:** heavy lines and a gritty texture, not flat cel colour with thin tinted lines. The near-black lines were tinted toward dark teal `#031E1C` by hand, and large black areas toward navy `#09102E`.
     - **Rain:** added by hand as thin straight white streaks.
-    - **Shape:** 1760×1344, not 16:9. Its 16:9 version, [`crystal-tower-drone-night-16x9.jpg`](locations/crystal-tower/crystal-tower-drone-night-16x9.jpg), is cropped around the centre to 1920×1080, keeping the aircraft and the tower's gold-lit top, and losing the far glow at the end of the road and the lower edge of the tower block.
+    - **Shape:** 1760Ã1344, not 16:9. Its 16:9 version, [`crystal-tower-drone-night-16x9.jpg`](locations/crystal-tower/crystal-tower-drone-night-16x9.jpg), is cropped around the centre to 1920Ã1080, keeping the aircraft and the tower's gold-lit top, and losing the far glow at the end of the road and the lower edge of the tower block.
 
 ### The Crystal Tower's control room
 
