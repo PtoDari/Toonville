@@ -44,7 +44,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint and Wave's headphone mechanism sheet (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's mechanism sheet on its own grey), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, Wave's headphone mechanism sheet and his DJ skin turnaround (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's two sheets on their own grey), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -501,15 +501,21 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
   - **Locs:** long and dark brown `#261F18`, falling past his chest, with warmer auburn-brown ends `#3B2D24`. The illustrations draw them black; the photos' brown is canon.
 - **Com chip, on his left side only:** his severed com chip, shown as thin glowing cyan `#2EB9DB` circuit lines running across his left cheek and jaw into a small mechanical plate at his left jaw and ear. His left side is the viewer's right in a front view. The right side of his face is bare.
 - **Powers:** sonic. In their muted state, which he can use as DJ tech, they show as holographic equalizer bars rising from his open palms, glowing cyan `#28DFF5`, blue `#108AE9` and pink-violet `#BC29E4`. The bars are a glowing source, so they get bloom. What his sonic powers look like and do at full strength is TBD.
-- **Outfit, from the illustrations, with his accent added by the user:** a fitted near-black tech suit `#000002` with thin glowing neon lines in cyan `#1BD1F2` and violet `#7009E9`, and a few trim lines in his dark goldenrod accent `#8B6508`. These parts of the suit are dark goldenrod too:
-  - its armoured shoulder plates
-  - its wrist gauntlets, with cables running from them
-  - its hands, which cover his own, so his palm holograms rise from gloved palms
-  - its belt
-  - the pouches on his thighs
+- **Outfits:** two, his DJ skin and his combat skin, confirmed by the user. Large over-ear DJ headphones hang around his neck in both.
+  - **DJ skin, as on his DJ turnaround:**
+    - **Top:** a fitted near-black `#000002` long-sleeved top with a high collar, trimmed in his dark goldenrod accent `#8B6508`, with a dark goldenrod front zip, dark goldenrod cuffs and thin dark goldenrod seam lines over the shoulders. Thin glowing neon lines in cyan `#1BD1F2` and violet `#7009E9` run down the arms and torso.
+    - **Trousers:** matching fitted near-black trousers, with cyan and violet neon lines down the legs.
+    - **Shoes:** high-top sneakers in black `#15111B`, white `#D2C5CB` and purple `#461A6A`, with dark goldenrod trim on the soles.
+    - **Hands:** bare.
+  - **Combat skin, from the illustrations, with his accent added by the user:** a fitted near-black tech suit `#000002` with thin glowing neon lines in cyan `#1BD1F2` and violet `#7009E9`, and a few dark goldenrod `#8B6508` trim lines. These parts of the suit are dark goldenrod too:
+    - its armoured shoulder plates
+    - its wrist gauntlets, with cables running from them
+    - its hands, which cover his own, so his palm holograms rise from gloved palms
+    - its belt
+    - the pouches on his thighs
 
-  Large over-ear DJ headphones hang around his neck. The illustrations show his hands bare and none of the dark goldenrod. The outfit's name is TBD.
-- **Combat mode:** his DJ headphones transform into a combat mask that closes over his head and face. He has a DJ look, with the headphones around his neck, and a combat look, with the mask on. The user is making a turnaround of each.
+    The illustrations show his hands bare and none of the dark goldenrod. Its footwear is TBD. Its turnaround is coming from the user.
+- **Combat mode:** his DJ headphones transform into a combat mask that closes over his head and face.
 - **Objects:** each one gets an entry here and an object sheet in `characters/wave/objects/`.
   - **Headphones and combat mask:** large over-ear DJ headphones that he wears around his neck, and that transform into his combat mask.
     - **Headphones:** gunmetal earcups `#503F4F` with dark goldenrod trim, each showing a glowing cyan waveform icon `#51E6E6`. Each earcup sits on a hinged arm at his suit's collar.
@@ -521,20 +527,31 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
       - **Background:** grey `#726D6D`, not mid grey `#808080`.
       - **Diagram arrows** run between the stages.
       - **16:9 version:** [`wave-headphones-mask-mechanism-16x9.jpg`](characters/wave/objects/wave-headphones-mask-mechanism-16x9.jpg), padded at the sides on the sheet's own grey to 1920×1080.
-- **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. He goes on the [size chart](#size-chart) once he has a turnaround sheet.
+- **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. On his DJ turnaround he's about 8 heads tall, counting a head from the top of his head to his chin. He goes on the [size chart](#size-chart) next.
 - **Colours:**
   - **Skin:** `#9C6C4E`, the average of the forehead and cheeks in both photos. The photos carry no colour profile, so they were read as sRGB.
   - **Hair:** locs `#261F18` with ends `#3B2D24`, and beard `#261C17`.
   - **Accent:** dark goldenrod `#8B6508`, picked by the user.
   - **Outfit, com chip and power:** sampled from the grey-background illustration.
-- **Accent note:** dark goldenrod `#8B6508`, chosen by the user, shows on his suit: its shoulder plates, wrist gauntlets, hands, belt, thigh pouches and a few trim lines. It doesn't appear in his references, so his first sheets will be the first to show it.
+- **Accent note:** dark goldenrod `#8B6508`, chosen by the user, shows on both outfits. On his DJ skin it's the collar trim, front zip, cuffs, shoulder seams and sneaker soles. On his combat skin it's the shoulder plates, wrist gauntlets, gloved hands, belt, thigh pouches and a few trim lines.
 - **Close colours:** his skin is within a few shades of Ozzy's `#9B7461`, and his suit's violet `#7009E9` is almost exactly Ozzy's electric indigo `#6F00FF`, which is also Orion's violet light.
-- **Sheets:** no turnarounds yet. The user is making his DJ and combat turnarounds.
+- **Sheets:** in `characters/wave/`, named `wave-<outfit>.jpg`. His combat skin turnaround is coming from the user.
+  - **DJ skin turnaround:** [`wave-dj-skin.jpg`](characters/wave/wave-dj-skin.jpg), made by the user, at 1536×1024. It has front, three-quarter, side and back views, full body, with close-ups of his face, the collar and an earcup, a hand and a sneaker, on grey. It's canon for his DJ skin, his face and build, the com chip on his left side, and the headphones around his neck. Its three-quarter and side views face the viewer's left, as his sheet note asks. Exceptions, where the written rules here win:
+    - **Locs:** redder `#4F211A` than his dark brown `#261F18`, with copper cuffs `#C56C21` on some locs, as on his mechanism sheet.
+    - **Com chip:** its circuit lines also run up his left temple, as on his mechanism sheet. They're on his left cheek and jaw only.
+    - **Colours:** skin `#A15A35` against `#9C6C4E`, gold `#BE7819` against `#8B6508`, a more magenta violet `#BE20EF` against `#7009E9`, a violet-black suit `#181220`, and a grey background `#777272`, not mid grey `#808080`.
+    - **16:9 version:** [`wave-dj-skin-16x9.jpg`](characters/wave/wave-dj-skin-16x9.jpg), padded at the sides on the sheet's own grey to 1920×1080.
 
 **Wave's character style block** (fills `[CHARACTER DESCRIPTION]`). His skin and accent fill the style block's hex slots as usual. He has no default sheet expressions yet, so a new sheet of him uses the turnaround sheet block. His power isn't in the block: a shot that shows it adds it to the subject.
 
 ```
 Wave, a 22-year-old Black man: tall, athletic build with broad shoulders; warm brown skin; dark brown eyes and a high forehead; full, short near-black beard and mustache #261C17; long dark brown locs #261F18 with warmer auburn-brown ends #3B2D24, falling past his chest; his severed com chip on the left side of his face only: thin glowing cyan #2EB9DB circuit lines running across his left cheek and jaw into a small mechanical plate at his left jaw and ear; the right side of his face is bare; outfit: a fitted near-black tech suit #000002 with thin glowing neon lines in cyan #1BD1F2 and violet #7009E9 and a few dark goldenrod #8B6508 trim lines; in dark goldenrod #8B6508, its armoured shoulder plates, its wrist gauntlets with cables running from them, its gloved hands, its belt and the pouches on his thighs; large over-ear DJ headphones around his neck, with gunmetal #503F4F earcups each showing a glowing cyan #51E6E6 waveform icon
+```
+
+That's his combat skin. For his DJ skin, replace everything after `outfit:` with this:
+
+```
+a fitted near-black #000002 long-sleeved top with a high collar trimmed in dark goldenrod #8B6508, a dark goldenrod front zip, dark goldenrod cuffs and thin dark goldenrod seam lines over the shoulders, with thin glowing neon lines in cyan #1BD1F2 and violet #7009E9 down the arms and torso; matching fitted near-black trousers with cyan and violet neon lines down the legs; bare hands; high-top sneakers in black #15111B, white #D2C5CB and purple #461A6A with dark goldenrod trim on the soles; large over-ear DJ headphones around his neck, with gunmetal #503F4F earcups each showing a glowing cyan #51E6E6 waveform icon
 ```
 
 For sheets, add this straight after the description, so the com chip lands on the right side. Like Ozzy's and the doctor's sheet notes, it uses directions relative to the viewer. His one-sided feature is on his left, so his turned views face the viewer's left, the opposite of theirs:
