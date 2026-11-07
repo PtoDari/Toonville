@@ -507,7 +507,7 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
     - **Trousers:** matching fitted near-black trousers, with cyan and violet neon lines down the legs.
     - **Shoes:** high-top sneakers in black `#15111B`, white `#D2C5CB` and purple `#461A6A`, with dark goldenrod trim on the soles.
     - **Hands:** bare.
-  - **Combat skin, from the illustrations and his combat turnaround, with his accent added by the user:** a fitted near-black tech suit `#000002` with thin glowing neon lines in cyan `#1BD1F2` and violet `#7009E9`, and a few dark goldenrod `#8B6508` trim lines. At the centre of his chest sits a large dark goldenrod speaker cone with a honeycomb grille, in a dark armoured housing. These parts of the suit are dark goldenrod too:
+  - **Combat skin, from the illustrations and his combat turnaround, with his accent added by the user:** a fitted near-black tech suit `#000002` with thin glowing neon lines in cyan `#1BD1F2` and violet `#7009E9`, and a few dark goldenrod `#8B6508` trim lines. At the centre of his chest sits a large dark goldenrod speaker cone with a honeycomb grille, in a dark armoured housing. These parts of the suit are dark goldenrod too, as the user confirmed, even where a sheet draws them black:
     - its armoured shoulder plates
     - its wrist gauntlets, with cables running from them and a round speaker dial on each
     - its hands, which cover his own, so his palm holograms rise from gloved palms
