@@ -760,7 +760,7 @@ These are the things every part of the city shares.
 ### Orion, Wave's nightclub
 
 - **What happens there:** Orion, Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
-- **What it is:** a medium-sized underground nightclub, called Orion. It's in the first scene, so it's being designed first.
+- **What it is:** a medium-sized underground nightclub, called Orion. The first scene happens outside it. Nothing happens inside until further into the story, but the user had its interior designed ahead of time.
 - **Layout:** from the user's design brief. It's spacious, with generous routes through it and clearly separated zones, so it never reads as one open empty room.
   - **Entrance:** a street-facing entrance at the front leads into a graffiti-covered entrance lobby, which opens straight into the main club, with no second door or connecting hallway. The first view from the lobby is the dance floor.
   - **Street front:** its sign spells "ORION" in illuminated neon lettering. It's the only readable signage at the club, inside or out, with no other words, slogans, logos or decorative lettering, and the rest of its neon outside is plain light. At the user's request, prompts carry the name in the sign, and every result is checked for the exact spelling: a garbled sign is fixed in editing. The rest of the street front's look is TBD.

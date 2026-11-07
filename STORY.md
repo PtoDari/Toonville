@@ -93,7 +93,8 @@ Each kind of shot has its camera line in the README's [Camera lines](README.md#c
 
 Add each scene idea here as it comes, with its place, day or night, the characters in it and what happens. Ideas don't need to be in order.
 
-- **The first scene:** Orion, Wave's nightclub, is in it. The rest of the scene is TBD.
+- **The first scene:** it happens outside Orion, Wave's nightclub. The rest of the scene is TBD.
+- **Inside Orion:** nothing happens inside the club until further into the story. Its interior was designed ahead of time, so it's ready when the story gets there.
 - **Test video, the alley:** Ozzy walks down an alley, unseen. The camera takes in the look of the place, and the audience hears him rather than sees him. His shadow shows on the ground or on a building, then a low sweeping shot comes down to his feet. It's an alley in Midtown, at night.
 - **Saved, the Crystal Tower at night:** the earlier test video idea. Ozzy alone, at night, on the ice road in front of the Crystal Tower, with the orphanage hidden in its basement. Ice-blue neon reflects off the steel towers and the ice road, with hints of gold neon at the very tops of the buildings. Saved for when the video is built: a drone shot leaving the tower, flying high down the road over the city, as in the Crystal Tower's drone view.
 
