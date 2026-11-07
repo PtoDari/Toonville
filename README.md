@@ -44,7 +44,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets and the golden staff's design reference (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference and Orion's concept blueprint (from 3:2), the hair-up medium shot, the front view and the three close-ups (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, and Orion's blueprint on its own navy), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -533,7 +533,7 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-Toonville's world is Lepus, a frozen island city deep in the ice, built against Crystal Mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower and Amethyst Path have sheets so far.
+Toonville's world is Lepus, a frozen island city deep in the ice, built against Crystal Mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower, Amethyst Path and Orion have sheets so far.
 
 ### Lepus, the frozen island city
 
@@ -541,6 +541,7 @@ These are the things every part of the city shares.
 
 - **What it is:** Lepus, a city deep in the ice, resting against a large mountain, Crystal Mountain. The island is a frozen desert. The mood is cold, lifted by vibrant neon and the sun's rare glow: the sun appears only once every six months. It grew up in the 19 years since the ship crashed, established quickly with the Tall Whites' technology and the remaining survivors of the royal fleet's main ship.
 - **Layout:** three parts. The Diamond District, the wealthy part with its towers, is at the foot of the mountain, where the Crystal Tower is lodged. Sunnymead, the rejected part, is far from it, and Midtown, for the common folk, the working class, separates the two. As far as the public knows, the city begins at the Crystal Tower and runs onward from it: they don't know about Amethyst Path or the Forbidden Foliage behind it.
+- **Scale:** a metropolis, with extensive urban sprawl, many neighbourhoods and long-distance travel between districts.
 - **The mountain:** the Crystal Tower blocks its passages, and there's no way around it. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, a hidden route between the city and the far side, which can be opened by thought, or by an incredibly fast hover bike with a Tall White's help; and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain, where no one goes, because of the Tall Whites. The hover bike's look is TBD.
 - **Streets:** paved in ice. At night they catch shine from the lights. When the sun is out, it bounces off them, and at certain times the whole city takes on a golden glow.
 - **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon.
@@ -560,16 +561,67 @@ These are the things every part of the city shares.
 
 ### Midtown
 
-- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and its nightlife is where Wave, the intergalactic patrol officer, moonlights as a DJ (see [STORY.md](STORY.md)).
-- **Look:** TBD.
-- **Day or night:** TBD.
+- **What happens there:** the part of the city for its common folk, the working class. It separates the Diamond District, the wealthy part, from Sunnymead, the rejected part. The Chase Tower stands there, and Wave, the intergalactic patrol officer, moonlights as a DJ at Orion, his nightclub there (see [STORY.md](STORY.md)).
+- **Look:** from the user's reference image, which isn't stored in this repo, with colours sampled from it: dark blue-black towers `#0D1A29` with warm amber-lit shop windows `#E89641` at street level, yellow neon `#FFDE14` in strips and bands, cyan neon panels `#0DF7FF` and the odd red `#FF443E` vertical sign, over a wet, cracked dark street `#0D2D4D` with yellow road lines that mirrors every light in long smears, under a dark night-blue sky `#142837`. Its signs are blank glowing panels, with no lettering. The reference's glowing crystal spire isn't part of Midtown.
+- **Day or night:** night, for the test video. Day TBD.
+- **Main light:** at night, its neon: yellow, amber, cyan and red. Which one is the main light depends on the spot, TBD. **Where characters stand:** TBD.
+- **Reactive surfaces:** the wet street, which mirrors the neon, the neon panels and the shop windows.
+- **Style note:** the reference is glossy and highly saturated. In Toonville, Midtown is flat cel colour with thin dark teal lines, slightly desaturated and mid-to-dark, with the bright colours kept to its signs and lamps, and rain at night, as the Night line asks.
+
+### The Midtown alley
+
+- **What happens there:** an alley in Midtown that Ozzy walks down, unseen, in the test video: the audience hears him and sees his shadow on the ground or a building, then a low sweeping shot comes down to his feet (see [STORY.md](STORY.md)).
+- **Look:** Midtown's look, above. The alley's own details are TBD.
+- **Day or night:** night.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
+
+### Orion, Wave's nightclub
+
+- **What happens there:** Orion, Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
+- **What it is:** a medium-sized underground nightclub, called Orion. It's in the first scene, so it's being designed first.
+- **Layout:** from the user's design brief. It's spacious, with generous routes through it and clearly separated zones, so it never reads as one open empty room.
+  - **Entrance:** a street-facing entrance at the front leads into a graffiti-covered entrance lobby, which opens straight into the main club, with no second door or connecting hallway. The first view from the lobby is the dance floor.
+  - **Street front:** its sign spells "ORION" in illuminated neon lettering. It's the only readable signage at the club, inside or out, with no other words, slogans, logos or decorative lettering, and the rest of its neon outside is plain light. At the user's request, prompts carry the name in the sign, and every result is checked for the exact spelling: a garbled sign is fixed in editing. The rest of the street front's look is TBD.
+  - **The sign:** made canon by the user, from the exterior inset of the concept blueprint, with its colours sampled from it. "ORION" is spelled in tall, rounded, geometric capitals, each letter a hollow outline drawn in neon tube. The tubes glow bright blue `#0A54ED` around a pale ice-blue core `#C3E9FD`. The letters sit on a dark navy panel `#001334` mounted on the façade above the entrance canopy. Violet neon `#9D1AF0` runs along the canopy's front edge, just below the sign, and glows again under the canopy.
+  - **Dance floor:** large, dark and mostly open, in the centre of the room, and kept unobstructed. It has no built-in illuminated panels: it catches reflected light.
+  - **Lounge booths:** seated booths along both side walls, separated from the dance floor by industrial concrete half walls and dark metal partitions with cyan and violet neon trim.
+  - **Graffiti:** one dedicated custom graffiti artwork on each side wall, facing each other across the room. The rest of the walls are mostly abstract graffiti. The two artworks' designs are TBD.
+  - **Bar:** a full-width bar spanning the entire rear wall, with room for customers in front of it and for staff behind it. Nothing shortens it.
+  - **Bathrooms:** two separate bathrooms, the men's and the women's, clearly told apart, each with its own entrance. They're near the back-right side of the club, as you look in from the entrance, just forward of the rear wall and close to the bar, with room to reach them without shortening the bar or blocking the lounges. Their stalls and fixtures aren't decided.
+  - **DJ platform:** Wave's platform floats directly over the centre of the dance floor, high above it and out of the crowd's reach, with no supports, stairs, ladders, bridges or public way up. Wave reaches it from the roof. It's enclosed completely in illuminated cyan glass, and behind him one massive continuous LED display shows animated equalizer patterns. There's generous clearance between the dance floor, the platform and the ceiling.
+  - **Ceiling:** covered entirely by a projected Milky Way galaxy in deep navy, cyan and violet, with moving spotlights overhead and haze over the dance floor.
+- **Look:** a dark underground electronic music venue of industrial concrete, dark metal and abstract graffiti, lit mainly in cyan and violet. Inside, the light comes only from illuminated surfaces and light sources, with no readable words or neon signs.
+- **Day or night:** night.
+- **Main light:** cyan `#24C1D9` and violet, the club's dominant light. The cyan is sampled from the materials key on its concept blueprint, and matches its neon trim and the platform's cyan glass across the sheet. The violet is Ozzy's electric indigo `#6F00FF`, chosen by the user: every violet in the club, from the neon trim to the galaxy ceiling, is that colour. **Where characters stand:** TBD.
+- **Reactive surfaces:** TBD.
+- **Style note:** the club's violet is the same colour as Ozzy's accent, so in Orion his indigo doesn't stand apart from the room by colour.
+- **Sheets:** in `locations/orion/`, with its prompt and settings in `prompts.txt`.
+  - **Concept blueprint, night:** [`orion-blueprint-night.jpg`](locations/orion/orion-blueprint-night.jpg), made by the user in ChatGPT from their brief, with their two earlier concept blueprints as layout references (those aren't stored in this repo), then fixed by hand. At 1536×1024, it has the top-down floor plan in the middle. On the left are the exterior with the "ORION" sign, a lounge booth and a lounge section detail. On the right are a side section, a front elevation of the DJ platform and the projected galaxy ceiling. A title block and a materials key run along the bottom. It's canon for the club's layout:
+    - the street entrance and the graffiti lobby
+    - the booths, with a dedicated graffiti panel, down both side walls
+    - the full-width bar, with the staff area behind it
+    - the men's and women's bathrooms at the back right
+    - the open central dance floor
+    - the floating platform in its cyan glass box, with the equalizer display behind the console
+    - the galaxy ceiling with its spotlights
+    - the lounges' construction: concrete half wall, dark metal partition with cyan and violet neon trim, and booth seating
+
+    Its exterior inset is canon for the "ORION" sign. Its other insets show one take on the street front and the booths, and their looks stay TBD until they're approved. Exceptions, where the written rules here win:
+    - **Lobby doors:** a pair of swing doors stood where the lobby meets the club, so they were painted out. The lobby opens straight into the club.
+    - **Platform:** in the side section, two unlabelled dashed lines ran from the ceiling to the platform and read as hanging cables, so they were painted out. It has no supports. In the plan it's drawn as a lit box on the dance floor; it floats high overhead.
+    - **Dance floor:** in the side section, a glowing cyan strip lies on the floor under the platform. The floor has no built-in illuminated panels: it only catches reflected light.
+    - **Women's bathroom door:** it opens about one door's width from the top right-hand booth, which is tight.
+    - **Street front:** the exterior shows double glass doors, where the plan shows one swing door. A small plaque with garbled marks sits high on the wall to the right of the sign. There's no rain, only wet reflections, where the Night line asks for both.
+    - **Style:** a glossy, saturated digital illustration with heavy glow, not 90s cel anime with comic-book inking and film grain. Its graffiti and neon are brighter than the slightly desaturated environment rule.
+    - **Violet:** its violet neon reads `#7D20CC`, a little warmer than the club's violet, Ozzy's electric indigo `#6F00FF`. The "ORION" sign's canopy violet `#9D1AF0` is part of the canon sign and stays as it is.
+    - **Repaint traces:** very close up, faint marks inside the platform's glass box, where the dashed lines met it.
+    - **16:9 version:** [`orion-blueprint-night-16x9.jpg`](locations/orion/orion-blueprint-night-16x9.jpg), padded at the sides on the sheet's own navy to 1920×1080.
 
 ### The Chase Tower
 
 - **What happens there:** a tall residential building in Midtown.
-- **Look:** TBD.
+- **Look:** from the user's plaza reference image, which isn't stored in this repo, with colours sampled from it: a very tall tower of glowing blue glass `#3A8BD9`, brightest `#6BD1F4` where it glows, wrapped in a dark blue steel framework `#254999` of crossing beams, its lit floors showing through, tapering to a single spire with a white glowing tip. It rises above Midtown's dark towers. The rings of light around it in the reference are TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.

@@ -1,0 +1,37 @@
+orion-blueprint-night.jpg
+Made in ChatGPT by the user (shared as "Orion Nightclub Neon Blueprint"), 1536x1024, from the brief below, with the user's two earlier concept blueprints as layout references. The exact text sent to ChatGPT isn't recorded here; this is the brief as the user gave it. No seed reported.
+Fixed by hand afterwards, at no cost: the pair of swing doors where the lobby meets the club was painted out, and so were the two unlabelled dashed lines running from the ceiling to the DJ platform in the side section.
+orion-blueprint-night-16x9.jpg is the same sheet scaled to 1620x1080 and padded at the sides on the sheet's own navy #000C24 to 1920x1080.
+Brief:
+Create a detailed architectural concept blueprint for ORION, Wave's medium-sized underground nightclub in Midtown, Lepus. Use the supplied ORION blueprint images as layout references. Combine their strongest consistent features into one unified, coherent design. Show a clear top-down floor plan as the main drawing, with supporting side-elevation and architectural detail insets. Keep the room spacious, with generous circulation routes and clearly separated functional zones.
+
+EXTERIOR SIGNAGE:
+Show the street-facing entrance with the exact nightclub name "ORION" in illuminated neon lettering. This is the only readable decorative signage. Do not add other words, slogans, logos or decorative lettering.
+
+TOP-DOWN FLOOR PLAN:
+Use the street-facing entrance at the front of the building. Visitors enter a graffiti-covered lobby that opens directly into the main club, with no second door or connecting hallway. The first view from the lobby is the large, mostly open central dance floor.
+
+Keep the dance floor unobstructed and spacious.
+
+Place seated lounge booths along both side walls. Separate the lounge areas from the dance floor with industrial concrete half walls and dark metal partitions with cyan and violet neon trim. Reserve one dedicated custom graffiti artwork area on each opposite side wall. Remaining wall surfaces feature predominantly abstract graffiti.
+
+Place a full-width bar spanning the entire rear wall, with adequate customer space in front and staff working space behind it.
+
+Place two separate bathroom areas near the back-right side of the club, just forward of the rear wall and close to the bar. Clearly distinguish the men's bathroom from the women's bathroom, with separate entrances. Provide adequate access and circulation without shortening the full-width bar or obstructing lounge areas.
+
+FLOATING DJ PLATFORM:
+Show Wave's DJ platform floating directly over the center of the dance floor, substantially elevated and inaccessible to the crowd. It has no visible supports, stairs, ladders, bridges or public access. Wave accesses it from the roof. Enclose the platform completely in illuminated cyan glass. Behind Wave is one massive continuous LED display showing animated equalizer patterns. Preserve generous vertical clearance between the platform, dance floor and ceiling.
+
+CEILING:
+Show the entire ceiling covered by a projected Milky Way galaxy, using deep navy, cyan and violet. Include overhead moving spotlights and atmospheric haze over the dance floor.
+
+INTERIOR:
+Dark underground electronic music venue. Industrial concrete, dark metal, abstract graffiti artwork, cyan and violet dominant lighting, dark dance floor, moving spotlights and atmospheric haze. The dance floor has no built-in illuminated panels; it catches reflected light. Interior lighting consists of illuminated surfaces and light sources only. No readable decorative words or extra neon signage inside. The architecture must feel spacious and physically coherent, not cramped or like one open empty room.
+
+BLUEPRINT PRESENTATION:
+Professional architectural concept drawing with crisp technical linework, clearly separated zones, consistent wall thicknesses, accurate doors and circulation routes, readable simple architectural labels, top-down floor plan and supporting side elevations on one coordinated sheet. Show the DJ platform's relationship to the dance floor and projected ceiling. Include the lounge construction detail and exterior ORION sign. Do not add people, invented rooms, extra floors, unrequested entrances or unsupported dimensions.
+
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
