@@ -593,8 +593,9 @@ These are the things every part of the city shares.
   - **Ceiling:** covered entirely by a projected Milky Way galaxy in deep navy, cyan and violet, with moving spotlights overhead and haze over the dance floor.
 - **Look:** a dark underground electronic music venue of industrial concrete, dark metal and abstract graffiti, lit mainly in cyan and violet. Inside, the light comes only from illuminated surfaces and light sources, with no readable words or neon signs.
 - **Day or night:** night.
-- **Main light:** cyan `#24C1D9` and violet `#7D20CC`, the club's dominant light. Both are sampled from the materials key on its concept blueprint, and they match its neon trim and the platform's cyan glass across the sheet. **Where characters stand:** TBD.
+- **Main light:** cyan `#24C1D9` and violet, the club's dominant light. The cyan is sampled from the materials key on its concept blueprint, and matches its neon trim and the platform's cyan glass across the sheet. The violet is Ozzy's electric indigo `#6F00FF`, chosen by the user: every violet in the club, from the neon trim to the galaxy ceiling, is that colour. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
+- **Style note:** the club's violet is the same colour as Ozzy's accent, so in Orion his indigo doesn't stand apart from the room by colour.
 - **Sheets:** in `locations/orion/`, with its prompt and settings in `prompts.txt`.
   - **Concept blueprint, night:** [`orion-blueprint-night.jpg`](locations/orion/orion-blueprint-night.jpg), made by the user in ChatGPT from their brief, with their two earlier concept blueprints as layout references (those aren't stored in this repo), then fixed by hand. At 1536×1024, it has the top-down floor plan in the middle. On the left are the exterior with the "ORION" sign, a lounge booth and a lounge section detail. On the right are a side section, a front elevation of the DJ platform and the projected galaxy ceiling. A title block and a materials key run along the bottom. It's canon for the club's layout:
     - the street entrance and the graffiti lobby
@@ -613,6 +614,7 @@ These are the things every part of the city shares.
     - **Women's bathroom door:** it opens about one door's width from the top right-hand booth, which is tight.
     - **Street front:** the exterior shows double glass doors, where the plan shows one swing door. A small plaque with garbled marks sits high on the wall to the right of the sign. There's no rain, only wet reflections, where the Night line asks for both.
     - **Style:** a glossy, saturated digital illustration with heavy glow, not 90s cel anime with comic-book inking and film grain. Its graffiti and neon are brighter than the slightly desaturated environment rule.
+    - **Violet:** its violet neon reads `#7D20CC`, a little warmer than the club's violet, Ozzy's electric indigo `#6F00FF`. The "ORION" sign's canopy violet `#9D1AF0` is part of the canon sign and stays as it is.
     - **Repaint traces:** very close up, faint marks inside the platform's glass box, where the dashed lines met it.
     - **16:9 version:** [`orion-blueprint-night-16x9.jpg`](locations/orion/orion-blueprint-night-16x9.jpg), padded at the sides on the sheet's own navy to 1920×1080.
 
