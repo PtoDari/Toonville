@@ -742,7 +742,7 @@ These are the things every part of the city shares.
 - **Day or night:** night.
 - **Main light:** cyan `#24C1D9` and violet, the club's dominant light. The cyan is sampled from the materials key on its concept blueprint, and matches its neon trim and the platform's cyan glass across the sheet. The violet is Ozzy's electric indigo `#6F00FF`, chosen by the user: every violet in the club, from the neon trim to the galaxy ceiling, is that colour. **Where characters stand:** on the dance floor, and some sit at the bar.
 - **Reactive surfaces:** the LED display behind Wave, which plays animated equalizer bars, and the Milky Way ceiling, which lights up as if stars were streaking across it. As the user set them, they change with the story moment:
-  - **Quiet scenes and dialogue:** the equalizer bars and the ceiling's stars glow in Ozzy's electric indigo `#6F00FF`, which is also the club's violet.
+  - **Quiet scenes and dialogue:** the equalizer bars and the ceiling's stars glow in Wave's dark goldenrod `#8B6508`.
   - **Tension and movement:** the bars spike harder and flash the accent of the character the scene reacts to, and the stars streak faster.
   - **Climax or power moment:** the whole LED display and the ceiling flood with that character's accent, and the stars pour across in long streaks.
 - **Style note:** the club's violet is the same colour as Ozzy's accent, so in Orion his indigo doesn't stand apart from the room by colour.
