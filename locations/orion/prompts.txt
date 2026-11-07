@@ -49,3 +49,7 @@ Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs an
 orion-camera-positions-night.jpg
 The camera-position sheet, night: four panels, made by the user and made canon by the user, 1672x941, the third of five sets the user made, chosen by the user. The prompt, generator, seed and settings weren't reported. Not fixed by hand. The user plans to make each view on its own next.
 orion-camera-positions-night-16x9.jpg is the same sheet scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-reverse-console-night.jpg
+The reverse angle, night, from the DJ console: made by the user and made canon by the user, 1672x941, the first of two versions the user made, chosen by the user. One of the individual views of the camera-position sheet. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-reverse-console-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
