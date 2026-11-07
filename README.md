@@ -632,6 +632,8 @@ These are the things every part of the city shares.
 - **Day or night:** night.
 - **Main light:** cyan and violet nightclub lighting, with the DJ platform and its display as prominent glowing sources. **Where characters stand:** TBD.
 - **Reactive surfaces:** the glass DJ platform, the dark dance floor, the neon-trimmed partitions and the haze.
+
+- **Approved overhead reference:** the user approved the generated true bird's-eye overhead view of Orion as canon. It establishes the full room layout: central floating cyan glass DJ platform, open central dance floor, lounge booths along both side walls, rear bar and stools, two separate bathroom doors at the rear right, and entrance lobby at the opposite end. The image also includes plants and extra lounge details not specified in the written design; these are present in this approved reference only and do not automatically amend the written location design. The written design and style rules remain authoritative where they differ. Repository image path: TBD.
 - **Sheets:** the empty interior establishing wide view has been approved as a reference in the conversation. Its repository path is TBD. The generated image has some deviations from the written design: the entrance lobby is not strongly distinguished from the dance floor; the bar and bathroom doors read more centrally placed than specified; and the rendering leans more polished than the required flat cel-colour treatment. The written design and style rules above remain authoritative.
 
 ### The Chase Tower
