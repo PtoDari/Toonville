@@ -526,7 +526,7 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
       - **Background:** grey `#726D6D`, not mid grey `#808080`.
       - **Diagram arrows** run between the stages.
       - **16:9 version:** [`wave-headphones-mask-mechanism-16x9.jpg`](characters/wave/objects/wave-headphones-mask-mechanism-16x9.jpg), padded at the sides on the sheet's own grey to 1920×1080.
-- **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. On his DJ turnaround he's about 8 heads tall, counting a head from the top of his head to his chin. He goes on the [size chart](#size-chart) next.
+- **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. On his DJ turnaround he's about 7 heads tall, counting a head from the top of his head to his chin, under his beard. He goes on the [size chart](#size-chart) next.
 - **Colours:**
   - **Skin:** `#9C6C4E`, the average of the forehead and cheeks in both photos. The photos carry no colour profile, so they were read as sRGB.
   - **Hair:** locs `#4F211A` with copper cuffs `#C56C21`, sampled from his DJ turnaround, and beard `#261C17`, from the photos.
