@@ -55,6 +55,11 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Reactive states:** for each scene there, the state the story moment calls for (quiet, tension or climax), using the accent colour of the character the scene reacts to.
 - [ ] **Save:** saved to `locations/<location>/`, with known differences listed.
 
+### Backdrop approval gate
+
+- [ ] **Complete the backdrop aesthetic before storyboarding:** do not write a storyboard or shot list until the visual design of every location needed for the planned story is established, its reference material has been reviewed, its environment and lighting rules are recorded in README.md, and its required location sheets are complete and approved. If a location still depends on a reference the user has not supplied, pause that location's design and do not treat the backdrop as complete.
+- [ ] **User approval:** the user confirms that the full backdrop aesthetic is complete before storyboarding begins.
+
 ## 5. Story and shot list
 
 - [ ] **Script or beat outline,** split into scenes, in [STORY.md](STORY.md).
