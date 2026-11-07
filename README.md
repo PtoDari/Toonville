@@ -509,6 +509,7 @@ The intergalactic patrol officer, who moonlights as a DJ at Orion, his nightclub
   - the pouches on his thighs
 
   Large over-ear DJ headphones hang around his neck. The illustrations show his hands bare and none of the dark goldenrod. The outfit's name is TBD.
+- **Combat mode:** his DJ headphones transform into a combat helmet, which closes over his head and face. The user's transformation sheet shows how; its look goes into this entry once the sheet is approved.
 - **Height:** 6'4" (193 cm) barefoot, from the ground to the top of his head. He goes on the [size chart](#size-chart) once he has a turnaround sheet.
 - **Colours:**
   - **Skin:** `#9C6C4E`, the average of the forehead and cheeks in both photos. The photos carry no colour profile, so they were read as sRGB.
