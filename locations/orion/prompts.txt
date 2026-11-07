@@ -45,3 +45,7 @@ Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+
+orion-camera-positions-night.jpg
+The camera-position sheet, night: four panels, made by the user and made canon by the user, 1672x941, the third of five sets the user made, chosen by the user. The prompt, generator, seed and settings weren't reported. Not fixed by hand. The user plans to make each view on its own next.
+orion-camera-positions-night-16x9.jpg is the same sheet scaled to 1920x1080, a stretch of under 0.1%.
