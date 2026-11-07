@@ -911,11 +911,24 @@ These are the things every part of the city shares.
 
 ### The Chase Tower
 
-- **What happens there:** a tall residential building in Midtown.
+- **What happens there:** a tall residential building in Midtown. The marketplace sits across the street from it, close below it.
 - **Look:** from the user's plaza reference image, which isn't stored in this repo, with colours sampled from it: a very tall tower of glowing blue glass `#3A8BD9`, brightest `#6BD1F4` where it glows, wrapped in a dark blue steel framework `#254999` of crossing beams, its lit floors showing through, tapering to a single spire with a white glowing tip. It rises above Midtown's dark towers. The rings of light around it in the reference are TBD.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
+
+### The Midtown marketplace
+
+- **What happens there:** a marketplace in Midtown, across the street from the Chase Tower, close below it, as the user set. What happens there is TBD.
+- **Look:** from the user's reference image, which isn't stored in this repo, with colours sampled from it: a street of ground-floor shops in dark blue stone-panelled buildings `#102A55`.
+  - **The corner shop:** large display windows glowing pink-violet `#BF54C6` and blue `#4C7CD1` in dark frames `#191B31`, under big neon shapes on its upper wall in hot pink `#F63BC4` and cyan `#07C3F1`, with a short canopy glowing pale amber `#FDD58F` at its side.
+  - **Along the street:** tall vertical neon signs in pink `#F26CD6`, cyan `#02A5DF` and white run up the buildings. Further along, the buildings have rows of warm-lit windows and an amber-yellow sign `#FACA70`.
+  - **Ground and sky:** the wet, dark paving `#0F2043` mirrors the pink `#CF4DBE` and cyan `#068BD6` neon, under a dark blue night sky `#063661`, with rain.
+  - **Signs:** blank glowing neon shapes and panels, with no lettering. The reference's signs carry garbled lettering.
+- **Day or night:** night, in its reference. Day TBD.
+- **Main light:** TBD. In its reference, it's the hot pink and cyan neon. **Where characters stand:** TBD.
+- **Reactive surfaces:** the neon signs, the shop windows and the wet paving, which mirrors them.
+- **Style note:** the reference is glossy and saturated. In Toonville, the marketplace is flat cel colour with thin dark teal lines, slightly desaturated and mid-to-dark, with the bright colours kept to its neon and shop windows, and rain at night.
 
 ### Sunnymead
 
