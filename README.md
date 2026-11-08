@@ -766,10 +766,11 @@ These are the things every part of the city shares.
 ### The Diamond District
 
 - **What happens there:** the rich, safe part of the city, away from the mayhem and common crime. It's at the foot of the mountain, around the Crystal Tower, far from Sunnymead, with Midtown between them.
-- **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over naturally textured ice-paved streets.
+- **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over naturally textured ice-paved streets. The ice surface is mostly even, with a mixture of natural pale-blue and icy-white colour. Street edges remain exposed ice, without snowbanks. Sidewalks are diamond. Building entrances have landscaped areas.
 - **Day or night:** both.
-- **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun. **Where characters stand:** on the ice-paved streets.
-- **Reactive surfaces:** the ice roads and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
+- **Main light:** at night, ice-blue neon is distributed evenly through the district, reflecting off the steel buildings and ice roads, with gold neon only at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun gives the ice a softer, subdued reflection. The atmosphere is clear. **Where characters stand:** on the ice-paved streets.
+- **Reactive surfaces:** the ice roads and steel towers reflect the evenly distributed ice-blue neon and the gold neon at the tops of the buildings. The landscaped areas are part of the district's surroundings.
+- **Reactive states:** quiet, tension and climax lighting states are to be defined for the location.
 
 ### Midtown
 
