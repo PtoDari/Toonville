@@ -800,6 +800,7 @@ These are the things every part of the city shares.
     - **Style:** the lines are bold and black, where the night environment's lines are thin dark teal `#031E1C`, and it's more saturated than the slightly desaturated environment rule.
     - **Colours:** the neon reads a brighter, more cyan `#2EC5EC` than ice blue `#6CB5D8`, and the gold `#F0B332` brighter than `#E7BF68`.
     - **16:9 version:** [`diamond-district-wide-night-16x9.jpg`](locations/diamond-district/diamond-district-wide-night-16x9.jpg), scaled to 1920×1080.
+  - **Reverse angle, night:** generated as `a_detailed_anime_style_futuristic_cityscape_at_nig.png` and approved by the user as canon. It looks back along the district avenue toward the white arched gate with its diamond emblem, with the same steel-white futuristic towers, glass skybridges, landscaped diamond sidewalks, glacier-covered mountain backdrop and 10 ft (3.05 m) doorway scale reference. Ice-blue neon lights the avenue, and rain falls through the scene. Known differences from the written rules: gold trim appears on lower architectural features although gold neon is restricted to the tops of buildings; the ice road is highly reflective rather than mostly even with soft reflections. The written rules remain authoritative. The image is attached to the conversation; repository image path and 16:9 version are not yet verified.
 
 ### Midtown
 
