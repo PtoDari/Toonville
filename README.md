@@ -774,6 +774,7 @@ These are the things every part of the city shares.
   - **Quiet:** even ice-blue neon, gold lights steady at the tower tops, and soft reflections across the ice and steel.
   - **Tension:** ice-blue neon pulses subtly; reflections become more pronounced, while the gold lights remain at the tower tops.
   - **Climax:** ice-blue neon reaches its strongest intensity, with vivid reflections across the ice roads and steel towers; gold lights remain confined to the building tops.
+- **Scale reference:** a standard building entrance doorway, 10 ft (3.05 m) tall.
 
 ### Midtown
 
