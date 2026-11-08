@@ -15,3 +15,7 @@ diamond-district-aerial-day-16x9.jpg is the same image scaled to 1920x1080, a st
 diamond-district-wide-night.jpg
 The establishing shot, night: the daytime establishing view at night, in the rain. Generated as a_detailed_cinematic_anime_style_sci_fi_cityscape.png and approved by the user as canon, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 diamond-district-wide-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+diamond-district-reverse-night.jpg
+The reverse angle, night: the daytime reverse view at night, in the rain, to the arched gate. Generated as a_detailed_anime_style_futuristic_cityscape_at_nig.png and approved by the user as canon, 1671x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+diamond-district-reverse-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
