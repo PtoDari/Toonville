@@ -766,7 +766,7 @@ These are the things every part of the city shares.
 ### The Diamond District
 
 - **What happens there:** the rich, safe part of the city, away from the mayhem and common crime. It's at the foot of the mountain, around the Crystal Tower, far from Sunnymead, with Midtown between them.
-- **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over ice-paved streets.
+- **Look:** beautiful, rich, modern steel-white towers with reflective neon lights, over naturally textured ice-paved streets.
 - **Day or night:** both.
 - **Main light:** at night, ice-blue neon, reflecting off the steel buildings and the ice roads, with hints of gold neon at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun. **Where characters stand:** on the ice-paved streets.
 - **Reactive surfaces:** the ice roads and the steel towers, which reflect the ice-blue neon, and the gold neon at the tops.
