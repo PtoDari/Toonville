@@ -1,0 +1,5 @@
+Chase Tower location sheets. Each entry gives the file, how it was made, and its prompt and settings where they were recorded.
+
+chase-tower-wide-night.jpg
+The establishing shot, night: a wide low view down a rainy Midtown street to the Chase Tower. Made by the user and made canon by the user, with its two rings of light, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+chase-tower-wide-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
