@@ -1009,7 +1009,7 @@ These are the things every part of the city shares.
   - **Ground and sky:** the wet, dark sidewalks `#0F2043` mirror the pink `#CF4DBE` and cyan `#068BD6` neon, under a dark blue night sky `#063661`, with rain.
   - **Signs:** blank glowing neon shapes and panels, with no lettering. The reference's signs carry garbled lettering.
 - **Day or night:** both. By day it's busy; vendors close through the evening and it's quiet after dark, when the shops' neon around it glows.
-- **Main light:** by day, natural daylight, as the user set. At night, TBD: the market's warm vendor lights and overhead fixtures, and the shops' hot pink and cyan neon around it. **Where characters stand:** TBD.
+- **Main light:** by day, natural daylight, as the user set. At night, the hot-pink and cyan neon from the surrounding shops is the main light source; the market's warm vendor lights and overhead fixtures are secondary. **Where characters stand:** TBD.
 - **Reactive surfaces:** the shops' neon signs and windows, the wet sidewalks, the fountain's water and the market's glass-like paving. The crystal shards at the section entrances keep a soft, steady glow that never pulses, as the user set.
 - **Style note:** the reference is glossy and saturated. In Toonville, the marketplace and the shops around it are flat cel colour with thin dark teal lines, slightly desaturated and mid-to-dark, with the bright colours kept to the neon, the crystals and the shop windows, and rain at night.
 
