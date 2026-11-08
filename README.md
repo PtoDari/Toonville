@@ -815,6 +815,7 @@ These are the things every part of the city shares.
     - **Style:** the lines are bold and black, where the night environment's lines are thin dark teal `#031E1C`, and it's more saturated than the slightly desaturated environment rule.
     - **Colours:** the neon reads a brighter, more cyan `#21BBEF` than ice blue `#6CB5D8`.
     - **16:9 version:** [`diamond-district-aerial-night-16x9.jpg`](locations/diamond-district/diamond-district-aerial-night-16x9.jpg), scaled to 1920×1080.
+  - **Street-level standing-area reference, day:** generated as `a_wide_detailed_anime_style_futuristic_city_stree.png` and approved by the user as canon. It shows the open avenue from ground level, with the ice-paved standing area, diamond sidewalks, landscaped entrances, steel-white futuristic buildings, glass architecture, elevated skybridges, glacier-covered mountain backdrop and a 10 ft (3.05 m) doorway scale reference. Known visual differences from written rules: the ice is highly reflective, the outlines are heavier and blacker than the thin navy day-environment lines, and the image is more saturated than the slightly desaturated environment rule. The written rules remain authoritative. The image is attached to the conversation; repository image path and 16:9 version are not yet verified.
 
 ### Midtown
 
