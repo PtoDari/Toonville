@@ -50,7 +50,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - its main light source and that light's colour, which becomes every character's rim light there
   - where characters stand (the calm open area)
   - its reactive surfaces: signs, glass, puddles, banners, leaves
-- [ ] **Location sheet:** an establishing wide shot, the reverse angle, and each camera position its shots will use, low or aerial and wide angle as the style asks. It uses the all-in-one block without the Characters line, keeping only the Night or Day line, with a Day set and a Night set if both are used.
+- [ ] **Location sheet:** an establishing wide shot, the reverse angle, and each camera position its shots will use, low or aerial and wide angle as the style asks. It uses the all-in-one block without the Characters line, keeping only the Night or Day line, or the Night line after the rain for a place shown just after the rain, with a Day set and a Night set if both are used.
 - [ ] **Scale:** a doorway or another object of known size drawn in, so characters can be placed at their size-chart heights.
 - [ ] **Reactive states:** for each scene there, the state the story moment calls for (quiet, tension or climax), using the accent colour of the character the scene reacts to.
 - [ ] **Save:** saved to `locations/<location>/`, with known differences listed.
@@ -90,7 +90,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 - [ ] **Background plate first:** the location from this shot's camera, with no characters, in the scene's reactive state. It uses the all-in-one block without the Characters line. Keep it, because the animation will need the background on its own.
 - [ ] **Full frame:**
-  - **Prompt:** the subject, then each character's style block, then the all-in-one block. Keep the matching Night or Day line, and keep the "At story peaks" sentence only for tension and climax moments.
+  - **Prompt:** the subject, then each character's style block, then the all-in-one block. Keep the matching Night or Day line, or the Night line after the rain for a night scene set just after the rain, and keep the "At story peaks" sentence only for tension and climax moments.
   - **References:** each character's canon sheets attached as image references, if the generator offers it.
   - **Plate:** used as the background reference if the generator offers image reference, so the location doesn't drift.
 - [ ] **Show before generating:** every prompt shown, saved and priced in credits before it's sent. Each image's prompt, seed and settings are recorded next to it.

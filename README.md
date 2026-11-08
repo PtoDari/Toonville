@@ -16,7 +16,7 @@ Every prompt is built in this order:
 
 | Job | Style block | The only edits allowed |
 |---|---|---|
-| Scenes and story shots | All-in-one block | Keep only the Night or Day line. Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
+| Scenes and story shots | All-in-one block | Keep only the Night or Day line. For a night scene set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
 | Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
@@ -24,7 +24,7 @@ Every prompt is built in this order:
 | Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
 | Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
-| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
+| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a night plate set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
 
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
@@ -45,7 +45,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, calm lobby view and exterior location sheet, the Chase Tower's establishing shot, close-up and night and day location sheets, the D. Bell marketplace's day and night location sheets, and the Midtown alley's establishing shot (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, calm lobby view and exterior location sheet, the Chase Tower's establishing shot, close-up and night and day location sheets, the D. Bell marketplace's day and night location sheets, and the Midtown alley's establishing shot and reverse angle (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -63,6 +63,14 @@ Environment: thin tinted lines, never black, light hatching; slightly desaturate
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
 Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
+```
+
+## Night line after the rain
+
+For a night scene or plate the story sets just after the rain, with no rain falling, such as Ozzy's walk down the Midtown alley. It replaces the all-in-one block's Night line, word for word. It's the Night line with one change, asked for by the user: the rain clause now says the rain has just stopped, and the wet pavement stays. It doesn't mention falling rain at all, because generators tend to draw whatever a prompt names.
+
+```
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; the rain has just stopped; wet pavement mirrors neon in long vertical smears.
 ```
 
 ## Camera lines
@@ -748,7 +756,7 @@ These are the things every part of the city shares.
 - **Scale:** a metropolis, with extensive urban sprawl, many neighbourhoods and long-distance travel between districts.
 - **The mountain:** the Crystal Tower blocks its passages, and there's no way around it. There are only two ways through the mountain, and the public never reaches either: the Tall Whites' secret underground tunnel beside the tower, a hidden route between the city and the far side, which can be opened by thought, or by an incredibly fast hover bike with a Tall White's help; and the tower's secret entrance, the ship's true doors and real entrance, caved into the mountain, where no one goes, because of the Tall Whites. The hover bike's look is TBD.
 - **Streets:** paved in ice. At night they catch shine from the lights. When the sun is out, it bounces off them, and at certain times the whole city takes on a golden glow.
-- **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon.
+- **Weather at night:** rain, as the Night line has it, falling in thin white streaks over the ice streets, which mirror the neon. A scene the story sets just after the rain uses the [Night line after the rain](#night-line-after-the-rain) instead, with the streets still wet.
 - **Technology:** advanced. Cybernetic limbs and cybernetic eyes are a common sight. Vehicles are angular, and aircraft look like what we'd call UFOs.
 - **Day or night:** both.
 - **Main light:** neon at night, in colours that differ from area to area. By day, the sun when it's out, once every six months. On days without the sun, the natural ice and the daylight light the city whenever the neon is off.
@@ -774,7 +782,7 @@ These are the things every part of the city shares.
 - **Where characters stand:** normally on sidewalks or near buildings. A character stands in the street, on a balcony or on a roof only when the scene specifically calls for it.
 - **Reactive surfaces:** the road naturally glistens and neon produces glare and reflections. Any additional environmental reaction is specified by the scene and its story moment.
 - **User-supplied Midtown visual references:** `Midtown(1).png`, `Chase towerdj(1).png`, `from-PixAI-2075851943187926468 2.jpeg`, `from-PixAI-2075475171176371889(3).png`, `Unknown 14.jpeg`, `Unknown 4.jpeg`, `Alleyway(1).webp`, `785177624672033618(1).webp`, `Drone alley(3).webp` and `MidtownDrone(3).jpg`. They are visual references for the district's architecture, street atmosphere, lighting, skyline and alley compositions; they are not approved final location sheets. The specific Midtown aesthetic remains subject to the README style rules and the user's approval.
-- **Style note:** the references are glossy and highly saturated. In Toonville, Midtown is flat cel colour with thin dark teal lines, slightly desaturated and mid-to-dark, with the bright colours kept to its signs, lamps and crystal light, and rain at night, as the Night line asks.
+- **Style note:** the references are glossy and highly saturated. In Toonville, Midtown is flat cel colour with thin dark teal lines, slightly desaturated and mid-to-dark, with the bright colours kept to its signs, lamps and crystal light, and rain at night, as the Night line asks, except in scenes set just after the rain.
 
 ### The Midtown alley
 
@@ -783,9 +791,12 @@ These are the things every part of the city shares.
 - **Approved reference:** the establishing wide night shot has been approved by the user as canon. It's saved as its establishing shot, under Sheets below.
 - **Day or night:** night.
 - **Main light:** flickering hot-pink neon `#F63BC4`, matching the hot-pink neon already used in Midtown. Its intermittent glow spills across nearby walls and the ground and becomes the character's rim light. **Where characters stand:** along Ozzy's own left side of the alley, close to the buildings, rather than in the middle of the road (his left, not the viewer's left).
-- **Reactive surfaces:** quiet state. Wet pavement reflects the gently flickering hot-pink neon. The pavement remains wet after the rain; rain is not falling during Ozzy's walk. The subdued outside neon softly washes the brick walls and ground, with no additional lighting or active effects.
+- **Reactive surfaces:** quiet state. Wet pavement reflects the gently flickering hot-pink neon. The pavement remains wet after the rain; rain is not falling during Ozzy's walk. The subdued outside neon softly washes the brick walls and ground, with no additional lighting or active effects. Its prompts use the [Night line after the rain](#night-line-after-the-rain).
 - **Sheets:** in `locations/midtown-alley/`, with its prompt and settings in `prompts.txt`.
-  - **Reverse-angle shot, night:** approved by the user as canon. The generated image is attached to the conversation; its repository file path and saved 16:9 version are not yet verified.
+  - **Reverse angle, night:** [`midtown-alley-reverse-night.jpg`](locations/midtown-alley/midtown-alley-reverse-night.jpg), made by the user and approved by the user as canon, at 1672×941. Its prompt wasn't recorded. It looks back up the empty alley to its enclosed entrance, where a dark concrete beam `#1B232F` spans the alley's mouth like a covered passage, with the near street beyond and a building whose windows glow hot pink `#F459C0`. The same dark red brick walls `#721F33`, dark metal pipes `#2C2539`, black tags and drain channels run down both sides, and the wet concrete `#2A2531` mirrors the pink `#DB3E8D`, under a dark sky `#092131` with lit towers. It's canon for the view back toward the entrance and for the enclosed threshold. Exceptions, where the written rules here win:
+    - **Floor:** cracked, with darker patches, where it's slightly textured.
+    - **Style:** the lines are bold and black, where the environment's lines are thin and tinted, and the brick is more saturated than the slightly desaturated environment rule.
+    - **16:9 version:** [`midtown-alley-reverse-night-16x9.jpg`](locations/midtown-alley/midtown-alley-reverse-night-16x9.jpg), scaled to 1920×1080.
   - **Establishing shot, night:** [`midtown-alley-wide-night.jpg`](locations/midtown-alley/midtown-alley-wide-night.jpg), made by the user and made canon by the user, at 1672×941. Its prompt wasn't recorded. A low view from the alley's enclosed entrance, between two worn concrete pillars, down the empty alley to the street at the far end. Dark red brick walls `#6D2031` rise on both sides, with dark metal pipes `#27293E` running up them, black tags `#10141E` at varied heights, and drain channels along both walls. The wet, dark concrete `#2E2838` mirrors the hot-pink neon `#E04C97` spilling in from a storefront on the far street, under a dark sky `#0B3149` with cyan-lit towers. It's canon for the alley's look, its layout and its light, in its quiet state after the rain. Exceptions, where the written rules here win:
     - **Floor:** cracked, with darker patches, where it's slightly textured.
     - **Lettering:** the large tag under a crown on the left wall reads close to "TAK". Midtown's only words are on its named signs.
@@ -1153,6 +1164,8 @@ Reference copy of the night rules. Prompts use the all-in-one block, which alrea
 ```
 Night environment layer, same style. Line work: thin lines in dark teal #031E1C, never black, light hatching. Values: stay in the mid-to-dark range; pure black and pure white belong to characters only. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, slightly desaturated; hot accents only on signs and lamps. Composition: dense detail at the edges, a calm open area where the character stands. Depth: three layers, haze increasing with distance. Lighting: one main light source whose colour becomes the character's rim light. Reactive surfaces: wet ground, glass, neon signs, haze, rain. Rain: thin straight white streaks; wet pavement mirrors neon as long vertical colour smears. Camera: always matches the character shot's angle and lens.
 ```
+
+Just after the rain, as in the [Night line after the rain](#night-line-after-the-rain), the rain has stopped and only the wet pavement mirroring the neon stays.
 
 ## Day environment block
 
