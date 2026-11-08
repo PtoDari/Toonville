@@ -781,7 +781,7 @@ These are the things every part of the city shares.
 - **What happens there:** an alley in Midtown that Ozzy walks down, unseen, in the test video: the audience hears him and sees his shadow on the ground or a building, then a low sweeping shot comes down to his feet (see [STORY.md](STORY.md)).
 - **Look:** Midtown's look, above. The alley's own details are TBD.
 - **Day or night:** night.
-- **Main light:** TBD. **Where characters stand:** TBD.
+- **Main light:** flickering hot-pink neon `#F63BC4`, matching the hot-pink neon already used in Midtown. Its intermittent glow spills across nearby walls and the ground and becomes the character's rim light. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
 
 ### Orion, Wave's nightclub
