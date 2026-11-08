@@ -775,6 +775,7 @@ These are the things every part of the city shares.
   - **Tension:** ice-blue neon pulses subtly; reflections become more pronounced, while the gold lights remain at the tower tops.
   - **Climax:** ice-blue neon reaches its strongest intensity, with vivid reflections across the ice roads and steel towers; gold lights remain confined to the building tops.
 - **Scale reference:** a standard building entrance doorway, 10 ft (3.05 m) tall.
+- **Visual references:** the user's six supplied images (all except the final, accidentally included ship control-room reference) are references specifically for the Diamond District's futuristic architecture and glacial mountain setting. They establish the district's visual language: tall futuristic city structures, sleek glass architecture and walkways, and a glacier-textured environment integrated with the mountains. Floating homes and mountain-embedded homes belong closer to the mountain and the Crystal Tower/ship; they are part of the district's broader mountain-side setting, not required features of every street-level view.
 
 ### Midtown
 
