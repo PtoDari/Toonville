@@ -7,3 +7,7 @@ chase-tower-wide-night-16x9.jpg is the same image scaled to 1920x1080, a stretch
 chase-tower-close-night.jpg
 The close-up, night: looking up at the tower's upper half in the rain, with its two rings and the diamond emblem between them. Made by the user and made canon by the user, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 chase-tower-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+chase-tower-sheet-night.jpg
+The location sheet, night: seven panels of the tower, its street views, aerial view, entrance and details, with palette swatches. Made by the user and made canon by the user, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+chase-tower-sheet-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
