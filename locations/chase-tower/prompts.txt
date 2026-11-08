@@ -11,3 +11,7 @@ chase-tower-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretc
 chase-tower-sheet-night.jpg
 The location sheet, night: seven panels of the tower, its street views, aerial view, entrance and details, with palette swatches. Made by the user and made canon by the user, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 chase-tower-sheet-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+chase-tower-sheet-day.jpg
+The location sheet, day: the night sheet's seven panels by day, under a blue sky with clouds. Made by the user and made canon by the user, 1671x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+chase-tower-sheet-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
