@@ -85,8 +85,12 @@ orion-lobby-calm-night-16x9.jpg is the same image scaled to 1920x1080, a stretch
 orion-scale-night.jpg
 The scale sheet: a side elevation of the interior at 2 px per cm, 3840x2160, made in this project, not generated, and approved by the user. The figures are cut from the canon turnaround sheets in the same way as the size chart (characters/size-chart.jpg), with each one scaled by its height in its shoes: Ozzy from his hair-down main-outfit sheet, Dr. Heyes from his Combat Skin turnaround and Wave from his DJ skin turnaround. The furniture, platform, door and ceiling are drawn as plain shapes at the sizes in README.md's Scale list for Orion. No prompt, no credits.
 
+orion-exterior-sheet-night.jpg
+The exterior location sheet, night: the second version the user made, made canon by the user, 1672x941, nine panels of the street front and the side alley in the rain. Its prompt is below, as the user recorded it. Generator, seed and settings weren't reported. Not fixed by hand.
+orion-exterior-sheet-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
 ORION EXTERIOR LOCATION SHEET — NIGHT — APPROVED VERSION 2
-Generated image: a_detailed_comic_style_anime_cel_illustration_loca.png (approved in the conversation; repository image path not yet assigned).
+Generated image: a_detailed_comic_style_anime_cel_illustration_loca.png (approved in the conversation; saved as orion-exterior-sheet-night.jpg).
 Generator, seed and settings: not reported.
 
 Prompt:
