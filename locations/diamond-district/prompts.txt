@@ -7,3 +7,7 @@ diamond-district-wide-day-16x9.jpg is the same image scaled to 1920x1080, a stre
 diamond-district-reverse-day.jpg
 The reverse angle, day: the opposite view along the avenue, to the arched gate. Generated as a_detailed_anime_style_wide_reverse_angle_view_of.png and approved by the user as canon, 1671x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 diamond-district-reverse-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
+
+diamond-district-aerial-day.jpg
+The aerial establishing view, day: across the district toward Crystal Mountain and the Crystal Tower. Generated as a_detailed_wide_aerial_anime_style_cel_shaded_sci.png and approved by the user as canon, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+diamond-district-aerial-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
