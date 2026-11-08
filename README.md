@@ -45,7 +45,7 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
 - **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, and calm lobby view, and the Chase Tower's establishing shot, close-up and night and day location sheets (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, and calm lobby view, the Chase Tower's establishing shot, close-up and night and day location sheets, and the D. Bell marketplace's day and night location sheets (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## All-in-one block
 
@@ -737,7 +737,7 @@ Every location the story uses gets an entry here before any shot is made there, 
 - its reactive surfaces, such as signs, glass, puddles, banners and leaves
 - its location sheets in `locations/<location>/`, with any known differences listed
 
-Toonville's world is Lepus, a frozen island city deep in the ice, built against Crystal Mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower, Amethyst Path, Orion and the Chase Tower have sheets so far.
+Toonville's world is Lepus, a frozen island city deep in the ice, built against Crystal Mountain, with a lush wild land on the mountain's far side. The story behind each place is in [STORY.md](STORY.md). The entries below hold everything known so far. Anything marked TBD is decided before that place's sheets are made, and only the Crystal Tower, Amethyst Path, Orion, the Chase Tower and the D. Bell marketplace have sheets so far.
 
 ### Lepus, the frozen island city
 
@@ -1012,6 +1012,35 @@ These are the things every part of the city shares.
 - **Main light:** by day, natural daylight, as the user set. At night, the hot-pink and cyan neon from the surrounding shops is the main light source; the market's warm vendor lights and overhead fixtures are secondary. **Where characters stand:** TBD.
 - **Reactive surfaces:** the shops' neon signs and windows, the wet sidewalks, the fountain's water and the market's glass-like paving. The crystal shards at the section entrances keep a soft, steady glow that never pulses, as the user set.
 - **Style note:** the reference is glossy and saturated. In Toonville, the marketplace and the shops around it are flat cel colour with thin dark teal lines, slightly desaturated and mid-to-dark, with the bright colours kept to the neon, the crystals and the shop windows, and rain at night.
+- **Sheets:** in `locations/d-bell/`, with their prompts and settings in `prompts.txt`. Both were made by the user and made canon by the user. Their prompts weren't recorded. Each is a design sheet of eleven panels, with the same layout:
+  - an establishing view from the Chase Tower plaza, through the entrance gate
+  - the market's layout from straight above
+  - a reverse view from inside, toward the entrance
+  - an elevated wide view of the market and the streets around it
+  - the entrance gate as the scale reference, the central fountain, the produce, grocery and specialty-goods sections, the cleaning robot and its station, and the service entrance with a delivery van
+
+  They're canon for:
+  - **The entrance gate:** an arch of stone and dark metal, with violet banners hanging on its pillars, the "D. Bell" sign across its top and a glowing crystal above the sign
+  - **The layout:** a square market, with rows of stalls on each side facing in toward the central fountain, crystal markers at its entrances and corners, and a service road along one side
+  - **The stalls:** awnings in violet `#7F62D7`, teal `#48A8AE` and navy blue `#35456F`, the produce, grocery and specialty-goods stalls marked by a leaf, a cart and a diamond icon on their holographic signs and on the floor, and roll-up shutters that close each stall at night
+  - **The fountain:** crystal spires over a round dark stone basin, with a seating edge and water lit cobalt blue `#458ED1`
+  - **The people:** vendors and customers, including people of other species, and two city security officers in dark uniforms
+  - **The cleaning robot:** a small white boxy robot with sweeping brushes, beside its station
+  - **At night:** the shuttered stalls, the empty market in the rain, the steady glow of the crystal shards `#7592EE`, and the shops' pink and cyan neon around it
+
+  Exceptions, where the written rules here win:
+  - **Yellow awnings:** some awnings are mustard yellow `#DAB755`. The awnings use the core palette, as the user chose.
+  - **Labels:** each sheet has a title, such as "D. BELL MARKETPLACE — DAYTIME (LOCATION SHEET)", and a caption on every panel. The elevated views spell the sign "D.Bell", without the space.
+  - **Street trees:** rows of trees line the streets around the market. Midtown's greenery is planters and vertical gardens attached to buildings.
+  - **The Chase Tower:** in the background, it has no rings, and by night its top glows pink.
+  - **The gates:** by night, the entrance arch stands open. The market's gates close after business hours.
+  - **Crystal roads:** the streets don't show the crystal light glowing beneath their surface.
+  - **Style:** glossier and more saturated than the slightly desaturated environment rule, with bold dark lines in places, where the environment's lines are thin and tinted.
+  - **16:9 versions:** each has one beside it, named `<name>-16x9.jpg`, scaled to 1920×1080.
+
+  The two sheets:
+  - **Day:** [`d-bell-sheet-day.jpg`](locations/d-bell/d-bell-sheet-day.jpg), at 1672×941, the market busy under a blue sky.
+  - **Night:** [`d-bell-sheet-night.jpg`](locations/d-bell/d-bell-sheet-night.jpg), at 1671×941, the market closed and empty in the rain.
 
 ### Sunnymead
 
