@@ -770,7 +770,10 @@ These are the things every part of the city shares.
 - **Day or night:** both.
 - **Main light:** at night, ice-blue neon is distributed evenly through the district, reflecting off the steel buildings and ice roads, with gold neon only at the very tops of the buildings: ice blue `#6CB5D8` and gold `#E7BF68`, sampled from the Crystal Tower's establishing shot. By day, the sun gives the ice a softer, subdued reflection. The atmosphere is clear. **Where characters stand:** on the ice-paved streets.
 - **Reactive surfaces:** the ice roads and steel towers reflect the evenly distributed ice-blue neon and the gold neon at the tops of the buildings. The landscaped areas are part of the district's surroundings.
-- **Reactive states:** quiet, tension and climax lighting states are to be defined for the location.
+- **Reactive states:**
+  - **Quiet:** even ice-blue neon, gold lights steady at the tower tops, and soft reflections across the ice and steel.
+  - **Tension:** ice-blue neon pulses subtly; reflections become more pronounced, while the gold lights remain at the tower tops.
+  - **Climax:** ice-blue neon reaches its strongest intensity, with vivid reflections across the ice roads and steel towers; gold lights remain confined to the building tops.
 
 ### Midtown
 
