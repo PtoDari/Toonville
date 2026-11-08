@@ -857,6 +857,7 @@ These are the things every part of the city shares.
     - **Style:** the lines are bold and black, where the night environment's lines are thin dark teal `#031E1C`, and it's highly saturated and glossy, against the slightly desaturated environment rule.
     - **Colours:** the Chase Tower's glass glows a more cyan `#0BB5F7` than `#3A8BD9`, and its framework reads darker `#03256B` than `#254999`.
     - **16:9 version:** [`midtown-wide-night-16x9.jpg`](locations/midtown/midtown-wide-night-16x9.jpg), scaled to 1920×1080.
+  - **Reverse-angle establishing view, day:** generated as `a_detailed_90s_anime_style_futuristic_cityscape_w.png` and approved by the user as canon. It looks back toward Chase Tower from the opposite end of the main avenue, showing the tower's blue glass, dark-blue crossing steel framework, two cyan rings, white-tipped spire and diamond emblem. The public plaza and staircase, elevated enclosed train, surrounding mixed commercial and industrial buildings, crystal-lit avenue, levitating traffic and active sidewalks are visible. Known visual differences from written rules: surrounding building displays contain diamond symbols although Midtown signs are normally blank glowing panels and neon shapes; the road is glossy and reflective; outlines and saturation are stronger than the slightly desaturated environment rule. The written rules remain authoritative. The image is attached to the conversation; repository image path and 16:9 version are not yet verified.
 
 ### The Midtown alley
 
