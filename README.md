@@ -787,6 +787,7 @@ These are the things every part of the city shares.
     - **Labels:** a "10 ft (3.05 m)" measurement marker stands beside the doorway.
     - **Style:** the lines are bold and black, where the day environment's lines are thin navy `#344481`, and it's more saturated than the slightly desaturated environment rule.
     - **16:9 version:** [`diamond-district-reverse-day-16x9.jpg`](locations/diamond-district/diamond-district-reverse-day-16x9.jpg), scaled to 1920×1080.
+  - **Aerial establishing view, day:** generated as `a_detailed_wide_aerial_anime_style_cel_shaded_sci.png` and approved by the user as canon. It looks across the Diamond District toward Crystal Mountain, showing the overall layout, tall steel-white futuristic towers, elevated glass walkways, landscaped terraces, the glacier-covered mountain backdrop, the Crystal Tower dominating the skyline and a 10 ft (3.05 m) doorway scale reference. The ice roads are more reflective than the written mostly even ice with soft, subdued reflections; the written rule remains authoritative. The image is attached to the conversation; repository image path and 16:9 version are not yet verified.
 
 ### Midtown
 
