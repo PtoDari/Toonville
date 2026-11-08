@@ -779,7 +779,7 @@ These are the things every part of the city shares.
 ### The Midtown alley
 
 - **What happens there:** an alley in Midtown that Ozzy walks down, unseen, in the test video: the audience hears him and sees his shadow on the ground or a building, then a low sweeping shot comes down to his feet (see [STORY.md](STORY.md)).
-- **Look:** Midtown's look, above. The alley's own details are TBD.
+- **Look:** a narrow, enclosed Midtown alley, with the alley's own architecture and details to be established against the Midtown references.
 - **Day or night:** night.
 - **Main light:** flickering hot-pink neon `#F63BC4`, matching the hot-pink neon already used in Midtown. Its intermittent glow spills across nearby walls and the ground and becomes the character's rim light. **Where characters stand:** along Ozzy's own left side of the alley, close to the buildings, rather than in the middle of the road (his left, not the viewer's left).
 - **Reactive surfaces:** wet pavement reflecting the flickering hot-pink neon. The pavement remains wet after the rain; rain is not falling during Ozzy's walk.
