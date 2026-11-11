@@ -260,7 +260,7 @@ Asset IDs from earlier work label characters (`CHAR_`), their outfits (`SKIN_`) 
 
 Oswald, known as Ozzy (`CHAR_001`): a young man of 19. **Combat skill:** Underground amateur boxer with experience in underground boxing matches. "Money" is an old name for him from earlier work, not a separate character. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-Every sheet below except the governor chip's object sheet and his boxing shots shows the "$" tattoo on his right hand, or leaves it out, and none of them shows the governor chip. His boxing shots put the "$" on the back of his left hand and draw the chip as a raised dial on a strap. Both belong on his left hand: the "$" on the web between the thumb and index finger, and the chip on the inside of the wrist. The written rules here win.
+Every sheet below except the governor chip's object sheet, his boxing shots and his hover bike's object sheet shows the "$" tattoo on his right hand, or leaves it out, and none of those shows the governor chip. His boxing shots put the "$" on the back of his left hand and draw the chip as a raised dial on a strap, and his hover bike's object sheet puts the "$" on the back of his left hand too. Both belong on his left hand: the "$" on the web between the thumb and index finger, and the chip on the inside of the wrist. The written rules here win.
 
 Each outfit gets two turnarounds, one with his golden staff and one without. The balaclava turnaround has both. The jacket sheets with his hair up and hair down have the staff at his left hip, and the jacket-off and shirtless sheets have no staff; the other half of each of those pairs is still to come.
 
@@ -405,7 +405,7 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
       - **"High Power":** both full words show above a lower neckline in the close-ups. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
       - **Golden staff:** plain gold with a red band and a diamond at each end, without the diamond-encrusted top third.
       - **Style:** more rendered than the Toonville look, with heavy hatching.
-  - **Hover bike (`PROP_002`):** Ozzy's personal high-speed transportation around Lepus. A sleek, aerodynamic single-seat flying motorcycle based on the user's selected third reference image.
+  - **Hover bike (`PROP_003`):** Ozzy's personal high-speed transportation around Lepus. A sleek, aerodynamic single-seat flying motorcycle based on the user's selected third reference image.
     - **Body:** matte obsidian metal `#24272B` with subtle metallic texture.
     - **Wheels:** two 55 cm polished metallic-gold BBS-style multi-spoke wheel assemblies `#D4AF37`, in a conventional front-and-rear motorcycle arrangement. Gold is reserved exclusively for the wheel assemblies.
     - **Flight mode:** both wheel assemblies retract completely inside the body and disappear from view. Their compartments close flush, leaving a smooth body.
