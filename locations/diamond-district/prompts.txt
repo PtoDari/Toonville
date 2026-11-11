@@ -23,3 +23,7 @@ diamond-district-reverse-night-16x9.jpg is the same image scaled to 1920x1080, a
 diamond-district-aerial-night.jpg
 The aerial establishing view, night: the daytime aerial view at night, in the rain. Generated as a_detailed_cinematic_anime_style_night_cityscape.png and approved by the user as canon, 1671x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
 diamond-district-aerial-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
+
+diamond-district-elevated-night.jpg
+The elevated view, night: from above a rooftop terrace, down the wet avenue past the glowing skybridge to the Crystal Tower, in the rain. Sent by the user and approved by the user as canon, 1671x941. Its original file name, prompt, generator, seed and settings weren't reported. Not fixed by hand.
+diamond-district-elevated-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
