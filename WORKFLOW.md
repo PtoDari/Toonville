@@ -39,8 +39,9 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - colours as hex codes
   - real size in cm
   - where it's carried or worn, and in which hand
-- [ ] **Object sheets:** one for each object (object sheet block), with front, side, back and top views plus one view in the owner's hand to show its size.
+- [ ] **Object sheets:** one for each object (object sheet block), with front, side, back and top views plus one view showing the owner's scale relationship to it. The owner holds handheld objects; for vehicles or objects too large to hold, show the owner seated on or using the object instead.
 - [ ] **Check and save:** each sheet checked against the list, with known differences listed, and saved to `characters/<name>/objects/<name>-<object>.jpg`.
+- [ ] **Approval and canon record:** only the user's final approval makes the design canon. Record the approved specifications, asset ID, sheet status and any known drawing differences in the README; the written character and object rules remain authoritative where a sheet has a visible error.
 
 ## 4. Each location
 
