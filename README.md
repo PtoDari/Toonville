@@ -23,7 +23,7 @@ Every prompt is built in this order:
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
 | Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
 | Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
-| Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. |
+| Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. For a vehicle, or any object too big to hold, swap the hand view for the block's [vehicle line](#object-sheet-block). |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a night plate set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
 
@@ -199,7 +199,7 @@ Camera: eye level, long lens, no perspective distortion; full figure kept inside
 
 ## Object sheet block
 
-For the objects that belong to one character: things they carry, wear, use or are known by. Each object gets its own sheet, so it looks the same in every shot. Replace `[OBJECT DESCRIPTION]`, `[CHARACTER NAME]`, `[SKIN HEX]` and `[ACCENT HEX]`. The description comes from the object list in the owner's entry: what the object is, what it's made of, its colours as hex codes and its real size in cm. The owner's hand appears in one view, so the prompt carries their character style block too, after the subject.
+For the objects that belong to one character: things they carry, wear, use or are known by. Each object gets its own sheet, so it looks the same in every shot. Replace `[OBJECT DESCRIPTION]`, `[CHARACTER NAME]`, `[SKIN HEX]` and `[ACCENT HEX]`. The description comes from the object list in the owner's entry: what the object is, what it's made of, its colours as hex codes and its real size in cm. The owner's hand appears in one view, or for a vehicle the owner rides it, so the prompt carries their character style block too, after the subject.
 
 Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. Objects that stay in one place are part of that location's sheet instead.
 
@@ -209,6 +209,12 @@ Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
+```
+
+**For a vehicle, or any object too big to hold,** such as Ozzy's hover bike: swap `plus one view of it held in [CHARACTER NAME]'s hand to show its size` in the block for the line below, word for word, as the user asked. Every other word of the block stays the same.
+
+```
+plus one view of [CHARACTER NAME] seated on it, riding it, to show its size and the rider's posture
 ```
 
 ## Edit block
