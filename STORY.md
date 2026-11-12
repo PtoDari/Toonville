@@ -33,6 +33,7 @@ Oswald, known as Ozzy, is 19.
 - **Against the doctor:** Ozzy finds out who the doctor really is on his own. The doctor's public reputation protects him, so Ozzy uses cunning to expose him as a fraud, ruin that reputation and cut his ties to the Tall Whites.
 - **Personal grudge:** against the orphanage's residential parent, who is exceptionally cruel.
 - **Run-ins:** routine clashes with Wave, a relentless intergalactic patrol officer, who is secretly the crash survivor trying to reach him.
+- **Wave's sonic weapon:** his playable saxophone transforms into a shotgun configuration and projects expanding, focused-cone sonic shockwaves with concentric ripple rings. The blasts physically push opponents and objects backward, leave a glowing trail that fades within one second, and use no physical ammunition. The instrument's full design is recorded under Wave's objects in the README.
 
 ## Characters to come
 
