@@ -1259,7 +1259,7 @@ These are the things every part of the city shares.
 - **What happens there:** the rejected part of the city, its rough side, where the mayhem and common crime are. It's far from the Diamond District, with Midtown between them.
 - **Look:** torn-down buildings in urban ruins, with occasional neon graffiti over the torn ice towers.
 - **Day or night:** both.
-- **Main light:** TBD. **Where characters stand:** TBD.
+- **Main light:** daytime sun; night TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** the neon graffiti. More TBD.
 
 ### The Crystal Tower and the orphanage
