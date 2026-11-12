@@ -1257,10 +1257,10 @@ These are the things every part of the city shares.
 ### Sunnymead
 
 - **What happens there:** the rejected part of the city, its rough side, where the mayhem and common crime are. It's far from the Diamond District, with Midtown between them.
-- **Look:** torn-down buildings in urban ruins, with occasional neon graffiti over the torn ice towers.
+- **Look:** resembles Midtown in its futuristic urban character, but is far less expensive and luxurious. Its buildings are torn-down and run-down, with urban ruins and occasional neon graffiti over the torn ice towers.
 - **Day or night:** both.
 - **Main light:** daytime sun; at night, the moon and flickering neon signs. **Where characters stand:** in graffiti-covered alleys and near ruined buildings.
-- **Reactive surfaces:** the neon graffiti. More TBD.
+- **Reactive surfaces:** neon graffiti, puddles, broken glass and exposed ice.
 
 ### The Crystal Tower and the orphanage
 
