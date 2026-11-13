@@ -39,7 +39,7 @@ The character, night and day blocks further down are reference copies that spell
 
 ## Video spec
 
-Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all.
+Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all. Longer installments are assembled from several of these 30-second clips, as in [WORKFLOW.md](WORKFLOW.md).
 
 - **Everything made for a video follows it:** stills, keyframes, storyboards, background plates, and any turnaround or other sheet that appears in a video are 16:9 and finished at 1920×1080. Generate at the generator's 16:9 size, then scale every image to 1920×1080 the same way.
 - **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
@@ -268,7 +268,7 @@ Oswald, known as Ozzy (`CHAR_001`): a young man of 19. **Combat skill:** Undergr
 
 **Non-negotiable anatomical continuity:** left/right placement is defined by Ozzy's body, never by the viewer's side of the image. The "$" hand tattoo and governor chip remain on his LEFT hand/wrist in every generation. The tattoo belongs on the web between the thumb and index finger; the chip belongs on the inside of the same wrist. His RIGHT hand is bare. Do not mirror, swap, relocate, duplicate or reinterpret either feature to satisfy composition. If an approved image disagrees, record the discrepancy as an image error; do not copy it into a new generation.
 
-Some older sheets and generated shots contain known placement errors: they put the "$" on the right hand or the back of the left hand, or draw the governor chip as a raised dial or place it on the back of the wrist. Those are documented as image defects, not alternate designs. The permanent anatomical rule is: the "$" tattoo is on the web between the thumb and index finger of Ozzy's LEFT hand; the governor chip is flush on the inside of that same LEFT wrist, not touching the tattoo; his RIGHT hand is bare. This rule applies to every outfit, pose, angle, sheet, edit and generation. If a camera angle or composition makes the correct placement hard to show, preserve the anatomy rather than moving the feature. The written rule takes precedence over every reference image and generated result.
+Some older sheets and generated shots contain known placement errors: they put the "$" on the right hand or the back of the left hand, or draw the governor chip as a raised dial or place it on the back of the wrist. Those are documented as image defects, not alternate designs. Most of his other sheets don't show the governor chip at all. The permanent anatomical rule is: the "$" tattoo is on the web between the thumb and index finger of Ozzy's LEFT hand; the governor chip is flush on the inside of that same LEFT wrist, not touching the tattoo; his RIGHT hand is bare. This rule applies to every outfit, pose, angle, sheet, edit and generation. If a camera angle or composition makes the correct placement hard to show, preserve the anatomy rather than moving the feature. The written rule takes precedence over every reference image and generated result.
 
 Each outfit gets two turnarounds, one with his golden staff and one without. The balaclava turnaround has both. The jacket sheets with his hair up and hair down have the staff at his left hip, and the jacket-off and shirtless sheets have no staff; the other half of each of those pairs is still to come.
 

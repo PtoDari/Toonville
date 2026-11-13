@@ -107,7 +107,16 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Fix or redo:** a still that fails is fixed locally or regenerated, with any new prompt shown first, then checked again.
 - [ ] **Save:** saved under the shot's name, together with its plate.
 
-## 7. Video generation and sound
+## 7. Ready for animation
+
+- [ ] Every shot in the shot list has all of its keyframes.
+- [ ] Every still has the same frame size: 16:9 at 1920×1080.
+- [ ] Every clip runs at 24 fps, and the cut runs 30 seconds.
+- [ ] Every shot's background plate is kept next to its stills, so characters can later be separated and animated over the background.
+- [ ] Neighbouring shots cut together: screen direction, eyelines, light and reactive state carry across the cut.
+- [ ] A final pass through every scene in order, with each character compared side by side against their sheets.
+
+## 8. Video generation and sound
 
 A storyboard is a continuity and timing map, not a substitute for the character, prop and location references. A multi-panel storyboard may communicate shot order and composition, but generate or supply separate clean references for the character, important props and approved location. Do not expect a video model to reproduce tiny panel details as exact frames.
 
@@ -119,15 +128,6 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [ ] **Sound pass:** plan dialogue, footsteps, movement, impacts, machinery, ambience and music alongside the picture. Sound must communicate essential story information even to a viewer who cannot see the screen. Keep sound cues synchronized with visible actions; do not rely on visuals alone for a critical beat.
 - [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1920×1080 at 24 fps, and check transitions, audio levels, ambience continuity and the final mix.
 - [ ] **Final approval:** show the finished clip for user review. Only explicit approval makes it final canon. Record its clip ID/path, prompt and settings, approved status, and any known deviations in the project inventory.
-
-## 8. Ready for animation
-
-- [ ] Every shot in the shot list has all of its keyframes.
-- [ ] Every still has the same frame size: 16:9 at 1920×1080.
-- [ ] Every clip runs at 24 fps, and the cut runs 30 seconds.
-- [ ] Every shot's background plate is kept next to its stills, so characters can later be separated and animated over the background.
-- [ ] Neighbouring shots cut together: screen direction, eyelines, light and reactive state carry across the cut.
-- [ ] A final pass through every scene in order, with each character compared side by side against their sheets.
 
 ## Files and names
 
