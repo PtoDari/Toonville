@@ -1346,7 +1346,7 @@ These are the things every part of the city shares.
 
 ### The Forbidden Foliage
 
-- **What happens there:** the southernmost region of Daiya, a wild coastal region beyond the mountain, being colonized by the Tall Whites, a species of alien: tall, pale, emotionless corporate businessmen, who aren't villains as a species (see [STORY.md](STORY.md)). It is unknown to the public: only the Tall Whites and the doctor know of it, and Ozzy finds out later. Amethyst Path and the hidden routes through the mountain lead toward it.
+- **What happens there:** the southernmost region of Daiya, a wild coastal region beyond the mountain, being colonized by the Tall Whites, a species of alien: tall, pale, emotionless corporate businessmen, who aren't villains as a species (see [STORY.md](STORY.md)). Hunters, healers and a tribal leader live there. It is unknown to the public: apart from the people who live there, only the Tall Whites and the doctor know of it, and Ozzy finds out later. Amethyst Path and the hidden routes through the mountain lead toward it.
 - **Look:** a lush coastal forest with exotic wildlife, from dinosaurs to cryptids, the freshest springs and the most vibrant fruit, opening onto its own beaches along Daiya's southern coast.
 - **The forest entrance:** at the edge of Sunnymead. The forest entrance at Sunnymead's edge is hidden from the public, as the user set: large Venus flytraps and thick roots prevent passage, and two trees towering over the clouds also block any entrance. The two trees' look, beyond their height, is TBD.
 - **Day or night:** TBD.
