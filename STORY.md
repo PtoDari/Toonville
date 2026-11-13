@@ -121,3 +121,427 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 - **The Guardians:** who are they, beyond their home in the Forbidden Foliage, their recruits and their leadership?
 - **The tribe, with its hunters, healers and tribal leader:** who are they, beyond living in the Forbidden Foliage? The hunters aren't the bounty hunters who raided the royal convoy.
 - **The abandoned vessel:** which vessel is it, and where is it?
+
+
+## Tribe culture — consolidated cultural canon
+
+This section records the tribe's established culture from the user's answers. It is a cumulative working canon; details listed under **Open questions** remain undecided and must not be invented. The existing Guardian lore elsewhere in this file remains in force. Where this section restates Guardian or hunter information, it is a culture reference, not a replacement for the more specific established rules.
+
+### 1. Leadership and social structure
+
+#### Ruling family and succession
+- Leadership is inherited through lineage.
+- The elder woman belongs to the ruling bloodline and heads the tribe.
+- The entire ruling family must agree on a successor; the elder woman does not choose alone.
+- Birth order does not determine succession. The family chooses the successor.
+- Any descendant may be eligible regardless of age or gender.
+- Extended relatives are eligible if no direct descendants are found.
+- Authority transfers immediately when the current elder steps down or dies, with a formal transition ceremony.
+- The elder cannot voluntarily retire.
+- If the ruling family cannot agree, the Protector serves in the role until a decision is reached. The Protector's exact identity and office remain unresolved.
+- The tribe can challenge or remove an elder who abuses authority; the process and who has authority to remove the elder remain unresolved.
+
+#### Elder, council and laws
+- The elder woman holds the highest political and spiritual authority and personally oversees spiritual training.
+- She consults the council on political decisions.
+- The council consists of the tribe's elders.
+- Ordinary tribe members have a voice in important decisions.
+- Laws are established through collective agreement.
+- Elders govern, assign roles and preserve tribal history.
+- Respect customs include a courtesy bow to elders, elders eating first, and elders having the final say in community matters.
+- A social structure with ranks or classes exists, but its exact structure is undecided.
+
+#### Guardians and hunters
+- Guardians are selected through training and achievement.
+- Guardians and hunters work together to protect the tribe from powerful, rare creatures. These creatures generally leave the tribe alone; the tribe intervenes when they become a threat.
+- The Guardian commander is responsible for justice and determining disputes; whether this applies to every dispute or only serious cases is undecided.
+- Hunters are led by the Lead Trapper, who ensures the tribe has food and provisions and assists Guardians against major threats.
+- Guardians and hunters train alongside one another, and recruits of all ages train together.
+- Guardian advancement is based on training, discipline, demonstrated ability and achievements, not age or seniority. There is no age requirement; younger recruits may advance ahead of older recruits.
+- A Guardian becomes commander either by appointment or by winning a leadership challenge.
+- A serving commander may appoint an experienced Guardian as successor. Command transfers immediately and the former commander steps down.
+- A Guardian who loses a leadership challenge may never challenge for command again, but may still be appointed commander.
+
+#### Spiritual selection and training
+- The forest reveals who should be selected for spiritual training.
+- Selection criteria include being a friend to forest creatures, not polluting or destroying the forest, and offering protection to it.
+- Children may be selected.
+- A selected person may refuse training or fail to develop a connection.
+- Training duration depends on the individual.
+- Selected trainees develop the same core abilities.
+- A spiritually trained member may become a spiritual teacher.
+
+**Open questions — Section 1**
+- The Protector's exact identity, title and responsibilities.
+- Who can remove an abusive elder and by what process.
+- Whether council decisions require a vote, consensus or unanimity.
+- How ordinary members express their voice in decisions.
+- Whether the Guardian commander handles every dispute or only serious offenses.
+- The exact ranks/classes and how they are assigned.
+- Who selects Guardian candidates.
+- Whether the Lead Trapper is inherited, appointed or earned.
+- What happens during the succession transition ceremony.
+- What happens if the ruling family remains unable to agree.
+
+### 2. Family, relationships and community life
+
+#### Family and children
+- Both immediate/nuclear and extended family structures exist.
+- Children are raised by the wider community.
+- Parents teach children the tribe's ways and prepare them for appropriate training.
+- Children's education is shared by parents and other elders.
+- Orphaned children belong to the tribe just like other children.
+- Orphaned children have spiritual mothers and fathers, chosen from people most closely related to the child.
+- Families have private quarters within communal settlements.
+
+#### Relationships and marriage
+- Marriage exists, and individuals may choose their own partners.
+- Family approval is required.
+- If a family rejects a prospective partner, it offers a prerequisite for that person to meet in order to gain approval.
+- Multiple partners are permitted only for individuals of sufficiently high rank, specifically head ranks or near the top of the class. Exact eligibility and limits are undecided.
+- Marriage is recognized by a celebration.
+- Other ceremonies are marked by a feast.
+
+#### Respect, responsibilities and freedom
+- Elders govern, assign roles and preserve tribal history.
+- Respect customs include bowing courteously to elders, elders eating first and elders having the final say in community matters.
+- Community life uses shared spaces while families retain private quarters.
+- Responsibilities are divided by class, age and gender.
+- Individual freedom exists as long as it does not affect the tribe.
+
+#### Belonging and disputes
+- Outsiders cannot become members, marry into the tribe or join its community.
+- Family disputes are handled through peer mediation with elders.
+- Mediation continues until the tribe reaches a conclusion.
+
+**Open questions — Section 2**
+- What prerequisites a family may require of a prospective partner.
+- Who determines social class, how many classes exist and whether a person can move between them.
+- What happens if someone refuses assigned responsibilities.
+- Specific details of marriage celebrations and other ceremonies.
+- Exact rules and limits for multiple partners.
+- How spiritual parents are chosen if several relatives are equally close.
+- How a mediation conclusion is reached when agreement is difficult.
+
+### 3. Spiritual beliefs and the conscious forest
+
+#### The forest and communication
+- The forest is a living, conscious being.
+- The tribe does not know how the forest became conscious.
+- The forest communicates through signs and can warn the tribe of approaching danger.
+- It communicates with the tribe and through signs, including communication with the tribe leader or the Protector. The Protector's identity remains unresolved.
+- The forest can disagree with the elder woman or ruling family.
+
+#### Spiritual abilities
+- Spiritual abilities include detecting danger in the forest, heightened senses, longer life, communicating with the forest and animals, and a form of telepathic communication with plant life.
+- Selected and trained members develop the same core abilities.
+- The ruling bloodline's abilities are stronger. The user's description that these abilities are “not latent until their children” is retained as an unresolved clarification rather than interpreted as a specific inheritance mechanism.
+- The exact scope of plant-life telepathy is undecided.
+
+#### Selection and training
+- The forest can select people at any age, including children.
+- A selected person may refuse training or fail to develop a connection.
+- Training duration depends on the individual.
+- The elder woman oversees spiritual training and holds the tribe's spiritual knowledge.
+- Trained members may become spiritual teachers.
+- Not everyone receives spiritual training; selection is required.
+- Selection criteria are being a friend to forest creatures, not polluting or destroying the forest, and offering protection to it.
+
+#### Sacred places, offerings, rituals and death
+- Sacred places include waterfalls leading to the beach and the base of the mountain.
+- Offerings include animals that have grown old and, sometimes, fruit and vegetables.
+- Rituals include ceremonies for events that strengthen the tribe.
+- The tribe believes the forest receives or preserves the spirits of its dead.
+- Animals have spiritual significance.
+- For deliberate harm or pollution, the forest and its inhabitants may eventually ban or capture the offender, depending on severity.
+- The tribe's daily relationship with the forest includes speaking to plant life, peaceful coexistence with animals and growing what it consumes.
+- The forest's origins are unknown to the tribe.
+
+**Open questions — Section 3**
+- The Protector's identity and role in forest communication.
+- The intended meaning of the ruling bloodline's abilities being “not latent until their children.”
+- The precise scope of plant-life telepathy.
+- How much longer spiritually connected members live.
+- How offerings are selected and presented, including the exact process for animals that have grown old.
+- How the forest communicates a decision to ban or capture an offender.
+- Whether spiritual teachers teach independently or require the elder's authorization.
+- The specific purpose of each sacred place and the details of offerings.
+
+### 4. Traditions, ceremonies and festivals
+
+- The tribe holds annual festivals and seasonal celebrations.
+- It celebrates its founding.
+- Coming-of-age ceremonies exist.
+- Marriage celebrations exist.
+- Birth ceremonies exist.
+- Parents give a child their name at birth.
+- Death is marked by a burial service and remembrance; the dead are buried.
+- Ancestors are honoured.
+- Guardian ceremonies and hunter ceremonies exist.
+- Spiritual selection and spiritual completion ceremonies exist.
+- Offerings are part of the tribe's traditions.
+- Feasts are held for promotions and large-beast kills.
+- Celebrations include dancing, storytelling and cooking food.
+- Music and dance are part of ceremonies.
+- Ceremonial clothing is not very different from the tribe's traditional wardrobe.
+- Sacred traditions exist.
+
+**Open questions — Section 4**
+- Names, purposes and dates of annual and seasonal festivals.
+- The founding celebration's details.
+- Coming-of-age age, requirements and ceremony.
+- Exact marriage and birth ceremonies.
+- Guardian initiation and hunter recognition rites.
+- Spiritual selection and completion rites.
+- Which traditions are sacred and who may perform them.
+- The tribe's calendar and how ceremonial dates are determined.
+
+### 5. Clothing, appearance, jewellery and body markings
+
+- Everyday clothing is a traditional wardrobe made from forest resources, including plant fibres and animal materials.
+- Traditional colours are green and lavender.
+- Clothing changes with climate. Winter clothing uses warmer animal skins.
+- Footwear is made from deer.
+- Ceremonial clothing exists but is not very different from everyday traditional clothing.
+- The ruling family, elders and Guardians have distinctive clothing.
+- Hunters dress similarly to Guardians.
+- Clothing can indicate social class and rank.
+- Jewellery includes necklaces, bracelets and earrings, made from stones and jewels.
+- Healers use crystals and shells.
+- Body markings exist and signify rank and class.
+- Hair is usually braided back.
+- Leaders wear crowns.
+- Spiritual appearance includes a staff; its details remain undecided.
+- Animal symbolism is incorporated into appearance.
+- Individual expression is permitted within the tribe's guidelines.
+
+**Open questions — Section 5**
+- Exact clothing designs for each rank and role.
+- Body-marking designs and placement.
+- Crown materials and designs.
+- Who carries spiritual staffs and what they signify.
+- The symbolism of crystals and shells.
+- Which animal patterns or symbols correspond to each rank.
+
+### 6. Architecture, settlements and daily living
+
+- The tribe has one large settlement deep within the forest.
+- Some homes are in trees and some are on the ground.
+- Tree bark and stone are building materials.
+- Living trees are shaped into homes.
+- Architecture is designed and structured rather than simply organic.
+- Families have private quarters.
+- Shared communal spaces include markets.
+- The elder woman has a residence.
+- The council space is at the peak of the mountain.
+- Dedicated quarters exist for Guardians and hunters.
+- Healers have dedicated facilities.
+- Spiritual spaces exist.
+- The water source is close to the beach waterfalls.
+- Sanitation includes deep burials and controlled burns.
+- Small outdoor flames provide lighting.
+- Cooking is shared.
+- People travel through the trees or on foot.
+- Guardians and hunters protect the settlement.
+- The tribe has defined territorial boundaries.
+- Daily routines depend on faction and typically include training, time with elders and doing a good deed for the forest.
+- Beds are used for sleeping.
+- Designated tribe members maintain the settlement.
+- The forest actively integrates with the settlement; the exact assistance it provides is undecided.
+
+**Open questions — Section 6**
+- How the forest assists the settlement.
+- How territorial boundaries are marked.
+- Whether the settlement has gates, watchtowers or elevated connections.
+- Details of the elder's residence and the council meeting place.
+- How controlled burns are managed.
+- When and how outdoor flames are used.
+- The settlement's population.
+- Whether areas are divided by social class.
+
+### 7. Food, farming, hunting and gathering
+
+- Main foods are fruits and vegetables.
+- Crops include apples, bananas, oranges, coconuts, green beans, peppers, berries and various edible plants.
+- Gardens are the tribe's farming method.
+- The forest assists crop growth.
+- Animal products are consumed seldomly.
+- Hunters hunt deer, boar, fish, chicken and birds.
+- Hunting is done only when necessary.
+- Powerful rare creatures are taken down only when deemed a threat.
+- Fishing takes place in rivers.
+- Gathering is practiced.
+- Food is prepared by roasting and grilling.
+- Communal meals are held.
+- Food is stored using makeshift refrigeration.
+- The Lead Trapper decides food distribution.
+- The Lead Trapper oversees farming, gathering, hunting and provisions.
+- Healers use medicinal flowers.
+- There are no dietary customs or restrictions based on rank or class.
+- Feasts include pies, roasted boar, vegetables and rice.
+- The tribe trades with outsiders.
+- Food scarcity is handled by trading with outsiders.
+- Offerings are presented in special baskets.
+- Environmental balance is maintained by never overkilling and eating only when necessary.
+
+**Open questions — Section 7**
+- How makeshift refrigeration works and what powers it.
+- Which special edible plants are used.
+- Hunting territories and seasonal rules.
+- The source or cultivation method for rice.
+- What goods are traded to outsiders.
+- Who prepares communal meals.
+- How offering baskets are made and used in the offering ritual.
+
+### 8. Language, writing, art and storytelling
+
+- The tribe has its own language and knows its language's origins.
+- Members speak multiple languages.
+- The tribe has a writing system and alphabet.
+- Written records are kept on stone tablets under the elders' oversight.
+- History is passed down through oral tradition.
+- Traditional storytellers exist.
+- Story themes include heroes, faith, patience and kindness.
+- Creation stories and folklore exist.
+- Art includes paintings and sculptures on tree bark.
+- Craftsmanship includes spear tips, arrows and clothing.
+- Sculpture and painting are practiced.
+- The tribe has an official symbol and family symbols.
+- Animal imagery represents identity.
+- Knowledge is preserved through paintings and stone tablets.
+- Paintings are used to communicate with outsiders.
+- Names have meanings or follow traditions.
+- Language and forms of speech vary by rank.
+
+**Open questions — Section 8**
+- The language's name and origins.
+- Which other languages members speak.
+- The appearance and structure of the alphabet.
+- Who can read and write stone tablets.
+- The identity and role of traditional storytellers.
+- The details of creation stories and folklore.
+- The official and family symbols.
+- Which animals represent which identities.
+- How paintings communicate with outsiders.
+- Naming rules and the meanings of names.
+
+### 9. Music, dance, games and entertainment
+
+- Music is built around drums and dance patterns.
+- Instruments include drums, horns and tambourines.
+- Instruments are made from animal materials and wood.
+- Singing, traditional songs and ceremonial music are part of the culture.
+- Dance styles include line dancing and some break dancing.
+- Dance has meaning, though specific meanings are undecided.
+- Group dancing is practiced.
+- Children play running games and hide-and-seek in the forest.
+- Adults play chess and create puzzles.
+- Physical competitions are held.
+- Archery is practiced.
+- The tribe's traditional sport is soccer.
+- Storytelling events and artistic performances take place.
+- Dedicated musical roles exist.
+- Instruments and performances are not restricted by rank.
+- Leisure includes becoming one with the forest or spending time at the beach waterfall watching aerial phenomena over the ocean.
+- Feasts are a form of community entertainment.
+
+**Open questions — Section 9**
+- Traditional song names and meanings.
+- Rhythms and dance-pattern meanings.
+- Horn types and how they are made.
+- Specific ceremony dances.
+- Types and rules of physical competitions.
+- Soccer and archery teams or competition formats.
+- The roles and status of musicians.
+- Types of artistic performances.
+- The nature of the aerial phenomena seen over the ocean.
+
+### 10. Medicine, healing and knowledge
+
+- Healers are born with an innate ability.
+- Healers train under the spiritual elder along with the lead elder.
+- Medical knowledge is passed down through generations.
+- Medicinal plants include aloe vera, poppy plants, sunflowers and others.
+- Herbal remedies are used.
+- Crystals are used in healing.
+- Shells are placed on inflammation, and sound waves are used to bring sickness out.
+- Healers have healing abilities.
+- The forest assists in healing.
+- Animal medicine includes certain venoms and antidotes.
+- Injuries are treated and medically wrapped.
+- Common illnesses are treated with teas and smokable herbs.
+- Serious conditions are seen by the witch doctor.
+- The elder woman of the tribe assists with childbirth.
+- Younger tribe members care for elders.
+- Mental wellbeing is supported through breaks, mental easement/rest and talking to elders.
+- Medical facilities contain herbs, flowers, potions, beds, stones and prayer mats.
+- A healer leadership position exists.
+- Medical records are kept through tablets.
+- No forbidden medical practices have been established.
+- Spiritual healing, meaning spiritual training itself helping recovery, is not practiced.
+- In medical emergencies, healers step in with healers in training.
+
+**Open questions — Section 10**
+- Whether the witch doctor is the senior healer or a separate position.
+- Who appoints the healer leader.
+- The difference between the spiritual elder and lead elder.
+- Whether all healers are born with the same ability.
+- Whether healing abilities can grow stronger.
+- How shells use sound waves to draw sickness out.
+- Whether the forest heals directly or supplies resources.
+- Whether serious treatments involve rituals.
+- Whether healers have specialties.
+- Whether a healing ability can be lost.
+
+### 11. Technology, tools, weapons and defence
+
+#### Technology and energy
+- The tribe uses a mixture of traditional and advanced technology, using technology when necessary.
+- The waterfall provides an aquaponics environment.
+- Certain gems are carefully placed to collect solar energy.
+- Tools are handcrafted from stones and gems.
+- The forest has a relationship with the tribe's technology.
+- Technology that harms or kills people is restricted.
+
+#### Weapons and armour
+- Weapon types include shields, daggers, bows, spiked fists and blow darts.
+- Weapons are made using animal teeth and bones.
+- Guardians have specialized weapons.
+- Hunters traditionally carry bows and spears.
+- Guardians and hunters wear armour made from animal hides and plant fibres.
+- Trainees use real weapons in training.
+- Special gem-encrusted weapons with enchantments are used against dangerous rare creatures.
+- Traditional boxing and wrestling are part of combat training.
+
+#### Defence and communication
+- The tribe's environmental defences include tall trees, large Venus flytraps, quicksand and large alien rare beasts. The exact way these features are used or controlled is not yet defined.
+- Watch members rotate between shifts.
+- Smoke signals and a loud bull horn are used for emergency warnings.
+- Smoke signals and whistles communicate through the trees.
+- Domesticated horses are used for transportation.
+- Blacksmiths and carpenters are among the tribe's specialist craftspeople.
+- The Guardian commander leads the tribe's defence.
+- The tribe primarily defends itself rather than pursuing war.
+
+**Open questions — Section 11**
+- Which gems collect solar energy and how that energy is stored.
+- The aquaponics system's fish, plants and other organisms.
+- What advanced technologies the tribe possesses.
+- Who makes each weapon and whether weapons are restricted by rank.
+- The specific weapons that distinguish Guardians from hunters.
+- Who enchants gem-encrusted weapons and what their enchantments do.
+- How young trainees are kept safe while training with real weapons.
+- Whether flytraps, quicksand and rare beasts are naturally present, deliberately cultivated or controlled.
+- The number and organization of watch shifts.
+- The meanings assigned to different smoke patterns and whistles.
+- Whether horses are used for combat, transport, supplies or all of these.
+- Who decides whether a technology is harmful and prohibited.
+- Whether the forest helps create, power or protect technology.
+- What happens if another group attacks or attempts to invade.
+
+### Canon handling for future culture sections
+
+- This record captures answers through Section 11.
+- Open questions are intentionally unresolved; do not treat suggestions or plausible explanations as canon.
+- When the user supplies further answers, add them to the appropriate section and keep unresolved details marked as open questions.
+- Only the user's explicit final approval makes a new cultural decision canon.
