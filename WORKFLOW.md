@@ -4,7 +4,7 @@ This is how Toonville goes from an idea to a full set of stills, ready for anima
 
 Work through it top to bottom, because each stage needs the one before it. Tick every box: a character, object, location or shot isn't done until all of its boxes are ticked.
 
-[README.md](README.md) is the single source of truth for the style. Every prompt is built in its order: the subject, then each character's style block, then the job's style block, word for word. No prompt goes to PixAI or any other generator until it has been shown and given the go-ahead.
+[README.md](README.md) is the single source of truth for the style. Every prompt is built in its order: the subject, then each character's style block, then the job's style block, word for word. No prompt goes to OpenArt, Higgsfield or any other generator until it has been shown and given the go-ahead.
 
 ## 1. Setup
 
