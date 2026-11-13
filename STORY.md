@@ -62,6 +62,9 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
 - **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are beyond what's below is TBD.
   - **Recruits:** Guardian recruits train alongside the hunters. Recruits of different ages train together.
   - **Progression:** there's no particular age requirement. Progression focuses on training and achievements rather than age.
+  - **Leadership:** a Guardian can become commander either by appointment or by winning a leadership challenge.
+  - **Appointment:** the serving commander can appoint an experienced Guardian as successor. The appointment takes effect immediately: command and authority transfer to the appointee, and the former commander steps down automatically.
+  - **Leadership challenges:** a Guardian who loses a leadership challenge is permanently barred from challenging for command again. That loss does not make them ineligible for appointment; they may still be appointed commander by the serving commander.
 
 ## The world
 
