@@ -30,6 +30,7 @@ Oswald, known as Ozzy, is 19.
 - **Allies:** none at first. Down the line he gains two: Wave, the relentless intergalactic patrol officer who keeps coming after him, who is really a crash survivor sworn to protect him and piecing together what Dr. Heyes really did, and a Tall White woman who reads the good and the longing in him.
 - **His ship:** the Crystal Tower is his ship, and he's its key. It isn't just a ship: it's a biological vessel that incubates him and makes him stronger, and it provides planetary travel at record speeds. No expense was spared for the prince. Only his heated plasma can power it, built up by the generators in its control room and by his golden staff, whose diamonds hold his charge and shine at the frequency that powers the ship's accelerators and boosters. The ship recognizes his DNA from his childhood and keeps drawing him back. He finds all this out later. Until then, all he knows is that parts of the orphanage respond to him and doors sometimes open for him, and he can't explain why he keeps returning to the orphanage, or why he needs the staff.
 - **The golden staff:** once called the golden rod. The doctor had it from the start, while Ozzy was still an infant. Ozzy's knack for nice things, his natural attraction to ornate objects and his yearning to keep going back to the ship led him on a pilfering journey to get the staff, without knowing its true power. One night the doctor had to attend an emergency meeting, or his whole plot would have been ruined. It gave Ozzy time to lay seeds of confusion and slip into the tower to take the staff, and that began his training. Down the line he learns its true power and his special link to it. It amplifies his power, and he needs it to power up the ship.
+- **His royal combat armour:** it's stored in an abandoned vessel. It was recovered by the Guardians and given to him. Its look is in his README entry.
 - **Against the doctor:** Ozzy finds out who the doctor really is on his own. The doctor's public reputation protects him, so Ozzy uses cunning to expose him as a fraud, ruin that reputation and cut his ties to the Tall Whites.
 - **Personal grudge:** against the orphanage's residential parent, who is exceptionally cruel.
 - **Run-ins:** routine clashes with Wave, a relentless intergalactic patrol officer, who is secretly the crash survivor trying to reach him.
@@ -58,6 +59,7 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
   - **And Ozzy:** they eventually learn of him, and approach him cautiously, because they know his true power. He's immune to their direct telepathic intrusion, but they can still reach him through his emotions. They see him as more than a rejected orphan, more even than a prince: they know who he is and how he came to the planet. They give him the stolen information about his godhood, and about how gods recognize other gods, and not false gods.
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
 - **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion.
+- **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are is TBD.
 
 ## The world
 
@@ -107,3 +109,5 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 ## Open questions
 
 - **The underground facility:** what does it look like?
+- **The Guardians:** who are they?
+- **The abandoned vessel:** which vessel is it, and where is it?

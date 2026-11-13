@@ -494,6 +494,7 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
     ```
 
   - **Royal combat armour (`SKIN_010`, as on his royal combat medium shot):** made canon by the user with that shot, and this write-up, with its swap text below, confirmed as canon by the user. Only his upper body has been seen, so the armour below the waist is TBD.
+    - **Story:** it's stored in an abandoned vessel. It was recovered by the Guardians and given to him (see [STORY.md](STORY.md)).
     - **Suit:** a fitted black armoured bodysuit `#201D24`, with segmented black plates over the abdomen and fingerless black gloves with gold knuckle guards.
     - **Gold armour:** large angular gold `#EFA24B` pauldrons and gold plates down the forearms, set with glowing violet inlays `#8801FA`, and a gold cuff at each wrist.
     - **Chest plate:** black, rimmed in gold, with a V-shaped neckline low enough to show his full "High Power" chest tattoo. It bears his royal crest: a glowing violet eight-pointed star `#8D07F7` at the centre, outlined in gold, with gold rays running out to five glowing gold stars `#F9B70D` around it.
