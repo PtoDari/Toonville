@@ -59,7 +59,9 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
   - **And Ozzy:** they eventually learn of him, and approach him cautiously, because they know his true power. He's immune to their direct telepathic intrusion, but they can still reach him through his emotions. They see him as more than a rejected orphan, more even than a prince: they know who he is and how he came to the planet. They give him the stolen information about his godhood, and about how gods recognize other gods, and not false gods.
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
 - **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion.
-- **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are is TBD.
+- **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are beyond what's below is TBD.
+  - **Recruits:** Guardian recruits train alongside the hunters. Recruits of different ages train together.
+  - **Progression:** there's no particular age requirement. Progression focuses on training and achievements rather than age.
 
 ## The world
 
@@ -109,5 +111,6 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 ## Open questions
 
 - **The underground facility:** what does it look like?
-- **The Guardians:** who are they?
+- **The Guardians:** who are they, beyond their recruits and training?
+- **The hunters:** who are they? Are they the bounty hunters who raided the royal convoy, or another group?
 - **The abandoned vessel:** which vessel is it, and where is it?
