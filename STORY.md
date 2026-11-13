@@ -60,13 +60,14 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
   - **And the doctor:** his crown's scrambler keeps the young ones out. The older ones have slight suspicions, but they're eager to benefit from the trade agreement. The elders must save their mental abilities for intergalactic communication, which they use to alert certain sectors that the prince lives. The Tall Whites aren't physically strong, they're reclusive and there aren't many of them, so they always move in the group's best interest. They benefit from the doctor's deeds, so playing dumb comes easily to them.
   - **And Ozzy:** they eventually learn of him, and approach him cautiously, because they know his true power. He's immune to their direct telepathic intrusion, but they can still reach him through his emotions. They see him as more than a rejected orphan, more even than a prince: they know who he is and how he came to the planet. They give him the stolen information about his godhood, and about how gods recognize other gods, and not false gods.
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
-- **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion.
+- **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion. They aren't the hunters the Guardian recruits train alongside.
 - **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are beyond what's below is TBD.
   - **Recruits:** Guardian recruits train alongside the hunters. Recruits of all ages train together.
   - **Progression:** there is no particular age requirement for membership or advancement. Progression is determined by training, discipline, demonstrated ability and achievements rather than age or seniority. A younger recruit may advance ahead of an older recruit when their demonstrated ability and achievements warrant it.
   - **Leadership:** a Guardian can become commander either by appointment or by winning a leadership challenge.
   - **Appointment:** the serving commander can appoint an experienced Guardian as successor. The appointment takes effect immediately: command and authority transfer to the appointee, and the former commander steps down automatically.
   - **Leadership challenges:** a Guardian who loses a leadership challenge is permanently barred from challenging for command again. That loss does not make them ineligible for appointment; they may still be appointed commander by the serving commander.
+- **The hunters:** the group the Guardian recruits train alongside. They're a different group from the bounty hunters who raided the royal convoy. Who they are is TBD.
 
 ## The world
 
@@ -117,5 +118,5 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 
 - **The underground facility:** what does it look like?
 - **The Guardians:** who are they, beyond their recruits and training?
-- **The hunters:** who are they? Are they the bounty hunters who raided the royal convoy, or another group?
+- **The hunters:** who are they? They aren't the bounty hunters who raided the royal convoy.
 - **The abandoned vessel:** which vessel is it, and where is it?
