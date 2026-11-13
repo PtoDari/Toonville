@@ -1,0 +1,17 @@
+Midtown location sheets. Each entry gives the file, how it was made, and its prompt and settings where they were recorded.
+
+midtown-wide-day.jpg
+The establishing wide view, day: down the main avenue to the Chase Tower and its plaza, with Midtown's skyline and Crystal Mountain behind. Generated as a_detailed_anime_style_futuristic_cityscape_of_mid.png and approved by the user as canon, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+midtown-wide-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+midtown-avenue-day.jpg
+The avenue view, day: a second view toward the Chase Tower from another spot on the avenue, with the elevated train on the right. Generated as a_detailed_90s_anime_style_futuristic_cityscape_w.png and approved by the user as canon, 1671x941, recorded on main as the daytime reverse-angle establishing view. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+midtown-avenue-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
+
+midtown-wide-alt-day.jpg
+The alternate establishing wide view, day: the establishing view's composition again, with a different Chase Tower, a pointed crystal cathedral, listed as a continuity error. Sent by the user and approved by the user as canon, 1672x941. Its original file name, prompt, generator, seed and settings weren't reported. Not fixed by hand.
+midtown-wide-alt-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+midtown-wide-night.jpg
+The establishing wide view, night: the daytime establishing view at night, in the rain. Generated as a_highly_detailed_cyberpunk_anime_cityscape_at_nig.png and approved by the user as canon, 1671x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+midtown-wide-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.

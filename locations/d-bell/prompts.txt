@@ -1,0 +1,9 @@
+D. Bell marketplace location sheets. Each entry gives the file, how it was made, and its prompt and settings where they were recorded.
+
+d-bell-sheet-day.jpg
+The location sheet, day: eleven panels of the market, busy under a blue sky. Made by the user and made canon by the user, 1672x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+d-bell-sheet-day-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+d-bell-sheet-night.jpg
+The location sheet, night: the same eleven panels, the market closed and empty in the rain. Made by the user and made canon by the user, 1671x941. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+d-bell-sheet-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.

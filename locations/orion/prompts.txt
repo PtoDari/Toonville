@@ -35,3 +35,88 @@ Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+
+orion-wide-night.jpg
+The establishing shot, night. Made by the user and made canon by the user, 1672x941, from the prompt below, which was written for it with the all-in-one block, without the Characters line and with only the Night line. The generator, seed and settings weren't reported. Not fixed by hand.
+orion-wide-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+Prompt:
+Establishing wide shot of the empty interior of Orion, a medium-sized underground nightclub, at night, seen from its graffiti-covered entrance lobby, which opens straight into the club with no door. A quiet moment, with no people anywhere. Indoors, with no rain inside. The large, dark, open dance floor fills the centre, with no lights built into it, only catching reflected light. High above the centre of the dance floor, the DJ platform floats with no supports, stairs, ladders, bridges or cables, enclosed completely in illuminated cyan #24C1D9 glass, with one massive continuous LED display behind its empty console playing equalizer bars that glow dark goldenrod #8B6508. The whole ceiling is a projected Milky Way galaxy in deep navy, cyan and violet, with stars streaking across it that glow dark goldenrod #8B6508, moving spotlights overhead and haze over the dance floor. Seated lounge booths line both side walls behind industrial concrete half walls and dark metal partitions with cyan #24C1D9 and violet #6F00FF neon trim, and abstract graffiti covers the walls. A full-width bar spans the entire rear wall, with stools in front of it and staff space behind it, and two separate bathroom doors stand at the back right, just forward of the bar. Industrial concrete and dark metal, lit mainly in cyan and violet; no lettering, signs, labels or captions anywhere inside.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+
+orion-camera-positions-night.jpg
+The camera-position sheet, night: four panels, made by the user and made canon by the user, 1672x941, the third of five sets the user made, chosen by the user. The prompt, generator, seed and settings weren't reported. Not fixed by hand. The user plans to make each view on its own next.
+orion-camera-positions-night-16x9.jpg is the same sheet scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-reverse-console-night.jpg
+The reverse angle, night, from the DJ console: made by the user and made canon by the user, 1672x941, the first of two versions the user made, chosen by the user. One of the individual views of the camera-position sheet. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-reverse-console-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-aerial-night.jpg
+The aerial view, night: made by the user and made canon by the user, 1672x941, the camera-position sheet's aerial view on its own. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-aerial-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-booth-night.jpg
+The view from a booth, night, in the calm setting: made by the user and made canon by the user, 1672x941, the camera-position sheet's booth view on its own. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-booth-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-bar-night.jpg
+The view from behind the bar, night, in the calm setting: made by the user and made canon by the user, 1672x941, the camera-position sheet's bar view on its own. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-bar-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-platform-close-night.jpg
+The DJ platform close-up, night, in the calm setting: made by the user and made canon by the user, 1672x941, one of four close-up interior shots the user made for consistency in scene production. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-platform-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-bar-close-night.jpg
+The bar close-up, night, in the calm setting: made by the user and made canon by the user, 1672x941, one of the four close-up interior shots. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-bar-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-booths-close-night.jpg
+The booth-row close-up, night, in the calm setting: made by the user and made canon by the user, 1672x941, one of the four close-up interior shots. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-booths-close-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+orion-lobby-calm-night.jpg
+The view from the lobby, night, in the calm setting: made by the user and made canon by the user, 1671x941, the last of the four close-up interior shots. The prompt, generator, seed and settings weren't reported. Not fixed by hand.
+orion-lobby-calm-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of about 0.1%.
+
+orion-scale-night.jpg
+The scale sheet: a side elevation of the interior at 2 px per cm, 3840x2160, made in this project, not generated, and approved by the user. The figures are cut from the canon turnaround sheets in the same way as the size chart (characters/size-chart.jpg), with each one scaled by its height in its shoes: Ozzy from his hair-down main-outfit sheet, Dr. Heyes from his Combat Skin turnaround and Wave from his DJ skin turnaround. The furniture, platform, door and ceiling are drawn as plain shapes at the sizes in README.md's Scale list for Orion. No prompt, no credits.
+
+orion-exterior-sheet-night.jpg
+The exterior location sheet, night: the second version the user made, made canon by the user, 1672x941, nine panels of the street front and the side alley in the rain. Its prompt is below, as the user recorded it. Generator, seed and settings weren't reported. Not fixed by hand.
+orion-exterior-sheet-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+ORION EXTERIOR LOCATION SHEET — NIGHT — APPROVED VERSION 2
+Generated image: a_detailed_comic_style_anime_cel_illustration_loca.png (approved in the conversation; saved as orion-exterior-sheet-night.jpg).
+Generator, seed and settings: not reported.
+
+Prompt:
+Create a second nighttime exterior location sheet for Orion, Wave's underground nightclub in Midtown. This is an alternate composition of the same established location, not a redesign. Show five consistent views: a wide establishing view from Midtown Street into the alley, a ground-level view looking toward Orion, a reverse view down the alley toward its bend, a true elevated overhead view of the complete alley layout, and a straight-on building elevation showing the full apartment building and Orion entrance. Add a restrained entrance detail view if space allows. Keep the same architecture and positions consistent across every view.
+
+Orion occupies the ground floor of a Midtown apartment building with seven residential floors above it. The building has a flat roof and an upper alley-facing façade made primarily of concrete with brick accents. The upper wall is mostly solid, with only a few windows and no continuous rows of windows or balconies. Black-metal exterior fire escapes in a classic zigzag configuration run along the fourth, fifth, sixth and seventh residential floors only. Their platforms alternate sides between floors, have solid metal floors, and lead to a separate exit platform with a ground-level exit door farther down the alley near its bend. Make the number of floors and fire-escape placement easy to verify in the elevation view. Thick dark-grey utility pipes run vertically from ground level to the roof, spaced apart and secured with visible joints, brackets and clamps. Keep their quantity balanced with the architecture. The sky above the alley remains open, with no overhead cables or electrical wiring.
+
+Orion is on the left when entering its fairly wide side alley from the main Midtown street. The alley runs straight past the club before bending slightly farther down. It continues beyond the club, eventually opening onto another street and connecting to another service passage. Keep enough width and clearance for a delivery truck to pass. Clear pedestrian sidewalks run along both sides, separate from the vehicle route. Do not show parked cars. Only occasional futuristic delivery vehicles are present: rugged industrial cargo vans and box trucks with enclosed cargo compartments, headlights, running lights and industrial warning lights. They gently levitate while moving through the alley.
+
+Orion's entrance is recessed within the façade, with a small forecourt opening directly onto the alley and no gate or barrier. The entrance has a pair of dark tinted glass sliding doors in metal frames, with vertical bar pulls and glass side panels. The doors are dark glass #030925. A faint violet lobby glow #621DBA is visible through the glass. A short raised step spans the full width of the entrance. The double sliding-glass entrance doors are the exterior sheet's scale reference. Preserve realistic door proportions and make the doors, step and entrance recess easy to compare with the surrounding façade.
+
+A purple-neon canopy extends across the entire club frontage. Its near-black surface is #05082F, with violet neon #9D1AF0 along the front edge and underneath. A large illuminated sign is centred above the entrance on a dark navy panel #001334. It must spell exactly “ORION” in tall, rounded, geometric capital letters, each letter a hollow neon-tube outline glowing bright blue #0A54ED around a pale ice-blue core #C3E9FD. A pair of upright violet neon tubes #C81CFB glows on the wall to the left of the sign, with a single upright tube at the canopy's right end. Keep ORION as the only readable signage at the club. Do not add other words, slogans, logos or decorative lettering.
+
+Large wildstyle graffiti covers the lower walls on both sides of the recessed entrance, extending up to the canopy. Its established colour range is blue #1E72D8, cyan #1ECCF6, violet #7628DC and pink-magenta #F189FA, with dark navy outlines #020518. Preserve the established entrance graffiti without adding readable words.
+
+The wall opposite Orion belongs to a thirteen-storey building. It is dark and muted, predominantly concrete with brick accents. Its upper windows are small and narrow; some glow warm yellow, some cool blue, and others remain dark. There are no ground-level windows. Multiple separate large mural areas occupy sections of this wall, with concrete and brick remaining exposed between them and around utility fixtures and upper windows. The specific mural artwork is intentionally undesigned and must not be invented, drawn or specified. Keep these areas visually unresolved for later user design.
+
+The alley is lit mainly by Orion's purple neon and light spilling from the club frontage, visibly casting purple light across the opposite wall. Include only a few small cool-white wall fixtures at street level; do not add continuous industrial wall lighting. Surrounding apartment windows show a natural mix of warm yellow and cool blue light. Distant Midtown buildings are visible above the alley walls, beneath a dark nighttime sky, with occasional distant aircraft.
+
+The pavement is normally dry, made of smooth, maintained dark asphalt without prominent cracks or patchwork. Include separate, evenly spaced long narrow metal storm-drain channels close to the alley's centre, each running across the alley rather than forming one continuous drain. Include restrained flush metal steam grates in the pavement, with occasional gentle bursts of steam. Show two large, nearly new dark-grey commercial metal dumpsters, one on each side of the alley near the loading bay. They sit directly on the ground, have closed lids and no visible wheels, and carry only small simple industrial warning labels and identification numbers. Group electrical cabinets, ventilation units and industrial control boxes near the loading bay without overcrowding the alley.
+
+A built-in loading-bay entrance is integrated into Orion's apartment building farther down from the club entrance. It is secured by a clean, maintained black-metal roll-up shutter and sized for the delivery vehicles. Show its relationship to the two dumpsters and service equipment clearly in the overhead and reverse views.
+
+The location sheet must establish the full relationship between Orion, its seven-residential-floor apartment building, the opposite thirteen-storey building, the loading bay, service equipment, both sidewalks, the alley bend and the route back to the main Midtown street. Use the supplied Midtown and alley references for the broader urban setting and alley composition. Do not redesign the club interior or add characters. Keep the mural areas on the opposite building undesigned.
+
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.

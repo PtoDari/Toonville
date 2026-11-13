@@ -1,10 +1,10 @@
-# Toonville workflow: from idea to stills
+# Toonville workflow: from idea to finished clips
 
-This is how Toonville goes from an idea to a full set of stills, ready for animation. Animation itself comes later and isn't covered here.
+This workflow takes Toonville from an idea through approved character, prop and location assets, storyboards, stills and finished 30-second video clips. Each clip follows the README's 30-second, 1920×1080, 16:9, 24 fps specification. Longer installments are assembled from multiple clips and scenes; do not compress the long-form story into one clip.
 
 Work through it top to bottom, because each stage needs the one before it. Tick every box: a character, object, location or shot isn't done until all of its boxes are ticked.
 
-[README.md](README.md) is the single source of truth for the style. Every prompt is built in its order: the subject, then each character's style block, then the job's style block, word for word. No prompt goes to PixAI or any other generator until it has been shown and given the go-ahead.
+[README.md](README.md) is the single source of truth for the style. Every prompt is built in its order: the subject, then each character's style block, then the job's style block, word for word. No prompt goes to OpenArt, Higgsfield or any other generator until it has been shown and given the go-ahead.
 
 ## 1. Setup
 
@@ -39,8 +39,9 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - colours as hex codes
   - real size in cm
   - where it's carried or worn, and in which hand
-- [ ] **Object sheets:** one for each object (object sheet block), with front, side, back and top views plus one view in the owner's hand to show its size.
+- [ ] **Object sheets:** one for each object (object sheet block), with front, side, back and top views plus one view showing the owner's scale relationship to it. The owner holds handheld objects; for vehicles or objects too large to hold, show the owner seated on or using the object instead, with the object sheet block's vehicle line in place of the hand view.
 - [ ] **Check and save:** each sheet checked against the list, with known differences listed, and saved to `characters/<name>/objects/<name>-<object>.jpg`.
+- [ ] **Approval and canon record:** only the user's final approval makes the design canon. Record the approved specifications, asset ID, sheet status and any known drawing differences in the README; the written character and object rules remain authoritative where a sheet has a visible error.
 
 ## 4. Each location
 
@@ -50,10 +51,15 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - its main light source and that light's colour, which becomes every character's rim light there
   - where characters stand (the calm open area)
   - its reactive surfaces: signs, glass, puddles, banners, leaves
-- [ ] **Location sheet:** an establishing wide shot, the reverse angle, and each camera position its shots will use, low or aerial and wide angle as the style asks. It uses the all-in-one block without the Characters line, keeping only the Night or Day line, with a Day set and a Night set if both are used.
+- [ ] **Location sheet:** an establishing wide shot, the reverse angle, and each camera position its shots will use, low or aerial and wide angle as the style asks. It uses the all-in-one block without the Characters line, keeping only the Night or Day line, or the Night line after the rain for a place shown just after the rain, with a Day set and a Night set if both are used.
 - [ ] **Scale:** a doorway or another object of known size drawn in, so characters can be placed at their size-chart heights.
 - [ ] **Reactive states:** for each scene there, the state the story moment calls for (quiet, tension or climax), using the accent colour of the character the scene reacts to.
 - [ ] **Save:** saved to `locations/<location>/`, with known differences listed.
+
+### Backdrop approval gate
+
+- [ ] **Complete the backdrop aesthetic before storyboarding:** do not write a storyboard or shot list until the visual design of every location needed for the planned story is established, its reference material has been reviewed, its environment and lighting rules are recorded in README.md, and its required location sheets are complete and approved. If a location still depends on a reference the user has not supplied, pause that location's design and do not treat the backdrop as complete.
+- [ ] **User approval:** the user confirms that the full backdrop aesthetic is complete before storyboarding begins.
 
 ## 5. Story and shot list
 
@@ -62,7 +68,8 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - its location, and day or night
   - the characters, with their outfits and hairstyles
   - the objects in play, and each weapon's state: for Ozzy's golden staff, retracted at his left hip, extended in his hand, or absent
-  - its story moment (quiet, tension or climax) from the README's reactive environment table
+  - its story moment (quiet, tension or climax) from the README's reactive environment table, and the character the scene reacts to, whose accent the location takes on
+  - the location's reactive state for that moment, inside and outside where the scene uses both, from the location's README entry
 - [ ] **Shot list:** every shot numbered, with:
   - the characters in it
   - framing (wide, medium or close-up)
@@ -70,6 +77,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - which way each character faces, keeping one-sided features toward the camera where the story allows
   - each weapon's state
   - the action
+  - which doors are open: a door that opens for characters, like Orion's sliding doors, is open only while someone goes through it
   - the keyframes it needs (start, key poses, end)
   - its length in seconds, with every shot together making the video's 30 seconds
 - [ ] **Storyboard:** a rough 16:9 thumbnail for every shot.
@@ -83,13 +91,13 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 - [ ] **Background plate first:** the location from this shot's camera, with no characters, in the scene's reactive state. It uses the all-in-one block without the Characters line. Keep it, because the animation will need the background on its own.
 - [ ] **Full frame:**
-  - **Prompt:** the subject, then each character's style block, then the all-in-one block. Keep the matching Night or Day line, and keep the "At story peaks" sentence only for tension and climax moments.
+  - **Prompt:** the subject, then each character's style block, then the all-in-one block. Keep the matching Night or Day line, or the Night line after the rain for a night scene set just after the rain, and keep the "At story peaks" sentence only for tension and climax moments.
   - **References:** each character's canon sheets attached as image references, if the generator offers it.
   - **Plate:** used as the background reference if the generator offers image reference, so the location doesn't drift.
 - [ ] **Show before generating:** every prompt shown, saved and priced in credits before it's sent. Each image's prompt, seed and settings are recorded next to it.
 - [ ] **Keyframes:** every keyframe in a shot uses the same plate, camera, seed and settings, and changes only pose and expression. If the generator offers pose reference or image-to-image, use them to work from the previous keyframe.
 - [ ] **Canon check on every still:**
-  - [ ] each character matches their README entry and sheets: one-sided features on the right side, including tattoos, implants, insignia and awards; hair, outfit, and colours to their hex codes
+  - [ ] each character matches their README entry and sheets: one-sided features stay on the character's anatomical left or right as written, never mirrored to suit the frame; tattoos, implants, insignia and awards remain in their approved anatomical positions; hair, outfit, and colours match their hex codes
   - [ ] objects match their object sheets, and each weapon is in the state the shot list records
   - [ ] heights match the size chart
   - [ ] characters are in thick black ink, and the environment is in thin tinted lines, never black
@@ -107,6 +115,19 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] Every shot's background plate is kept next to its stills, so characters can later be separated and animated over the background.
 - [ ] Neighbouring shots cut together: screen direction, eyelines, light and reactive state carry across the cut.
 - [ ] A final pass through every scene in order, with each character compared side by side against their sheets.
+
+## 8. Video generation and sound
+
+A storyboard is a continuity and timing map, not a substitute for the character, prop and location references. A multi-panel storyboard may communicate shot order and composition, but generate or supply separate clean references for the character, important props and approved location. Do not expect a video model to reproduce tiny panel details as exact frames.
+
+- [ ] **Storyboard plan:** assign every shot a number, start/end action, camera movement, framing, duration and transition. For a 30-second clip, all shot durations add up to exactly 30 seconds. Use a multi-panel overview as a guide; create separate 16:9 keyframes for any shot that needs precise control.
+- [ ] **Reference pack:** attach the approved character turnaround/pose, object sheet and location plate separately wherever the chosen video platform supports them. Keep the storyboard as the sequence guide. Do not assume every platform exposes the same reference slots or accepts the same number of images.
+- [ ] **Video prompt:** write each shot's action and camera movement clearly, then include the relevant character style block and the README's [video block](README.md#video-block). Preserve the established master style line and the video block word for word. Do not shorten them to fit a video tool without first preparing and showing an approved short backup.
+- [ ] **Generation platform:** record the actual platform, model/version, mode, reference inputs, prompt, duration, aspect ratio, resolution, frame rate, seed (if available), settings and credit cost. Platform-specific upload instructions belong in the project notes only after the platform is identified; do not assume Seedance's interface is the same across providers.
+- [ ] **Shot review:** review motion, anatomy, screen direction, object state, lighting, location continuity, and start/end frame stability. Reject or repair any shot that mirrors one-sided tattoos/implants, changes the prop design, invents a new location, or breaks the approved action.
+- [ ] **Sound pass:** plan dialogue, footsteps, movement, impacts, machinery, ambience and music alongside the picture. Sound must communicate essential story information even to a viewer who cannot see the screen. Keep sound cues synchronized with visible actions; do not rely on visuals alone for a critical beat.
+- [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1920×1080 at 24 fps, and check transitions, audio levels, ambience continuity and the final mix.
+- [ ] **Final approval:** show the finished clip for user review. Only explicit approval makes it final canon. Record its clip ID/path, prompt and settings, approved status, and any known deviations in the project inventory.
 
 ## Files and names
 
