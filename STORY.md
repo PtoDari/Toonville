@@ -539,9 +539,152 @@ This section records the tribe's established culture from the user's answers. It
 - Whether the forest helps create, power or protect technology.
 - What happens if another group attacks or attempts to invade.
 
+### 12. Wildlife relationships and environmental stewardship
+
+#### Animals and the tribe
+- Most animals are neutral toward the tribe unless threatened.
+- The most spiritually capable tribe members can communicate with all animals and forest life.
+- Animals recognize individual tribe members.
+- Certain animals form close bonds with particular families or individuals.
+- Cows and horses are sacred animals.
+- Large winged dragons from the volcano island are considered signs of danger or bad omens.
+- Domesticated horses provide transportation.
+- The tribe also has hunting dogs.
+
+#### Rare and powerful creatures
+- Large rare creatures are native to the forest.
+- Their territories are sacred and must not be disturbed.
+- Some are intelligent and capable of communication.
+- Some are friendly toward the tribe.
+- Certain creatures are so dangerous that even Guardians avoid confronting them when possible.
+- Rare creatures must be left alone unless they become a threat.
+- Some rare creatures are connected to the forest's consciousness.
+
+#### Plants and forest life
+- Some plants are poisonous.
+- Some plants can strangle people.
+- Certain plants move, react or defend themselves.
+- The forest deliberately grows plants for the tribe.
+- Some plants grow only in sacred locations.
+- The tribe cultivates plants for medicine, food, building and defence.
+- No plant is absolutely forbidden from harvesting, provided it can be replanted.
+
+#### Environmental protection
+- Burning, unjust killing and uncleanliness are considered disrespectful or harmful to nature.
+- Before trees or gems are removed, the matter must be discussed with the Lead Hunter or a Guardian.
+- The tribe restores or replaces what it takes from the forest.
+- The forest can reject or prevent the removal of something.
+- Repeated environmental damage can result in someone becoming an outcast, or the forest itself punishing the offender.
+- Every tribe member is responsible for monitoring the forest's health.
+
+#### Protected areas and natural cycles
+- The forest has distinct regions and ecosystems.
+- Animal behaviour and plant growth change with the seasons.
+- Animals migrate through tribal territory.
+- Sacred migration routes and protected breeding areas exist.
+- Hunting, fishing and gathering must not adversely affect the environment.
+- The tribe prepares for natural disasters and environmental events.
+- Ordinary members cannot enter the waters or the volcano island.
+
+#### The forest and its family
+- The tribe considers the forest its family.
+- The forest can deliberately protect deeply connected tribe members.
+- The forest can become angry or hostile and react.
+- The forest communicates with animals more kindly and patiently than it communicates with people.
+- An outsider can receive the forest's protection if that outsider is protecting the forest.
+- The founding tribe day celebrates and thanks the forest for being their home.
+- The tribe believes it must never destroy the forest.
+
+**Open questions — Section 12**
+- Why cows and horses are sacred, and whether they have rituals or special protections.
+- How animal companions are formed and whether bonds pass down through families.
+- Whether hunting dogs are ordinary, specially bred or spiritually connected.
+- Why winged dragons come from volcano island and what makes their appearance an omen.
+- How the tribe identifies rare creatures' territories, intelligence and intentions.
+- How rare creatures connect to forest consciousness.
+- Whether poisonous or strangling plants are intentionally used for defence.
+- Who may enter sacred growing areas and harvest plants there.
+- How replanting decisions are made and what must be replanted.
+- The forms forest punishment can take.
+- Why the waters are restricted and who may enter.
+- Whether volcano island is forbidden to everyone, including Guardians and spiritual elders.
+- Which natural disasters and environmental events the tribe prepares for.
+- Whether seasons have names or form a distinct natural calendar.
+- What makes someone deeply connected enough for the forest to protect them.
+
+### 13. Trade, economy, outsiders and diplomacy
+
+#### Trade and economy
+- The tribe uses barter rather than currency.
+- Its most valuable resources are gems and protected technology.
+- Goods commonly traded away include food and gold jewelry.
+- Goods obtained from outsiders include different kinds of jewelry and spices.
+- Trade agreements may be approved by the Guardian commander or the trap leader.
+- The tribe has dedicated traders or merchants.
+- Markets operate on certain occasions, not every day.
+- Individual members may own personal possessions and wealth.
+- Wealth is distributed evenly.
+- Social rank affects access to valuable resources.
+
+#### Trade with outsiders
+- Trade visitors come from other tribes on other continents across the ocean.
+- The tribe meets traders at the beach.
+- Outsiders are not allowed into the main settlement.
+- The tribe prefers trading with other tribes.
+- The tribe refuses to trade with the main populace of Deiya.
+- It has established trade partners.
+- Trust is established through time.
+- Trade agreements are made verbally.
+- Outsiders may visit more than once.
+- An outsider who breaks a trade agreement loses the opportunity to trade with the tribe again.
+
+#### Diplomacy and relationships
+- The Guardian commander is the tribe's formal representative when speaking with outsiders.
+- The elder woman is personally involved in diplomacy.
+- The council approves relationships and agreements with other groups.
+- The tribe maintains friendships or alliances with other communities.
+- There are no neighbouring tribes or settlements on the same continent.
+- The tribe exchanges knowledge with outsiders.
+- Outsiders may learn about the forest's spiritual abilities.
+- The tribe sends members outside its territory to gather intelligence.
+- Misunderstandings are addressed through conversation before battle.
+- The tribe is usually peaceful and has few reasons to refuse negotiation.
+- Ambassadors from each tribe converse about territorial boundaries.
+- Historical conflicts have shaped the tribe's view of outsiders.
+- The tribe seldom provides aid to outsiders in danger.
+
+#### Visitor rules, security and conflict
+- An outsider who enters the forest without permission is swiftly escorted out.
+- An outsider who enters a restricted area is captured.
+- Visitors are escorted while inside tribal territory.
+- Outsiders may be temporarily sheltered by the tribe.
+- Outsiders may not bring weapons into the settlement.
+- If an outsider threatens or harms a tribe member, the response is battle.
+- A group becomes an enemy if it threatens the tribe.
+
+**Open questions — Section 13**
+- How the tribe determines fair barter values.
+- What makes technology protected, and who may trade it.
+- Whether gems and protected technology are traded or primarily kept within the tribe.
+- Whether the Guardian commander and trap leader approve all agreements or have different responsibilities.
+- How traders or merchants are selected.
+- Which occasions cause the markets to open.
+- How evenly distributed wealth works alongside rank-based access to valuable resources.
+- Why the tribe refuses to trade with the main populace of Deiya.
+- What actions over time establish trust with a trade partner.
+- Which groups make up the established trade partnerships.
+- What knowledge is shared, and what knowledge remains private.
+- Who is sent to gather intelligence and how their findings are reported.
+- The parties involved in historical conflicts and what happened.
+- The circumstances in which an outsider may be sheltered and for how long.
+- What happens after an outsider is captured in a restricted area.
+- Which groups' territorial boundaries are discussed by ambassadors, given that there are no neighbouring tribes on the same continent.
+- Whether “trap leader” is the same position as the Lead Trapper or Lead Hunter, or a separate role.
+
 ### Canon handling for future culture sections
 
-- This record captures answers through Section 11.
+- This record captures the tribe's cultural answers through Section 13.
+- Section 14, Education, childhood and stages of life, has been proposed but not answered; it is not established canon.
 - Open questions are intentionally unresolved; do not treat suggestions or plausible explanations as canon.
 - When the user supplies further answers, add them to the appropriate section and keep unresolved details marked as open questions.
 - Only the user's explicit final approval makes a new cultural decision canon.
