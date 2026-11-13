@@ -95,7 +95,7 @@ Camera: close-up, the subject filling the frame, long lens, slightly low angle, 
 Camera: over the shoulder, eye level, the near character's head and shoulder dark and soft in the foreground at one side of the frame; the far subject sharp, long lens; background matches the shot.
 ```
 
-**POV:** through a character's eyes. Their hands show only when they act. When they do, that character's style block goes in too, so the right tattoos and the right hand show.
+**POV:** through a character's eyes. Their hands show only when they act. When they do, that character's style block goes in too, so the correct tattoos and the correct hand show.
 
 ```
 Camera: first-person point of view from the character's eye level, wide angle, their own hands foreshortened at the bottom of the frame when they act; background matches the shot.
@@ -266,7 +266,9 @@ Asset IDs from earlier work label characters (`CHAR_`), their outfits (`SKIN_`) 
 
 Oswald, known as Ozzy (`CHAR_001`): a young man of 19. **Combat skill:** Underground amateur boxer with experience in underground boxing matches. "Money" is an old name for him from earlier work, not a separate character. Tone: understated and grounded, with realistic proportions, a calm heavy-lidded gaze and restrained detail.
 
-Every sheet below except the governor chip's object sheet, his boxing shots, his hover bike's object sheet and his royal combat medium shot shows the "$" tattoo on his right hand, or leaves it out, and none of those shows the governor chip. His boxing shots put the "$" on the back of his left hand and draw the chip as a raised dial on a strap, and his hover bike's object sheet and royal combat medium shot put the "$" on the back of his left hand and the chip on the back of his wrist. Both belong on his left hand: the "$" on the web between the thumb and index finger, and the chip on the inside of the wrist. The written rules here win.
+**Non-negotiable anatomical continuity:** left/right placement is defined by Ozzy's body, never by the viewer's side of the image. The "$" hand tattoo and governor chip remain on his LEFT hand/wrist in every generation. The tattoo belongs on the web between the thumb and index finger; the chip belongs on the inside of the same wrist. His RIGHT hand is bare. Do not mirror, swap, relocate, duplicate or reinterpret either feature to satisfy composition. If an approved image disagrees, record the discrepancy as an image error; do not copy it into a new generation.
+
+Some older sheets and generated shots contain known placement errors: they put the "$" on the right hand or the back of the left hand, or draw the governor chip as a raised dial or place it on the back of the wrist. Those are documented as image defects, not alternate designs. The permanent anatomical rule is: the "$" tattoo is on the web between the thumb and index finger of Ozzy's LEFT hand; the governor chip is flush on the inside of that same LEFT wrist, not touching the tattoo; his RIGHT hand is bare. This rule applies to every outfit, pose, angle, sheet, edit and generation. If a camera angle or composition makes the correct placement hard to show, preserve the anatomy rather than moving the feature. The written rule takes precedence over every reference image and generated result.
 
 Each outfit gets two turnarounds, one with his golden staff and one without. The balaclava turnaround has both. The jacket sheets with his hair up and hair down have the staff at his left hip, and the jacket-off and shirtless sheets have no staff; the other half of each of those pairs is still to come.
 

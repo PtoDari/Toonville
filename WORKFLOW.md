@@ -1,6 +1,6 @@
-# Toonville workflow: from idea to stills
+# Toonville workflow: from idea to finished clips
 
-This is how Toonville goes from an idea to a full set of stills, ready for animation. Animation itself comes later and isn't covered here.
+This workflow takes Toonville from an idea through approved character, prop and location assets, storyboards, stills and finished 30-second video clips. Each clip follows the README's 30-second, 1920×1080, 16:9, 24 fps specification. Longer installments are assembled from multiple clips and scenes; do not compress the long-form story into one clip.
 
 Work through it top to bottom, because each stage needs the one before it. Tick every box: a character, object, location or shot isn't done until all of its boxes are ticked.
 
@@ -97,7 +97,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Show before generating:** every prompt shown, saved and priced in credits before it's sent. Each image's prompt, seed and settings are recorded next to it.
 - [ ] **Keyframes:** every keyframe in a shot uses the same plate, camera, seed and settings, and changes only pose and expression. If the generator offers pose reference or image-to-image, use them to work from the previous keyframe.
 - [ ] **Canon check on every still:**
-  - [ ] each character matches their README entry and sheets: one-sided features on the right side, including tattoos, implants, insignia and awards; hair, outfit, and colours to their hex codes
+  - [ ] each character matches their README entry and sheets: one-sided features stay on the character's anatomical left or right as written, never mirrored to suit the frame; tattoos, implants, insignia and awards remain in their approved anatomical positions; hair, outfit, and colours match their hex codes
   - [ ] objects match their object sheets, and each weapon is in the state the shot list records
   - [ ] heights match the size chart
   - [ ] characters are in thick black ink, and the environment is in thin tinted lines, never black
@@ -107,7 +107,20 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Fix or redo:** a still that fails is fixed locally or regenerated, with any new prompt shown first, then checked again.
 - [ ] **Save:** saved under the shot's name, together with its plate.
 
-## 7. Ready for animation
+## 7. Video generation and sound
+
+A storyboard is a continuity and timing map, not a substitute for the character, prop and location references. A multi-panel storyboard may communicate shot order and composition, but generate or supply separate clean references for the character, important props and approved location. Do not expect a video model to reproduce tiny panel details as exact frames.
+
+- [ ] **Storyboard plan:** assign every shot a number, start/end action, camera movement, framing, duration and transition. For a 30-second clip, all shot durations add up to exactly 30 seconds. Use a multi-panel overview as a guide; create separate 16:9 keyframes for any shot that needs precise control.
+- [ ] **Reference pack:** attach the approved character turnaround/pose, object sheet and location plate separately wherever the chosen video platform supports them. Keep the storyboard as the sequence guide. Do not assume every platform exposes the same reference slots or accepts the same number of images.
+- [ ] **Video prompt:** write each shot's action and camera movement clearly, then include the relevant character style block and the exact video/style wording required by README.md. Preserve the established master style line and job block word for word. Do not shorten them to fit a video tool without first preparing and showing an approved short backup.
+- [ ] **Generation platform:** record the actual platform, model/version, mode, reference inputs, prompt, duration, aspect ratio, resolution, frame rate, seed (if available), settings and credit cost. Platform-specific upload instructions belong in the project notes only after the platform is identified; do not assume Seedance's interface is the same across providers.
+- [ ] **Shot review:** review motion, anatomy, screen direction, object state, lighting, location continuity, and start/end frame stability. Reject or repair any shot that mirrors one-sided tattoos/implants, changes the prop design, invents a new location, or breaks the approved action.
+- [ ] **Sound pass:** plan dialogue, footsteps, movement, impacts, machinery, ambience and music alongside the picture. Sound must communicate essential story information even to a viewer who cannot see the screen. Keep sound cues synchronized with visible actions; do not rely on visuals alone for a critical beat.
+- [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1920×1080 at 24 fps, and check transitions, audio levels, ambience continuity and the final mix.
+- [ ] **Final approval:** show the finished clip for user review. Only explicit approval makes it final canon. Record its clip ID/path, prompt and settings, approved status, and any known deviations in the project inventory.
+
+## 8. Ready for animation
 
 - [ ] Every shot in the shot list has all of its keyframes.
 - [ ] Every still has the same frame size: 16:9 at 1920×1080.

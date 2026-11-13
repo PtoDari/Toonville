@@ -2,6 +2,8 @@
 
 This file is Toonville's lore bible: everything that's true in its world, including secrets the audience doesn't know yet. It holds the conflict, the characters' stories, the world and the scenes as they come. It's still being brainstormed. Scenes get written up one at a time and joined into a beat outline later, in step 5 of [WORKFLOW.md](WORKFLOW.md). What the audience learns, and when, goes in the [reveal timeline](#reveal-timeline).
 
+Canon is cumulative but approval-controlled: a user's explicit final approval makes a design or story decision canon. Suggestions, exploratory generations and unapproved drafts stay provisional. When a visual reference contains a known error, the written canon takes precedence; record the error rather than silently adopting it. Keep unresolved details marked TBD until decided.
+
 Toonville is a long-form series, told in installments. One installment may run 10 to 15 minutes, but the larger story takes as many installments and as much runtime as it needs. The lore comes first, so the audience feels the world before every mystery is explained.
 
 [README.md](README.md) holds how everything looks and sounds: each character's look in their entry, each place's look in its Locations entry, and the series' sound and music. Nothing here overrides it. A character or place named here needs its README entry and sheets before it appears in a shot.
