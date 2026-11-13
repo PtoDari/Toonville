@@ -62,6 +62,7 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
 - **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion. They aren't the hunters the Guardian recruits train alongside.
 - **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are beyond what's below is TBD.
+  - **Where they live:** in the Forbidden Foliage, with the tribe: its hunters, healers and tribal leader.
   - **Recruits:** Guardian recruits train alongside the hunters. Recruits of all ages train together.
   - **Progression:** there is no particular age requirement for membership or advancement. Progression is determined by training, discipline, demonstrated ability and achievements rather than age or seniority. A younger recruit may advance ahead of an older recruit when their demonstrated ability and achievements warrant it.
   - **Leadership:** a Guardian can become commander either by appointment or by winning a leadership challenge.
@@ -82,7 +83,7 @@ The planet is Lepus. Daiya is a frozen island city deep in the ice, built agains
 - **Amethyst Path:** the way behind the Crystal Tower, which characters cross before they reach the far side of the mountain. It leads to the Forbidden Foliage. The Tall Whites live on it and underground, and never reveal themselves. The public doesn't know it exists: only the Tall Whites and the doctor do, and Ozzy finds out later. The tower blocks the mountain's passages, so it's reached only by the two secret ways through the mountain: the Tall Whites' underground tunnel and the tower's true doors, its secret entrance caved into the mountain.
 - **The Tall Whites' underground facility:** on the far side of the mountain, before the Forbidden Foliage, built not long after the ship crashed, for illegal space trade.
 - **The sky structures:** held up by anti-gravity, for the wealthiest only.
-- **The Forbidden Foliage:** the southernmost region of Daiya, a wild coastal region beyond the mountain, with its own beaches and a lush coastal forest. It has exotic wildlife, including dinosaurs and cryptids, and is being colonized by the Tall Whites. Hunters, healers and a tribal leader live there. Amethyst Path leads toward it. Its forest entrance at the edge of Sunnymead is hidden from the public: large Venus flytraps and thick roots prevent passage, and two trees towering over the clouds also block any entrance. Like the path, it's unknown to the public: apart from the people who live there, only the Tall Whites and the doctor know of it, and Ozzy finds out later.
+- **The Forbidden Foliage:** the southernmost region of Daiya, a wild coastal region beyond the mountain, with its own beaches and a lush coastal forest. It has exotic wildlife, including dinosaurs and cryptids, and is being colonized by the Tall Whites. A tribe lives there, with its hunters, healers and tribal leader, and the Guardians live with them. Amethyst Path leads toward it. Its forest entrance at the edge of Sunnymead is hidden from the public: large Venus flytraps and thick roots prevent passage, and two trees towering over the clouds also block any entrance. Like the path, it's unknown to the public: apart from the people who live there, only the Tall Whites and the doctor know of it, and Ozzy finds out later.
 
 The city feels moody and cold. Its vibrant neon, the sun's rare glow and its people's perseverance make it one of the best places on the planet, though the rest of the planet doesn't know it exists. The sun appears only once every six months.
 
@@ -117,6 +118,6 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 ## Open questions
 
 - **The underground facility:** what does it look like?
-- **The Guardians:** who are they, beyond their recruits and training?
-- **The hunters, healers and tribal leader:** who are they, beyond living in the Forbidden Foliage? The hunters aren't the bounty hunters who raided the royal convoy.
+- **The Guardians:** who are they, beyond their home in the Forbidden Foliage, their recruits and their leadership?
+- **The tribe, with its hunters, healers and tribal leader:** who are they, beyond living in the Forbidden Foliage? The hunters aren't the bounty hunters who raided the royal convoy.
 - **The abandoned vessel:** which vessel is it, and where is it?
