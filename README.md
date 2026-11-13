@@ -17,6 +17,7 @@ Every prompt is built in this order:
 | Job | Style block | The only edits allowed |
 |---|---|---|
 | Scenes and story shots | All-in-one block | Keep only the Night or Day line. For a night scene set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
+| Video shots, one shot per prompt | Video block | The same edits as for scenes: keep only the Night or Day line, or swap in the [Night line after the rain](#night-line-after-the-rain); drop the "At story peaks" sentence for quiet scenes; swap the Camera line for a close-up, over-the-shoulder, POV, standoff or screen shot's line from [Camera lines](#camera-lines). Fill the camera move, shot length and hex slots. |
 | Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
 | Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
 | Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
@@ -75,7 +76,7 @@ Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs an
 
 ## Camera lines
 
-The all-in-one block's Camera line is the default, for wide and medium shots. A scene or plate that needs one of the shots below swaps it for that shot's line, word for word. Every line ends with the background matching the shot, so the location stays in step with the camera. Pans and other camera moves are for video, and come with a video block.
+The all-in-one block's Camera line is the default, for wide and medium shots. A scene or plate that needs one of the shots below swaps it for that shot's line, word for word. Every line ends with the background matching the shot, so the location stays in step with the camera. Pans and other camera moves are for video, and go in the [video block](#video-block)'s Motion line.
 
 **Default, for wide and medium shots:** already in the all-in-one block.
 
@@ -111,6 +112,25 @@ Camera: wide shot, low angle, long lens; the opposing sides on the left and righ
 
 ```
 Camera: phone front camera held at arm's length, slightly above eye level, ultra-wide selfie lens with mild distortion at the edges, the holding arm foreshortened toward the lens at one side, vertical framing; background matches the shot; no on-screen interface, labels or captions.
+```
+
+## Video block
+
+For video shots, one shot per prompt. Build each prompt in the usual order: the subject, with the action from the start of the shot to its end; the character style block for everyone in the shot; then this block. Replace `[SKIN HEX]`, `[ACCENT HEX]`, `[CAMERA MOVE]` and `[SHOT LENGTH]`.
+
+It's the all-in-one block, word for word, with one line added, as the user approved: the Motion line, which gives the camera move and the shot's length, and keeps the style and the characters steady from frame to frame. It takes the same edits as the all-in-one block does for scenes. Frame rate and resolution are the video tool's settings, and every clip is conformed to 1920×1080 at 24 fps in editing, as in the [Video spec](#video-spec). It has no sound line, because there's no sound block yet.
+
+- **`[CAMERA MOVE]`:** for example a slow pan left to right, a slow push in toward the subject, a low tracking shot following the subject, a crane down from overhead to street level, or a drone flight rising high down the road.
+- **`[SHOT LENGTH]`:** the shot's length in seconds, from the shot list. All the shots in a clip add up to 30 seconds.
+
+```
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
+Day: navy lines #344481, light-to-mid values; sky cobalt #3572C5, bright blue #4A97CF, haze blue #91B8D5, concrete grey #909BA8, sage green #9CD086, roof brown #573931; high sun, hard cast shadows, loose painterly clouds on flat sky; glass glints, banners and leaves react.
+Motion: 16:9, [CAMERA MOVE], smooth and steady, [SHOT LENGTH] seconds; ink lines, flat cel colour and film grain hold steady from frame to frame, no flicker or morphing; each character keeps the same face, tattoos, outfit and proportions throughout, with one-sided features staying on the same side of their body as they turn; the background moves with the camera.
 ```
 
 ## Character sheet block

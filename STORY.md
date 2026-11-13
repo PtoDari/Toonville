@@ -98,7 +98,7 @@ Not stills and transitions: the camera moves.
   - interesting camera angles throughout
 - **Screens:** some scenes are a character broadcasting live, as on TikTok, or on a FaceTime-style video call. Those shots look like it.
 
-Each kind of shot has its camera line in the README's [Camera lines](README.md#camera-lines): close-up, over the shoulder, POV, standoff for the rule-of-thirds framing, and screen for live streams and video calls. Pans and other camera moves come with a video block.
+Each kind of shot has its camera line in the README's [Camera lines](README.md#camera-lines): close-up, over the shoulder, POV, standoff for the rule-of-thirds framing, and screen for live streams and video calls. Pans and other camera moves go in the README's [video block](README.md#video-block).
 
 ## Scenes
 
