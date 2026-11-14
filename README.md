@@ -1349,6 +1349,21 @@ These are the things every part of the city shares.
 - **What happens there:** the southernmost region of Daiya, a wild coastal region beyond the mountain, being colonized by the Tall Whites, a species of alien: tall, pale, emotionless corporate businessmen, who aren't villains as a species (see [STORY.md](STORY.md)). A tribe lives there, with its hunters, healers and tribal leader, and the Guardians live with them. It is unknown to the public: apart from the people who live there, only the Tall Whites and the doctor know of it, and Ozzy finds out later. Amethyst Path and the hidden routes through the mountain lead toward it.
 - **Look:** a lush coastal forest with exotic wildlife, from dinosaurs to cryptids, the freshest springs and the most vibrant fruit, opening onto its own beaches along Daiya's southern coast.
 - **The forest entrance:** at the edge of Sunnymead. The forest entrance at Sunnymead's edge is hidden from the public, as the user set: large Venus flytraps and thick roots prevent passage, and two trees towering over the clouds also block any entrance. The two trees' look, beyond their height, is TBD.
+- **The tribe's settlement,** from the user's tribe culture in [STORY.md](STORY.md): one large settlement deep within the forest.
+  - **Homes:** some in the trees and some on the ground, built of tree bark and stone, with living trees shaped into homes. The architecture is designed and structured, not simply organic.
+  - **Places in it:** private family quarters, shared markets, the elder woman's residence, quarters for the Guardians and hunters, healers' facilities and spiritual spaces. The council space is at the peak of the mountain.
+  - **Water and power:** the water source is close to the waterfalls by the beach, which also feed an aquaponics system. Gems placed around the settlement collect solar energy.
+  - **Light:** small outdoor flames light it.
+  - **Getting around:** people travel through the trees or on foot, and domesticated horses carry them.
+  - **Defences:** tall trees, large Venus flytraps, quicksand and large alien rare beasts.
+  - **Sacred places:** the waterfalls leading to the beach, and the base of the mountain.
+  - **TBD:** the look of the elder's residence and the council space, whether it has gates, watchtowers or raised walkways, and how its boundaries are marked.
+- **The tribe's look,** from the same section:
+  - **Clothing:** made from plant fibres and animal materials, in the traditional colours green and lavender, with their hex codes still TBD. Winter clothing uses warmer animal skins, and footwear is made from deer. Ceremonial clothing differs little from everyday clothing.
+  - **Rank:** the ruling family, the elders and the Guardians wear distinctive clothing, and hunters dress much like Guardians. Clothing and body markings show rank and class, and leaders wear crowns.
+  - **Hair and jewellery:** hair is usually braided back. Jewellery of stones and jewels includes necklaces, bracelets and earrings, and healers use crystals and shells. Animal symbolism runs through their appearance.
+  - **Arms and armour:** Guardians and hunters wear armour of animal hides and plant fibres. Weapons are made with animal teeth and bones: shields, daggers, bows, spiked fists and blow darts. Hunters carry bows and spears, and gem-encrusted weapons are used against dangerous rare creatures.
+  - **TBD:** the designs for each rank and role, the body markings, the crowns, the spiritual staff and which animal symbols go with each rank. Nothing here is invented beyond what the user set, so each design is decided before the tribe appears in a shot.
 - **Day or night:** TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
