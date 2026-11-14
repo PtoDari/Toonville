@@ -1197,6 +1197,9 @@ These are the things every part of the city shares.
     - **Colours:** the sign's tubes glow a lighter blue `#1992E8` than `#0A54ED`, the canopy's neon reads a deeper violet `#8A17BA` than `#9D1AF0`, and the graffiti's blue `#0575C7` against `#1E72D8`.
     - **16:9 version:** [`orion-exterior-sheet-night-16x9.jpg`](locations/orion/orion-exterior-sheet-night-16x9.jpg), scaled to 1920×1080.
 
+
+  - **Approved character shot — Wave and Ozzy outside Orion:** the user approved the generated two-character scene on 2026-11-14 as canon for this shot. Wave is crouching on the upper step in his DJ skin; Ozzy is seated below him, shirtless with his hair down, wearing his blue Polo joggers, white socks and blue Nike Cortez. The composition, relaxed pose, nighttime Orion entrance, purple neon and wet pavement reflections are approved. The image has visible deviations from the written character specifications, including Ozzy's face and hand tattoo placement/lettering and Wave's DJ details. Those are image-specific exceptions for this approved shot only; the written character rules remain authoritative for all other work. The generated image is retained in the conversation; its binary has not yet been added to this repository.
+
 ### The Chase Tower
 
 - **What happens there:** a tall residential building in Midtown, the district's dominant landmark, with a large public plaza at its base. The D. Bell marketplace sits directly across the street, opposite the plaza.
