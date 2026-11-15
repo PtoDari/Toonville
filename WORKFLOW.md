@@ -133,5 +133,6 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 
 - **Characters:** sheets in `characters/<name>/`, object sheets in `characters/<name>/objects/`, LoRA training sets (not used for now) in `characters/<name>/lora/`.
 - **Size chart:** `characters/size-chart.jpg`.
+- **Shot lists:** one per scene in `shot-lists/`, named after the scene, for example `shot-lists/test-video-alley.md`.
 - **Locations:** `locations/<location>/<location>-<view>-<day|night>.jpg`, for example `locations/corner-store/corner-store-wide-night.jpg`.
 - **Shots:** named `ep<NN>-sc<NN>-sh<NNN>-k<NN>.png` for keyframes and `ep<NN>-sc<NN>-sh<NNN>-plate.png` for the background plate, for example `ep01-sc03-sh012-k02.png`. Each shot folder keeps a `prompts.txt` with every prompt, seed and setting used. Shots will grow large, so keep them in your production storage rather than in this repo.
