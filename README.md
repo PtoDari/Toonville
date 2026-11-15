@@ -822,7 +822,7 @@ A third-party alien species the doctor paid to raid the royal convoy and cause a
 ```
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin #537D90; signature accent #6D4F46.
 ```
-- **Sheets:** no approved turnaround or character sheet yet. The first turnaround should show front, three-quarter, side and back views at the same scale on flat mid grey `#808080`, with the helmet antenna, right forearm guard and back canister kept on their correct sides in every view.
+- **Approved turnaround:** the four-view front, three-quarter, side and back turnaround generated on flat mid grey `#808080` is approved by the user as canon. It is the visual reference for this bounty hunter's standard armoured design. The helmet antenna, right forearm guard and back canister remain subject to the written character-side placement rules above in every view.
 
 ## Restyled images
 
