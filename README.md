@@ -1359,11 +1359,12 @@ These are the things every part of the city shares.
 
 - **What happens there:** Fades operates as a legitimate boxing gym during the day. At night, the same gym hosts underground fights.
 - **Public entrance:** a normal street-facing entrance with a large viewing window through which the boxing gym interior is visible. A neon sign above it displays “Fades” alongside a boxing-glove symbol; both are crimson #770A20.
-- **After-hours appearance:** from the street, the gym appears closed.
-- **Hidden entrance:** a concealed street-level door is disguised as a maintenance panel in the building's exterior.
-- **Access:** an access code opens the concealed entrance. The code is shared with all members of the underground fight club.
+- **After-hours appearance:** from the street, the gym appears closed. The approved night exterior image nevertheless shows the boxing space lit and visible through its large window; this is an approved visual exception to the closed-from-the-street description.
+- **Hidden entrance:** a concealed street-level door is disguised as a maintenance panel in the building's exterior. In the approved night exterior image, the panel is a large metal utility door with vents, warning markings and an access keypad. This appearance is now the visual reference.
+- **Access:** an access code opens the concealed entrance. The code is shared with all members of the underground fight club. The exact code and mechanism remain undecided.
 - **Exterior reference:** the user-supplied reference image guides the gym's exterior architecture and atmosphere: dense, worn multi-level construction, exposed metal walkways and railings, weathered concrete, graffiti, overhead structures, narrow stairways, damp reflective ground and industrial lighting. These are reference cues, not a requirement to reproduce every detail.
-- **TBD:** exact building design, gym interior, the maintenance panel's precise appearance and the access-code mechanism.
+- **Approved exterior image:** the user approved the generated night exterior as canon. It establishes the Fades storefront in a dense, weathered Sunnymead block, the prominent “Fades” lettering and boxing-glove neon, large public viewing window, separate street-level utility-panel entrance with keypad, exterior stairs and elevated metal walkways, graffiti, industrial lighting and rain-wet reflective pavement. The sign is rendered brighter red than the specified #770A20; the written crimson value remains the intended sign colour, while the approved image is the visual reference for the overall exterior composition and design.
+- **TBD:** exact building design beyond the approved exterior view, gym interior layout, and the detailed access-code mechanism.
 
 ### The Crystal Tower and the orphanage
 
