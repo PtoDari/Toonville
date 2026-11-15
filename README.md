@@ -266,6 +266,7 @@ Each main character has their own height, skin tone and one signature accent col
 | Ozzy | 6'2" (188 cm) | Deep brown `#9B7461` | Electric indigo | `#6F00FF` |
 | Dr. Erich Heyes, the doctor | 6'5" (196 cm) | Pale ivory `#EAD8C4` | Red | `#CC4747` |
 | Wave, the intergalactic patrol officer | 6'4" (193 cm) | Warm brown `#9C6C4E` | Dark goldenrod | `#8B6508` |
+| The bounty hunters | About 6' (183 cm) | _TBD_ | Copper and crimson scheme; accent TBD | `#______` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
 ## Characters
@@ -802,6 +803,21 @@ For sheets, add this straight after the description, so the com chip lands on th
 ```
 Wave, a tall, athletic 22-year-old Black man with broad shoulders: warm brown skin, dark brown eyes, full short near-black beard; long reddish-brown locs with copper cuffs and dark goldenrod tips; thin glowing cyan circuit lines from his left temple down his left cheek and jaw only, the right side of his face bare
 ```
+
+### The bounty hunters
+
+A third-party alien species the doctor paid to raid the royal convoy and cause a diversion. They aren't the hunters of the Forbidden Foliage. In the test video, a bounty hunter blocks Ozzy's path and challenges him to a fight. Their story is in [STORY.md](STORY.md).
+
+- **Height:** about 6 ft (183 cm), as the user set. They go on the [size chart](#size-chart) once they have a turnaround sheet.
+- **Colours:** a copper and crimson colour scheme, as the user set. Their hex codes, and which one is their signature accent, are TBD.
+- **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows one of them from the waist up, in battle-worn armour:
+  - **Helmet:** a full armoured helmet that hides the face, with weathered copper panels `#765143` around darker blue-grey ones. A dark T-shaped visor slit runs across the eyes and down the nose, round respirator fittings sit at each side of the jaw, and a padded collar rings the neck. A thin antenna with a small grille at its tip rises from the helmet's left side, the viewer's right in a front view.
+  - **Armour:** a scuffed olive chest plate `#423F36` over a grey padded undersuit, weathered copper shoulder plates, a plain armoured guard on the forearm, olive gloves, a belt with holsters and pouches, and a domed metal canister on the back, above the left shoulder.
+  - **Weapon:** a long grey rifle with a scope and a round blue-white lens on its side, held across the body.
+
+  The reference's olive, blue-grey and grey parts aren't part of the copper and crimson scheme, so where the crimson goes is TBD.
+- **Skin:** TBD. The armour covers them completely in the reference, so what their species looks like under it is TBD.
+- **Not yet:** no character style block and no sheets. They're written once the colours and the rest of the design are decided, before the bounty hunter appears in a shot.
 
 ## Restyled images
 
