@@ -1051,7 +1051,7 @@ These are the things every part of the city shares.
 ### Orion, Wave's nightclub
 
 - **What happens there:** Orion, Wave's nightclub in Midtown, where he moonlights as a DJ. It's also his information hub: he listens to conversations, watches who comes and goes, and follows leads about Ozzy. It puts him in contact with people from across the city, while his true purpose stays hidden (see [STORY.md](STORY.md)).
-- **What it is:** a medium-sized underground nightclub, called Orion. The first scene happens outside it. Nothing happens inside until further into the story, but the user had its interior designed ahead of time.
+- **What it is:** a medium-sized underground nightclub, called Orion. The first scene happens outside it. In the test video, Ozzy comes out of the Midtown alley and walks past it down its side alley, where a bounty hunter blocks his path (see [STORY.md](STORY.md)). Nothing happens inside until further into the story, but the user had its interior designed ahead of time.
 - **Location relationship:** Orion is within walking distance of the D. Bell marketplace. The exact route and distance are not yet established.
 - **Layout:** from the user's design brief. It's spacious, with generous routes through it and clearly separated zones, so it never reads as one open empty room.
   - **Entrance:** a street-facing entrance at the front leads into a graffiti-covered entrance lobby, which opens straight into the main club, with no second door or connecting hallway. The first view from the lobby is the dance floor. The street door slides open when a character enters or leaves the club, then closes behind them, as the user set. It's a pair of glass doors that slide apart, as in the exterior below.
