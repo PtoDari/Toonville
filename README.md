@@ -266,7 +266,7 @@ Each main character has their own height, skin tone and one signature accent col
 | Ozzy | 6'2" (188 cm) | Deep brown `#9B7461` | Electric indigo | `#6F00FF` |
 | Dr. Erich Heyes, the doctor | 6'5" (196 cm) | Pale ivory `#EAD8C4` | Red | `#CC4747` |
 | Wave, the intergalactic patrol officer | 6'4" (193 cm) | Warm brown `#9C6C4E` | Dark goldenrod | `#8B6508` |
-| The bounty hunters | About 6' (183 cm) | Greyish blue, hex TBD | Copper | `#6D4F46` |
+| The bounty hunters | About 6' (183 cm) | Greyish blue `#537D90` | Copper | `#6D4F46` |
 | _TBD_ | _TBD_ | _TBD_ | _TBD_ | `#______` |
 
 ## Characters
@@ -812,7 +812,7 @@ A third-party alien species the doctor paid to raid the royal convoy and cause a
 - **Colours:** a copper and crimson colour scheme, as the user set.
   - **Copper, their signature accent:** `#6D4F46`, sampled from the reference image as the median of the lit half of its copper plates, on the helmet and both shoulders. Their shadow side reads about `#512D21`. The reference is lit by cold blue light, so its copper reads muted and brownish.
   - **Crimson:** where it goes, and its hex code, are TBD.
-- **Skin:** greyish blue, as the user set. Its hex code is TBD. The armour covers them completely in the reference.
+- **Skin:** greyish blue `#537D90`, as the user set. The armour covers them completely in the reference.
 - **Helmet:** a full armoured helmet that hides the face, with an X-shaped visor, as the user chose in place of the reference's T-shaped one.
 - **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows one of them from the waist up, in battle-worn armour:
   - **Helmet:** weathered copper panels `#6D4F46` around darker blue-grey ones, with a dark T-shaped visor slit across the eyes and down the nose, which ours replaces with an X. Round respirator fittings sit at each side of the jaw, and a padded collar rings the neck. A thin antenna with a small grille at its tip rises from the helmet's left side, the viewer's right in a front view.
