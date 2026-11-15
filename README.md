@@ -1393,6 +1393,7 @@ These are the things every part of the city shares.
     - **Lines and texture:** heavy lines and a gritty texture, not flat cel colour with thin tinted lines. The near-black lines were tinted toward dark teal `#031E1C` by hand, and large black areas toward navy `#09102E`.
     - **Rain:** added by hand as thin straight white streaks.
     - **Shape:** 1760×1344, not 16:9. Its 16:9 version, [`crystal-tower-drone-night-16x9.jpg`](locations/crystal-tower/crystal-tower-drone-night-16x9.jpg), is cropped around the centre to 1920×1080, keeping the aircraft and the tower's gold-lit top, and losing the far glow at the end of the road and the lower edge of the tower block.
+  - **Lower-hull view, night:** the user-approved low three-quarter view from beneath and slightly in front of the awakened vessel. It's canon for the awakened ship's underside appearance: the original tower's central structure continues into a broad, symmetrical lower hull; layered crystalline armour and radial extensions surround a prominent central underside assembly; ice-blue crystal, indigo-violet energy channels and restrained organic vein-like connections run through the structure. The image is a visual reference for the lower hull, not a finalized technical specification of the propulsion system. The exact function of the central underside assembly and the concealed hangars' locations remain TBD. The generated image's repository path is still to be assigned.
 
 ### The Crystal Tower's control room
 
