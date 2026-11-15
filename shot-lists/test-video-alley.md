@@ -17,12 +17,18 @@ sh001  The comet  4 s
 - Camera: default line. Locked on the night sky, then a slow zoom out.
 - Action: still stars; the comet enters top left and streaks down toward the lower right, tail trailing up-left.
 - Keyframes: k01 empty sky; k02 comet mid-frame, zoomed out.
+- Plate, approved by the user as canon on 2026-11-15: `ep00-sc01-sh001-plate.png`, 1920x1080, kept in production storage, not in this repo, with its prompt in the shot's prompts.txt. The user generated it in ChatGPT from that prompt: a cloudless night sky over Midtown with small, still stars. It was then fixed locally, with no generation, by [`plates/fix_sky_sh001.py`](test-video-alley/plates/fix_sky_sh001.py):
+  - graded to shot 2's navy, from #050A19 at the top to #070E24 at the bottom, so the tilt runs from it straight into shot 2's sky; as generated it ran from #050412 to a violet #1D0F34, and its violet haze went with the grading
+  - the three bright stars' four-point flares turned into flat points with a slight bloom
+  - fine film grain added, matched to shot 2's sky
+- k01 is the plate's centre 70%, scaled to 1920x1080: `ep00-sc01-sh001-k01.png`.
 
 sh002  Tilt down to the alley  5 s  (one continuous move with sh001)
 - Characters: Ozzy, small, from above. Plate: midtown-alley-aerial-night.
 - Camera: default line, aerial. Tilts down from the comet to the alley.
 - Action: he walks up the alley toward the camera, close to the wall on the viewer's left (his right side), as in the low walk shot.
 - Keyframes: k01 = sh001 k02; k02 the aerial view with Ozzy small in the alley.
+- Plate, approved by the user as canon on 2026-11-15: `ep00-sc01-sh002-plate.png`, 1920x1080, kept in production storage. It's the approved aerial view with no generation, rebuilt exactly from this repo by [`plates/make_plate_sh002.py`](test-video-alley/plates/make_plate_sh002.py) with [`plates/zone_sh002.py`](test-video-alley/plates/zone_sh002.py): the comet, its glow and the clouds in the open sky are painted out with the sky's own navy, grain and stars, so the comet can move over it and the sky matches shot 1's; the low cloud bank among the distant buildings stays, thinning upward; everything below the sky is untouched. Known differences, carried from the aerial view, where the written rules win: bold black lines and more saturation than the environment rules, square paving slabs, and the low cloud bank near the skyline.
 
 sh003  Skyline and shadow  5 s
 - Characters: Ozzy's shadow only. Plates: midtown-alley-wide-night, midtown-wide-night (skyline).
