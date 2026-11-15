@@ -108,7 +108,15 @@ Add each scene idea here as it comes, with its place, day or night, the characte
 
 - **The first scene:** it happens outside Orion, Wave's nightclub, just after the rain, like every scene outside the club. It's calm: its story moment is quiet, as the user set, so the sign and the canopy's neon glow steadily in their own blue and violet, and the reflections in the wet street are soft. No one goes in or out through the club's sliding door, as the user set, so it stays closed in every shot. The character it reacts to and the rest of the scene are TBD.
 - **Inside Orion:** nothing happens inside the club until further into the story. Its interior was designed ahead of time, so it's ready when the story gets there.
-- **Test video, the alley:** Ozzy walks down an alley, unseen. The camera takes in the look of the place, and the audience hears him rather than sees him. His shadow shows on the ground or on a building, then a low sweeping shot comes down to his feet. It's an alley in Midtown, at night, just after the rain: no rain falls and the pavement is still wet. Its story moment is quiet, as in the alley's README entry. His shadow shows him in his main outfit with the jacket, masked in his balaclava, without the golden staff, as the user set, as on his sheet `ozzy-main-outfit-jacket-balaclava-no-staff.jpg`.
+- **Test video, the alley:** Ozzy walks through Midtown, masked, at night, just after the rain: no rain falls and the pavement is still wet. He's in his main outfit with the jacket, masked in his balaclava, without the golden staff, as the user set, as on his sheet `ozzy-main-outfit-jacket-balaclava-no-staff.jpg`. The user's outline, in order:
+  1. A static image of the night sky. The camera zooms out, and a comet shoots by.
+  2. The camera tilts down to an aerial view of Ozzy walking, masked up.
+  3. The camera pans across the city skyline, and Ozzy's shadow shows on the building opposite.
+  4. A low-angle shot sweeps behind his feet, with his footsteps echoing on the pavement.
+  5. The camera sweeps 360 degrees, with Orion seen in passing, and we see Ozzy, masked, about to charge up his fist and open a door.
+  6. Suddenly a bounty hunter pops up, blocking his path, and challenges him to a fight.
+
+  Its story moment is quiet through the walk, as in the alley's README entry. This outline replaces the earlier version, where he stayed unseen and the audience only heard him, saw his shadow and then saw his feet. Still TBD: the story moment from the challenge on, and the character it reacts to; where the walk runs, in the Midtown alley, Orion's side alley or both; which door he's about to open; the comet's look; and the bounty hunter.
 - **Saved, the Crystal Tower at night:** the earlier test video idea. Ozzy alone, at night, on the ice road in front of the Crystal Tower, with the orphanage hidden in its basement. Ice-blue neon reflects off the steel towers and the ice road, with hints of gold neon at the very tops of the buildings. Saved for when the video is built: a drone shot leaving the tower, flying high down the road over the city, as in the Crystal Tower's drone view.
 
 ## Reveal timeline
