@@ -177,7 +177,7 @@ This section records the tribe's established culture from the user's answers. It
 #### Guardians and hunters
 - Guardians are protectors of the tribe and the forest. They are chosen in adolescence through training and achievement.
 - Guardians serve as the frontline defenders against invaders.
-- Guardians inform the tribe of nearby danger.
+- Guardians inform the tribe of nearby danger. When danger is detected, one scout is sent back to the tribe while another sends a signal using smoke or a bull horn.
 - Guardians and hunters work together to protect the tribe and forest from powerful, rare creatures. These creatures generally leave the tribe alone; the tribe intervenes when they become a threat.
 - The Guardian commander is responsible for justice and determining disputes; whether this applies to every dispute or only serious cases is undecided.
 - Hunters are led by the Lead Trapper, who ensures the tribe has food and provisions and assists Guardians against major threats.
