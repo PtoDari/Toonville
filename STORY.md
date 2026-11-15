@@ -61,7 +61,7 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
   - **And Ozzy:** they eventually learn of him, and approach him cautiously, because they know his true power. He's immune to their direct telepathic intrusion, but they can still reach him through his emotions. They see him as more than a rejected orphan, more even than a prince: they know who he is and how he came to the planet. They give him the stolen information about his godhood, and about how gods recognize other gods, and not false gods.
 - **The enhanced children:** the experiments' survivors, kept alive by their cybernetic parts.
 - **The bounty hunters:** a third-party alien species the doctor paid to raid the royal convoy and cause a diversion. They aren't the hunters the Guardian recruits train alongside. They stand about 6 ft, with greyish blue skin, in armour with a copper and crimson colour scheme and an X-shaped visor on their helmets, as the user set. Their look, from the user's reference image, is in README.md. One of them blocks Ozzy's path in the test video, as the user confirmed.
-- **The Guardians:** they recovered Ozzy's royal combat armour and gave it to him. Who they are beyond what's below is TBD.
+- **The Guardians:** protectors of the tribe and the forest. They are chosen in adolescence, serve as frontline defenders against invaders, and inform the tribe of nearby danger. They also recovered Ozzy's royal combat armour and gave it to him.
   - **Where they live:** in the Forbidden Foliage, with the tribe: its hunters, healers and tribal leader.
   - **Recruits:** Guardian recruits train alongside the hunters. Recruits of all ages train together.
   - **Progression:** there is no particular age requirement for membership or advancement. Progression is determined by training, discipline, demonstrated ability and achievements rather than age or seniority. A younger recruit may advance ahead of an older recruit when their demonstrated ability and achievements warrant it.
@@ -175,7 +175,9 @@ This section records the tribe's established culture from the user's answers. It
 - A social structure with ranks or classes exists, but its exact structure is undecided.
 
 #### Guardians and hunters
-- Guardians are protectors of the tribe and the forest. They are selected through training and achievement.
+- Guardians are protectors of the tribe and the forest. They are chosen in adolescence through training and achievement.
+- Guardians serve as the frontline defenders against invaders.
+- Guardians inform the tribe of nearby danger.
 - Guardians and hunters work together to protect the tribe and forest from powerful, rare creatures. These creatures generally leave the tribe alone; the tribe intervenes when they become a threat.
 - The Guardian commander is responsible for justice and determining disputes; whether this applies to every dispute or only serious cases is undecided.
 - Hunters are led by the Lead Trapper, who ensures the tribe has food and provisions and assists Guardians against major threats.
