@@ -201,6 +201,10 @@ This section records the tribe's established culture from the user's answers. It
 - How ordinary members express their voice in decisions.
 - Whether the Guardian commander handles every dispute or only serious offenses.
 - The exact ranks/classes and how they are assigned.
+- The Guardians' origins and original purpose.
+- Whether the Guardians have any historical or formal relationship to Ozzy's royal convoy, royal family or homeworld.
+- Why the Guardians recovered Ozzy's royal combat armour and chose to give it to him.
+- Whether the bounty hunters who raided the royal convoy have any connection to the tribe's hunters; no such connection is established.
 - Who selects Guardian candidates.
 - Whether the Lead Trapper is inherited, appointed or earned.
 - What happens during the succession transition ceremony.
