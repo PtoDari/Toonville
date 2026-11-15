@@ -809,17 +809,20 @@ Wave, a tall, athletic 22-year-old Black man with broad shoulders: warm brown sk
 A third-party alien species the doctor paid to raid the royal convoy and cause a diversion. They aren't the hunters of the Forbidden Foliage. In the test video, one of them blocks Ozzy's path and challenges him to a fight, as the user confirmed. Their story is in [STORY.md](STORY.md).
 
 - **Height:** about 6 ft (183 cm), as the user set. They go on the [size chart](#size-chart) once they have a turnaround sheet.
+- **Build and coverage:** humanoid, about 6 ft tall. Every part of the body is covered by battle-worn armour; no exposed skin in the standard design. Their underlying skin is greyish blue `#537D90`, as previously set, but it is concealed by the armour.
 - **Colours:** a copper and crimson colour scheme, as the user set.
-  - **Copper, their signature accent:** `#6D4F46`, sampled from the reference image as the median of the lit half of its copper plates, on the helmet and both shoulders. Their shadow side reads about `#512D21`. The reference is lit by cold blue light, so its copper reads muted and brownish. It's on the helmet's side panels, the shoulder plates and, as the user chose, the gloves.
-  - **Crimson:** `#BE0032`, on their belt and pouches, as the user set.
-  - **Kept from the reference, as the user chose:** the olive chest plate `#423F36`, the blue-grey helmet panels `#395869` and the grey padded undersuit `#747681`, each sampled from the reference's lit side.
-- **Skin:** greyish blue `#537D90`, as the user set. The armour covers them completely in the reference.
-- **Helmet:** a full armoured helmet that hides the face, with an X-shaped visor, as the user chose in place of the reference's T-shaped one.
-- **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows one of them from the waist up, in battle-worn armour:
-  - **Helmet:** weathered copper panels `#6D4F46` around darker blue-grey ones, with a dark T-shaped visor slit across the eyes and down the nose, which ours replaces with an X. Round respirator fittings sit at each side of the jaw, and a padded collar rings the neck. A thin antenna with a small grille at its tip rises from the helmet's left side, the viewer's right in a front view.
-  - **Armour:** a scuffed olive chest plate `#423F36` over a grey padded undersuit, weathered copper shoulder plates, a plain armoured guard on the forearm, olive gloves, which ours make copper, a belt with holsters and pouches, and a domed metal canister on the back, above the left shoulder.
-  - **Weapon:** a long grey rifle with a scope and a round blue-white lens on its side, held across the body.
-- **Not yet:** no character style block and no sheets. They're written once the colours and the rest of the design are decided, before the bounty hunter appears in a shot.
+  - **Copper, their signature accent:** `#6D4F46`, on the helmet's side panels, both shoulder plates and both gloves. Weathered copper has a darker shadow side around `#512D21`.
+  - **Crimson:** `#BE0032`, on the belt and pouches.
+  - **Other armour colours:** scuffed olive chest plate `#423F36`; blue-grey helmet crown panel `#395869`; grey padded undersuit `#747681`.
+- **Helmet:** full battle-worn armoured helmet concealing the entire face. Weathered copper side panels surround a blue-grey `#395869` crown panel. A dark X-shaped visor slit crosses the face. Round respirator fittings sit at both sides of the jaw, and a padded collar rings the neck. A thin antenna rises from the helmet's LEFT side, with a small grille at its tip; in a front view it appears on the viewer's RIGHT.
+- **Armour:** scuffed olive chest plate over the grey padded undersuit; weathered copper shoulder plates; a plain armoured guard on the RIGHT forearm; copper gloves; crimson belt with holsters and crimson pouches. A domed metal canister is mounted on the back above the LEFT shoulder.
+- **Weapon:** the supplied reference shows a long grey rifle with a scope and a round blue-white lens on its side, held across the body. Retain this weapon design when a weapon is called for; it is not required in a neutral turnaround if it obscures the armour views.
+- **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows the battle-worn armour from the waist up. The user's written description above resolves the design details: full-body armour coverage, copper gloves, the plain guard on the RIGHT forearm, the X-shaped visor and the antenna on the helmet's LEFT side.
+- **Character style line:** 
+```
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin #537D90; signature accent #6D4F46.
+```
+- **Sheets:** no approved turnaround or character sheet yet. The first turnaround should show front, three-quarter, side and back views at the same scale on flat mid grey `#808080`, with the helmet antenna, right forearm guard and back canister kept on their correct sides in every view.
 
 ## Restyled images
 
