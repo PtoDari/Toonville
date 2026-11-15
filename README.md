@@ -811,7 +811,7 @@ A third-party alien species the doctor paid to raid the royal convoy and cause a
 - **Height:** about 6 ft (183 cm), as the user set. They go on the [size chart](#size-chart) once they have a turnaround sheet.
 - **Colours:** a copper and crimson colour scheme, as the user set.
   - **Copper, their signature accent:** `#6D4F46`, sampled from the reference image as the median of the lit half of its copper plates, on the helmet and both shoulders. Their shadow side reads about `#512D21`. The reference is lit by cold blue light, so its copper reads muted and brownish.
-  - **Crimson:** where it goes, and its hex code, are TBD.
+  - **Crimson:** `#BE0032`, as the user set. Where it goes on the armour is TBD.
 - **Skin:** greyish blue `#537D90`, as the user set. The armour covers them completely in the reference.
 - **Helmet:** a full armoured helmet that hides the face, with an X-shaped visor, as the user chose in place of the reference's T-shaped one.
 - **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows one of them from the waist up, in battle-worn armour:
