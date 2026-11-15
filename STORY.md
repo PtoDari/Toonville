@@ -175,8 +175,8 @@ This section records the tribe's established culture from the user's answers. It
 - A social structure with ranks or classes exists, but its exact structure is undecided.
 
 #### Guardians and hunters
-- Guardians are selected through training and achievement.
-- Guardians and hunters work together to protect the tribe from powerful, rare creatures. These creatures generally leave the tribe alone; the tribe intervenes when they become a threat.
+- Guardians are protectors of the tribe and the forest. They are selected through training and achievement.
+- Guardians and hunters work together to protect the tribe and forest from powerful, rare creatures. These creatures generally leave the tribe alone; the tribe intervenes when they become a threat.
 - The Guardian commander is responsible for justice and determining disputes; whether this applies to every dispute or only serious cases is undecided.
 - Hunters are led by the Lead Trapper, who ensures the tribe has food and provisions and assists Guardians against major threats.
 - Guardians and hunters train alongside one another, and recruits of all ages train together.
