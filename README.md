@@ -824,6 +824,12 @@ Character: bold black ink #030308, thick tapered contours, thin interiors, hatch
 ```
 - **Approved turnaround:** the four-view front, three-quarter, side and back turnaround generated on flat mid grey `#808080` is approved by the user as canon. It is the visual reference for this bounty hunter's standard armoured design. The helmet antenna, right forearm guard and back canister remain subject to the written character-side placement rules above in every view.
 
+**The bounty hunters' character style block** (fills `[CHARACTER DESCRIPTION]`), approved by the user as canon on 2026-11-15. Their skin `#537D90` and copper accent `#6D4F46` fill the style block's hex slots, as in the character style line above. Their face is always hidden, so they have no sheet expressions, and their sheets use the turnaround sheet block, which has no expression row. Their rifle isn't in the block: when a shot calls for it, the subject describes it.
+
+```
+An alien bounty hunter: a humanoid about 6 ft tall, every part of the body covered by battle-worn armour; a full armoured helmet that hides the face, with weathered copper #6D4F46 side panels around a blue-grey #395869 crown panel, a dark X-shaped visor slit across the face, round respirator fittings at each side of the jaw, a padded collar around the neck, and a thin antenna with a small grille at its tip rising from the helmet's left side (the viewer's right in a front view); a scuffed olive chest plate #423F36 over a grey padded undersuit #747681; weathered copper shoulder plates; a plain armoured guard on the right forearm; copper gloves; a crimson #BE0032 belt with holsters, and crimson pouches; a domed metal canister on the back, above the left shoulder
+```
+
 ## Restyled images
 
 On 2026-11-06 every saved character sheet, object sheet and location sheet was brought back toward the master style by hand, without regenerating anything, so every hand fix on them stays. The LoRA training set (not used) was left as it was. The golden staff's design reference became canon afterwards and was restyled the same way, with its panel backgrounds brought to `#808080`.
