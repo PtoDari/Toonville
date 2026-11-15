@@ -87,6 +87,21 @@ The planet is Lepus. Daiya is a frozen island city deep in the ice, built agains
 
 The city feels moody and cold. Its vibrant neon, the sun's rare glow and its people's perseverance make it one of the best places on the planet, though the rest of the planet doesn't know it exists. The sun appears only once every six months.
 
+
+## Ozzy's hideout
+
+At the hidden entrance to the Forbidden Foliage, Ozzy's sanctuary is suspended between the two enormous trees. It is one enclosed, rounded structure, shaped from natural forest materials and concealed by drifting mist. The hideout is a place for meditation, restoring his energy, studying the forest and purposeful visits from members of the tribe.
+
+The sanctuary is connected to the living forest. Unusual plants Ozzy studies with the tribe grow throughout the interior; a cannabis plant grows from a natural soil bed integrated into the structure. The plants respond to Ozzy during deep meditation, opening towards him and brightening their bioluminescent veins. His relationship with the forest is reciprocal: he cares for its plants, protects its wildlife and helps maintain its natural balance, and the forest helps replenish him. The tribe eventually bestows upon him the title **The Protector**.
+
+A natural stream from a hidden spring deep in the Forbidden Foliage flows around part of the hideout and past an outdoor wooden meditation platform between the tree canopies. Ozzy reaches the platform by stepping along the branches. Inside, most of the ceiling is a canopy of overlapping transparent leaves with faintly glowing veins at night, allowing him to meditate beneath the stars.
+
+The hideout has two distinct entrances. Ozzy's concealed hover-bike entrance recognises his biological signature, opens when he approaches at landing distance, unfolds into a ramp and retracts after the bike clears it. His bike remains on a dedicated landing platform in an enclosed bay. A separate natural entrance is opened for tribe members only when Ozzy sends a gentle indigo plasma pulse through the roots. The forest closes the entrance behind visitors; they may leave through it without another signal. Living roots, vines and large Venus flytraps form a coordinated defence that restrains intruders and carries them away to be released at a safe distance. The forest and the hideout warn Ozzy through glowing roots and walls and a changed canopy glow pattern.
+
+The interior is one open-plan home, with a raised sleeping area, a natural sofa where Ozzy and invited tribe members share knowledge and news, a meditation seat beside panoramic one-way windows, and a heavily used plasma-integrated tech bench. The golden arrowhead gifted by the tribe has a dedicated keepsake shelf; his golden staff is stored in a concealed wall compartment, his mask rests on a wooden stand near the entrance, and his hover bike is kept in its enclosed bay. Ozzy eats with the tribe rather than keeping a kitchen in the hideout.
+
+The private washing area contains a natural-stone shower with concealed heating coils and a concealed toilet. Water is drained and filtered naturally before returning to the forest. A compact refrigerator integrated into the wood holds a few essentials. These details, and the full visual design, are recorded in the README's [Locations](README.md#locations) section.
+
 ## How it's filmed
 
 Not stills and transitions: the camera moves.
