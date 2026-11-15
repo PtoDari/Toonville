@@ -1334,6 +1334,16 @@ These are the things every part of the city shares.
   - **Day:** [`d-bell-sheet-day.jpg`](locations/d-bell/d-bell-sheet-day.jpg), at 1672×941, the market busy under a blue sky.
   - **Night:** [`d-bell-sheet-night.jpg`](locations/d-bell/d-bell-sheet-night.jpg), at 1671×941, the market closed and empty in the rain.
 
+
+### The 商 boutique
+
+- **What it is:** an enclosed, upscale clothing boutique within the D. Bell marketplace. It offers rare fashion items and is connected to an underground trading network.
+- **Name and sign:** its entire name is the Japanese kanji **商**, matching the user's supplied reference image. The exterior sign displays this kanji alone; there is no separate shop name.
+- **Secret access:** the underground trading network is accessed through a concealed entrance inside one of the boutique's fitting rooms.
+- **Day or night:** night concept approved.
+- **Approved storefront concept:** the user approved the generated night storefront concept as canon. It establishes the boutique's enclosed street-facing glass storefront, prominent illuminated 商 sign, neon-lit clothing displays, mannequins, premium display cases, reflective flooring and wet neon-lit pavement. The supplied exterior and interior reference images guide its urban storefront atmosphere, layered neon, glass displays and reflective interior. The image is a concept reference; the written details here govern the shop's identity and secret access.
+- **Visual continuity note:** the approved concept shows the fitting-room area but does not clearly reveal the concealed entrance. Its exact mechanism and appearance remain to be designed; do not invent them.
+
 ### Sunnymead
 
 - **What happens there:** the rejected part of the city, its rough side, where the mayhem and common crime are. It lies southeast of the Diamond District and very close to the Forbidden Foliage, beyond Crystal Mountain on its far side. The area is largely uncontrolled, with little visible security presence.
