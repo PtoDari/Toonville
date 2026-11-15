@@ -810,16 +810,15 @@ A third-party alien species the doctor paid to raid the royal convoy and cause a
 
 - **Height:** about 6 ft (183 cm), as the user set. They go on the [size chart](#size-chart) once they have a turnaround sheet.
 - **Colours:** a copper and crimson colour scheme, as the user set.
-  - **Copper, their signature accent:** `#6D4F46`, sampled from the reference image as the median of the lit half of its copper plates, on the helmet and both shoulders. Their shadow side reads about `#512D21`. The reference is lit by cold blue light, so its copper reads muted and brownish.
+  - **Copper, their signature accent:** `#6D4F46`, sampled from the reference image as the median of the lit half of its copper plates, on the helmet and both shoulders. Their shadow side reads about `#512D21`. The reference is lit by cold blue light, so its copper reads muted and brownish. It's on the helmet's side panels, the shoulder plates and, as the user chose, the gloves.
   - **Crimson:** `#BE0032`, on their belt and pouches, as the user set.
+  - **Kept from the reference, as the user chose:** the olive chest plate `#423F36`, the blue-grey helmet panels `#395869` and the grey padded undersuit `#747681`, each sampled from the reference's lit side.
 - **Skin:** greyish blue `#537D90`, as the user set. The armour covers them completely in the reference.
 - **Helmet:** a full armoured helmet that hides the face, with an X-shaped visor, as the user chose in place of the reference's T-shaped one.
 - **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows one of them from the waist up, in battle-worn armour:
   - **Helmet:** weathered copper panels `#6D4F46` around darker blue-grey ones, with a dark T-shaped visor slit across the eyes and down the nose, which ours replaces with an X. Round respirator fittings sit at each side of the jaw, and a padded collar rings the neck. A thin antenna with a small grille at its tip rises from the helmet's left side, the viewer's right in a front view.
-  - **Armour:** a scuffed olive chest plate `#423F36` over a grey padded undersuit, weathered copper shoulder plates, a plain armoured guard on the forearm, olive gloves, a belt with holsters and pouches, and a domed metal canister on the back, above the left shoulder.
+  - **Armour:** a scuffed olive chest plate `#423F36` over a grey padded undersuit, weathered copper shoulder plates, a plain armoured guard on the forearm, olive gloves, which ours make copper, a belt with holsters and pouches, and a domed metal canister on the back, above the left shoulder.
   - **Weapon:** a long grey rifle with a scope and a round blue-white lens on its side, held across the body.
-
-  The reference's olive chest plate and gloves, its blue-grey helmet panels and its grey undersuit aren't part of the copper and crimson scheme, so their colours are TBD.
 - **Not yet:** no character style block and no sheets. They're written once the colours and the rest of the design are decided, before the bounty hunter appears in a shot.
 
 ## Restyled images
