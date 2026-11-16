@@ -1513,8 +1513,24 @@ These are the things every part of the city shares.
   - **Lower-hull view, night:** the user-approved low three-quarter view from beneath and slightly in front of the awakened vessel. It's canon for the awakened ship's underside appearance: the original tower's central structure continues into a broad, symmetrical lower hull; layered crystalline armour and radial extensions surround a prominent central underside assembly; ice-blue crystal, indigo-violet energy channels and restrained organic vein-like connections run through the structure. The image is a visual reference for the lower hull, not a finalized technical specification of the propulsion system. The exact function of the central underside assembly and the concealed hangars' locations remain TBD. The generated image's repository path is still to be assigned.
   - **Flight configuration:** the awakened vessel hovers vertically in its majestic royal configuration. When preparing for high-speed travel or an attack, the entire vessel rotates into a horizontal, forward-facing position, like a colossal missile ready to strike. Its crystalline extensions align with the direction of travel. During the transition, all extensions partially fold inward simultaneously through concealed mechanical joints beneath the crystalline armour. The movement is smooth and continuous, with no exposed hinges, visible machinery, abrupt stages or locking pauses, while retaining the recognisable royal crown silhouette.
 
+### Inside the Crystal Tower
+
+The ship's interior, as the user began designing it on 2026-11-16. The ship has many rooms; these are the ones set so far.
+
+- **Layout, top to bottom,** as the user set:
+  1. **The spire:** the top of the tower.
+  2. **The ship's mechanic room:** just below the spire.
+  3. **The control room:** below the mechanic room. Its entry is below.
+  4. **A cafeteria:** below the control room.
+  5. **The public tower:** below the cafeteria, running down many floors to the ground floor.
+  6. **The ground floor,** with the main entrance.
+  7. **The medical wing:** below the ground floor, where the doctor experiments on the orphans.
+  8. **Lebensborn:** below the medical wing, at the bottom of the ship: the orphanage in its basement, as in the entry above.
+- **TBD:** the other rooms; how many floors the public tower has, and how the floors connect; whether the main entrance is the public's designated entrance, and where its hangars are; where the true doors, caved into the mountain, lead inside; who uses the mechanic room and the cafeteria, and which floors the public can reach; and each room's look, main light, where characters stand and reactive surfaces.
+
 ### The Crystal Tower's control room
 
+- **Where it is:** in the upper tower, below the ship's mechanic room, which sits just under the spire, and above the cafeteria, as the user set on 2026-11-16. The ship's layout is in [Inside the Crystal Tower](#inside-the-crystal-tower).
 - **What happens there:** the room inside the Crystal Tower where Ozzy powers his ship. Its generators help him build up his heated plasma, and his golden staff's diamonds shine at the frequency that powers the ship's accelerators and boosters. Until he does, it's barred off and seems to call for him, and systems near it malfunction or refuse commands.
 - **Look:** TBD.
 - **Day or night:** inside, so TBD.
