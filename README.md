@@ -33,8 +33,10 @@ Every prompt is built in this order:
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
 
 ```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 ```
+
+The user added `grit-shaded line intensity` to it on 2026-11-16, from their Midjourney style reference `--sref 10`. None of this project's tools reads `--sref`, so the look goes into prompts in words. Images made before then, including every approved plate and keyframe, were made without it: they stay approved as they are, and a new result is checked against the line as it reads now.
 
 No prompt rewords, shortens or drops style wording. A style change happens only when it's asked for, and it goes into this README first.
 
@@ -87,7 +89,7 @@ This is a production-status ledger, not new plot or a replacement for the approv
 
 ## All-in-one block
 
-One block (197 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
+One block (200 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
 
 - Delete the **Night** or **Day** line you don't need. If both stay in, most generators blend them into a muddled dusk scene.
 - Replace `[SKIN HEX]` and `[ACCENT HEX]` with the character's colours from the character table below.
@@ -95,7 +97,7 @@ One block (197 words) that merges the character block, both environment blocks a
 The separate blocks further down hold the same rules in more detail.
 
 ```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
@@ -161,7 +163,7 @@ It's the all-in-one block, word for word, with one line added, as the user appro
 - **`[SHOT LENGTH]`:** the shot's length in seconds, from the shot list. All the shots in a clip add up to 30 seconds.
 
 ```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
@@ -178,7 +180,7 @@ It differs from the story blocks on purpose: a straight eye-level camera (wide-a
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Row of three expression close-ups: [EXPRESSION 1], [EXPRESSION 2], [EXPRESSION 3]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -192,7 +194,7 @@ It's the character sheet block with one change, asked for: the row of expression
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -206,7 +208,7 @@ It's the character sheet block with one change, asked for: head-and-shoulders vi
 
 ```
 Headshot turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views of the head and shoulders, same size and scale, eyes aligned on one level, relaxed neutral expression. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -220,7 +222,7 @@ Its style lines are the sheet blocks' lines, word for word: one even light, an e
 
 ```
 Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -234,7 +236,7 @@ It's the medium shot block with one change, asked for: the lighting line lets th
 
 ```
 Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left; [GLOW SOURCE] is the only glowing source, with bloom, and its colour becomes the character's rim light on the side facing it.
 Camera: eye level, long lens, no perspective distortion.
@@ -248,7 +250,7 @@ Its style lines are the sheet blocks' lines, word for word: the character ink, s
 
 ```
 Full-body action pose of [CHARACTER DESCRIPTION]. Single figure, shown head to feet, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion; full figure kept inside the frame.
@@ -269,7 +271,7 @@ Its style and character lines are the sheet blocks' lines, word for word, on the
 
 ```
 Character element for compositing: [CHARACTER DESCRIPTION]. Single figure, [POSE AND EXPRESSION], seen as the plate's camera sees them. Flat mid grey #808080 background, no scenery, no ground shadow or reflection, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: [PLATE'S MAIN LIGHT AND COLOUR] from [DIRECTION], its colour becoming the character's rim light on the side facing it; bloom only on glowing sources.
 Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate; full figure kept inside the frame.
@@ -288,7 +290,7 @@ Its style line is the master style line, word for word. Its Element line takes i
 
 ```
 Glowing element for compositing: [ELEMENT DESCRIPTION], [ITS DIRECTION AND SIZE IN THE FRAME], seen as the plate's camera sees it. Alone on a flat pure black #000000 background, which is removed in compositing; no sky, stars, clouds or scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Element: thin tinted lines, never black, light hatching; flat cel colour, one or two hard-edged shadow tones; it's a glowing source, with bloom fading into the black around it.
 Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate.
 ```
@@ -301,7 +303,7 @@ Its style lines are the sheet blocks' lines, word for word: the character ink, s
 
 ```
 Object sheet of [OBJECT DESCRIPTION], belonging to [CHARACTER NAME]. Front, side, back and top views of the object alone, same scale, aligned on one ground line, plus one view of it held in [CHARACTER NAME]'s hand to show its size. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -320,7 +322,7 @@ For edits and inpainting on existing Toonville art: write the edit first (what t
 Under the plate lock, near the top of this README, it's never used on an approved plate or a finished keyframe: characters are made on their own and composited over the plate. A background-only edit of an approved plate is a plate revision, which needs the user's go-ahead before it's sent and their approval before it's used.
 
 ```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Outside the edited area, keep the image exactly as it is: same layout, lighting, camera, line weight and colours.
 ```
@@ -332,7 +334,7 @@ Some existing sheets drift from the style, with thinner lines and softer shading
 Reference copy of the character rules. Prompts use the blocks in the style rule table, which already contain them.
 
 ```
-90s cel anime with comic-book inking. Line work: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: flat cel colour, one or two hard-edged shadow tones, solid spotted blacks. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
+90s cel anime with comic-book inking, grit-shaded line intensity. Line work: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: flat cel colour, one or two hard-edged shadow tones, solid spotted blacks. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
 ```
 
 ## Character table
@@ -647,7 +649,7 @@ Generators often put the face tattoo on whichever temple faces the camera, or dr
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
-**Short backup of his character style block (175 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to 297 words, about 1,840 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
+**Short backup of his character style block (175 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to 300 words, about 1,870 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
 
 It leaves out his face shape, the full "High Power" description, the jacket's collar, cuffs and zip, the staff's size, the socks, the swoosh and soles, and the hex codes for the chain, jacket and lining. It keeps everything that has gone wrong in past sheets: the tattoo letters and side, the viewing directions, his locs colour and the gold nose rings.
 
