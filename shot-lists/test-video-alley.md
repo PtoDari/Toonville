@@ -55,7 +55,7 @@ sh005  360 sweep past Orion  7 s
 - Camera: default line, wide. Circles him once, 360 degrees, as he walks (crosses the line on purpose).
 - Action: he walks down Orion's side alley with Orion on his left, past the ORION sign, canopy neon, graffiti and closed sliding doors, to the loading bay's roll-up shutter farther down. He stops, faces the shutter and raises his clenched right fist (his bare hand), about to charge it.
 - Doors: Orion's sliding doors closed; the shutter closed.
-- Murals: the approved memorial mural fills the graffiti panel left of Orion's doors as you face the entrance, on the street side, where he passes it in k01; the panel right of the doors keeps its wildstyle graffiti. As the camera circles him, the wall of the 13-storey building opposite turns toward it in k02, with its approved memorial mural. The rest of that wall's mural areas stay bare concrete and brick until the user designs them.
+- Murals (their new designs, approved by the user on 2026-11-16, in README.md): the approved memorial mural fills the graffiti panel left of Orion's doors as you face the entrance, on the street side, where he passes it in k01; the panel right of the doors keeps its wildstyle graffiti. As the camera circles him, the wall of the 13-storey building opposite turns toward it in k02, with its approved memorial mural. The rest of that wall's mural areas stay bare concrete and brick until the user designs them.
 - Keyframes: k01 passing Orion's entrance, the left-panel mural beside him; k02 mid-sweep, facing the wall opposite and its mural; k03 at the shutter, right fist raised.
 
 sh006  The bounty hunter  5 s
