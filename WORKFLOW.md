@@ -156,7 +156,7 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 | Isolated comet and aerial walking Ozzy | Generated, not separately approved |
 | SH006 five-second silent animated MP4 | Draft, not canon |
 | Complete 30-second clip with audio | Pending |
-| This project's composited set, in the shot list: sh001 k01–k02, sh002 k02, sh003 k02, sh004 k01–k02, sh005 k01–k03, sh006 k01–k02 | Approved in this project; sh005's and sh006's names overlap with the rows above (see README) |
+| This project's composited set, in the shot list: sh001 k01–k02, sh002 k02, sh003 k02, sh004 k01–k02, sh005 k01–k03, sh006 k01–k02 | Approved in this project, and chosen by the user for the clip; sh005's and sh006's names overlap with the rows above (see README) |
 | Video tool | Higgsfield, chosen by the user; model TBD; needs a credit top-up |
 
 - [ ] **Track separate approvals:** each element, plate, keyframe and animated clip has its own status, source filename and known differences. Approval of one full frame is not a blanket approval of reusable character features or motion.

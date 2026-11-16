@@ -97,7 +97,7 @@ Total: 4 + 5 + 5 + 4 + 7 + 5 = 30 s.
 
 Video: Higgsfield, as the user chose on 2026-11-16; its model is still to be chosen, and the account needs a credit top-up. The plan, not yet approved: one clip per pair of keyframes, each running from its start keyframe to its end keyframe: sh001 k01 to k02 (4 s); sh002 from sh001's k02 to its k02 (5 s); sh003 plate A to k02 (5 s); sh004 k01 to k02 (4 s); sh005 in two clips, k01 to k02 and k02 to k03, 4 s each, cut together to 7 s; and sh006 k01 to k02 (5 s). Their prompts, with the video block, are written and kept in production storage; none has been sent.
 
-Other approved frames: on the same day, in other work, the user approved a different set of frames for sh005 (K01 to K07) and sh006 (K01 and K02), recorded in README.md's test-video production approvals. Their names overlap with this list's sh005 and sh006 keyframes. Which set the clip uses is TBD.
+Other approved frames: on the same day, in other work, the user approved a different set of frames for sh005 (K01 to K07) and sh006 (K01 and K02), recorded in README.md's test-video production approvals. Their names overlap with this list's sh005 and sh006 keyframes. The user chose on 2026-11-16 to make the clip from this list's set; the other set stays approved as those frames.
 
 Sound: his footsteps are audible through the walk, sh002-sh005 (as the user set).
 
