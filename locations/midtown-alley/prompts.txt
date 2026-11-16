@@ -23,3 +23,6 @@ Camera: wide angle, low or aerial, foreshortened hands; background matches the s
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; the rain has just stopped; wet pavement mirrors neon in long vertical smears.
 
 midtown-alley-aerial-night-16x9.jpg is the same image scaled to 1920x1080, a stretch of under 0.1%.
+
+midtown-alley-low-night.jpg and midtown-alley-low-wall-night.jpg (the alley's new look, approved by the user on 2026-11-16)
+Made by the user in ChatGPT; their prompts and settings weren't recorded. Saved as 1672x941 JPGs, with 1920x1080 versions beside them.
