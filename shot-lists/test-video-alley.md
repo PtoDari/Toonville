@@ -20,7 +20,7 @@ Plate lock: added by the user on 2026-11-16, in [README.md](../README.md), under
 
 If one of these frames is remade, it's made under the lock. sh004 k01 needs a plate of its own first, and sh003 k02's shadow comes as a plate revision of plate B.
 
-Withdrawn: the prompts written before the lock that asked ChatGPT to edit a locked plate. They are sh001's comet k02, sh002's k02, and sh005's k01 to k03 (that shot's prompts 4 to 6). Each is rewritten with the README's compositing block, which the user chose on 2026-11-16, once its plate is approved. sh005's k03 comes first, because its plate is approved. The prompts for sh005's new plates, prompts 1 and 2, stand.
+Withdrawn: the prompts written before the lock that asked ChatGPT to edit a locked plate. They are sh001's comet k02, sh002's k02, and sh005's k01 to k03 (that shot's prompts 4 to 6). Each is rewritten with the README's compositing block, which the user chose on 2026-11-16, once its plate is approved; the comet, which isn't a character, uses its glowing-element block, chosen the same day. sh005's k03 comes first, because its plate is approved. The prompts for sh005's new plates, prompts 1 and 2, stand.
 
 sh001  The comet  4 s
 - Characters: none. Plate: the sky of midtown-alley-aerial-night.
