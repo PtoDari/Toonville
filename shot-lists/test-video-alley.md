@@ -4,7 +4,7 @@ Approved by the user on 2026-11-15. The scene's story is in [STORY.md](../STORY.
 
 Storyboard: approved by the user on 2026-11-15, in [`test-video-alley/`](test-video-alley/): one 1920x1080 frame per shot, `ep00-sc01-sh001-storyboard.jpg` to `ep00-sc01-sh006-storyboard.jpg`, and an overview of all six, `ep00-sc01-storyboard-overview.jpg`. It was put together from the approved sheets and images, not generated: the location sheets as backgrounds, Ozzy's figures cut from his balaclava sheet without the staff and the bounty hunter's from their armour turnaround, never mirrored, at their size-chart heights, and the two approved memorial murals in sh005. Arrows mark the camera moves, and each frame's caption gives its action. It's a rough timing and continuity guide, not a still: his raised right fist and the hunter's rifle are in the captions only, because no approved art shows them yet. Its script, `build_storyboard.py`, needs the two mural images, which aren't stored in this repo.
 
-One 30-second clip, 1920x1080, 16:9, 30 fps (900 frames). Shot names: ep00-sc01-sh001 to ep00-sc01-sh006, with keyframes named as in [WORKFLOW.md](../WORKFLOW.md).
+One 30-second clip, 1920x1080, 16:9, 60 fps (1,800 frames). Shot names: ep00-sc01-sh001 to ep00-sc01-sh006, with keyframes named as in [WORKFLOW.md](../WORKFLOW.md).
 
 Whole scene:
 - Night, just after the rain: no rain falls, the pavement is wet. Prompts use the Night line after the rain.
@@ -95,7 +95,7 @@ sh006  The bounty hunter  5 s
 
 Total: 4 + 5 + 5 + 4 + 7 + 5 = 30 s.
 
-Video: Higgsfield, as the user chose on 2026-11-16; its model is still to be chosen, and the account needs a credit top-up. The plan, not yet approved: one clip per pair of keyframes, each running from its start keyframe to its end keyframe: sh001 k01 to k02 (4 s); sh002 from sh001's k02 to its k02 (5 s); sh003 plate A to k02 (5 s); sh004 k01 to k02 (4 s); sh005 in two clips, k01 to k02 and k02 to k03, 4 s each, cut together to 7 s; and sh006 k01 to k02 (5 s). Their prompts, with the video block, are written and kept in production storage; none has been sent.
+Video: Higgsfield, as the user chose on 2026-11-16; its model is still to be chosen, and the account needs a credit top-up. The plan, not yet approved: one clip per pair of keyframes, each running from its start keyframe to its end keyframe: sh001 k01 to k02 (4 s); sh002 from sh001's k02 to its k02 (5 s); sh003 plate A to k02 (5 s); sh004 k01 to k02 (4 s); sh005 in two clips, k01 to k02 and k02 to k03, 4 s each, cut together to 7 s; and sh006 k01 to k02 (5 s). Their prompts, with the video block, are written and kept in production storage; none has been sent. Each clip is conformed to 1920x1080 at 60 fps, its in-between frames made by frame interpolation, and checked frame by frame.
 
 Other approved frames: on the same day, in other work, the user approved a different set of frames for sh005 (K01 to K07) and sh006 (K01 and K02), recorded in README.md's test-video production approvals. Their names overlap with this list's sh005 and sh006 keyframes. The user chose on 2026-11-16 to make the clip from this list's set; the other set stays approved as those frames.
 
