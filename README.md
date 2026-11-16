@@ -38,6 +38,21 @@ No prompt rewords, shortens or drops style wording. A style change happens only 
 
 The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
 
+## Plate lock — immutable approved background plates
+
+**Mandatory for every Toonville keyframe, composite, character placement, edit, repair, retry and video-reference still.** An approved background plate is locked source artwork, **not a visual suggestion** to an image generator.
+
+- **LOCK on approval:** preserve the exact approved plate file as read-only. No regeneration, AI reconstruction, inpainting, repainting, restyling, recolouring, relighting, reframing, cropping, warping or replacing the plate during keyframe production. This protects every background feature, including murals and graffiti, lettering, signs, buildings, doors, lighting, pavement, weather, haze and reflections.
+- **The correct plate for each camera:** each camera position uses **its own specific user-approved plate**. Never substitute another angle, an earlier generated keyframe, or a scene that merely looks similar. A multi-camera shot can therefore have multiple separately locked plates.
+- **Character-only generation, direct composite:** generate or edit the character separately using the exact approved character sheets, the complete required style prompt and separate user go-ahead. Then place the character directly over the locked plate using non-generative image compositing. **Never send a locked plate or completed scene through image generation** to ask the model to preserve, repair or recreate its background. Text instructions to “keep the background unchanged” are not preservation.
+- **Pixel-for-pixel rule:** in the finished image, every pixel **outside the composited character's actual alpha mask** must be identical to the corresponding pixel in that camera position's approved plate. Do not add shadows, highlights, glows, rain, fog or reflections outside that mask. Those would require an **explicitly approved separate plate revision**, not a routine keyframe edit. Never alter the master plate itself.
+- **Finished delivery:** show the user one complete **16:9, 1920×1080** keyframe with the character already in the original scene. Standalone character cutouts are internal production assets, not the final frame for video generation.
+- **Mandatory pre-approval verification:** compare the final composite to the approved plate pixel-by-pixel outside the character alpha mask. If **any** background pixel differs, **FAIL** the frame and correct the compositing workflow before presenting it as plate-locked. Also check camera position, anatomy, left/right markings, weapon state, outfits and mural placement.
+- **Prior exceptions do not redefine canon:** user-approved older keyframes with documented visual exceptions remain approved as **those frames only**. They neither replace nor modify the authoritative plate or character sheets, and they do not permit altered backgrounds in subsequent frames.
+- **Prompt and approval rule remains active:** every new character generation, edit, inpainting or retry still requires the complete canonical prompt shown first and the user's separate go-ahead, as specified in [The style rule](#the-style-rule).
+
+Production checklist: [WORKFLOW.md — Each shot's stills](WORKFLOW.md#6-each-shots-stills).
+
 ## Video spec
 
 Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all. Longer installments are assembled from several of these 30-second clips, as in [WORKFLOW.md](WORKFLOW.md).

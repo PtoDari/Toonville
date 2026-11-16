@@ -89,14 +89,18 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 ## 6. Each shot's stills
 
-- [ ] **Background plate first:** the location from this shot's camera, with no characters, in the scene's reactive state. It uses the all-in-one block without the Characters line. Keep it, because the animation will need the background on its own.
-- [ ] **Full frame:**
-  - **Prompt:** the subject, then each character's style block, then the all-in-one block. Keep the matching Night or Day line, or the Night line after the rain for a night scene set just after the rain, and keep the "At story peaks" sentence only for tension and climax moments.
-  - **References:** each character's canon sheets attached as image references, if the generator offers it.
-  - **Plate:** used as the background reference if the generator offers image reference, so the location doesn't drift.
+- [ ] **Background plate first, then LOCK:** generate the location from the exact shot camera with no characters in the intended reactive state, using the all-in-one block without the Characters line. After user approval, preserve the exact plate file as read-only. Each camera position has its own locked plate; never use a different view.
+- [ ] **PLATE LOCK — mandatory for all keyframes:** no background regeneration, inpainting, repainting, mural/graffiti alteration, relighting, cropping, reframing or replacement. Do not ask an image generator to generate the finished full scene or “preserve” an approved plate. Generate or edit **only the character**, then **directly composite** the character over the exact approved plate. All background pixels outside the character alpha mask must remain unchanged. No shadows, effects or reflections outside that mask without a separate user-approved plate revision.
+- [ ] **Verify plate integrity:** compare each finished keyframe with its assigned approved source plate **pixel-for-pixel outside the character's alpha mask**. Reject any output with even one changed pixel; fix the composite, never the locked plate. Record the plate used and the result of the comparison.
+- [ ] **Finished full frame (pixel-preserving composite, NOT full-scene regeneration):**
+  - **Prompt:** for character generation or edits, show the user the subject, every character's exact README style block and the job's full style block, including the verbatim master style line, before sending for a new go-ahead.
+  - **References:** attach canon character sheets and approved poses when supported, but do not use a previous whole-scene keyframe as the background.
+  - **Plate:** load the **exact approved camera-position plate as the compositing base**, never as a soft visual reference for a generative background.
+  - **Delivery:** show one finished **1920×1080, 16:9** image with the character in the unchanged background. Character-only cutouts remain internal production assets.
 - [ ] **Show before generating:** every prompt shown, saved and priced in credits before it's sent. Each image's prompt, seed and settings are recorded next to it.
-- [ ] **Keyframes:** every keyframe in a shot uses the same plate, camera, seed and settings, and changes only pose and expression. If the generator offers pose reference or image-to-image, use them to work from the previous keyframe.
+- [ ] **Keyframes:** each uses its **assigned locked plate**. Within the same camera position, only the character pose, expression and placement may change. For camera moves with separate views, switch to the separately approved plate for each camera position. An approved older frame with a visual exception is not permission to repeat the mistake or modify later plates.
 - [ ] **Canon check on every still:**
+  - [ ] **Plate lock passes:** all pixels outside the character alpha mask match the approved plate exactly for this camera position; murals, signage, buildings, lighting, weather, pavement and reflections are untouched
   - [ ] each character matches their README entry and sheets: one-sided features stay on the character's anatomical left or right as written, never mirrored to suit the frame; tattoos, implants, insignia and awards remain in their approved anatomical positions; hair, outfit, and colours match their hex codes
   - [ ] objects match their object sheets, and each weapon is in the state the shot list records
   - [ ] heights match the size chart
