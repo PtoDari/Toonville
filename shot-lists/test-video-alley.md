@@ -78,7 +78,7 @@ sh005  360 sweep past Orion  7 s
   - **Known differences, where the written rules win:** in k01 and k02 the "High Power" lettering shows on a bare strip of neck below the balaclava, where only the tops of the letters peek above the collar; in k02 the New Era flag doesn't show though he faces the camera, and neither does the "$", though the web of his thumb is partly toward it; his feet have no reflection in the wet pavement, which under the plate lock would take a plate revision; and in k03 he stands about 2.1 times the bollards' height, right for him if they're about 90 cm.
 
 sh006  The bounty hunter  5 s
-- Characters: Ozzy and one bounty hunter. Plate: orion-exterior-sheet-night (loading bay panel).
+- Characters: Ozzy and one bounty hunter. Plate: a new one, in the tension state reacting to Ozzy, one plate for both keyframes: low, from the far side of the alley, looking across at Orion's loading bay on the left third, with the alley running away to the right toward the bend, so the service passage is off frame on the right. Its loading bay matches k03 and the 360Alley plate, as the user chose on 2026-11-16, so it doesn't change across the cut from shot 5; the earlier LoadingBay plate stays locked but unused.
 - Camera: standoff line. Ozzy on the left third facing right, the hunter on the right third facing left, across the wet alley.
 - Action: the bounty hunter steps out of the service passage ahead of him, rifle in hand, into his path, and challenges him to a fight; Ozzy turns from the shutter to face him.
 - Rifle: the hunter's long grey rifle with a scope and a round blue-white lens on its side, held across his body.
