@@ -95,7 +95,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 - [ ] **Lossless, at the finished size:** the locked plate and every keyframe are PNGs, and the character is composited onto the 1920×1080 plate itself. A composite made at a generator's size and then scaled changes the plate's pixels along the character's edge.
 - [ ] **Shadows and reflections:** when a shot needs a character's shadow or reflection on the location, it gets a plate revision that has them, approved by the user before it's used.
 - [ ] **Finished full frame (pixel-preserving composite, NOT full-scene regeneration):**
-  - **Prompt:** for character generation or edits, show the user the subject, every character's exact README style block and the job's full style block, including the verbatim master style line, before sending for a new go-ahead.
+  - **Prompt:** for character generation or edits, show the user the subject, every character's exact README style block and the job's full style block, including the verbatim master style line, before sending for a new go-ahead. A character made on their own uses the README's [compositing block](README.md#compositing-block), with its light and camera filled from the plate.
   - **References:** attach canon character sheets and approved poses when supported, but do not use a previous whole-scene keyframe as the background.
   - **Plate:** load the **exact approved camera-position plate as the compositing base**, never as a soft visual reference for a generative background.
   - **Delivery:** show one finished **1920×1080, 16:9** image with the character in the unchanged background. Character-only cutouts remain internal production assets.

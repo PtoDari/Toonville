@@ -24,6 +24,7 @@ Every prompt is built in this order:
 | Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
 | Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
 | Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
+| Characters made on their own, to composite onto a locked plate | Compositing block | Fill the description, pose and expression, the plate's main light with its colour and direction, the plate's camera angle and lens, and the hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. For a vehicle, or any object too big to hold, swap the hand view for the block's [vehicle line](#object-sheet-block). |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a night plate set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
 | Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. Never on an approved plate or a finished keyframe, and never to add a character to a plate: see Plate lock, below. |
@@ -56,7 +57,7 @@ What the rule means in practice:
 - **Lossless files:** each locked plate and each finished keyframe is saved as a PNG. JPG compression changes pixels, so a JPG can't pass the pixel check.
 - **Composite at the finished size:** the character goes onto the locked 1920×1080 plate itself. A composite made at a generator's size and then scaled to 1920×1080 changes the plate's pixels along the character's edge.
 - **Shadows and reflections:** a shot that needs a character's shadow or reflection on the location, such as Ozzy's shadow on the alley wall, gets a plate revision that has it. The user approves the revision before it's used.
-- **Which style block:** a character made on their own for compositing still gets their character style block and a job's style block, word for word, but which job's block isn't decided yet. Until it is, no keyframe prompts are written.
+- **Which style block:** a character made on their own for compositing uses the [compositing block](#compositing-block), chosen by the user on 2026-11-16, with their character style block filling its description, word for word.
 
 Production checklist: [WORKFLOW.md — Each shot's stills](WORKFLOW.md#6-each-shots-stills).
 
@@ -237,6 +238,27 @@ Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy
 Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion; full figure kept inside the frame.
+```
+
+## Compositing block
+
+For a character made on their own, to be composited onto a locked plate under the plate lock, as the user chose on 2026-11-16. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[PLATE'S MAIN LIGHT AND COLOUR]`, `[DIRECTION]`, `[PLATE'S CAMERA ANGLE AND LENS]`, `[SKIN HEX]` and `[ACCENT HEX]`.
+
+Its style and character lines are the sheet blocks' lines, word for word, on the same flat mid grey `#808080`, so the character cuts out cleanly. Its Lighting and Camera lines are filled from the plate the character goes onto, so their light and perspective match it.
+
+- **Light:** the plate's main light, with its colour as a hex code sampled from the plate, and where it reaches the character from, such as in front of them and above. As on location, it becomes their rim light. A second light on the plate, such as a glow off to one side, is described after the pose.
+- **Camera:** the plate's camera height, angle and lens, such as low, at about knee height, with a wide-angle lens. In the pose, say which way the character faces in the plate's frame, so one-sided features land on the right side.
+- **The plate is never attached:** its light and camera are written into the slots instead. The character's canon sheets are attached as usual.
+- **No ground shadow or reflection:** they'd land outside the character's mask, so they come with a plate revision.
+- **A figure the plate shows only in part,** like his legs in shot 4, is still generated whole, and the composite crops it.
+- **After it's generated:** the character is cut from the grey, scaled to their size-chart height against the plate, composited onto the locked 1920×1080 plate, and checked pixel for pixel outside their mask.
+
+```
+Character element for compositing: [CHARACTER DESCRIPTION]. Single figure, [POSE AND EXPRESSION], seen as the plate's camera sees them. Flat mid grey #808080 background, no scenery, no ground shadow or reflection, no labels or captions.
+Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Lighting: [PLATE'S MAIN LIGHT AND COLOUR] from [DIRECTION], its colour becoming the character's rim light on the side facing it; bloom only on glowing sources.
+Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate; full figure kept inside the frame.
 ```
 
 ## Object sheet block
