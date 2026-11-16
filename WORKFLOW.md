@@ -1,6 +1,6 @@
 # Toonville workflow: from idea to finished clips
 
-This workflow takes Toonville from an idea through approved character, prop and location assets, storyboards, stills and finished 30-second video clips. Each clip follows the README's 30-second, 1920×1080, 16:9, 24 fps specification. Longer installments are assembled from multiple clips and scenes; do not compress the long-form story into one clip.
+This workflow takes Toonville from an idea through approved character, prop and location assets, storyboards, stills and finished 30-second video clips. Each clip follows the README's 30-second, 1920×1080, 16:9, 30 fps specification. Longer installments are assembled from multiple clips and scenes; do not compress the long-form story into one clip.
 
 Work through it top to bottom, because each stage needs the one before it. Tick every box: a character, object, location or shot isn't done until all of its boxes are ticked.
 
@@ -12,7 +12,7 @@ Do this once, and again whenever something changes.
 
 - [ ] **Base model:** one base model chosen for the whole series and recorded in the README, so every still comes from the same model.
 - [ ] **Settings:** fixed and recorded in the README, and the same for every still: sampler, steps, guidance (CFG) and clip skip, where the generator shows them.
-- [ ] **Video spec:** every video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 fps, as in the README's [Video spec](README.md#video-spec).
+- [ ] **Video spec:** every video is 30 seconds long, 1080p (1920×1080), 16:9, at 30 fps (900 frames total), as in the README's [Video spec](README.md#video-spec).
 - [ ] **Frame size:** every story still, keyframe, storyboard frame and plate is 16:9. Generate at the base model's 16:9 size and upscale every still the same way to 1920×1080. Sheets keep their own sizes as references, but any sheet that appears in a video gets a 16:9 version at 1920×1080. Screen shots (live streams and video calls) are generated at 9:16 and placed in the 16:9 frame in editing.
 - [ ] **Folders and names:** set up as in [Files and names](#files-and-names).
 
@@ -121,7 +121,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 - [ ] Every shot in the shot list has all of its keyframes.
 - [ ] Every still has the same frame size: 16:9 at 1920×1080.
-- [ ] Every clip runs at 24 fps, and the cut runs 30 seconds.
+- [ ] Every clip runs at 30 fps (900 frames per 30-second clip), and the cut runs 30 seconds.
 - [ ] Every shot's background plate is kept next to its stills, so characters can later be separated and animated over the background.
 - [ ] Neighbouring shots cut together: screen direction, eyelines, light and reactive state carry across the cut.
 - [ ] A final pass through every scene in order, with each character compared side by side against their sheets.
@@ -139,7 +139,7 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [ ] **Generation platform:** record the actual platform, model/version, mode, reference inputs, prompt, duration, aspect ratio, resolution, frame rate, seed (if available), settings and credit cost. Platform-specific upload instructions belong in the project notes only after the platform is identified; do not assume Seedance's interface is the same across providers.
 - [ ] **Shot review:** review motion, anatomy, screen direction, object state, lighting, location continuity, and start/end frame stability. Reject or repair any shot that mirrors one-sided tattoos/implants, changes the prop design, invents a new location, or breaks the approved action.
 - [ ] **Sound pass:** plan dialogue, footsteps, movement, impacts, machinery, ambience and music alongside the picture. Sound must communicate essential story information even to a viewer who cannot see the screen. Keep sound cues synchronized with visible actions; do not rely on visuals alone for a critical beat.
-- [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1920×1080 at 24 fps, and check transitions, audio levels, ambience continuity and the final mix.
+- [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1920×1080 at 30 fps, and check transitions, audio levels, ambience continuity and the final mix.
 - [ ] **Final approval:** show the finished clip for user review. Only explicit approval makes it final canon. Record its clip ID/path, prompt and settings, approved status, and any known deviations in the project inventory.
 
 ## Current production checkpoint — 2026-11-16
