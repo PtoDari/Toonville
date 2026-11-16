@@ -61,7 +61,7 @@ sh004  Low sweep behind his feet  4 s
   - **k02:** `ep00-sc01-sh004-k02.png`, behind his heels as he walks on toward the footbridge, near the wall on his right side: shot 3's approved plate A exactly, with only his legs and their reflections pasted in from the user's ChatGPT edit by [`plates/composite_k02_sh004.py`](test-video-alley/plates/composite_k02_sh004.py), because the edit had redrawn the rest of the plate.
   - **Known differences, where the written rules win:** the backgrounds' bold black lines. In k01 the wall beside him is lit by an amber lamp above him; in k02 the wall beside him has the cyan tube light and violet neon, with the amber lamps across the alley, so the light on his wall turns from warm to cool during the sweep. The user accepted it: he walks a few metres in those 4 seconds, and the far wall in k01 has both an amber lamp and a cyan light.
 
-sh005  360 sweep past Orion  7 s
+sh005  Sweep past Orion  7 s
 - Characters: Ozzy, full figure. Plate: orion-exterior-sheet-night (alley view, entrance and loading bay panels).
 - Camera: default line, wide. As the user chose on 2026-11-16, it swings from straight on at Orion's entrance round to the view back up the alley from beyond the loading bay, and holds there while he walks to the bay, instead of circling him a full 360 degrees, so the loading bay can't change mid-shot. k02 and k03 share that camera and its plate.
 - Action: he walks down Orion's side alley with Orion on his left, past the ORION sign, canopy neon, graffiti and closed sliding doors, to the loading bay's roll-up shutter farther down. He stops, faces the shutter and raises his clenched right fist (his bare hand), about to charge it.
