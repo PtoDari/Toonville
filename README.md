@@ -26,7 +26,7 @@ Every prompt is built in this order:
 | Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
 | Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. For a vehicle, or any object too big to hold, swap the hand view for the block's [vehicle line](#object-sheet-block). |
 | Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a night plate set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
-| Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. |
+| Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. Never on an approved plate or a finished keyframe, and never to add a character to a plate: see Plate lock, below. |
 
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
 
@@ -50,6 +50,13 @@ The character, night and day blocks further down are reference copies that spell
 - **Mandatory pre-approval verification:** compare the final composite to the approved plate pixel-by-pixel outside the character alpha mask. If **any** background pixel differs, **FAIL** the frame and correct the compositing workflow before presenting it as plate-locked. Also check camera position, anatomy, left/right markings, weapon state, outfits and mural placement.
 - **Prior exceptions do not redefine canon:** user-approved older keyframes with documented visual exceptions remain approved as **those frames only**. They neither replace nor modify the authoritative plate or character sheets, and they do not permit altered backgrounds in subsequent frames.
 - **Prompt and approval rule remains active:** every new character generation, edit, inpainting or retry still requires the complete canonical prompt shown first and the user's separate go-ahead, as specified in [The style rule](#the-style-rule).
+
+What the rule means in practice:
+
+- **Lossless files:** each locked plate and each finished keyframe is saved as a PNG. JPG compression changes pixels, so a JPG can't pass the pixel check.
+- **Composite at the finished size:** the character goes onto the locked 1920×1080 plate itself. A composite made at a generator's size and then scaled to 1920×1080 changes the plate's pixels along the character's edge.
+- **Shadows and reflections:** a shot that needs a character's shadow or reflection on the location, such as Ozzy's shadow on the alley wall, gets a plate revision that has it. The user approves the revision before it's used.
+- **Which style block:** a character made on their own for compositing still gets their character style block and a job's style block, word for word, but which job's block isn't decided yet. Until it is, no keyframe prompts are written.
 
 Production checklist: [WORKFLOW.md — Each shot's stills](WORKFLOW.md#6-each-shots-stills).
 
@@ -255,6 +262,8 @@ plus one view of [CHARACTER NAME] seated on it, riding it, to show its size and 
 ## Edit block
 
 For edits and inpainting on existing Toonville art: write the edit first (what to change, and where), then the character style block for anyone being edited, then this block. For an edit that touches only the background, replace the Characters line with the all-in-one block's Environment line and its Night or Day line.
+
+Under the plate lock, near the top of this README, it's never used on an approved plate or a finished keyframe: characters are made on their own and composited over the plate. A background-only edit of an approved plate is a plate revision, which needs the user's go-ahead before it's sent and their approval before it's used.
 
 ```
 Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.

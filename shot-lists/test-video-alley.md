@@ -12,6 +12,16 @@ Whole scene:
 - Story moment: quiet in sh001-sh005; tension, reacting to Ozzy, from sh006 (sign glow, puddles and rim light turn electric indigo #6F00FF).
 - Main light: in the Midtown alley, its own amber wall lamps, with cyan tube lights and violet neon panels, since the user changed its look on 2026-11-16 (it was hot-pink neon #F63BC4 spilling in from the streets); Orion's violet neon in its side alley.
 
+Plate lock: added by the user on 2026-11-16, in [README.md](../README.md), under Plate lock, after shots 1 to 4's plates and keyframes were approved. From now on, every keyframe is the character made on their own and composited onto that camera position's locked plate, with nothing outside the character's mask changed. The plates approved so far are locked as they are. The keyframes approved before it stay approved, as those frames only. Their pixel checks against their plates, at 1920x1080:
+- **sh001 k01:** every pixel differs. It's the plate's centre 70%, scaled up, and under the lock a crop is a reframing.
+- **sh003 k02:** 13.1% of pixels differ from plate B, all of them in his shadow on the wall and its soft edge. The shot has no character, only his shadow, so the shadow is outside any character mask.
+- **sh004 k01:** it can't be checked. It's a whole frame the user made in ChatGPT, and its camera position has no plate of its own.
+- **sh004 k02:** 18.7% of pixels differ from plate A: his legs, their reflections in the pavement, and a thin edge around them from scaling the 1672-wide composite up to 1920. The reflections are outside his figure.
+
+If one of these frames is remade, it's made under the lock. sh004 k01 needs a plate of its own first, and sh003 k02's shadow comes as a plate revision of plate B.
+
+Withdrawn: the prompts written before the lock that asked ChatGPT to edit a locked plate. They are sh001's comet k02, sh002's k02, and sh005's k01 to k03 (that shot's prompts 4 to 6). They'll be rewritten once the user chooses the style block for characters made on their own. The prompts for sh005's new plates, prompts 1 and 2, stand.
+
 sh001  The comet  4 s
 - Characters: none. Plate: the sky of midtown-alley-aerial-night.
 - Camera: default line. Locked on the night sky, then a slow zoom out.
