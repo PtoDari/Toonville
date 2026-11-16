@@ -74,87 +74,13 @@ Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames
 
 ## Test-video production approvals — 2026-11-16
 
-This is a production inventory, not new lore. Asset filenames describe user-approved/generated conversation attachments; the binaries are in production storage, not assumed to be in this GitLab repository. Existing canon sheets, plates and prior approvals remain authoritative.
+This is a production-status ledger, not new plot or a replacement for the approved character sheets. All named images are production assets; their binaries are not assumed to be stored in GitLab.
 
-- **Canon keyframes:** SH005 K01–K07 (seven frames) and SH006 K01–K02 (two frames) each received explicit user approval. SH006 K01 was approved with a **regenerated-environment exception for that one frame**. SH006 K02 is approved on the earlier locked `LoadingBay.png` plate. Neither approval changes the design of any plate or reusable character reference.
-- **Additional SH006 plate, approved as canon:** `SH006_New_Standoff_Plate_Candidate_1920x1080.png` (despite the original “Candidate” filename) is a **separate locked cross-alley camera view** with the shutter at frame left, black/yellow hazard stripe, amber lights, service door, hand truck and crates, electrical box, two bollards, closed dumpster, wet ground and steam grate, under Daiya's violet sky. The user accepted its documented heavy ink/texturing and fire-escape comparison concern **for this plate only**. It does **not** overwrite `LoadingBay.png`, the earlier SH005/SH006 plates or their keyframes.
-- **Generated but NOT approved reusable character art:** the bounty-hunter-scout turnaround draft did not pass inspection (visor, canister and background differences). Ozzy's rear-three-quarter element was rejected because the `# Toonville
-
-Toonville is an anime series. This repo holds its visual style guide: prompt blocks for characters and environments, and rules for how each scene reacts to the characters in it. [WORKFLOW.md](WORKFLOW.md) is the production workflow and checklist, from each character's sheets to every shot's stills. [STORY.md](STORY.md) holds the story so far: the conflict, the characters' stories, the world and the scenes.
-
-## The style rule
-
-Every Toonville prompt carries the established style, word for word, with no exceptions. That includes full prompts, short backups, edits and inpainting, one-line fixes, and anything sent to an image or video tool. This is what keeps every character, environment and prop consistent.
-
-Every generation reflects it too. From now on, every image and video made for Toonville, in any tool, comes from a prompt that carries the master style line below and the job's style block, word for word. Each result is checked against the style before it's accepted, and one that drifts from it isn't used: it's fixed or made again.
-
-Every prompt is built in this order:
-
-1. **Subject:** who or what, doing what, where. For a scene, add the story moment from the **reactive environment** table.
-2. **Character style block:** for every character in the shot, their own block from the Characters section below. It covers their look, tattoos and outfit, with their skin and accent hex from the character table.
-3. **Style block:** the block for the job, copied word for word.
-
-| Job | Style block | The only edits allowed |
-|---|---|---|
-| Scenes and story shots | All-in-one block | Keep only the Night or Day line. For a night scene set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). Drop the "At story peaks" sentence for quiet scenes. For a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
-| Video shots, one shot per prompt | Video block | The same edits as for scenes: keep only the Night or Day line, or swap in the [Night line after the rain](#night-line-after-the-rain); drop the "At story peaks" sentence for quiet scenes; swap the Camera line for a close-up, over-the-shoulder, POV, standoff or screen shot's line from [Camera lines](#camera-lines). Fill the camera move, shot length and hex slots. |
-| Character sheets | Character sheet block | Fill the description, expressions and hex slots. |
-| Turnaround sheets with no expression row | Turnaround sheet block | Fill the description and hex slots. |
-| Headshot turnaround sheets | Headshot sheet block | Fill the description and hex slots. |
-| Single medium shots on a plain background | Medium shot block | Fill the description, pose and expression, and hex slots. |
-| Single action medium shots on a plain background, with a glowing power | Action medium shot block | Fill the description, pose and expression, glow source and hex slots. |
-| Single full-body action poses on a plain background, without a glowing power | Full-body action pose block | Fill the description, pose and expression, and hex slots. |
-| Characters made on their own, to composite onto a locked plate | Compositing block | Fill the description, pose and expression, the plate's main light with its colour and direction, the plate's camera angle and lens, and the hex slots. |
-| Glowing things that aren't characters, such as the comet, made on their own to add to a locked plate | Glowing-element block | Fill the element's description, its direction and size in the frame, and the plate's camera angle and lens. |
-| Object sheets for a character's objects | Object sheet block | Fill the object description, character name and hex slots. For a vehicle, or any object too big to hold, swap the hand view for the block's [vehicle line](#object-sheet-block). |
-| Environments and props with no character | All-in-one block | Delete the Characters line. Keep only the Night or Day line. For a night plate set just after the rain, swap the Night line for the [Night line after the rain](#night-line-after-the-rain). For a plate that matches a close-up, over-the-shoulder, POV, standoff or screen shot, swap the Camera line for that shot's line from [Camera lines](#camera-lines). |
-| Edits and inpainting on existing art | Edit block | Fill the hex slots. For background-only edits, swap the Characters line as its notes say. Never on an approved plate or a finished keyframe, and never to add a character to a plate: see Plate lock, below. |
-
-Every one of those blocks opens with the **master style line**, so it appears in every prompt:
-
-```
-Style: 90s cel anime with comic-book inking, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-```
-
-No prompt rewords, shortens or drops style wording. A style change happens only when it's asked for, and it goes into this README first.
-
-The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
-
-## Plate lock — immutable approved background plates
-
-**Mandatory for every Toonville keyframe, composite, character placement, edit, repair, retry and video-reference still.** An approved background plate is locked source artwork, **not a visual suggestion** to an image generator.
-
-- **LOCK on approval:** preserve the exact approved plate file as read-only. No regeneration, AI reconstruction, inpainting, repainting, restyling, recolouring, relighting, reframing, cropping, warping or replacing the plate during keyframe production. This protects every background feature, including murals and graffiti, lettering, signs, buildings, doors, lighting, pavement, weather, haze and reflections.
-- **The correct plate for each camera:** each camera position uses **its own specific user-approved plate**. Never substitute another angle, an earlier generated keyframe, or a scene that merely looks similar. A multi-camera shot can therefore have multiple separately locked plates.
-- **Character-only generation, direct composite:** generate or edit the character separately using the exact approved character sheets, the complete required style prompt and separate user go-ahead. Then place the character directly over the locked plate using non-generative image compositing. **Never send a locked plate or completed scene through image generation** to ask the model to preserve, repair or recreate its background. Text instructions to “keep the background unchanged” are not preservation.
-- **Pixel-for-pixel rule:** in the finished image, every pixel **outside the composited character's actual alpha mask** must be identical to the corresponding pixel in that camera position's approved plate. Do not add shadows, highlights, glows, rain, fog or reflections outside that mask. Those would require an **explicitly approved separate plate revision**, not a routine keyframe edit. Never alter the master plate itself.
-- **Finished delivery:** show the user one complete **16:9, 1920×1080** keyframe with the character already in the original scene. Standalone character cutouts are internal production assets, not the final frame for video generation.
-- **Mandatory pre-approval verification:** compare the final composite to the approved plate pixel-by-pixel outside the character alpha mask. If **any** background pixel differs, **FAIL** the frame and correct the compositing workflow before presenting it as plate-locked. Also check camera position, anatomy, left/right markings, weapon state, outfits and mural placement.
-- **Prior exceptions do not redefine canon:** user-approved older keyframes with documented visual exceptions remain approved as **those frames only**. They neither replace nor modify the authoritative plate or character sheets, and they do not permit altered backgrounds in subsequent frames.
-- **Prompt and approval rule remains active:** every new character generation, edit, inpainting or retry still requires the complete canonical prompt shown first and the user's separate go-ahead, as specified in [The style rule](#the-style-rule).
-
-What the rule means in practice:
-
-- **Lossless files:** each locked plate and each finished keyframe is saved as a PNG. JPG compression changes pixels, so a JPG can't pass the pixel check.
-- **Composite at the finished size:** the character goes onto the locked 1920×1080 plate itself. A composite made at a generator's size and then scaled to 1920×1080 changes the plate's pixels along the character's edge.
-- **Shadows and reflections:** a shot that needs a character's shadow or reflection on the location, such as Ozzy's shadow on the alley wall, gets a plate revision that has it. The user approves the revision before it's used.
-- **Which style block:** a character made on their own for compositing uses the [compositing block](#compositing-block), chosen by the user on 2026-11-16, with their character style block filling its description, word for word. Something that glows and isn't a character, such as the comet, uses the [glowing-element block](#glowing-element-block), chosen by the user the same day.
-
-Production checklist: [WORKFLOW.md — Each shot's stills](WORKFLOW.md#6-each-shots-stills).
-
-## Video spec
-
-Every Toonville video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 frames per second: 720 frames in all. Longer installments are assembled from several of these 30-second clips, as in [WORKFLOW.md](WORKFLOW.md).
-
-- **Everything made for a video follows it:** stills, keyframes, storyboards, background plates, and any turnaround or other sheet that appears in a video are 16:9 and finished at 1920×1080. Generate at the generator's 16:9 size, then scale every image to 1920×1080 the same way.
-- **Shots add up to 30 seconds:** each shot in the shot list has a length in seconds, and together they make the video's 30 seconds.
-- **Screen shots:** live streams and video calls are made at 9:16, as their camera line says, and placed in the 16:9 frame in editing.
-- **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1920×1080 at 24 fps before it's cut in.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, calm lobby view and exterior location sheet, the Chase Tower's establishing shot, close-up and night and day location sheets, the D. Bell marketplace's day and night location sheets, Midtown's establishing view by day and by night, its alternate establishing view by day and its avenue view by day, the Midtown alley's establishing shot, reverse angle, low-angle walking shot, aerial view, low view and low view of the wall, the Diamond District's establishing shot, reverse angle and aerial view by day and by night and its elevated view by night, Ozzy's hover bike object sheet and the bounty hunters' armour turnaround (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), Ozzy's royal combat medium shot (from about 1671×941), his seated shot on the Chase Tower staircase (from 2752×1536), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
-
- and governor chip were on the outside/back of his left hand/wrist; the later right-facing three-quarter figure was rejected because the New Era flag showed on the near/right side, not his left. The newest rifle-holding bounty-hunter element (`weathered_sci_fi_bounty_hunter.png`) was generated but **has no user canon approval**. The separately generated aerial-walking Ozzy and comet elements also have **no recorded individual canon approval**.
-- **Animated output:** a five-second, 1920×1080, 24-fps SH006 standoff video was delivered as a **silent draft**, not a user-approved canon animation. The 30-second finished video is not yet complete.
-- **Approval gates:** every new generation, correction and retry needs its own full canonical prompt and user go-ahead. For a keyframe, composite only separately approved/corrected character elements onto the exact assigned locked plate and check every unchanged background pixel. Approval of a whole keyframe does not turn an incorrect character feature into canon.
+- **Approved frames:** SH005 K01–K07 and SH006 K01–K02 are individually canon-approved. SH006 K01 was approved with a regenerated environment as a **frame-only exception**; SH006 K02 was approved using the original locked `LoadingBay.png` plate. Neither exception changes background canon.
+- **Additional approved plate:** `SH006_New_Standoff_Plate_Candidate_1920x1080.png` became **canon** by explicit user approval, despite its candidate filename. This is a **separate SH006 cross-alley camera view**, with shutter at left, hazard stripes, amber loading-bay lamp, vented service door, equipment, hand truck, bollards, dumpster, wet road, steam grate and violet sky. Its previously identified heavy outlines, textured rendering and fire-escape review concern were accepted for that plate only. It does **not** replace or alter `LoadingBay.png` or any earlier view or frame.
+- **Character-only artwork NOT canon:** the scout armour turnaround draft was rejected for visual discrepancies; the Ozzy rear-three-quarter element was rejected for incorrect hand-tattoo and chip placement, and his right-facing three-quarter element was rejected for a visible New Era flag on the wrong side. The newer standalone rifle-holding bounty-hunter element `weathered_sci_fi_bounty_hunter.png` was generated but has **not** received separate canon approval. An aerial walking Ozzy element and an isolated comet element were generated but are **not individually approved**.
+- **Animation:** the five-second 1920×1080/24-fps SH006 standoff MP4 is a **silent draft**, not an approved animation. The complete 30-second scene and its sound have not yet been finalized.
+- **Approval gate:** only explicit user approval establishes canon for a specific asset. Generate or edit elements separately with the verbatim style blocks and separate go-ahead. Composite onto the correct locked plate, compare unchanged pixels, and check anatomy and side-specific markings. Approval of a full-frame exception never licenses changing a source plate or reusable character design.
 
 ## All-in-one block
 

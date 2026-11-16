@@ -141,164 +141,23 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 
 ## Current production checkpoint — 2026-11-16
 
-| Asset | Approval state |
+| Production asset | Status |
 | --- | --- |
-| SH005 K01–K07 | Seven canon keyframes |
-| SH006 K01 | Canon keyframe, frame-specific regenerated-background exception |
-| SH006 K02 | Canon keyframe on the locked `LoadingBay.png` plate |
-| Additional SH006 cross-alley plate `SH006_New_Standoff_Plate_Candidate_1920x1080.png` | Canon as **another locked camera view**; no replacement of existing plates |
-| Bounty-hunter-scout turnaround draft | Not canon; rejected for design/background errors |
-| Ozzy rear-three-quarter and right-facing elements | Rejected for left-hand/wrist placement and balaclava flag-sidedness errors |
-| New rifle-carrying bounty-hunter isolated element | Generated, not user-approved |
-| Isolated comet and aerial-walking Ozzy elements | Generated, not separately approved |
-| Five-second SH006 animation | Draft, not canon |
-| Complete 30-second film with audio | Not complete or approved |
+| SH005 K01–K07 | Seven separately approved canon keyframes |
+| SH006 K01 | Approved with a frame-specific regenerated-background exception |
+| SH006 K02 | Approved on unchanged `LoadingBay.png` |
+| Additional SH006 cross-alley plate `SH006_New_Standoff_Plate_Candidate_1920x1080.png` | Approved **additional** locked camera view; previous plates stay canon |
+| Scout armour turnaround | Rejected draft; established standard bounty-hunter armour still wins |
+| Ozzy rear-three-quarter and right-facing character elements | Rejected drafts (hand tattoo/chip positions; New Era flag side) |
+| Rifle-holding bounty-hunter isolated element | Generated, not individually approved |
+| Isolated comet and aerial walking Ozzy | Generated, not separately approved |
+| SH006 five-second silent animated MP4 | Draft, not canon |
+| Complete 30-second clip with audio | Pending |
 
-- [ ] **Independent element approval:** each plate, cutout, keyframe and animation needs its own recorded status. A completed canon keyframe is not blanket approval of a reusable element or the clip's motion.
-- [ ] **Never substitute camera views:** the newly approved SH006 cross-alley plate is separate from `LoadingBay.png`. Use the correct approved image unchanged and record which camera view each new keyframe uses.
-- [ ] **Correct rejected character elements before use:** the `# Toonville workflow: from idea to finished clips
-
-This workflow takes Toonville from an idea through approved character, prop and location assets, storyboards, stills and finished 30-second video clips. Each clip follows the README's 30-second, 1920×1080, 16:9, 24 fps specification. Longer installments are assembled from multiple clips and scenes; do not compress the long-form story into one clip.
-
-Work through it top to bottom, because each stage needs the one before it. Tick every box: a character, object, location or shot isn't done until all of its boxes are ticked.
-
-[README.md](README.md) is the single source of truth for the style. Every prompt is built in its order: the subject, then each character's style block, then the job's style block, word for word. No prompt goes to OpenArt, Higgsfield or any other generator until it has been shown and given the go-ahead.
-
-## 1. Setup
-
-Do this once, and again whenever something changes.
-
-- [ ] **Base model:** one base model chosen for the whole series and recorded in the README, so every still comes from the same model.
-- [ ] **Settings:** fixed and recorded in the README, and the same for every still: sampler, steps, guidance (CFG) and clip skip, where the generator shows them.
-- [ ] **Video spec:** every video is 30 seconds long, 1080p (1920×1080), 16:9, at 24 fps, as in the README's [Video spec](README.md#video-spec).
-- [ ] **Frame size:** every story still, keyframe, storyboard frame and plate is 16:9. Generate at the base model's 16:9 size and upscale every still the same way to 1920×1080. Sheets keep their own sizes as references, but any sheet that appears in a video gets a 16:9 version at 1920×1080. Screen shots (live streams and video calls) are generated at 9:16 and placed in the 16:9 frame in editing.
-- [ ] **Folders and names:** set up as in [Files and names](#files-and-names).
-
-## 2. Each character
-
-Do this for every main character before they appear in any shot.
-
-- [ ] **Profile:** name, age, height, skin tone and accent colour, hair, face, tattoos and marks, outfits. Hex codes are sampled from reference images, not guessed. The profile goes in the character table and their README entry.
-- [ ] **Style blocks:** their character style block, a sheet note for anything that must stay on one side, and a short backup, all in the README.
-- [ ] **Turnaround sheets:** one for each outfit and hairstyle (turnaround sheet block), with front, three-quarter, side and back views. A character who carries a weapon gets one with it and one without.
-- [ ] **Headshot sheets:** one for each hairstyle (headshot sheet block).
-- [ ] **Expression close-ups:** their default expressions, turned so any one-sided feature faces the camera.
-- [ ] **Object sheets:** one for each object that belongs to them (step 3).
-- [ ] **Check and save:** every sheet checked against their README entry, with known differences listed, and saved to `characters/<name>/`.
-- [ ] **Size chart:** added at their height.
-- [ ] **Reference sheets:** their best canon sheets picked out to attach as image references, where the generator allows it. This project doesn't use LoRAs for now.
-
-## 3. Each character's objects
-
-These are the things a character carries, wears, uses or is known by, such as a phone, a bag, a weapon or a car. Props that stay in one place belong to that location instead (step 4).
-
-- [ ] **Object list in their README entry**, with each object's:
-  - what it is and what it's made of
-  - colours as hex codes
-  - real size in cm
-  - where it's carried or worn, and in which hand
-- [ ] **Object sheets:** one for each object (object sheet block), with front, side, back and top views plus one view showing the owner's scale relationship to it. The owner holds handheld objects; for vehicles or objects too large to hold, show the owner seated on or using the object instead, with the object sheet block's vehicle line in place of the hand view.
-- [ ] **Check and save:** each sheet checked against the list, with known differences listed, and saved to `characters/<name>/objects/<name>-<object>.jpg`.
-- [ ] **Approval and canon record:** only the user's final approval makes the design canon. Record the approved specifications, asset ID, sheet status and any known drawing differences in the README; the written character and object rules remain authoritative where a sheet has a visible error.
-
-## 4. Each location
-
-- [ ] **Entry in the README's Locations section:**
-  - its name and what happens there
-  - day, night or both
-  - its main light source and that light's colour, which becomes every character's rim light there
-  - where characters stand (the calm open area)
-  - its reactive surfaces: signs, glass, puddles, banners, leaves
-- [ ] **Location sheet:** an establishing wide shot, the reverse angle, and each camera position its shots will use, low or aerial and wide angle as the style asks. It uses the all-in-one block without the Characters line, keeping only the Night or Day line, or the Night line after the rain for a place shown just after the rain, with a Day set and a Night set if both are used.
-- [ ] **Scale:** a doorway or another object of known size drawn in, so characters can be placed at their size-chart heights.
-- [ ] **Reactive states:** for each scene there, the state the story moment calls for (quiet, tension or climax), using the accent colour of the character the scene reacts to.
-- [ ] **Save:** saved to `locations/<location>/`, with known differences listed.
-
-### Backdrop approval gate
-
-- [ ] **Complete the backdrop aesthetic before storyboarding:** do not write a storyboard or shot list until the visual design of every location needed for the planned story is established, its reference material has been reviewed, its environment and lighting rules are recorded in README.md, and its required location sheets are complete and approved. If a location still depends on a reference the user has not supplied, pause that location's design and do not treat the backdrop as complete.
-- [ ] **User approval:** the user confirms that the full backdrop aesthetic is complete before storyboarding begins.
-
-## 5. Story and shot list
-
-- [ ] **Script or beat outline,** split into scenes, in [STORY.md](STORY.md).
-- [ ] **Each scene:**
-  - its location, and day or night
-  - the characters, with their outfits and hairstyles
-  - the objects in play, and each weapon's state: for Ozzy's golden staff, retracted at his left hip, extended in his hand, or absent
-  - its story moment (quiet, tension or climax) from the README's reactive environment table, and the character the scene reacts to, whose accent the location takes on
-  - the location's reactive state for that moment, inside and outside where the scene uses both, from the location's README entry
-- [ ] **Shot list:** every shot numbered, with:
-  - the characters in it
-  - framing (wide, medium or close-up)
-  - camera angle and lens, with its camera line from the README's Camera lines
-  - which way each character faces, keeping one-sided features toward the camera where the story allows
-  - each weapon's state
-  - the action
-  - which doors are open: a door that opens for characters, like Orion's sliding doors, is open only while someone goes through it
-  - the keyframes it needs (start, key poses, end)
-  - its length in seconds, with every shot together making the video's 30 seconds
-- [ ] **Storyboard:** a rough 16:9 thumbnail for every shot.
-- [ ] **Continuity:** checked across every scene:
-  - characters stay on their side of the line of action
-  - eyelines match
-  - outfits, hair and objects in hand carry from shot to shot
-  - weather and light stay steady through the scene
-
-## 6. Each shot's stills
-
-- [ ] **Background plate first, then LOCK:** generate the location from the exact shot camera with no characters in the intended reactive state, using the all-in-one block without the Characters line. After user approval, preserve the exact plate file as read-only. Each camera position has its own locked plate; never use a different view.
-- [ ] **PLATE LOCK — mandatory for all keyframes:** no background regeneration, inpainting, repainting, mural/graffiti alteration, relighting, cropping, reframing or replacement. Do not ask an image generator to generate the finished full scene or “preserve” an approved plate. Generate or edit **only the character**, then **directly composite** the character over the exact approved plate. All background pixels outside the character alpha mask must remain unchanged. No shadows, effects or reflections outside that mask without a separate user-approved plate revision.
-- [ ] **Verify plate integrity:** compare each finished keyframe with its assigned approved source plate **pixel-for-pixel outside the character's alpha mask**. Reject any output with even one changed pixel; fix the composite, never the locked plate. Record the plate used and the result of the comparison.
-- [ ] **Lossless, at the finished size:** the locked plate and every keyframe are PNGs, and the character is composited onto the 1920×1080 plate itself. A composite made at a generator's size and then scaled changes the plate's pixels along the character's edge.
-- [ ] **Shadows and reflections:** when a shot needs a character's shadow or reflection on the location, it gets a plate revision that has them, approved by the user before it's used.
-- [ ] **Fix each element before compositing:** generators often put one-sided marks on the wrong side, or on the back of a hand, even when the prompt says otherwise. Check every character element against their README entry and fix it in the element, by painting the mark out with the colour around it, before it goes on the plate. Never fix it on the plate.
-- [ ] **Size and depth from the plate:** scale each figure from the plate's perspective, measured from objects of known size in it, such as a 210 cm door or a bollard, so heights match the size chart. Figures standing at the same depth keep the chart's height relationship.
-- [ ] **In front stays in front:** anything on the plate nearer the camera than a character, like steam rising from a vent, stays in front of them. Place the character so they don't cover it; if they must, that's a plate revision.
-- [ ] **Shared cameras share a plate:** keyframes from the same camera position use the same locked plate, so nothing in the background changes between them.
-- [ ] **Finished full frame (pixel-preserving composite, NOT full-scene regeneration):**
-  - **Prompt:** for character generation or edits, show the user the subject, every character's exact README style block and the job's full style block, including the verbatim master style line, before sending for a new go-ahead. A character made on their own uses the README's [compositing block](README.md#compositing-block), with its light and camera filled from the plate, and something that glows and isn't a character, like the comet, uses its [glowing-element block](README.md#glowing-element-block).
-  - **References:** attach canon character sheets and approved poses when supported, but do not use a previous whole-scene keyframe as the background.
-  - **Plate:** load the **exact approved camera-position plate as the compositing base**, never as a soft visual reference for a generative background.
-  - **Delivery:** show one finished **1920×1080, 16:9** image with the character in the unchanged background. Character-only cutouts remain internal production assets.
-- [ ] **Show before generating:** every prompt shown, saved and priced in credits before it's sent. Each image's prompt, seed and settings are recorded next to it.
-- [ ] **Keyframes:** each uses its **assigned locked plate**. Within the same camera position, only the character pose, expression and placement may change. For camera moves with separate views, switch to the separately approved plate for each camera position. An approved older frame with a visual exception is not permission to repeat the mistake or modify later plates.
-- [ ] **Canon check on every still:**
-  - [ ] **Plate lock passes:** all pixels outside the character alpha mask match the approved plate exactly for this camera position; murals, signage, buildings, lighting, weather, pavement and reflections are untouched
-  - [ ] each character matches their README entry and sheets: one-sided features stay on the character's anatomical left or right as written, never mirrored to suit the frame; tattoos, implants, insignia and awards remain in their approved anatomical positions; hair, outfit, and colours match their hex codes
-  - [ ] objects match their object sheets, and each weapon is in the state the shot list records
-  - [ ] heights match the size chart
-  - [ ] characters are in thick black ink, and the environment is in thin tinted lines, never black
-  - [ ] characters own the pure black, the brightest highlights and their accent colour
-  - [ ] the location's main light is the characters' rim light, from the same direction in every still of the scene
-  - [ ] the reactive state matches the story moment
-- [ ] **Fix or redo:** a still that fails is fixed locally or regenerated, with any new prompt shown first, then checked again.
-- [ ] **Save:** saved under the shot's name, together with its plate.
-
-## 7. Ready for animation
-
-- [ ] Every shot in the shot list has all of its keyframes.
-- [ ] Every still has the same frame size: 16:9 at 1920×1080.
-- [ ] Every clip runs at 24 fps, and the cut runs 30 seconds.
-- [ ] Every shot's background plate is kept next to its stills, so characters can later be separated and animated over the background.
-- [ ] Neighbouring shots cut together: screen direction, eyelines, light and reactive state carry across the cut.
-- [ ] A final pass through every scene in order, with each character compared side by side against their sheets.
-
-## 8. Video generation and sound
-
-A storyboard is a continuity and timing map, not a substitute for the character, prop and location references. A multi-panel storyboard may communicate shot order and composition, but generate or supply separate clean references for the character, important props and approved location. Do not expect a video model to reproduce tiny panel details as exact frames.
-
-- [ ] **Storyboard plan:** assign every shot a number, start/end action, camera movement, framing, duration and transition. For a 30-second clip, all shot durations add up to exactly 30 seconds. Use a multi-panel overview as a guide; create separate 16:9 keyframes for any shot that needs precise control.
-- [ ] **Reference pack:** attach the approved character turnaround/pose, object sheet and location plate separately wherever the chosen video platform supports them. Keep the storyboard as the sequence guide. Do not assume every platform exposes the same reference slots or accepts the same number of images.
-- [ ] **Video prompt:** write each shot's action and camera movement clearly, then include the relevant character style block and the README's [video block](README.md#video-block). Preserve the established master style line and the video block word for word. Do not shorten them to fit a video tool without first preparing and showing an approved short backup.
-- [ ] **Generation platform:** record the actual platform, model/version, mode, reference inputs, prompt, duration, aspect ratio, resolution, frame rate, seed (if available), settings and credit cost. Platform-specific upload instructions belong in the project notes only after the platform is identified; do not assume Seedance's interface is the same across providers.
-- [ ] **Shot review:** review motion, anatomy, screen direction, object state, lighting, location continuity, and start/end frame stability. Reject or repair any shot that mirrors one-sided tattoos/implants, changes the prop design, invents a new location, or breaks the approved action.
-- [ ] **Sound pass:** plan dialogue, footsteps, movement, impacts, machinery, ambience and music alongside the picture. Sound must communicate essential story information even to a viewer who cannot see the screen. Keep sound cues synchronized with visible actions; do not rely on visuals alone for a critical beat.
-- [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1920×1080 at 24 fps, and check transitions, audio levels, ambience continuity and the final mix.
-- [ ] **Final approval:** show the finished clip for user review. Only explicit approval makes it final canon. Record its clip ID/path, prompt and settings, approved status, and any known deviations in the project inventory.
-
- stays on the web of Ozzy's left thumb and index finger; the chip stays flush inside his left wrist; the balaclava's New Era flag stays on his left. Original bounty-hunter armour remains the authority until a new design is explicitly approved.
-- [ ] **Animation remains a separate approval gate:** the silent SH006 five-second draft and any eventual 30-second edit require inspection and explicit user approval; keep all approved source stills untouched.
+- [ ] **Track separate approvals:** each element, plate, keyframe and animated clip has its own status, source filename and known differences. Approval of one full frame is not a blanket approval of reusable character features or motion.
+- [ ] **Respect camera-view ownership:** the new SH006 plate is separate from `LoadingBay.png`. Never overwrite either approved source; use the assigned camera position for each composite.
+- [ ] **Repair character-only drafts before compositing:** the dollar-sign tattoo remains on the web of Ozzy's left thumb and index finger, the chip flush on the inside of his left wrist, and the balaclava flag on his left. The original bounty-hunter armour sheet remains authoritative.
+- [ ] **Animation approval stays separate:** the five-second test clip is only a draft; inspect motion, anatomy, exact plate pixels and sound before final canon approval.
 
 ## Files and names
 
