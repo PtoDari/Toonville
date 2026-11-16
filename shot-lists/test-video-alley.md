@@ -40,12 +40,15 @@ sh003  Skyline and shadow  5 s
 - k02, approved by the user as canon on 2026-11-16: `ep00-sc01-sh003-k02.png`, 1920x1080, kept in production storage. It's plate B with Ozzy's shadow on the wall, made with no generation: the shadow's shape is cut from the approved low walking shot by [`plates/cut_shadow_sh003.py`](test-video-alley/plates/cut_shadow_sh003.py) and laid on by [`plates/make_k02_sh003.py`](test-video-alley/plates/make_k02_sh003.py), which rebuild it exactly. It's warped onto the receding wall in perspective, its shoulders at the wall's top edge, so the wall cuts it off above the shoulders, and its legs running out of the bottom of the frame, darkening the wall toward a cool violet. It's about three times his height, as if cast by a low light across the alley, like the cyan tube light on the far wall.
 
 sh004  Low sweep behind his feet  4 s
-- Characters: Ozzy, knees down. Plate: midtown-alley-low-walk-night.
+- Characters: Ozzy, knees down. Plate: shot 3's plate A, for the end of the sweep.
 - Camera: low tracking shot, wide. Starts on the canon low walk frame and sweeps around behind his heels as he passes.
-- Action: Cortez sneakers on the wet concrete; the wall stays on his right. Ends looking past his heels to the alley's enclosed entrance and the street beyond.
+- Action: Cortez sneakers on the wet concrete; the wall stays on his right. Ends looking past his heels down the alley to the footbridge and the city beyond.
 - Sound: his footsteps echoing on the pavement.
-- Keyframes: k01 = midtown-alley-low-walk-night; k02 behind his heels, the entrance ahead.
-- To remake: k01, the approved low walk shot, shows the alley's first look, red brick and hot-pink light. The user changed the alley's look on 2026-11-16, so it needs remaking in the new look; its pose, his side of the alley and his shadow stay.
+- Keyframes: k01 his legs walking toward the camera, his shadow on the wall; k02 behind his heels, the footbridge ahead.
+- Keyframes, approved by the user as canon on 2026-11-16, 1920x1080, kept in production storage, in the alley's new look:
+  - **k01:** `ep00-sc01-sh004-k01.png`, the approved low walking shot remade by the user in ChatGPT as an edit: his stride, joggers, white socks, Cortez sneakers and his shadow on the wall beside him are kept, and the alley around him is its new look, with the block walls, the raised kerb, wet cracked slabs, amber, cyan and violet light, no rain and the violet sky. It replaces the first-look frame as this shot's start.
+  - **k02:** `ep00-sc01-sh004-k02.png`, behind his heels as he walks on toward the footbridge, near the wall on his right side: shot 3's approved plate A exactly, with only his legs and their reflections pasted in from the user's ChatGPT edit by [`plates/composite_k02_sh004.py`](test-video-alley/plates/composite_k02_sh004.py), because the edit had redrawn the rest of the plate.
+  - **Known differences, where the written rules win:** the backgrounds' bold black lines. In k01 the wall beside him is lit by an amber lamp above him; in k02 the wall beside him has the cyan tube light and violet neon, with the amber lamps across the alley, so the light on his wall turns from warm to cool during the sweep. The user accepted it: he walks a few metres in those 4 seconds, and the far wall in k01 has both an amber lamp and a cyan light.
 
 sh005  360 sweep past Orion  7 s
 - Characters: Ozzy, full figure. Plate: orion-exterior-sheet-night (alley view, entrance and loading bay panels).
