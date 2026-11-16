@@ -146,6 +146,7 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 
 | Production asset | Status |
 | --- | --- |
+| C01 Orion loading-bay control-box close-up background plate | **User-approved canon 2026-11-16 as generated**, including a **round caged amber light fixture** that differs from previously approved wide bay plates. Exact original 1672×941 retained; separate resized 1920×1080 plate prepared and locked for C01 character compositing. **Camera-specific exception** only; earlier wide plates unchanged. Conversation files: `Toonville_C01_ControlPanel_Canon_Original.png` and `Toonville_C01_ControlPanel_Canon_1920x1080.png`; still need GitLab backup. No character layer, animation or audio approved yet. |
 | Bounty-hunter rifle `PROP_005` object sheet | **User-approved canon 2026-11-16**; moderate (~100 cm target) grey sci-fi prop with top scope and circular blue-white side details on both sides; reference PNG retained in conversation assets, **not yet copied to the GitLab production object directory** |
 | SH005 K01–K07 | Seven separately approved canon keyframes |
 | SH006 K01 | Approved with a frame-specific regenerated-background exception |
