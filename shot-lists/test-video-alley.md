@@ -4,7 +4,7 @@ Approved by the user on 2026-11-15. The scene's story is in [STORY.md](../STORY.
 
 Storyboard: approved by the user on 2026-11-15, in [`test-video-alley/`](test-video-alley/): one 1920x1080 frame per shot, `ep00-sc01-sh001-storyboard.jpg` to `ep00-sc01-sh006-storyboard.jpg`, and an overview of all six, `ep00-sc01-storyboard-overview.jpg`. It was put together from the approved sheets and images, not generated: the location sheets as backgrounds, Ozzy's figures cut from his balaclava sheet without the staff and the bounty hunter's from their armour turnaround, never mirrored, at their size-chart heights, and the two approved memorial murals in sh005. Arrows mark the camera moves, and each frame's caption gives its action. It's a rough timing and continuity guide, not a still: his raised right fist and the hunter's rifle are in the captions only, because no approved art shows them yet. Its script, `build_storyboard.py`, needs the two mural images, which aren't stored in this repo.
 
-One 30-second clip, 1920x1080, 16:9, 24 fps. Shot names: ep00-sc01-sh001 to ep00-sc01-sh006, with keyframes named as in [WORKFLOW.md](../WORKFLOW.md).
+One 30-second clip, 1920x1080, 16:9, 30 fps (900 frames). Shot names: ep00-sc01-sh001 to ep00-sc01-sh006, with keyframes named as in [WORKFLOW.md](../WORKFLOW.md).
 
 Whole scene:
 - Night, just after the rain: no rain falls, the pavement is wet. Prompts use the Night line after the rain.
