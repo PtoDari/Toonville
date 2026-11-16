@@ -146,6 +146,7 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 
 | Production asset | Status |
 | --- | --- |
+| Bounty-hunter rifle `PROP_005` object sheet | **User-approved canon 2026-11-16**; moderate (~100 cm target) grey sci-fi prop with top scope and circular blue-white side details on both sides; reference PNG retained in conversation assets, **not yet copied to the GitLab production object directory** |
 | SH005 K01–K07 | Seven separately approved canon keyframes |
 | SH006 K01 | Approved with a frame-specific regenerated-background exception |
 | SH006 K02 | Approved on unchanged `LoadingBay.png` |
