@@ -152,6 +152,15 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [ ] **Next location work:** independently establish exact room scale, walking paths and door/camera reverse angles, staff-control interface mechanism, generator engineering / power pathways and awake-state appearance. **Show each complete Toonville prompt and obtain its own go-ahead** before any new image or edit. Do not silently upgrade draft ideas or implied elements to canon.
 - **Scene note:** image contains **no characters**, so five-finger anatomy, handed tattoos, implants and weapons are not visible to audit. Checked **view by view** for matching room identity, construction, materials, sealed gate and rock separation. Original unchanged; future camera-specific plates must be approved and then pixel-locked before character compositing. STORY.md does not require changes; no new plot decisions were added.
 
+### Crystal Tower control room reverse-angle canon — 2026-11-17
+
+- [x] **Reverse-angle prompt separately authorized:** user approved making the proposed reverse-angle environment-only image of the existing dormant control room.
+- [x] **Reverse-angle output explicitly approved by user:** user then replied **"Approve"** after seeing the rendered image. The view from near the central console toward the closed barred gate is now *a separately canon-approved second camera view* of the same room; original four-panel control-room sheet remains unmodified.
+- [x] **Source preservation and production resize:** generated `crystal_tower_s_sealed_gate.png`, copied byte-identically to `toonville_control_room_canon/Toonville_CrystalTower_ControlRoom_ReverseAngle_Canon_Original_1672x941.png` (1672×941, SHA-256 `32df849618b0e6e2d94051400d466e806779525e7647e822320260f380837057`); `toonville_control_room_canon/Toonville_CrystalTower_ControlRoom_ReverseAngle_Canon_1920x1080.png` is a Lanczos resize only (SHA-256 `744c1a73110632a3244c4213053d6b7ca5eaee6c5197894b0a32705fcbc13a2`). Unaltered master original first sheet remains unchanged.
+- [x] **View QC:** same cloud-white and navy enclosing arches, violet/cobalt glow, royal-gold ribs and floor lines, suspended ice-blue faceted crystal, symmetrical ringed crystal generator towers, recessed seating, and closed gate; no mountain rock within the hull, and no characters or weapons. No anatomy, handed tattoo or insignia applies. Close-up device engineering, interface mechanism and active-state visuals remain undecided.
+- [x] **Backup and GitLab canon text:** files packaged in `Toonville_CrystalTower_ControlRoom_ReverseAngle_CANON_Backup.zip` (SHA-256 `49e4c165ac7306480a6c7a019e0008d946ee9b01708e18b0bb0beba39eee9a8f`), with comparison/QC; README and `locations/crystal-tower/control-room/CANON.md` updated. **Binary GitLab backups not yet confirmed; do not imply that the actual PNGs have been committed.**
+- [ ] **Next:** begin exact interior spatial/scale continuity and control-station/staff mechanism *separately*; any new image or edit requires the full README-mandated prompt shown first and another explicit approval.
+
 ## Current production checkpoint — 2026-11-16
 
 | Production asset | Status |
