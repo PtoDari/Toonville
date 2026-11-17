@@ -1,0 +1,145 @@
+TOONVILLE — EPISODE 00
+B01 — OZZY CHARACTER-ONLY MOTION
+HIGGSFIELD SEEDANCE 2.5
+START-TO-END FRAME ANIMATION
+DRAFT — AWAITING APPROVAL
+
+SUBJECT:
+
+Ozzy, alone, completing his final walking step before turning toward the Orion loading-bay electrical control cabinet.
+
+Generate ONLY the character animation, on a uniform flat mid grey #808080 background.
+
+No alley, buildings, shutter, electrical cabinet, mural, signs, props, floor texture, ground shadow or reflections appear in this generation.
+
+The invisible cabinet's position is established by the approved B01 K02 pose, so Ozzy looks and reaches toward exactly that position.
+
+REFERENCE PREPARATION:
+
+Use two separately reviewed 1920×1080 character-only reference frames, prepared non-generatively from the approved B01 K01 and K02 character artwork.
+
+Both references must show the exact approved Ozzy poses, at their established positions and apparent sizes, on flat mid grey #808080.
+
+Do not feed the original full-scene B01 composites to the video generator. Their alley background must not become part of the new animation.
+
+Do not redraw, change or reinterpret the character when preparing the references.
+
+START ACTION:
+
+Ozzy faces mostly toward the camera, finishing his forward walking step.
+
+His shoulders are relaxed.
+His anatomical RIGHT arm hangs naturally beside him.
+His anatomical LEFT arm remains relaxed.
+His posture, foot placement and scale match the approved B01 K01 keyframe.
+
+MIDDLE ACTION:
+
+He plants his advancing foot and naturally transfers his body weight.
+
+His hips begin rotating toward the control cabinet's invisible position.
+
+His shoulders, torso, head and gaze follow the turn.
+
+His anatomical RIGHT arm begins lifting as he rotates.
+
+His body maintains its natural proportions and consistent screen position.
+
+END ACTION:
+
+Ozzy completes his turn into the exact established B01 K02 pose.
+
+He is seen from a three-quarter rear angle, facing toward camera-right.
+
+His bare anatomical RIGHT hand extends forward with his index finger approaching the invisible electrical control.
+
+His anatomical LEFT hand remains near his hip.
+
+His finger does not touch or press anything.
+
+The final pose and full-body framing must correspond to the separately approved B01 K02 character.
+
+MOVEMENT:
+
+One continuous, believable movement over four seconds.
+
+0.00–1.20 seconds:
+Finish the advancing walking step.
+
+1.20–2.80 seconds:
+Transfer weight and turn naturally toward camera-right.
+
+2.80–4.00 seconds:
+Raise the anatomical RIGHT arm and extend the hand into the approved end pose.
+
+No sudden stops, teleportation, sliding feet, changing height, changing costume proportions, duplicated limbs or unnatural twisting.
+
+CHARACTER CONTINUITY:
+
+Preserve exact clothing details, facial proportions, eye opening, balaclava design and lettering.
+
+The anatomical RIGHT hand is bare.
+
+The "$" tattoo belongs only on the web between the thumb and index finger of the anatomical LEFT hand.
+
+The governor chip remains flush inside the anatomical LEFT wrist.
+
+Both marks stay concealed when their correct surfaces are turned away from the camera.
+
+Keep the New Era flag on the anatomical LEFT side of the balaclava.
+
+Five fingers on each hand, correct shoulders, elbows, wrists, hips, knees and ankles.
+
+No golden staff.
+No electricity or plasma.
+No extra characters.
+No additional objects.
+
+BACKGROUND:
+
+Uniform flat mid grey #808080 for every frame.
+
+No gradient, grain-coloured texture, shadow, horizon, props, lighting fixtures, smoke or scenery.
+
+Do not generate the Orion alley.
+
+CAMERA:
+
+Entirely locked camera and unchanged perspective.
+
+No pan, tilt, zoom, dolly, orbit, shake or reframing.
+
+Keep Ozzy fully inside the 16:9 frame throughout.
+
+Maintain the figure's established screen-space placement and scale.
+
+CHARACTER STYLE BLOCK:
+
+Ozzy, a 19-year-old Black man: athletic lean build, grounded realistic proportions, deep brown skin; his dark navy Supreme balaclava #262737 pulled over his whole head, face and neck, hiding his hair completely: rows of the white #E3E1F0 "Supreme" wordmark in chunky italic knit letters repeat all the way around it in offset rows, with no stripes between them, a small white New Era flag logo sits on its left side just below the eye opening (the viewer's right in a front view), and its neck is bunched in soft folds above his collar; one wide rounded eye opening shows only his warm brown eyes with dark lashes, his calm heavy-lidded gaze and the deep brown skin around them; small bold hand-drawn black-ink "$" tattoo with a single vertical stroke, on the web between the thumb and index finger of his left hand (the viewer's right in the front view); a small round cybernetic implant set flush into the inside of his left wrist, level with the skin: a black glass disc in a thin steel rim, about the size of the "$", with a glowing sky-blue #70B3F7 angular symbol like an infinity sign and a faint lavender #8D8EDB ring of light; his right hand is bare; leopard-print tattoo of open rosettes and spots in faded black ink covering his left upper arm (the viewer's right in the front view) from the shoulder cap down, stopping above the elbow; small thin gold chain #CEAF81; main outfit: light grey bomber jacket #C2C2C2 worn open, with a ribbed knit collar, cuffs and hem, a front zip and royal blue lining #5381D4, its long sleeves covering the leopard print; under it a black Playboy T-shirt with a white bunny-head logo wearing a bow tie, centred on the chest just below the chain, and the tops of his ornate grey-black cursive "High Power" chest tattoo peeking just above the front of the collar; cuffed blue Polo jogger sweatpants, white socks, blue Nike Cortez sneakers with a white swoosh and white soles
+
+VIDEO STYLE BLOCK:
+
+Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin #9B7461; signature accent #6F00FF. Characters alone own pure black, top highlights, accent.
+Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
+Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; the rain has just stopped; wet pavement mirrors neon in long vertical smears.
+Motion: 16:9, locked stationary camera with only Ozzy finishing his step, turning toward camera-right and raising his anatomical RIGHT hand, smooth and steady, 4 seconds; ink lines, flat cel colour and film grain hold steady from frame to frame, no flicker or morphing; each character keeps the same face, tattoos, outfit and proportions throughout, with one-sided features staying on the same side of their body as they turn; the background moves with the camera.
+
+OUTPUT REQUIREMENTS:
+
+Generate a four-second silent character-only motion source.
+
+Use the reviewed grey-background B01 K01 start reference and B01 K02 end reference.
+
+After generation, inspect every frame for anatomical correctness, identity consistency, clothing stability, accurate movement and background cleanliness.
+
+Do not accept generated scenery or new objects.
+
+Do not automatically mark the animation as canon.
+
+Only after the character-only motion is separately approved may it be composited over the exact approved B01 alley plate.
+
+The approved original B01 K01 and K02 full-scene frames must remain unchanged.
+
+Do not yet retime to 2.0333 seconds, add sound or splice into the original video.
