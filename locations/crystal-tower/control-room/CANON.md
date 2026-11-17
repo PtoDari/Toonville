@@ -48,6 +48,10 @@ The user explicitly approved the generated reverse-angle image by replying **"Ap
 - **All prior canon preserved:** the four-panel dormant room sheet and the single reverse-angle shot are independently approved, unchanged, and authoritative for their viewpoints.
 - **Anatomy/placement QC:** No characters, tattoos, implants, staffs, insignias or held weapons appear; these checks are not applicable. The gate remains closed; no control/energy activation.
 
+## Unapproved scale-study attempt (2026-11-17; rejected draft)
+
+User approved generating isolated Ozzy for a scale-placement test, **not** a new control-room plate. The resulting image showed Ozzy facing the camera inside a fully regenerated room; it failed the approved character-only grey-background constraint, character facing and immutable-plate rule. The generated source `Toonville_ControlRoom_ScaleStudy01_REJECTED_DRAFT_Original_1672x941.png` (SHA-256 `ddff800e1c0d01a8552de09bf00b27af8c0e4b906c79c4db43fca1800ef4af30`) is **not canon**; review pack `Toonville_ControlRoom_ScaleStudy01_REJECTED_REVIEW.zip` (SHA-256 `bd93ead33078a2408eae8ca994b4e18bf1ebd4f79b891a119cfddaec7b1e7d0d`) contains image and QC. It does not establish Ozzy's place, room dimensions or correct visual continuity. **Canon set stays limited to the approved four-panel room, reverse-angle image and oblique floor-layout reference.** No regeneration authorized without another full prompt + go-ahead.
+
 ## Canon boundaries
 
 The exact visible layout and architecture are approved. The **precise dimensions, Ozzy's operator position, staff interface mechanics, generator operations, activated state, room connections, side opening functions and any unapproved additional camera views remain TBD**. The main, reverse-angle and approved oblique floor-layout views are all canon, each in its own viewpoint. Do not infer technology mechanisms from graphical motifs in the image. New shots use the README style and workflow, with individual prompts and user approvals. See [README.md](../../../README.md#the-crystal-towers-control-room) for the authoritative location style and descriptions. No story revision was requested.
