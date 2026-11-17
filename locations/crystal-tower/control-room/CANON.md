@@ -22,6 +22,18 @@ No characters are shown; no character anatomy or weapon-placement rules are chan
 - Backup archive: `Toonville_CrystalTower_ControlRoom_CANON_Backup.zip`; includes both images, `CANON_README.txt` and `SHA256.json`.
 - **Storage caveat:** these image binaries are present as conversation files / downloadable user artifacts, **not yet copied to or verified as binaries in GitLab**. Preserve the original in project/iCloud backups before treating GitLab as fully backed up.
 
+## Additional approved camera view — control room reverse angle (2026-11-17)
+
+The user explicitly approved the generated reverse-angle image by replying **"Approve"** after it was shown. This is **canon for this new camera view**, not a replacement for the original four-panel dormant control-room sheet.
+
+- **Camera / subject:** from near the central command position, looking back across the room toward its CLOSED, dark vertical-barred gate. Wide-angle 16:9 view; no characters.
+- **Canon visuals:** huge white/navy vaulted architectural ribs; gold structural and floor trim; curved recessed upholstered seating and stair structures; glossy violet-lit flooring and inset channels; symmetric tall enclosed ice-blue crystal generator structures with suspended gold rings flanking the gate; the ice-blue faceted ceiling crystal with decorative rings. Low dormant blue/violet lighting and dry interior. Gate stays shut; no new access points or functional mechanisms defined.
+- **Architecture continuity:** Crystal Mountain is **outside** the ship's built shell; there is no exposed cave rock inside. This view establishes the direction from command dais toward the restricted entrance while keeping the first sheet immutable.
+- **Exact original approved image:** `crystal_tower_s_sealed_gate.png`, original 1672×941 RGB PNG, SHA-256 `32df849618b0e6e2d94051400d466e806779525e7647e822320260f380837057`; byte-identical copy `Toonville_CrystalTower_ControlRoom_ReverseAngle_Canon_Original_1672x941.png`.
+- **Production resize:** `Toonville_CrystalTower_ControlRoom_ReverseAngle_Canon_1920x1080.png`, Lanczos resize only, SHA-256 `744c1a73110632a3244c4213053d6b7ca5eaee6c5197894b0a32705fcbc13a2`.
+- **Review backup:** `Toonville_CrystalTower_ControlRoom_ReverseAngle_CANON_Backup.zip`, SHA-256 `49e4c165ac7306480a6c7a019e0008d946ee9b01708e18b0bb0beba39eee9a8f` (original + resized PNGs, two-view comparison, usage notes and QC JSON). **Binaries are conversation downloads, NOT confirmed GitLab-backed.**
+- **No character-placement audit:** no humans, staff, weapons or readable lettering are rendered; anatomical handedness does not arise. Further scale and operator-position work remains pending.
+
 ## Canon boundaries
 
 The exact visible layout and architecture are approved. The **precise dimensions, Ozzy's operator position, staff interface mechanics, generator operations, activated state, room connections and reverse camera views remain TBD**. Do not infer technology mechanisms from graphical motifs in the image. New shots use the README style and workflow, with individual prompts and user approvals. See [README.md](../../../README.md#the-crystal-towers-control-room) for the authoritative location style and descriptions. No story revision was requested.
