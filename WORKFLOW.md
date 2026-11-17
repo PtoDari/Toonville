@@ -143,6 +143,15 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [ ] **Edit and conform:** assemble the approved shots to exactly 30 seconds, conform to 1280×720 at 60 fps, and check transitions, audio levels, ambience continuity and the final mix.
 - [ ] **Final approval:** show the finished clip for user review. Only explicit approval makes it final canon. Record its clip ID/path, prompt and settings, approved status, and any known deviations in the project inventory.
 
+## Crystal Tower control room — canon location milestone (2026-11-17)
+
+- [x] **Architectural direction user-approved:** smooth, continuous constructed royal spaceship interior, not a natural cavern; Crystal Mountain rock remains outside the hull and observation glazing.
+- [x] **FIRST DORMANT CONTROL-ROOM FOUR-VIEW LOCATION SHEET USER-APPROVED CANON:** user explicitly replied **"Canon"** to the rendered sheet. The visual canon includes one major panoramic wide view and supporting command console, generator architecture, and barred-entry views. Preserve the exact four images together as one complete sheet, not as newly generated independent views.
+- [x] **Original preserved losslessly:** `Toonville_CrystalTower_ControlRoom_Dormant_Canon_Original_1672x941.png`, SHA-256 `df01778807e393ab5ff85f12c4b81889950a1c1cc096fe553df9253c251753e2` (exact approved generated source). Derived 16:9 production image `Toonville_CrystalTower_ControlRoom_Dormant_Canon_1920x1080.png`, SHA-256 `990e1109383f528013bbad7f07ee6221dc4303742d964e8fde235e27613a2312`, is a **resize only**, not new art. Pack `Toonville_CrystalTower_ControlRoom_CANON_Backup.zip` contains both images and SHA256/usage notes. Images have been saved in the conversation working storage; **binary GitLab backup not yet verified**.
+- [x] **README canon description updated:** location, dormant state, all four views, visible white/crystal-blue/navy/gold/violet materials and lighting, barred gate, panoramic mountain-facing window; explicit boundary that unshown interfaces and engineering remain undecided.
+- [ ] **Next location work:** independently establish exact room scale, walking paths and door/camera reverse angles, staff-control interface mechanism, generator engineering / power pathways and awake-state appearance. **Show each complete Toonville prompt and obtain its own go-ahead** before any new image or edit. Do not silently upgrade draft ideas or implied elements to canon.
+- **Scene note:** image contains **no characters**, so five-finger anatomy, handed tattoos, implants and weapons are not visible to audit. Checked **view by view** for matching room identity, construction, materials, sealed gate and rock separation. Original unchanged; future camera-specific plates must be approved and then pixel-locked before character compositing. STORY.md does not require changes; no new plot decisions were added.
+
 ## Current production checkpoint — 2026-11-16
 
 | Production asset | Status |
