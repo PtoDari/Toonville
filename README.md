@@ -1548,7 +1548,7 @@ The ship's interior, as the user began designing it on 2026-11-16. The ship has 
 
 - **Where it is:** in the upper tower, below the ship's mechanic room, which sits just under the spire, and above the cafeteria, as the user set on 2026-11-16. The ship's layout is in [Inside the Crystal Tower](#inside-the-crystal-tower).
 - **What happens there:** the room inside the Crystal Tower where Ozzy powers his ship. Its generators help him build up his heated plasma, and his golden staff's diamonds shine at the frequency that powers the ship's accelerators and boosters. Until he does, it's barred off and seems to call for him, and systems near it malfunction or refuse commands.
-- **Look:** TBD.
+- **Look — user-approved architectural direction, 2026-11-17:** smooth, continuous **spaceship-built architecture throughout the control-room interior**, rather than a natural cavern or rock-lined room. The vessel is lodged at Crystal Mountain, but **mountain rock stays outside the constructed ship hull**, never becoming the control-room walls or ceiling. This is the user's choice between the proposed natural cavern, spaceship, and hybrid design directions after supplying two inspirational reference images. The room remains in its already established upper-tower position, below the mechanic room and above the cafeteria. Inspiration images are references, **not yet approved interior design assets**. **Still TBD:** exact structural layout, windows or mountain view, furniture, platforms, generator arrangement, staff interface geometry, material finishes, accent lighting and approved room sheet.
 - **Day or night:** inside, so TBD.
 - **Main light:** TBD. **Where characters stand:** TBD.
 - **Reactive surfaces:** TBD.
