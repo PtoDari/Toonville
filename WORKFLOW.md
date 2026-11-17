@@ -161,6 +161,14 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [x] **Backup and GitLab canon text:** files packaged in `Toonville_CrystalTower_ControlRoom_ReverseAngle_CANON_Backup.zip` (SHA-256 `49e4c165ac7306480a6c7a019e0008d946ee9b01708e18b0bb0beba39eee9a8f`), with comparison/QC; README and `locations/crystal-tower/control-room/CANON.md` updated. **Binary GitLab backups not yet confirmed; do not imply that the actual PNGs have been committed.**
 - [ ] **Next:** begin exact interior spatial/scale continuity and control-station/staff mechanism *separately*; any new image or edit requires the full README-mandated prompt shown first and another explicit approval.
 
+### Crystal Tower floor-plan attempted first generation — 2026-11-17
+
+- [x] User approved the specific full top-down control-room floor-plan generation prompt (existing panoramic window and command at top, sealed gate at bottom, paired generators and seating, smooth manufactured ship walls).
+- [x] Generated and saved one 1672×941 original image: `Toonville_ControlRoom_OverheadFloorPlan_DRAFT_Original_1672x941.png` SHA-256 `9cacfbf5902ca408b0cf25be54f348d524a9592b2eb14f15265d1a88ad19cab3`. Created 1920×1080 no-crop review resize `Toonville_ControlRoom_OverheadFloorPlan_DRAFT_1920x1080.png` SHA-256 `039edabfcdf53d35305b98a7c95ee42645d840062bb338cbba38d37f0c989ba3`. Review archive `Toonville_ControlRoom_FloorPlan_DRAFT_Review.zip` with QC JSON.
+- [x] QC: visual palette, command/window/gate arrangement, paired seating and generator towers generally correspond to approved main/reverse views. No characters; no anatomy or handedness visible. Style largely consistent with cel-shaded environment.
+- [ ] **QC FAILED:** view is still a high oblique angle, not strict straight-down orthographic overhead. Extra apparent side door openings conflict with the no-new-doors instruction. This is a **rejected-for-canon design draft**, not an approved new location sheet; exact floorplan geometry remains TBD.
+- [ ] **Next gate:** user may request revision, but before any regeneration, show a *new full prompt* with exact master style and job block and obtain explicit go-ahead. Do not modify the already approved two control-room canon images. No video production or staff-interface mechanics are authorized by this draft.
+
 ## Current production checkpoint — 2026-11-16
 
 | Production asset | Status |
