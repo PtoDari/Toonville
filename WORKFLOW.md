@@ -178,6 +178,13 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [x] **GitLab canon record:** update `README.md` location and `locations/crystal-tower/control-room/CANON.md`; previous four-panel and reverse-angle canon assets untouched. PNG binaries remain conversation assets and are not confirmed GitLab repository backups.
 - [ ] **Next design item:** establish usable scale and path placement with an independently approved plan (or annotate the approved art without altering its canonical master, after separate user go-ahead). No auto-generation, retouching, or retroactive visual corrections.
 
+### Crystal Tower control-room scale study 01 — approved operation, failed character-only result (2026-11-17)
+
+- [x] User explicitly approved the full proposed high-oblique **isolated Ozzy** (`CHAR_001`, `SKIN_001` balaclava outfit without staff) character-element scale study: neutral standing pose, camera toward command console, exact `#808080` mid-grey backing; plate compositing intended only after separately reviewed clean character source.
+- [x] A generated output was received but **rejected from canon on visual continuity QC**: it regenerated the entire Crystal Tower control room instead of producing isolated Ozzy, and Ozzy faces camera rather than mountain-facing command station. This is not a legal 1920×1080 composite over the immutable canon plate. Cannot establish any precise or apparent room height scale. Hand digits, left web tattoo, inner-left-wrist chip and anatomical-left balaclava flag cannot be examined at this figure size.
+- [x] Preserved original rejected `Toonville_ControlRoom_ScaleStudy01_REJECTED_DRAFT_Original_1672x941.png` (SHA-256 `ddff800e1c0d01a8552de09bf00b27af8c0e4b906c79c4db43fca1800ef4af30`) and two-view comparison JPEG (SHA-256 `48bc1c9e76eb2e74c67e3e1de51d20ea5b64f8e944f14980a92d22f98024e432`); QC manifest and images packaged in `Toonville_ControlRoom_ScaleStudy01_REJECTED_REVIEW.zip` (SHA-256 `bd93ead33078a2408eae8ca994b4e18bf1ebd4f79b891a119cfddaec7b1e7d0d`). Image binaries are conversation downloads, not GitLab-backed.
+- [ ] **No new action approved** after failed output. Before any new generation show the *full* exact README-mandated character style block + compositing job block and await a **separate explicit authorization**. Generate only a character on flat grey; inspect character orientation, height proportions and handed anatomy *before* non-generative placement. All three approved control-room images remain independently immutable. No floor measurements, new walking paths or Ozzy placement become canon from this test.
+
 ## Current production checkpoint — 2026-11-16
 
 | Production asset | Status |
