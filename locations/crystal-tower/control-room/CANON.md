@@ -34,9 +34,23 @@ The user explicitly approved the generated reverse-angle image by replying **"Ap
 - **Review backup:** `Toonville_CrystalTower_ControlRoom_ReverseAngle_CANON_Backup.zip`, SHA-256 `49e4c165ac7306480a6c7a019e0008d946ee9b01708e18b0bb0beba39eee9a8f` (original + resized PNGs, two-view comparison, usage notes and QC JSON). **Binaries are conversation downloads, NOT confirmed GitLab-backed.**
 - **No character-placement audit:** no humans, staff, weapons or readable lettering are rendered; anatomical handedness does not arise. Further scale and operator-position work remains pending.
 
+## Third approved image — floor-layout reference (2026-11-17)
+
+**STATUS: USER-APPROVED CANON AS SHOWN.** The user explicitly replied **"Canon"** after seeing the first floor-plan image and the assistant's identified QC issues. The same image was previously marked a *draft* when it failed strict orthographic/side-opening QC; this later explicit user acceptance **supersedes the draft status**, not the actual visual differences.
+
+- **Camera:** one high oblique bird's-eye perspective over the existing control room, not a true perpendicular plan or measurement drawing. **Keep the image exactly as rendered**, even though the approved *prompt* had asked for a strict top-down view.
+- **Approved subject layout:** mountain-facing curved panorama at image TOP; raised gold-rimmed command station with three violet displays below the window; sweeping gold-trimmed violet channels and open central inlay; curved recessed navy seats on both sides; symmetric crystal columns with gold rings beside the closed vertical gate at image BOTTOM; existing navy, white, gold and blue-violet cel-anime spaceship architecture.
+- **Accepted visible side shapes:** additional doorway-like recesses/openings appear on the two side walls. These are **accepted only as architectural shapes shown in the canon image**; their status as working doors, where they connect, how they open and whether they are accessible are **not established**. Do not add rooms, passages, alternate exits or access mechanics by inference.
+- **Camera exception:** oblique rather than strict top-down, so neither precision plan geometry nor room dimensions can be measured from this image. It establishes visible relative architecture, not engineering dimensions.
+- **Original:** `a_highly_detailed_stylized_anime_cel_animated_ove.png`, copied byte-identically to `Toonville_CrystalTower_ControlRoom_FloorPlan_Canon_Original_1672x941.png` (1672×941 RGB PNG, SHA-256 `9cacfbf5902ca408b0cf25be54f348d524a9592b2eb14f15265d1a88ad19cab3`).
+- **Video-reference copy:** `Toonville_CrystalTower_ControlRoom_FloorPlan_Canon_1920x1080.png`, same previous Lanczos resize, no crop/paint, SHA-256 `039edabfcdf53d35305b98a7c95ee42645d840062bb338cbba38d37f0c989ba3`.
+- **Backup pack:** `Toonville_CrystalTower_ControlRoom_FloorPlan_CANON_Backup.zip`, SHA-256 `89780cc6e62fd6670c6ee52395a2154bb324e2c897ef3b74cfadcca9f974b587`, contains the two approved image copies and manifest/README explaining the user-accepted exceptions. Images are saved in conversation downloads; **GitLab PNG binary backup not verified**.
+- **All prior canon preserved:** the four-panel dormant room sheet and the single reverse-angle shot are independently approved, unchanged, and authoritative for their viewpoints.
+- **Anatomy/placement QC:** No characters, tattoos, implants, staffs, insignias or held weapons appear; these checks are not applicable. The gate remains closed; no control/energy activation.
+
 ## Canon boundaries
 
-The exact visible layout and architecture are approved. The **precise dimensions, Ozzy's operator position, staff interface mechanics, generator operations, activated state, room connections and reverse camera views remain TBD**. Do not infer technology mechanisms from graphical motifs in the image. New shots use the README style and workflow, with individual prompts and user approvals. See [README.md](../../../README.md#the-crystal-towers-control-room) for the authoritative location style and descriptions. No story revision was requested.
+The exact visible layout and architecture are approved. The **precise dimensions, Ozzy's operator position, staff interface mechanics, generator operations, activated state, room connections, side opening functions and any unapproved additional camera views remain TBD**. The main, reverse-angle and approved oblique floor-layout views are all canon, each in its own viewpoint. Do not infer technology mechanisms from graphical motifs in the image. New shots use the README style and workflow, with individual prompts and user approvals. See [README.md](../../../README.md#the-crystal-towers-control-room) for the authoritative location style and descriptions. No story revision was requested.
 
 ## View-by-view QC
 
