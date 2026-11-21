@@ -123,7 +123,7 @@ Each kind of shot has its camera line in the README's [Camera lines](README.md#c
 
 Add each scene idea here as it comes, with its place, day or night, the characters in it and what happens. Each scene also gets its story moment, quiet, tension or climax, and the character the scene reacts to, so its location shows the right reactive state. Ideas don't need to be in order.
 
-- **The first scene:** it happens outside Orion, Wave's nightclub, just after the rain, like every scene outside the club. It's calm: its story moment is quiet, as the user set, so the sign and the canopy's neon glow steadily in their own blue and violet, and the reflections in the wet street are soft. No one goes in or out through the club's sliding door, as the user set, so it stays closed in every shot. The character it reacts to and the rest of the scene are TBD.
+- **A test scene outside Orion (not the opening):** it was first set down as the first scene, but it was a test, as the user set on 2026-11-21, and the story opens differently. It happens outside Orion, Wave's nightclub, just after the rain, like every scene outside the club. It's calm: its story moment is quiet, as the user set, so the sign and the canopy's neon glow steadily in their own blue and violet, and the reflections in the wet street are soft. No one goes in or out through the club's sliding door, as the user set, so it stays closed in every shot. The character it reacts to and the rest of the scene are TBD.
 - **Inside Orion:** nothing happens inside the club until further into the story. Its interior was designed ahead of time, so it's ready when the story gets there.
 - **Test video, the alley (a test, kept for reference):** Ozzy walks through Midtown, masked, at night, just after the rain: no rain falls and the pavement is still wet. He's in his main outfit with the jacket, masked in his balaclava, without the golden staff, as the user set, as on his sheet `ozzy-main-outfit-jacket-balaclava-no-staff.jpg`. The user's outline, in order:
   1. A static image of the night sky. The camera zooms out, and a comet shoots by.
@@ -147,6 +147,8 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 
 ## Open questions
 
+- **The opening:** the user knows how the story begins, and it's still to be written here. It isn't the test scene outside Orion.
+- **The ending:** not decided yet, as the user said on 2026-11-21.
 - **The underground facility:** what does it look like?
 - **The Guardians:** who are they, beyond their home in the Forbidden Foliage, their recruits and their leadership?
 - **The tribe, with its hunters, healers and tribal leader:** who are they, beyond living in the Forbidden Foliage? The hunters aren't the bounty hunters who raided the royal convoy.
