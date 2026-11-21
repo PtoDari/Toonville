@@ -1,5 +1,7 @@
 # Test video, the alley: shot list
 
+A test, kept for future reference, as the user set on 2026-11-21, like every video made so far. The series' storyboard starts again from the beginning of the story.
+
 Approved by the user on 2026-11-15. The scene's story is in [STORY.md](../STORY.md), under Scenes, and every location in it has its approved sheets in [README.md](../README.md).
 
 Storyboard: approved by the user on 2026-11-15, in [`test-video-alley/`](test-video-alley/): one 1920x1080 frame per shot, `ep00-sc01-sh001-storyboard.jpg` to `ep00-sc01-sh006-storyboard.jpg`, and an overview of all six, `ep00-sc01-storyboard-overview.jpg`. It was put together from the approved sheets and images, not generated: the location sheets as backgrounds, Ozzy's figures cut from his balaclava sheet without the staff and the bounty hunter's from their armour turnaround, never mirrored, at their size-chart heights, and the two approved memorial murals in sh005. Arrows mark the camera moves, and each frame's caption gives its action. It's a rough timing and continuity guide, not a still: his raised right fist and the hunter's rifle are in the captions only, because no approved art shows them yet. Its script, `build_storyboard.py`, needs the two mural images, which aren't stored in this repo.

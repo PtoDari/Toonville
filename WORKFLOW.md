@@ -63,6 +63,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
 
 ## 5. Story and shot list
 
+- [ ] **Story first:** most of the story is written in [STORY.md](STORY.md) before any video is made, as the user set on 2026-11-21. The storyboard starts from the beginning of the story.
 - [ ] **Script or beat outline,** split into scenes, in [STORY.md](STORY.md).
 - [ ] **Each scene:**
   - its location, and day or night
@@ -308,7 +309,8 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 | Rifle-holding bounty-hunter isolated element | Generated, not individually approved |
 | Isolated comet and aerial walking Ozzy | Generated, not separately approved |
 | SH006 five-second silent animated MP4 | Draft, not canon |
-| Complete 30-second clip with audio | The test video is `Toonville_iPhone_Compatible(2).mp4`, made in other work, with sound: 27.97 seconds, 910×512, at 30 fps. The user confirmed on 2026-11-21 that it's the test video. The B01 bridge, about 2.03 seconds, is planned to bring it to 30 seconds. Still to be conformed to 720p at 60 fps; its approval as canon isn't recorded |
+| Videos made so far | Tests, kept for future reference, as the user set on 2026-11-21, not part of the series. No more video is made until most of the story is written in STORY.md, and the series' storyboard then starts from the beginning of the story |
+| Complete 30-second clip with audio | The test video is `Toonville_iPhone_Compatible(2).mp4`, made in other work, with sound: 27.97 seconds, 910×512, at 30 fps. The user confirmed on 2026-11-21 that it's the test video. The B01 bridge, about 2.03 seconds, was planned to bring it to 30 seconds, and waits, like all video work, until most of the story is written. It's a test, kept for reference |
 | This project's composited set, in the shot list: sh001 k01–k02, sh002 k02, sh003 k02, sh004 k01–k02, sh005 k01–k03, sh006 k01–k02 | Approved in this project, and chosen by the user for the clip; sh005's and sh006's names overlap with the rows above (see README) |
 | Crystal Tower interior layout | **Set by the user 2026-11-16**, top to bottom: spire, ship's mechanic room, control room, cafeteria, public tower down to the ground floor and main entrance, medical wing, Lebensborn. More rooms to come; see README's Inside the Crystal Tower |
 | Crystal Tower control room | **Look user-approved canon 2026-11-17**: the dormant four-panel sheet, the reverse angle and the oblique floor-plan view, with the sealed gate set at 10 ft × 6 ft and the Scale Study 01 composite canon; the sections above hold each record. Its activated state, mechanisms and other dimensions are TBD |
