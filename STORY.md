@@ -50,6 +50,7 @@ Dr. Erich Heyes, the doctor, has a name, colours and a full look so far: pale iv
   - **The Tall White DNA:** he experimented on alien DNA for years before he began infusing himself with Tall White DNA, becoming one of his own test subjects. Over time he grew daunting and melancholy, and came to resemble a full-blooded Tall White. He's half human, half Tall White. He can use abilities like the Tall Whites', but with none of their precision or ease.
   - **His crown:** a helmet he fashioned to resemble a crown, with a small scrambler inside. The young Tall Whites have no chance of breaching it. He wears it with his Combat Skin, and any time he's in the presence of a Tall White. Its look goes in his README entry once it's decided.
   - **His plan:** to take Ozzy's powers in a single transfer, become a demigod, take the ship and leave the planet. If he can't, he'll kill Ozzy. He's prepared his body for the transfer with DNA and cybernetics, as its intended subject, but he's uncertain it won't kill him: his orders and his greed drive him on. The transfer needs the staff, unless crafted by artificial means. He wants to capture Ozzy, not win him over.
+  - **The control room:** he has his own means of manipulating the ship to get inside the control room, but he's barred from powering and piloting it, as the user set on 2026-11-21. That's why he tracks Ozzy. What his means are is TBD.
   - **What holds him back:** the transfer has many variables he must study in his lab, Ozzy is very hard to apprehend, and he has to work overtime playing political games to keep the upper hand and keep the cosmos from searching for the prince. He can't use the staff properly, at least not yet, so he needs Ozzy alive long enough to power the ship again, or he has to take Ozzy's powers altogether and do it himself.
   - **His look:** he stands about 6'5" (196 cm), not nearly as tall as a full-blooded Tall White, with a commanding thin stature, pale ivory skin and a red accent. In his Combat Skin he wears a fitted, modernized olive grey astronaut suit, with his award decorations on his left chest, a black Rod of Asclepius as its medical insignia on his right bicep, and a red patch on his left bicep. His right hand and forearm are cybernetic, and his face is always bare. His full look is in his README entry.
 - **The medical wing:** the orphanage's medical staff, under the doctor, who experiment on the children. It doesn't always go well. Children who barely survive are fitted with cybernetic parts to keep them alive, and some grow stronger with these enhancements.
@@ -127,7 +128,7 @@ Add each scene idea here as it comes, with its place, day or night, the characte
   1. Inside the Crystal Tower, on its lowest floor, where the orphanage, Lebensborn, is. The camera takes in the room's look and its environment.
   2. It moves on to where Wave lies cryogenically frozen in the basement, along with other test subjects.
   3. The view pans through the ship to the control room.
-  4. The doctor, the main antagonist, is at the control room's panel, with the map of Lepus up. The camera takes in the control room's look too.
+  4. The doctor, the main antagonist, is at the control room's panel, with the map of Lepus up. The camera takes in the control room's look too. He has his own means of manipulating the ship to get inside, but he's barred from powering and piloting it, which is why he's trying to locate Ozzy, as the user set on 2026-11-21.
   5. The doctor moves the map, trying to locate Ozzy. He zooms in to the map of Midtown, and locates Ozzy by the chip in his arm, the governor chip in his left wrist.
   6. He radios for a bounty hunter scout to go and try to retrieve Ozzy.
 
@@ -157,7 +158,6 @@ What the audience learns, and when, kept apart from the lore above. Not started 
 ## Open questions
 
 - **The ending:** not decided yet, as the user said on 2026-11-21.
-- **The control room in the opening:** it's barred off until Ozzy powers the ship, and systems near it malfunction or refuse commands, yet the doctor works its panel in the opening. How he gets in, and what the ship lets him do there, is still to be decided.
 - **The underground facility:** what does it look like?
 - **The Guardians:** who are they, beyond their home in the Forbidden Foliage, their recruits and their leadership?
 - **The tribe, with its hunters, healers and tribal leader:** who are they, beyond living in the Forbidden Foliage? The hunters aren't the bounty hunters who raided the royal convoy.
