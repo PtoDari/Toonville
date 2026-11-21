@@ -308,11 +308,11 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 | Rifle-holding bounty-hunter isolated element | Generated, not individually approved |
 | Isolated comet and aerial walking Ozzy | Generated, not separately approved |
 | SH006 five-second silent animated MP4 | Draft, not canon |
-| Complete 30-second clip with audio | Pending |
+| Complete 30-second clip with audio | The test video is `Toonville_iPhone_Compatible(2).mp4`, made in other work, with sound: 27.97 seconds, 910×512, at 30 fps. The user confirmed on 2026-11-21 that it's the test video. The B01 bridge, about 2.03 seconds, is planned to bring it to 30 seconds. Still to be conformed to 720p at 60 fps; its approval as canon isn't recorded |
 | This project's composited set, in the shot list: sh001 k01–k02, sh002 k02, sh003 k02, sh004 k01–k02, sh005 k01–k03, sh006 k01–k02 | Approved in this project, and chosen by the user for the clip; sh005's and sh006's names overlap with the rows above (see README) |
 | Crystal Tower interior layout | **Set by the user 2026-11-16**, top to bottom: spire, ship's mechanic room, control room, cafeteria, public tower down to the ground floor and main entrance, medical wing, Lebensborn. More rooms to come; see README's Inside the Crystal Tower |
 | Crystal Tower control room | **Look user-approved canon 2026-11-17**: the dormant four-panel sheet, the reverse angle and the oblique floor-plan view, with the sealed gate set at 10 ft × 6 ft and the Scale Study 01 composite canon; the sections above hold each record. Its activated state, mechanisms and other dimensions are TBD |
-| This project's test-video clips | Seven Seedance 2.5 prompts written, with the grit-shaded master line, one per pair of this project's keyframes, about 217 credits in all at 720p. Shot 1's prompt (4 s, 28 credits) is shown and waits for the user's go-ahead; none has been sent |
+| This project's test-video clips | Seven Seedance 2.5 prompts written, with the grit-shaded master line, one per pair of this project's keyframes, about 217 credits in all at 720p. Shot 1's prompt (4 s, 28 credits) is shown; none has been sent. On hold since 2026-11-21, when the user confirmed the test video made in other work |
 | Video tool | Higgsfield's Seedance 2.5, chosen by the user, at about 7 credits a second at 720p, with its audio off. Clips are conformed to 1280×720 at 60 fps, the in-between frames made by frame interpolation on this project's machine, at no credit cost |
 
 - [ ] **Track separate approvals:** each element, plate, keyframe and animated clip has its own status, source filename and known differences. Approval of one full frame is not a blanket approval of reusable character features or motion.
