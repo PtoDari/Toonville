@@ -21,7 +21,7 @@ Toonville is an anime series. Its visual style is fixed and defined in README.md
 - Character sheets (character, turnaround and headshot sheet blocks), object sheets (object sheet block) and single medium shots on a plain background (medium shot and action medium shot blocks) use a flat mid grey `#808080` background by default, as written in their blocks.
 - The story so far is in STORY.md, the lore bible, which holds everything true in the world, including secrets the audience doesn't know yet. When the user shares story ideas, add them there in the same change, and never invent plot, characters or places: ask instead.
 - Follow WORKFLOW.md for the order of work and its checklists:
-  - Most of the story is written in STORY.md before any video is made. Every video made before 2026-11-21 is a test, kept for reference.
+  - Most of the story is written in STORY.md before any video is made. Every video made before 2026-11-21 is a test, kept for reference. Its approved frames, storyboards and plates are kept, and an approved plate is used again, not regenerated, when the story reaches that place and camera position.
   - Every character has their sheets and object sheets before appearing in shots.
   - Every location has a README entry and location sheets before shots are made there.
   - Every still passes the canon check in step 6.

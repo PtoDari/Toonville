@@ -1,6 +1,6 @@
 # Test video, the alley: shot list
 
-A test, kept for future reference, as the user set on 2026-11-21, like every video made so far. Its approved frames and storyboard are kept. The series' storyboard starts again from the beginning of the story.
+A test, kept for future reference, as the user set on 2026-11-21, like every video made so far. Its approved frames, plates and storyboard are kept, and its plates are used again when the story reaches those places. The series' storyboard starts again from the beginning of the story.
 
 Approved by the user on 2026-11-15. The scene's story is in [STORY.md](../STORY.md), under Scenes, and every location in it has its approved sheets in [README.md](../README.md).
 

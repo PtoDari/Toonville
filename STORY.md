@@ -6,7 +6,7 @@ Canon is cumulative but approval-controlled: a user's explicit final approval ma
 
 Toonville is a long-form series, told in installments. One installment may run 10 to 15 minutes, but the larger story takes as many installments and as much runtime as it needs. The lore comes first, so the audience feels the world before every mystery is explained.
 
-**Story first:** Every video made so far is a test, kept for future reference, as the user set on 2026-11-21: the alley test video, the loading-bay continuation and its B01 renders, the review cuts and the SH006 draft. None of them is part of the series. The series' storyboard starts again from the beginning of the story, and most of the story is written here before any video is made. The approved frames and storyboards are kept, as the user set the same day.
+**Story first:** Every video made so far is a test, kept for future reference, as the user set on 2026-11-21: the alley test video, the loading-bay continuation and its B01 renders, the review cuts and the SH006 draft. None of them is part of the series. The series' storyboard starts again from the beginning of the story, and most of the story is written here before any video is made. The approved frames, storyboards and plates are kept, as the user set the same day. When the story reaches a place that already has an approved plate, that plate is used again rather than made again.
 
 [README.md](README.md) holds how everything looks and sounds: each character's look in their entry, each place's look in its Locations entry, and the series' sound and music. Nothing here overrides it. A character or place named here needs its README entry and sheets before it appears in a shot.
 
