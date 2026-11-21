@@ -82,6 +82,7 @@ These are the things a character carries, wears, uses or is known by, such as a 
   - the keyframes it needs (start, key poses, end)
   - its length in seconds, with every shot together making the video's 30 seconds
 - [ ] **Storyboard:** a rough 16:9 thumbnail for every shot.
+- [ ] **Room to breathe:** Each video breathes. A storyboard isn't crammed with beats: its shots take their time, so the environment and the characters both have room on screen, as the user set on 2026-11-21.
 - [ ] **Continuity:** checked across every scene:
   - characters stay on their side of the line of action
   - eyelines match
