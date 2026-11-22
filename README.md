@@ -45,6 +45,28 @@ No prompt rewords, shortens or drops style wording. A style change happens only 
 
 The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
 
+## Trial style: Japanese cel anime (not canon)
+
+On 2026-11-22 the user asked to test a style closer to Japanese anime, because the videos read more like a comic book. This trial is only for test images. The established style above stays in every other prompt, word for word, and nothing made with the trial is canon. It's adopted, and goes into every block, only if the user chooses it.
+
+It drops the comic-book wording: "comic-book inking", "grit-shaded line intensity", "thick tapered contours", "hatched shadows" and "solid spotted blacks". In their place come thin, clean lines, one hard-edged shadow tone with a small highlight, and soft glow around light sources, after late-80s and 90s Japanese cel anime. The palette and every hex code stay the same.
+
+A trial prompt is built like any other: the subject, the character style block, then the job's block, with these two lines in place of its Style and Character lines. Every other line of the block stays word for word.
+
+Trial master style line:
+
+```
+Style: 1990s Japanese cel anime, thin clean ink lines, flat cel colour, soft glow around light sources, fine analog film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+```
+
+Trial Character line, for the sheet, medium shot, action, compositing and object sheet blocks:
+
+```
+Character: thin, clean line art in near-black #030308, a little heavier on the outer silhouette, even interior lines, no hatching; flat cel colour with one hard-edged shadow tone and a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
+```
+
+The scene and video blocks' Characters and Environment lines, with painted background art, aren't drafted yet. They come if the user wants a scene test.
+
 ## Plate lock — immutable approved background plates
 
 **Mandatory for every Toonville keyframe, composite, character placement, edit, repair, retry and video-reference still.** An approved background plate is locked source artwork, **not a visual suggestion** to an image generator.
