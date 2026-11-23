@@ -9,3 +9,9 @@ Sent by the user and approved by the user as canon on 2026-11-23, at 1448x1086. 
 
 pod-room-wave-night-16x9.jpg
 The view with Wave cropped to 1448x814 from 60 px down, then scaled to 1920x1080 in this project, with no other change.
+
+pod-room-panel-night.jpg
+Sent by the user and approved by the user as canon on 2026-11-23, at 1448x1086. It shows the doctor's bypass controller in its dock in the panel on the pod room's wall. Tool, prompt and seed not recorded.
+
+pod-room-panel-night-16x9.jpg
+The panel view cropped to 1448x814 from 110 px down, then scaled to 1920x1080 in this project, with no other change.
