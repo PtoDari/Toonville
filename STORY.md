@@ -119,6 +119,7 @@ Not stills and transitions: the camera moves. And each video breathes. A storybo
   - close-ups
   - rule-of-thirds framing before a stand-down or an intense fight
   - interesting camera angles throughout
+- **Fights:** never turn-based, as the user set on 2026-11-23. Both fighters move in every shot, attack and response share the frame, and cuts land mid-move. The camera works like an anime fight's: whip pans, crash zooms, the background sliding behind a running character, camera shake on hits, impact frames, and speed-line backgrounds at the biggest hits. The lead-up to a fight still breathes.
 - **Screens:** some scenes are a character broadcasting live, as on TikTok, or on a FaceTime-style video call. Those shots look like it.
 
 Each kind of shot has its camera line in the README's [Camera lines](README.md#camera-lines): close-up, over the shoulder, POV, standoff for the rule-of-thirds framing, and screen for live streams and video calls. Pans and other camera moves go in the README's [video block](README.md#video-block).
@@ -141,7 +142,7 @@ Add each scene idea here as it comes, with its place, day or night, the characte
   11. At the electrical cabinet by the loading bay in Orion's side alley, he rips off its panel to grab the wires and charge himself. The scout spots him right as he's about to charge, and says, "Halt. You are to come with me to the Crystal Tower."
   12. Ozzy playfully rolls his eyes and quips, "Seriously, that place is soooo overrated."
   13. The scout pulls out his rifle and accuses him of trespassing, without saying on whose property, and repeats that Ozzy is to come with him or he'll be apprehended.
-  14. The struggle starts with the scout firing red plasma beams `#AB3636` from his rifle at Ozzy. Ozzy evades them all, closing the distance to strike, and the scout swings his rifle, trying to knock him off balance. Ozzy's small electric powers show, but no plasma yet. Ozzy gets the upper hand.
+  14. The struggle starts with the scout firing red plasma beams `#AB3636` from his rifle at Ozzy. Ozzy evades them all, closing the distance to strike, and the scout swings his rifle, trying to knock him off balance. Ozzy's small electric powers show, but no plasma yet. Ozzy gets the upper hand. How, as the user approved on 2026-11-23: he weaves through the beams toward the scout, who backs off firing. When Ozzy closes in, the scout swings the rifle at head height, and Ozzy ducks under it into his crouch, his light-blue crackle `#7DF9FF` flaring on his fists, and hits him in the stomach with his right fist. Reeling, the scout swings the rifle butt back at him; Ozzy slips it and lands his left fist on the helmet, knocking him back into the dumpster beside the loading bay's shutter. Its shots are in [`shot-lists/opening-scout-confrontation.md`](shot-lists/opening-scout-confrontation.md).
   15. He turns and runs through another alley toward the D. Bell marketplace, with the scout in pursuit, rifle in hand. Ozzy tries to lose him completely, but he's having a hard time evading him.
   16. His stress rises, and he gets irritated, as the scout is still in relentless pursuit. His latent plasma builds with his anger.
   17. The scout cuts him off up ahead, near the marketplace. Enraged, Ozzy jumps off an alley fence and fires a strong plasma beam, wider than the rifle's beams, right at the scout.
