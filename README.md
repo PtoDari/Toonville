@@ -1577,7 +1577,7 @@ The ship's interior, as the user began designing it on 2026-11-16. The ship has 
   4. **A cafeteria:** below the control room.
   5. **The public tower:** below the cafeteria, running down many floors to the ground floor.
   6. **The ground floor,** with the main entrance.
-  7. **The medical wing:** below the ground floor, where the doctor experiments on the orphans.
+  7. **The medical wing:** below the ground floor, where the doctor experiments on the orphans. The [pod room](#the-pod-room) is next to it, and the pod room's sliding doors separate the two, as the user set on 2026-11-23. The medical wing's look is TBD.
   8. **Lebensborn:** below the medical wing, at the bottom of the ship: the orphanage in its basement, as in the entry above. The story opens there, on the lowest floor, then moves to where Wave lies cryogenically frozen in the basement, along with other test subjects, each in their own pod, as the user set on 2026-11-21 (see [STORY.md](STORY.md)). From there the camera rises quickly, like an elevator, past many floors to the control room, without showing them. The pod room's look was approved by the user on 2026-11-23, in [its own entry](#the-pod-room). Lebensborn's look is TBD. The other test subjects stay featureless shapes in their pods for now, as the user set on 2026-11-23.
 - **TBD:** the other rooms; how many floors the public tower has, and how the floors connect; whether the main entrance is the public's designated entrance, and where its hangars are; where the true doors, caved into the mountain, lead inside; who uses the mechanic room and the cafeteria, and which floors the public can reach; and every other room's look, main light, where characters stand and reactive surfaces.
 
@@ -1614,10 +1614,10 @@ The ship's interior, as the user began designing it on 2026-11-16. The ship has 
 
 ### The pod room
 
-- **Where it is:** in the Crystal Tower's basement, at the bottom of the ship, as the user set on 2026-11-21. The ship's layout is in [Inside the Crystal Tower](#inside-the-crystal-tower).
+- **Where it is:** in the Crystal Tower's basement, at the bottom of the ship, as the user set on 2026-11-21. It's next to the medical wing, and its doors separate the two, as the user set on 2026-11-23. The ship's layout is in [Inside the Crystal Tower](#inside-the-crystal-tower).
 - **What happens there:** Wave lies cryogenically frozen there, along with other test subjects, each in their own pod. His is the second pod from the front on the right wall, looking toward the sealed back wall, and he lies in it in his combat skin with his headphones down, his eyes closed, as the user approved on 2026-11-23 with the view with Wave. In the story's opening, the camera moves on to it from Lebensborn, then rises to the control room (see [STORY.md](STORY.md)).
 - **Look:** from its two views, approved by the user as canon on 2026-11-23. A long room of steel panels in cool blue `#4E7498`, looking down its middle to a sealed back wall `#2A5177` with a vent grille and an upright light on each side. Pods line both side walls, at least four down each side: tall rounded windows of pale teal fluid `#98C2C8`, each with a dark figure `#36698D` floating inside, a violet light strip `#8D58CF` above it, and a console below it with a blue screen `#204590` set in lavender panels `#646CA0`. White light panels `#EFEEF0` and vented ducts cover the ceiling, around a large ring light glowing pale cyan `#7EBFDB` at its centre. A row of navy floor grates `#081D36` runs down the middle of the glossy pale blue floor `#7190BB`, which mirrors the ceiling's light and the violet strips `#9484DA`. Unlike the control room, it has no gold or crystal.
-- **Doors:** automatic sliding doors, 10 ft (3.05 m) tall and 6 ft (1.83 m) wide, as the user set on 2026-11-23. Neither view shows them, so where they sit in the room is TBD.
+- **Doors:** automatic sliding doors, 10 ft (3.05 m) tall and 6 ft (1.83 m) wide, between the pod room and the medical wing next door, as the user set on 2026-11-23. Neither view shows them, so which wall they're in is TBD.
 - **Day or night:** an underground room with no windows. The opening is set at night.
 - **Main light:** the ceiling's white light panels `#EFEEF0` and its ring light, a cool white that becomes the rim light of anyone there, with the violet strips over the pods as a second light. **Where characters stand:** TBD. The floor down the middle is open. In the opening, the camera moves through it, with Wave in his pod.
 - **Reactive surfaces:** the glossy floor, which mirrors the lights, and the pods' glass. How they react to each story moment is TBD.
@@ -1632,7 +1632,7 @@ The ship's interior, as the user began designing it on 2026-11-16. The ship has 
     - **Style:** as in the wide view: cool and evenly lit, all in blues and violets, where the master style line asks for warm muted colour blocks and nostalgic lighting, and no film grain shows.
     - **Shape:** 1448×1086, which is 4:3, not 16:9. Its 16:9 version, [`pod-room-wave-night-16x9.jpg`](locations/crystal-tower/pod-room/pod-room-wave-night-16x9.jpg), is cropped to 16:9 a little above centre and scaled to 1920×1080, keeping the ring light, Wave's pod and the consoles, and losing the top of the ceiling and the nearest floor grate.
 - **The other test subjects:** featureless dark shapes in their pods for now, as the user set on 2026-11-23. Further into the story, the user will come back and add two more of them, whose looks and stories are TBD.
-- **TBD:** how many pods the room holds beyond the eight that show; its scale; where its doors sit; and how it connects to Lebensborn.
+- **TBD:** how many pods the room holds beyond the eight that show; its scale; which wall its doors are in; and how it connects to Lebensborn.
 
 ### Amethyst Path
 
