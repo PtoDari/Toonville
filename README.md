@@ -45,27 +45,27 @@ No prompt rewords, shortens or drops style wording. A style change happens only 
 
 The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
 
-## Trial style: Japanese cel anime (not canon)
+## Trial style: shonen anime (not canon)
 
-On 2026-11-22 the user asked to test a style closer to Japanese anime, because the videos read more like a comic book. This trial is only for test images. The established style above stays in every other prompt, word for word, and nothing made with the trial is canon. It's adopted, and goes into every block, only if the user chooses it.
+On 2026-11-22 the user asked to test a style closer to Japanese anime, because the videos read more like a comic book. On 2026-11-23 they set its wording: "shonen anime action frame, bold two-tone cel shading, strong color contrast, dynamic angle, speed lines, sharp ink lines, intense energy". This trial is only for test images. The established style above stays in every other prompt, word for word, and nothing made with the trial is canon. It's adopted, and goes into every block, only if the user chooses it.
 
-It drops the comic-book wording: "comic-book inking", "grit-shaded line intensity", "thick tapered contours", "hatched shadows" and "solid spotted blacks". In their place come thin, clean lines, one hard-edged shadow tone with a small highlight, and soft glow around light sources, after late-80s and 90s Japanese cel anime. The palette and every hex code stay the same.
+It drops the comic-book wording: "comic-book inking", "grit-shaded line intensity", "thick tapered contours", "hatched shadows" and "solid spotted blacks". The user's words that suit every image, "shonen anime", "sharp ink lines", "bold two-tone cel shading" and "strong colour contrast", go in the trial master style line, which keeps the film grain, the palette and every hex code. The words for action, "action frame", "dynamic angle", "speed lines" and "intense energy", go only in action shots, because sheets need a straight camera and no effects.
 
-A trial prompt is built like any other: the subject, the character style block, then the job's block, with these two lines in place of its Style and Character lines. Every other line of the block stays word for word.
+A trial prompt is built like any other: the subject, the character style block, then the job's block, with these two lines in place of its Style and Character lines. An action shot also starts its subject with "Shonen anime action frame", puts the speed lines and intense energy in its pose, and swaps its Camera line for the all-in-one block's default Camera line, for the dynamic angle. Every other line of the block stays word for word. In scenes, "strong colour contrast" would pull against the environment's slightly desaturated rule; that's settled if the user wants a scene test.
 
 Trial master style line:
 
 ```
-Style: 1990s Japanese cel anime, thin clean ink lines, flat cel colour, soft glow around light sources, fine analog film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 ```
 
 Trial Character line, for the sheet, medium shot, action, compositing and object sheet blocks:
 
 ```
-Character: thin, clean line art in near-black #030308, a little heavier on the outer silhouette, even interior lines, no hatching; flat cel colour with one hard-edged shadow tone and a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 ```
 
-The scene and video blocks' Characters and Environment lines, with painted background art, aren't drafted yet. They come if the user wants a scene test.
+The scene and video blocks' Characters and Environment lines aren't drafted yet. They come if the user wants a scene test.
 
 ## Plate lock — immutable approved background plates
 
