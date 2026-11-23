@@ -33,10 +33,10 @@ Every prompt is built in this order:
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
 
 ```
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 ```
 
-The user added `grit-shaded line intensity` to it on 2026-11-16, from their Midjourney style reference `--sref 10`. None of this project's tools reads `--sref`, so the look goes into prompts in words. Images made before then, including every approved plate and keyframe, were made without it: they stay approved as they are, and a new result is checked against the line as it reads now.
+The user adopted this line on 2026-11-23, in place of the earlier comic-book line, as [The shonen anime style](#the-shonen-anime-style) records. Images made before then, including every approved sheet, plate and keyframe, were made with the earlier lines: they stay approved as they are, and a new result is checked against the line as it reads now.
 
 No prompt rewords, shortens or drops style wording. A style change happens only when it's asked for, and it goes into this README first.
 
@@ -45,27 +45,15 @@ No prompt rewords, shortens or drops style wording. A style change happens only 
 
 The character, night and day blocks further down are reference copies that spell out the same rules in more detail. Prompts use the blocks in the table above.
 
-## Trial style: shonen anime
+## The shonen anime style
 
-On 2026-11-22 the user asked to test a style closer to Japanese anime, because the videos read more like a comic book. On 2026-11-23 they set its wording: "shonen anime action frame, bold two-tone cel shading, strong color contrast, dynamic angle, speed lines, sharp ink lines, intense energy". The established style above stays in every other prompt, word for word, until the user chooses to adopt the trial, when it goes into every block. As with any image, nothing made with the trial is canon until the user approves it. On 2026-11-23 the user approved three as canon: Ozzy's plasma charge and his low-angle medium shot, and Wave's medium shot in his combat skin, each listed with that character's sheets. The style itself stays on trial.
+On 2026-11-22 the user asked for a style closer to Japanese anime, because the videos read more like a comic book. On 2026-11-23 they set its wording, "shonen anime action frame, bold two-tone cel shading, strong color contrast, dynamic angle, speed lines, sharp ink lines, intense energy", and tested it. They approved three images made in it as canon the same day, Ozzy's plasma charge and his low-angle medium shot and Wave's medium shot in his combat skin, each listed with that character's sheets, and then adopted it for every prompt from then on.
 
-It drops the comic-book wording: "comic-book inking", "grit-shaded line intensity", "thick tapered contours", "hatched shadows" and "solid spotted blacks". The user's words that suit every image, "shonen anime", "sharp ink lines", "bold two-tone cel shading" and "strong colour contrast", go in the trial master style line, which keeps the film grain, the palette and every hex code. The words for action, "action frame", "dynamic angle", "speed lines" and "intense energy", go only in action shots, because sheets need a straight camera and no effects.
-
-A trial prompt is built like any other: the subject, the character style block, then the job's block, with these two lines in place of its Style and Character lines. An action shot also starts its subject with "Shonen anime action frame", puts the speed lines and intense energy in its pose, and swaps its Camera line for the all-in-one block's default Camera line, for the dynamic angle. Every other line of the block stays word for word. In scenes, "strong colour contrast" would pull against the environment's slightly desaturated rule; that's settled if the user wants a scene test.
-
-Trial master style line:
-
-```
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-```
-
-Trial Character line, for the sheet, medium shot, action, compositing and object sheet blocks:
-
-```
-Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
-```
-
-The scene and video blocks' Characters and Environment lines aren't drafted yet. They come if the user wants a scene test.
+- **What it replaced:** the master style line read `90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain`, before the same palette. The user had added `grit-shaded line intensity` on 2026-11-16, from their Midjourney style reference `--sref 10`. The character lines read `bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks`. That comic-book wording is gone from every block.
+- **Where the user's words go:** "shonen anime", "sharp ink lines", "bold two-tone cel shading" and "strong colour contrast" are in the master style line, which keeps the film grain, the palette and every hex code. Every block's character line describes the same look: crisp near-black line art, heavier on the silhouette, with no hatching; a flat base colour and one hard-edged shadow tone, with a small highlight; catchlights in the eyes; and hair in defined clumps with a highlight band.
+- **Action words only in action shots:** "action frame", "dynamic angle", "speed lines" and "intense energy" go only in the two action blocks, because sheets need a straight camera and no effects. Both start with "Shonen anime action frame" and add intense energy and speed lines after the pose. The [action medium shot block](#action-medium-shot-block) takes the all-in-one block's default Camera line, for the dynamic angle, as in the approved plasma charge. The [full-body action pose block](#full-body-action-pose-block) keeps its straight camera, so the whole figure isn't distorted.
+- **Environments:** the Environment, Night and Day lines haven't changed. Environments keep thin tinted lines, never black, light hatching and slightly desaturated colour.
+- **Images made before then:** every sheet, plate and keyframe made before 2026-11-23 is in the earlier style, and stays approved as it is. The plate lock still applies, so locked plates aren't restyled, and new characters are composited onto them as before. Each sheet's entry lists its differences from the style as it read when the entry was written.
 
 ## Plate lock — immutable approved background plates
 
@@ -99,7 +87,7 @@ Every Toonville video is 30 seconds long, **720p (1280×720)**, 16:9, at **60 fr
 - **Video clips:** a clip that comes out of a video tool at another size or frame rate is conformed to 1280×720 at **60 fps** before it's cut in. Previously generated footage at another size or rate, such as the 1080p, 24-fps SH006 draft, is a historical source asset; it must be conformed to 720p at 60 fps if reused in a new delivery, without changing the status of the original footage.
 - **Reaching 60 fps:** none of Higgsfield's video models has a frame-rate setting, so each clip comes out at the model's own rate, and the frames in between are made by frame interpolation when it's conformed, on this project's machine, at no credit cost. Seedance 2.5's first renders, the B01 bridge clips made in other work on 2026-11-16, came out at 30 fps and 910×512, so every second frame at 60 fps is made that way, and they're scaled up to 1280×720. From a 24-fps clip, it would be 4 of every 5 frames. Every conformed clip is checked frame by frame, above all on fast moves: an in-between frame with smeared or doubled ink lines, morphing shapes or blurred flat colour fails it, and the clip isn't used until it's fixed. Interpolation can't fix drift the video model made, so each clip is checked against its keyframes first, as in [WORKFLOW.md](WORKFLOW.md).
 - **Video tool:** Higgsfield, as the user chose on 2026-11-16 for the test video, with its Seedance 2.5 model, which the user chose the same day as the most cohesive for the videos. In its omni-reference mode it takes a start and an end frame, so a clip runs between two approved keyframes, 4 to 30 seconds long, at about 7 credits a second at 720p, as checked that day. It can also make a 480p draft first, at about 3 credits a second, but the 720p version is then charged in full. Its built-in audio is turned off, since there's no sound block yet. Each clip is sent from this project only after its prompt is shown and the user gives a go-ahead, with its cost checked first. The other models checked that day were Seedance 2.0, at about 4.5 credits a second at 720p, MiniMax H3, at about 2 credits a second, only at 2K, and FLUX 3 Video, at about 6 credits a second at 720p.
-- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, calm lobby view and exterior location sheet, the Chase Tower's establishing shot, close-up and night and day location sheets, the D. Bell marketplace's day and night location sheets, Midtown's establishing view by day and by night, its alternate establishing view by day and its avenue view by day, the Midtown alley's establishing shot, reverse angle, low-angle walking shot, aerial view, low view and low view of the wall, the Diamond District's establishing shot, reverse angle and aerial view by day and by night and its elevated view by night, Ozzy's hover bike object sheet and the bounty hunters' armour turnaround (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), Ozzy's royal combat medium shot (from about 1671×941), his seated shot on the Chase Tower staircase (from 2752×1536), his plasma charge and low-angle medium shot and Wave's combat-skin medium shot in the trial style (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
+- **16:9 versions of the saved images:** the saved images that weren't 16:9 each have a 1920×1080 version saved beside them, named `<name>-16x9.jpg`: the doctor's two sheets, the balaclava and governor chip object sheets, the golden staff's design reference, Orion's concept blueprint, and its establishing shot, camera-position sheet, reverse angle, aerial, booth and bar views, platform, bar and booth close-ups, calm lobby view and exterior location sheet, the Chase Tower's establishing shot, close-up and night and day location sheets, the D. Bell marketplace's day and night location sheets, Midtown's establishing view by day and by night, its alternate establishing view by day and its avenue view by day, the Midtown alley's establishing shot, reverse angle, low-angle walking shot, aerial view, low view and low view of the wall, the Diamond District's establishing shot, reverse angle and aerial view by day and by night and its elevated view by night, Ozzy's hover bike object sheet and the bounty hunters' armour turnaround (from about 1672×941), Wave's six turnarounds (from 3:2), his headphone mechanism sheet and four cargo combat action shots (from about 1671×941) and his fighting stance (from 4:3), Wave's headshot and expression strips (from 3:1), the hair-up medium shot, the front view, the three close-ups and Ozzy's five boxing shots (from portrait), Ozzy's royal combat medium shot (from about 1671×941), his seated shot on the Chase Tower staircase (from 2752×1536), his plasma charge and low-angle medium shot and Wave's combat-skin medium shot in the shonen anime style (from portrait), and the Crystal Tower's drone view. Sheets are padded out at the sides on flat grey (his design sheet on its own navy, with the turnaround's ground line carried across, Orion's blueprint on its own navy, and Wave's sheets on their own grey, the strips padded above and below), and the drone view is cropped around its centre, keeping the aircraft and the tower's gold-lit top. Every other saved image is already 16:9 and is scaled to 1920×1080 when it goes in a video. The size chart is only a reference, and stays as it is.
 
 ## Test-video production approvals — 2026-11-16
 
@@ -115,7 +103,7 @@ This is a production-status ledger, not new plot or a replacement for the approv
 
 ## All-in-one block
 
-One block (200 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
+One block (226 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
 
 - Delete the **Night** or **Day** line you don't need. If both stay in, most generators blend them into a muddled dusk scene.
 - Replace `[SKIN HEX]` and `[ACCENT HEX]` with the character's colours from the character table below.
@@ -123,8 +111,8 @@ One block (200 words) that merges the character block, both environment blocks a
 The separate blocks further down hold the same rules in more detail.
 
 ```
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Characters: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
@@ -189,8 +177,8 @@ It's the all-in-one block, word for word, with one line added, as the user appro
 - **`[SHOT LENGTH]`:** the shot's length in seconds, from the shot list. All the shots in a clip add up to 30 seconds.
 
 ```
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Characters: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 Night: dark teal lines #031E1C, mid-to-dark values; hot accents only on signs and lamps; neon glows in glass and haze; rain as thin straight white streaks; wet pavement mirrors neon in long vertical smears.
@@ -206,8 +194,8 @@ It differs from the story blocks on purpose: a straight eye-level camera (wide-a
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Row of three expression close-ups: [EXPRESSION 1], [EXPRESSION 2], [EXPRESSION 3]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
@@ -220,8 +208,8 @@ It's the character sheet block with one change, asked for: the row of expression
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
@@ -234,8 +222,8 @@ It's the character sheet block with one change, asked for: head-and-shoulders vi
 
 ```
 Headshot turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views of the head and shoulders, same size and scale, eyes aligned on one level, relaxed neutral expression. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
@@ -248,8 +236,8 @@ Its style lines are the sheet blocks' lines, word for word: one even light, an e
 
 ```
 Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
@@ -258,26 +246,26 @@ Camera: eye level, long lens, no perspective distortion.
 
 For a single action shot of one character framed from the waist up, on the same plain background as the sheets, while one of their powers glows: for example, Ozzy charging his plasma. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[GLOW SOURCE]`, `[SKIN HEX]` and `[ACCENT HEX]`. In the pose, say which way the character turns, as in the medium shot block, and which hand holds what.
 
-It's the medium shot block with one change, asked for: the lighting line lets the power glow with bloom and rim-light the character, because glowing sources get bloom and their light becomes the rim light. Every other line is the same, word for word, including the mid grey `#808080` background and the eye-level camera.
+It's the medium shot block with three changes. The lighting line lets the power glow with bloom and rim-light the character, because glowing sources get bloom and their light becomes the rim light. It's a shonen action frame, with intense energy and speed lines, and its Camera line is the all-in-one block's default, for the dynamic angle, as the user set on 2026-11-23 (see [The shonen anime style](#the-shonen-anime-style)). Every other line is the same, word for word, including the mid grey `#808080` background.
 
 ```
-Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Shonen anime action frame. Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION], intense energy, speed lines streaking out behind the figure. Flat mid grey #808080 background, no scenery, no labels or captions.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left; [GLOW SOURCE] is the only glowing source, with bloom, and its colour becomes the character's rim light on the side facing it.
-Camera: eye level, long lens, no perspective distortion.
+Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
 ```
 
 ## Full-body action pose block
 
 For a single full-body action pose of one character on the same plain background as the sheets, without a glowing power. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[SKIN HEX]` and `[ACCENT HEX]`. Describe the complete pose clearly, including the placement of both hands and feet, the direction the character faces and the distribution of their weight. Keep the whole figure visible from head to feet.
 
-Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. The pose is dynamic, but the camera does not distort anatomy or proportions.
+Its style lines are the sheet blocks' lines, word for word: the character ink, skin and accent line, one even light, an eye-level long-lens camera and flat mid grey `#808080`. The pose is dynamic, but the camera does not distort anatomy or proportions. It's a shonen action frame, with intense energy and speed lines, as the user set on 2026-11-23, but its camera stays straight, so the whole figure isn't distorted.
 
 ```
-Full-body action pose of [CHARACTER DESCRIPTION]. Single figure, shown head to feet, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Shonen anime action frame. Full-body action pose of [CHARACTER DESCRIPTION]. Single figure, shown head to feet, [POSE AND EXPRESSION], intense energy, speed lines streaking out behind the figure. Flat mid grey #808080 background, no scenery, no labels or captions.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion; full figure kept inside the frame.
 ```
@@ -297,8 +285,8 @@ Its style and character lines are the sheet blocks' lines, word for word, on the
 
 ```
 Character element for compositing: [CHARACTER DESCRIPTION]. Single figure, [POSE AND EXPRESSION], seen as the plate's camera sees them. Flat mid grey #808080 background, no scenery, no ground shadow or reflection, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: [PLATE'S MAIN LIGHT AND COLOUR] from [DIRECTION], its colour becoming the character's rim light on the side facing it; bloom only on glowing sources.
 Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate; full figure kept inside the frame.
 ```
@@ -316,7 +304,7 @@ Its style line is the master style line, word for word. Its Element line takes i
 
 ```
 Glowing element for compositing: [ELEMENT DESCRIPTION], [ITS DIRECTION AND SIZE IN THE FRAME], seen as the plate's camera sees it. Alone on a flat pure black #000000 background, which is removed in compositing; no sky, stars, clouds or scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Element: thin tinted lines, never black, light hatching; flat cel colour, one or two hard-edged shadow tones; it's a glowing source, with bloom fading into the black around it.
 Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate.
 ```
@@ -329,8 +317,8 @@ Its style lines are the sheet blocks' lines, word for word: the character ink, s
 
 ```
 Object sheet of [OBJECT DESCRIPTION], belonging to [CHARACTER NAME]. Front, side, back and top views of the object alone, same scale, aligned on one ground line, plus one view of it held in [CHARACTER NAME]'s hand to show its size. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX].
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
 ```
@@ -348,19 +336,19 @@ For edits and inpainting on existing Toonville art: write the edit first (what t
 Under the plate lock, near the top of this README, it's never used on an approved plate or a finished keyframe: characters are made on their own and composited over the plate. A background-only edit of an approved plate is a plate revision, which needs the user's go-ahead before it's sent and their approval before it's used.
 
 ```
-Style: 90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
-Characters: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Characters: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Outside the edited area, keep the image exactly as it is: same layout, lighting, camera, line weight and colours.
 ```
 
-Some existing sheets drift from the style, with thinner lines and softer shading. Their colour casts have been corrected by hand (see [Restyled images](#restyled-images)), but line weight and shading can't be fixed that way, so an edit that carries this block can come out slightly bolder than the art around it. New sheets generated with the full style block avoid that.
+Sheets made before 2026-11-23 are in the earlier comic-book style, with hatched shadows and heavier, textured ink. Their colour casts have been corrected by hand (see [Restyled images](#restyled-images)), but line work and shading can't be changed that way, so an edit that carries this block can come out cleaner and flatter than the art around it. Sheets made in the shonen anime style avoid that.
 
 ## Character block
 
 Reference copy of the character rules. Prompts use the blocks in the style rule table, which already contain them.
 
 ```
-90s cel anime with comic-book inking, grit-shaded line intensity. Line work: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: flat cel colour, one or two hard-edged shadow tones, solid spotted blacks. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
+Shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast. Line work: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
 ```
 
 ## Character table
@@ -482,13 +470,13 @@ Each outfit gets two turnarounds, one with his golden staff and one without. The
   - **Repaint traces:** very close up, the T-shirt folds and jogger bands where the staff stood are simplified, the face tattoo is cleaner and more even than hand lettering, and a faint soft patch sits on his temple above the "A".
   - **16:9 version:** [`ozzy-seated-chase-tower-main-outfit-jacket-hair-up-16x9.jpg`](characters/ozzy/ozzy-seated-chase-tower-main-outfit-jacket-hair-up-16x9.jpg), scaled to 1920×1080.
 - **Indigo plasma charge, main outfit, jacket on, hair up (not stored in this repo):** approved by the user on 2026-11-14. Waist-up action pose: Ozzy leans forward, concentrating a dense, turbulent indigo plasma charge between his raised right hand and lower, guiding left hand. The plasma is ionised gas, not ordinary electricity. The retracted golden staff is at his left hip when visible. This image is approved as the pose and energy-composition reference; its visible deviations do not amend the written character specifications. In particular, the face tattoo remains exactly `A`, `l`, `l`, `$`, `I`, `n` on his right temple only; the `$` tattoo remains in the web between the thumb and index finger of his left hand; and the governor chip remains flush inside his left wrist only. The chip is not required to show when that inner wrist is covered or turned away. The approved generated image is retained in the conversation; its binary has not yet been added to this repository.
-- **Plasma charge, main outfit with jacket, hair up (with the staff), trial style:** [`characters/ozzy/ozzy-action-plasma-charge-main-outfit-jacket-hair-up.jpg`](characters/ozzy/ozzy-action-plasma-charge-main-outfit-jacket-hair-up.jpg), made by the user in the [trial shonen anime style](#trial-style-shonen-anime) and approved by the user as canon on 2026-11-23, at 1086×1448, on grey with black speed lines. Its prompt wasn't recorded. From a low angle, framed from the waist up, he leans in, turned toward the viewer's right, with a cold narrowed glare, holding a turbulent ball of electric indigo plasma between his raised right hand above it and his left hand cupping it from below. The plasma glows with bloom and rim-lights his hands and jacket. It's canon for the pose, his plasma in the trial style, and his look in it: the face tattoo reading A, l, l, $, I, n in black on his right temple, a gold ring in each nostril, his chain, the open grey bomber with its royal blue lining, the white bunny logo, and the retracted golden staff at his left hip. The governor chip is inside his left wrist, which is turned away, so it doesn't show, as the rules allow. Exceptions, where the written rules here win:
+- **Plasma charge, main outfit with jacket, hair up (with the staff), shonen anime style:** [`characters/ozzy/ozzy-action-plasma-charge-main-outfit-jacket-hair-up.jpg`](characters/ozzy/ozzy-action-plasma-charge-main-outfit-jacket-hair-up.jpg), made by the user in the [shonen anime style](#the-shonen-anime-style) and approved by the user as canon on 2026-11-23, at 1086×1448, on grey with black speed lines. Its prompt wasn't recorded. From a low angle, framed from the waist up, he leans in, turned toward the viewer's right, with a cold narrowed glare, holding a turbulent ball of electric indigo plasma between his raised right hand above it and his left hand cupping it from below. The plasma glows with bloom and rim-lights his hands and jacket. It's canon for the pose, his plasma in the shonen anime style, and his look in it: the face tattoo reading A, l, l, $, I, n in black on his right temple, a gold ring in each nostril, his chain, the open grey bomber with its royal blue lining, the white bunny logo, and the retracted golden staff at his left hip. The governor chip is inside his left wrist, which is turned away, so it doesn't show, as the rules allow. Exceptions, where the written rules here win:
   - **"$" tattoo:** the back of his left hand faces the camera, and the "$" is on the back beside the thumb, not on the web between his thumb and index finger.
   - **"High Power":** both full words show on his neck above the collar. In his main outfit, only the tops of the lettering peek above the crew-neck collar.
   - **Golden staff:** a plain gold shaft with one large diamond on top. Its top third is encrusted with clear faceted diamonds.
   - **Colours:** the skin reads more orange `#D16139` than `#9B7461`, the locs a brighter violet `#3A0F70` than `#2F1958`, the jacket lilac where the plasma lights it, and the background is a mauve grey `#766A74`, not mid grey `#808080`.
   - **16:9 version:** [`ozzy-action-plasma-charge-main-outfit-jacket-hair-up-16x9.jpg`](characters/ozzy/ozzy-action-plasma-charge-main-outfit-jacket-hair-up-16x9.jpg), scaled to 1080 pixels high and padded at the sides on its own grey to 1920×1080. The speed lines stop at the padding.
-- **Medium shot, low angle, main outfit with jacket, hair up, trial style:** [`characters/ozzy/ozzy-medium-shot-main-outfit-jacket-hair-up.jpg`](characters/ozzy/ozzy-medium-shot-main-outfit-jacket-hair-up.jpg), made by the user in the [trial shonen anime style](#trial-style-shonen-anime) and approved by the user as canon on 2026-11-23, at 1122×1402, on grey. Its prompt wasn't recorded. From a low angle, framed from the hips up, he stands with his hands in his jacket pockets and his head turned toward the viewer's right, with a calm heavy-lidded gaze. It's canon for the pose and his look in the trial style: the face tattoo reading A, l, l, $, I, n in black on his right temple, just in front of his ear; the high top knot and faded sides; his chain; the open grey bomber with its ribbed collar, cuffs and hem and royal blue lining; and the white bunny logo. His hands are in his pockets, so the "$" and the governor chip don't show, as the rules allow, and the golden staff doesn't show. Exceptions, where the written rules here win:
+- **Medium shot, low angle, main outfit with jacket, hair up, shonen anime style:** [`characters/ozzy/ozzy-medium-shot-main-outfit-jacket-hair-up.jpg`](characters/ozzy/ozzy-medium-shot-main-outfit-jacket-hair-up.jpg), made by the user in the [shonen anime style](#the-shonen-anime-style) and approved by the user as canon on 2026-11-23, at 1122×1402, on grey. Its prompt wasn't recorded. From a low angle, framed from the hips up, he stands with his hands in his jacket pockets and his head turned toward the viewer's right, with a calm heavy-lidded gaze. It's canon for the pose and his look in the shonen anime style: the face tattoo reading A, l, l, $, I, n in black on his right temple, just in front of his ear; the high top knot and faded sides; his chain; the open grey bomber with its ribbed collar, cuffs and hem and royal blue lining; and the white bunny logo. His hands are in his pockets, so the "$" and the governor chip don't show, as the rules allow, and the golden staff doesn't show. Exceptions, where the written rules here win:
   - **Nose rings:** a ring in each nostril, plus a third ring higher on the left side of his nose. He has one in each nostril.
   - **"High Power":** the T-shirt's neckline sits low, and no tattoo shows on the bare chest above it. In his main outfit, the T-shirt is a crew neck, with the tops of the lettering peeking just above the collar.
   - **Colours:** the skin reads more orange `#A65626` than `#9B7461`, the jacket a warmer, pinkish grey than `#C2C2C2`, and the background is a mauve grey `#6E6063`, not mid grey `#808080`. The locs `#371651` are close to `#2F1958`.
@@ -686,7 +674,7 @@ Generators often put the face tattoo on whichever temple faces the camera, or dr
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
-**Short backup of his character style block (175 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to 300 words, about 1,870 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
+**Short backup of his character style block (175 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to about 330 words, about 2,020 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
 
 It leaves out his face shape, the full "High Power" description, the jacket's collar, cuffs and zip, the staff's size, the socks, the swoosh and soles, and the hex codes for the chain, jacket and lining. It keeps everything that has gone wrong in past sheets: the tattoo letters and side, the viewing directions, his locs colour and the gold nose rings.
 
@@ -871,7 +859,7 @@ The intergalactic patrol officer (`CHAR_002`), who moonlights as a DJ at Orion, 
     - **Locs:** dark brown `#291504`, not reddish brown `#4F211A`.
     - **Colours:** the gold reads brighter and more orange, from `#BA7A05` to `#DE9206`, than his dark goldenrod `#8B6508`; the violet from `#7F22F5` to `#933CE2` against `#7009E9`; and the backgrounds are greys from `#7A7677` to `#807C7C`, not mid grey `#808080`.
     - **16:9 versions:** each has one beside it, scaled to 1080 pixels high and padded at the sides on its own grey to 1920×1080.
-  - **Medium shot, combat skin, headphones down, trial style:** [`wave-medium-shot-combat-skin.jpg`](characters/wave/wave-medium-shot-combat-skin.jpg), made by the user in the [trial shonen anime style](#trial-style-shonen-anime) and approved by the user as canon on 2026-11-23, at 1122×1402, on grey. Its prompt wasn't recorded. From a low angle, framed from the hips up, he stands with his arms at his sides, turned a little toward the viewer's left, with a calm, steady look. It's canon for his combat skin with his headphones down, in the trial style:
+  - **Medium shot, combat skin, headphones down, shonen anime style:** [`wave-medium-shot-combat-skin.jpg`](characters/wave/wave-medium-shot-combat-skin.jpg), made by the user in the [shonen anime style](#the-shonen-anime-style) and approved by the user as canon on 2026-11-23, at 1122×1402, on grey. Its prompt wasn't recorded. From a low angle, framed from the hips up, he stands with his arms at his sides, turned a little toward the viewer's left, with a calm, steady look. It's canon for his combat skin with his headphones down, in the shonen anime style:
     - the com chip's cyan circuit lines, running from his left temple down across his cheek into the steel plate at his left jaw and ear, with the right side of his face bare
     - his short beard, and his long locs with cuffs and dark goldenrod tips
     - the dark goldenrod earcups, with cyan waveform icons on black faces
@@ -955,7 +943,7 @@ A third-party alien species the doctor paid to raid the royal convoy and cause a
 - **Reference:** the user's reference image, `Bounty_hunter.jpeg`, which isn't stored in this repo. It shows the battle-worn armour from the waist up. The user's written description above resolves the design details: full-body armour coverage, copper gloves, the plain guard on the RIGHT forearm, the X-shaped visor and the antenna on the helmet's LEFT side.
 - **Character style line:** 
 ```
-Character: bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks; skin #537D90; signature accent #6D4F46.
+Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin #537D90; signature accent #6D4F46.
 ```
 - **Armour turnaround:** [`characters/bounty-hunter/bounty-hunter-armour.jpg`](characters/bounty-hunter/bounty-hunter-armour.jpg), made by the user and approved by the user as canon on 2026-11-15, at 1671×941, on grey. Its prompt wasn't recorded. It shows front, three-quarter, side and back views, full body, with no weapon in hand, and its three-quarter and side views face the viewer's left. It's the visual reference for their standard armoured design. Every one-sided detail sits on the correct side in every view: the antenna on the helmet's left side, the canister above the left shoulder and the armoured guard on the right forearm. It also shows these details, which the user added to their style block:
   - olive armoured knee guards
@@ -1733,7 +1721,7 @@ Emotion follows the same rules. In a sad beat, colours drain toward navy (night)
 
 ## How characters stay readable
 
-- **Lines:** characters use thick black ink; backgrounds use thin tinted lines (teal at night, navy by day).
+- **Lines:** characters use crisp near-black line art, heavier on the silhouette; backgrounds use thin tinted lines (teal at night, navy by day).
 - **Values:** characters own pure black, the brightest highlights and the accent colour. Backgrounds stay in a narrower, quieter range.
 - **Shared light:** the environment's main light becomes the character's rim light, so characters sit in the scene instead of looking pasted on.
 - **Space:** backgrounds keep detail at the edges and leave a calm area where the character stands.
