@@ -33,10 +33,10 @@ Every prompt is built in this order:
 Every one of those blocks opens with the **master style line**, so it appears in every prompt:
 
 ```
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 ```
 
-The user adopted this line on 2026-11-23, in place of the earlier comic-book line, as [The shonen anime style](#the-shonen-anime-style) records. Images made before then, including every approved sheet, plate and keyframe, were made with the earlier lines: they stay approved as they are, and a new result is checked against the line as it reads now.
+The user adopted the shonen anime style on 2026-11-23, in place of the earlier comic-book line, and added the 1990s screencap wording to this line the same day, as [The shonen anime style](#the-shonen-anime-style) records. Images made before then, including every approved sheet, plate and keyframe, were made with the earlier lines: they stay approved as they are, and a new result is checked against the line as it reads now.
 
 No prompt rewords, shortens or drops style wording. A style change happens only when it's asked for, and it goes into this README first.
 
@@ -50,7 +50,7 @@ The character, night and day blocks further down are reference copies that spell
 On 2026-11-22 the user asked for a style closer to Japanese anime, because the videos read more like a comic book. On 2026-11-23 they set its wording, "shonen anime action frame, bold two-tone cel shading, strong color contrast, dynamic angle, speed lines, sharp ink lines, intense energy", and tested it. They approved three images made in it as canon the same day, Ozzy's plasma charge and his low-angle medium shot and Wave's medium shot in his combat skin, each listed with that character's sheets, and then adopted it for every prompt from then on.
 
 - **What it replaced:** the master style line read `90s cel anime with comic-book inking, grit-shaded line intensity, fine film grain`, before the same palette. The user had added `grit-shaded line intensity` on 2026-11-16, from their Midjourney style reference `--sref 10`. The character lines read `bold black ink #030308, thick tapered contours, thin interiors, hatched shadows; flat cel colour, one or two hard-edged shadow tones, solid spotted blacks`. That comic-book wording is gone from every block.
-- **Where the user's words go:** "shonen anime", "sharp ink lines", "bold two-tone cel shading" and "strong colour contrast" are in the master style line, which keeps the film grain, the palette and every hex code. Every block's character line describes the same look: crisp near-black line art, heavier on the silhouette, with no hatching; a flat base colour and one hard-edged shadow tone, with a small highlight; catchlights in the eyes; and hair in defined clumps with a highlight band.
+- **Where the user's words go:** "shonen anime", "sharp ink lines", "bold two-tone cel shading" and "strong colour contrast" are in the master style line, which keeps the film grain, the palette and every hex code. Later the same day, the user added a 1990s screencap look to it, in their own words: "1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines". Every block's character line describes the same look: crisp near-black line art, heavier on the silhouette, with no hatching; a flat base colour and one hard-edged shadow tone, with a small highlight; catchlights in the eyes; and hair in defined clumps with a highlight band.
 - **Action words only in action shots:** "action frame", "dynamic angle", "speed lines" and "intense energy" go only in the two action blocks, because sheets need a straight camera and no effects. Both start with "Shonen anime action frame" and add intense energy and speed lines after the pose. The [action medium shot block](#action-medium-shot-block) takes the all-in-one block's default Camera line, for the dynamic angle, as in the approved plasma charge. The [full-body action pose block](#full-body-action-pose-block) keeps its straight camera, so the whole figure isn't distorted.
 - **Environments:** the Environment, Night and Day lines haven't changed. Environments keep thin tinted lines, never black, light hatching and slightly desaturated colour.
 - **Images made before then:** every sheet, plate and keyframe made before 2026-11-23 is in the earlier style, and stays approved as it is. The plate lock still applies, so locked plates aren't restyled, and new characters are composited onto them as before. Each sheet's entry lists its differences from the style as it read when the entry was written.
@@ -103,7 +103,7 @@ This is a production-status ledger, not new plot or a replacement for the approv
 
 ## All-in-one block
 
-One block (226 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
+One block (245 words) that merges the character block, both environment blocks and the reactive rule. Before using it:
 
 - Delete the **Night** or **Day** line you don't need. If both stay in, most generators blend them into a muddled dusk scene.
 - Replace `[SKIN HEX]` and `[ACCENT HEX]` with the character's colours from the character table below.
@@ -111,7 +111,7 @@ One block (226 words) that merges the character block, both environment blocks a
 The separate blocks further down hold the same rules in more detail.
 
 ```
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Characters: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
@@ -177,7 +177,7 @@ It's the all-in-one block, word for word, with one line added, as the user appro
 - **`[SHOT LENGTH]`:** the shot's length in seconds, from the shot list. All the shots in a clip add up to 30 seconds.
 
 ```
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Characters: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Environment: thin tinted lines, never black, light hatching; slightly desaturated; dense detail at edges, open space around the character; three hazy depth layers. Its main light becomes the character's rim light; bloom only on glowing sources. At story peaks, signs, reflections and haze take on the accent.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
@@ -194,7 +194,7 @@ It differs from the story blocks on purpose: a straight eye-level camera (wide-a
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Row of three expression close-ups: [EXPRESSION 1], [EXPRESSION 2], [EXPRESSION 3]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -208,7 +208,7 @@ It's the character sheet block with one change, asked for: the row of expression
 
 ```
 Character turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views, full body, same height and scale, aligned on one ground line, relaxed neutral standing pose. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -222,7 +222,7 @@ It's the character sheet block with one change, asked for: head-and-shoulders vi
 
 ```
 Headshot turnaround sheet of [CHARACTER DESCRIPTION]. Front, three-quarter, side and back views of the head and shoulders, same size and scale, eyes aligned on one level, relaxed neutral expression. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -236,7 +236,7 @@ Its style lines are the sheet blocks' lines, word for word: one even light, an e
 
 ```
 Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION]. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -250,7 +250,7 @@ It's the medium shot block with three changes. The lighting line lets the power 
 
 ```
 Shonen anime action frame. Medium shot of [CHARACTER DESCRIPTION]. Single figure, framed from the waist up, [POSE AND EXPRESSION], intense energy, speed lines streaking out behind the figure. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left; [GLOW SOURCE] is the only glowing source, with bloom, and its colour becomes the character's rim light on the side facing it.
 Camera: wide angle, low or aerial, foreshortened hands; background matches the shot.
@@ -264,7 +264,7 @@ Its style lines are the sheet blocks' lines, word for word: the character ink, s
 
 ```
 Shonen anime action frame. Full-body action pose of [CHARACTER DESCRIPTION]. Single figure, shown head to feet, [POSE AND EXPRESSION], intense energy, speed lines streaking out behind the figure. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion; full figure kept inside the frame.
@@ -285,7 +285,7 @@ Its style and character lines are the sheet blocks' lines, word for word, on the
 
 ```
 Character element for compositing: [CHARACTER DESCRIPTION]. Single figure, [POSE AND EXPRESSION], seen as the plate's camera sees them. Flat mid grey #808080 background, no scenery, no ground shadow or reflection, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: [PLATE'S MAIN LIGHT AND COLOUR] from [DIRECTION], its colour becoming the character's rim light on the side facing it; bloom only on glowing sources.
 Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate; full figure kept inside the frame.
@@ -304,7 +304,7 @@ Its style line is the master style line, word for word. Its Element line takes i
 
 ```
 Glowing element for compositing: [ELEMENT DESCRIPTION], [ITS DIRECTION AND SIZE IN THE FRAME], seen as the plate's camera sees it. Alone on a flat pure black #000000 background, which is removed in compositing; no sky, stars, clouds or scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Element: thin tinted lines, never black, light hatching; flat cel colour, one or two hard-edged shadow tones; it's a glowing source, with bloom fading into the black around it.
 Camera: [PLATE'S CAMERA ANGLE AND LENS], matching the plate.
 ```
@@ -317,7 +317,7 @@ Its style lines are the sheet blocks' lines, word for word: the character ink, s
 
 ```
 Object sheet of [OBJECT DESCRIPTION], belonging to [CHARACTER NAME]. Front, side, back and top views of the object alone, same scale, aligned on one ground line, plus one view of it held in [CHARACTER NAME]'s hand to show its size. Flat mid grey #808080 background, no scenery, no labels or captions.
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: even light from upper left, identical in every view, no bloom.
 Camera: eye level, long lens, no perspective distortion.
@@ -336,7 +336,7 @@ For edits and inpainting on existing Toonville art: write the edit first (what t
 Under the plate lock, near the top of this README, it's never used on an approved plate or a finished keyframe: characters are made on their own and composited over the plate. A background-only edit of an approved plate is a plate revision, which needs the user's go-ahead before it's sent and their approval before it's used.
 
 ```
-Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
+Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Characters: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX]. Characters alone own pure black, top highlights, accent.
 Outside the edited area, keep the image exactly as it is: same layout, lighting, camera, line weight and colours.
 ```
@@ -348,7 +348,7 @@ Sheets made before 2026-11-23 are in the earlier comic-book style, with hatched 
 Reference copy of the character rules. Prompts use the blocks in the style rule table, which already contain them.
 
 ```
-Shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast. Line work: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
+Shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast; 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Line work: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching. Palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8, plus the character's skin tone [SKIN HEX] and signature accent [ACCENT HEX]. Shading: bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band. Lighting: one strong source, crisp rim light; bloom only on glowing sources like neon, visors, energy. Texture: fine even film grain. Camera: wide angle, low or aerial, hands foreshortened toward the lens.
 ```
 
 ## Character table
@@ -674,7 +674,7 @@ Generators often put the face tattoo on whichever temple faces the camera, or dr
 
 Default sheet expressions: calm heavy-lidded stare, slight confident smirk, cold narrowed glare.
 
-**Short backup of his character style block (175 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to about 330 words, about 2,020 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
+**Short backup of his character style block (175 words).** Use this only if a generator cuts off the full prompt, which shows up as a sheet missing the ink lines or flat cel shading, since the style lines come last. It replaces both the full description and the sheet note above, because the viewing directions are already built in. With the character sheet block it comes to about 350 words, about 2,160 characters. For hair down, replace `in a high top knot` with `falling loose past his shoulders`.
 
 It leaves out his face shape, the full "High Power" description, the jacket's collar, cuffs and zip, the staff's size, the socks, the swoosh and soles, and the hex codes for the chain, jacket and lining. It keeps everything that has gone wrong in past sheets: the tattoo letters and side, the viewing directions, his locs colour and the gold nose rings.
 
