@@ -1,0 +1,5 @@
+pod-room-wide-night.jpg
+Sent by the user and approved by the user as canon on 2026-11-23, at 1672x941. Tool, prompt and seed not recorded.
+
+pod-room-wide-night-16x9.jpg
+The wide view scaled to 1920x1080 in this project, with no other change.
