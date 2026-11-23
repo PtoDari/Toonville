@@ -26,8 +26,8 @@ As the user set on 2026-11-23, the fight never looks turn-based:
 The standoff before it breathes, as the series' storyboards do.
 
 How each kind of shot is made:
-- **Plate shots:** the characters are made on their own and composited onto that camera position's locked plate. Pushes, pans, zooms and shake are done on the plate in compositing.
-- **Speed-line shots:** no plate. The characters are made on their own, and the speed lines and impact frames are added in compositing.
+- **Plate shots:** the characters are made on their own, on flat chroma green `#00B140`, and composited onto that camera position's locked plate. Pushes, pans, zooms and shake are done on the plate in compositing.
+- **Speed-line shots:** no plate. The characters are made on their own, on the same green, and the speed lines and impact frames are added in compositing.
 - **Contact shots** (sh009 to sh013): both fighters are made together, in one clip, so the hits connect. Two characters in one clip drift more, so retries are likely.
 - **Beams, crackle and sparks:** made with the README's glowing-element block and added by their light, with their glow as the mask.
 - **Length:** Seedance's shortest clip is 4 seconds, so a shorter shot is trimmed in the edit. About 28 credits a shot at 720p, roughly 250 for the fight before retries.
@@ -128,7 +128,6 @@ The camera runs ahead of Ozzy as he sprints toward it, with the scout behind him
 
 ## Still to settle
 
-- **Key colour:** the README's compositing block uses flat mid grey `#808080`, which keyed badly in the B01 test. A saturated key colour would cut out cleaner for video, if the user changes it.
 - **New plates:** sh002, sh004, sh005, sh006, sh007, sh009 and sh014 need plates of their own, each approved before use.
 - **Tension on the plates:** the approved plates are in the quiet state. The copper tension needs approved plate revisions, or it stays in the rim light and the speed-line shots.
 - **Plate revisions:** the open cabinet in sh001, and any dent in the dumpster in sh013.

@@ -73,7 +73,7 @@ What the rule means in practice:
 - **Lossless files:** each locked plate and each finished keyframe is saved as a PNG. JPG compression changes pixels, so a JPG can't pass the pixel check.
 - **Composite at the finished size:** the character goes onto the locked 1920×1080 plate itself. A composite made at a generator's size and then scaled to 1920×1080 changes the plate's pixels along the character's edge.
 - **Shadows and reflections:** a shot that needs a character's shadow or reflection on the location, such as Ozzy's shadow on the alley wall, gets a plate revision that has it. The user approves the revision before it's used.
-- **Which style block:** a character made on their own for compositing uses the [compositing block](#compositing-block), chosen by the user on 2026-11-16, with their character style block filling its description, word for word. Something that glows and isn't a character, such as the comet, uses the [glowing-element block](#glowing-element-block), chosen by the user the same day.
+- **Which style block:** a character made on their own for compositing uses the [compositing block](#compositing-block), chosen by the user on 2026-11-16, with their character style block filling its description, word for word. It's made on flat chroma green `#00B140`, as the user chose on 2026-11-23, and so is a character-only video clip made for compositing. Something that glows and isn't a character, such as the comet, uses the [glowing-element block](#glowing-element-block), chosen by the user the same day.
 
 Production checklist: [WORKFLOW.md — Each shot's stills](WORKFLOW.md#6-each-shots-stills).
 
@@ -274,17 +274,17 @@ Camera: eye level, long lens, no perspective distortion; full figure kept inside
 
 For a character made on their own, to be composited onto a locked plate under the plate lock, as the user chose on 2026-11-16. Replace `[CHARACTER DESCRIPTION]`, `[POSE AND EXPRESSION]`, `[PLATE'S MAIN LIGHT AND COLOUR]`, `[DIRECTION]`, `[PLATE'S CAMERA ANGLE AND LENS]`, `[SKIN HEX]` and `[ACCENT HEX]`.
 
-Its style and character lines are the sheet blocks' lines, word for word, on the same flat mid grey `#808080`, so the character cuts out cleanly. Its Lighting and Camera lines are filled from the plate the character goes onto, so their light and perspective match it.
+Its style and character lines are the sheet blocks' lines, word for word. It's made on flat chroma green `#00B140`, as the user chose on 2026-11-23, so the character cuts out cleanly: mid grey `#808080` keyed badly against Ozzy's grey jacket in the B01 test, and none of the characters wears green. A character who does, such as the tribe in their traditional green, gets another key colour, chosen before they're composited. Its Lighting and Camera lines are filled from the plate the character goes onto, so their light and perspective match it.
 
 - **Light:** the plate's main light, with its colour as a hex code sampled from the plate, and where it reaches the character from, such as in front of them and above. As on location, it becomes their rim light. A second light on the plate, such as a glow off to one side, is described after the pose.
 - **Camera:** the plate's camera height, angle and lens, such as low, at about knee height, with a wide-angle lens. In the pose, say which way the character faces in the plate's frame, so one-sided features land on the right side.
 - **The plate is never attached:** its light and camera are written into the slots instead. The character's canon sheets are attached as usual.
 - **No ground shadow or reflection:** they'd land outside the character's mask, so they come with a plate revision.
 - **A figure the plate shows only in part,** like his legs in shot 4, is still generated whole, and the composite crops it.
-- **After it's generated:** the character is cut from the grey, scaled to their size-chart height against the plate, composited onto the locked 1920×1080 plate, and checked pixel for pixel outside their mask.
+- **After it's generated:** the character is cut from the green, checked for a green fringe along their edges, scaled to their size-chart height against the plate, composited onto the locked 1920×1080 plate, and checked pixel for pixel outside their mask.
 
 ```
-Character element for compositing: [CHARACTER DESCRIPTION]. Single figure, [POSE AND EXPRESSION], seen as the plate's camera sees them. Flat mid grey #808080 background, no scenery, no ground shadow or reflection, no labels or captions.
+Character element for compositing: [CHARACTER DESCRIPTION]. Single figure, [POSE AND EXPRESSION], seen as the plate's camera sees them. Flat chroma green #00B140 background, no scenery, no ground shadow or reflection, no labels or captions.
 Style: shonen anime, sharp ink lines, bold two-tone cel shading, strong colour contrast, fine film grain. 1990s anime screencap aesthetic, hand-drawn cel shading, subtle film grain, warm muted color blocks, nostalgic lighting, clean ink outlines. Core palette: navy #09102E, deep teal #084558, cobalt #2F91DB, violet #5251B9, cloud white #DEE7E8.
 Character: sharp, crisp line art in near-black #030308, heavier on the outer silhouette, no hatching; bold two-tone cel shading, a flat base colour and one hard-edged shadow tone, with a small crisp highlight; sharp catchlights in the eyes, and hair in defined clumps with a highlight band; skin [SKIN HEX]; signature accent [ACCENT HEX].
 Lighting: [PLATE'S MAIN LIGHT AND COLOUR] from [DIRECTION], its colour becoming the character's rim light on the side facing it; bloom only on glowing sources.
