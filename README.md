@@ -704,11 +704,11 @@ The main antagonist, known as the doctor: the head of the medical wing in the Cr
   - **Out of its dock:** it's portable, and lets the doctor bypass the door to the control room, as the user set on 2026-11-25.
   - **Object sheet:** [`heyes-bypass-controller.jpg`](characters/heyes/objects/heyes-bypass-controller.jpg), sent by the user and approved by the user as canon on 2026-11-25, at 1536×1024, on grey. Its prompt wasn't recorded. It has front, side, back, top and bottom views of the controller, the controller standing in its dock, and the controller held in the doctor's cybernetic right hand, with his olive sleeve. It's canon for the controller's look. Exceptions, where the written rules here win:
     - **Dock:** its clamps are plain grey. On the pod room's panel they carry yellow and black hazard stripes, as in the panel view, as the user chose.
+    - **Thickness:** its side, top and bottom views draw it about 5 cm (2 in) thick, with the dial and the ribbed side grips standing out. It's about as thin as an iPhone, under 1 cm, as the user chose.
     - **Style:** scuffs and scratches cover the casing, more texture than flat cel colour.
     - **Background:** grey `#7A7678`, not mid grey `#808080`.
     - **16:9 version:** [`heyes-bypass-controller-16x9.jpg`](characters/heyes/objects/heyes-bypass-controller-16x9.jpg), scaled to 1080 pixels high and padded at the sides on the sheet's own grey to 1920×1080.
-  - **Size:** about 25 cm (10 in) tall and 15 cm (6 in) wide, as the user set on 2026-11-25.
-  - **TBD:** its depth.
+  - **Size:** about 25 cm (10 in) tall and 15 cm (6 in) wide, and about as thick as an iPhone, roughly 8 mm (1/3 in), as the user set on 2026-11-25.
 - **Height:** about 6'5" (196 cm), barefoot, from the ground to the top of his head. He's about 7 heads tall, counting a head from the top of his head to his chin. His boots add about 4 cm, so in them he stands about 200 cm. It's measured on his Combat Skin turnaround and drawn on the [size chart](#size-chart).
 - **Colours:** pale ivory skin `#EAD8C4`, a red accent `#CC4747` and an olive grey suit `#5F6352`, all picked by the user. The reference portrait can't give his colours, because its skin is warm, it has a yellow varnish cast, and it has no red in it. The rest come from the palette swatches on his expanded sheet, adopted by the user: silver-grey hair `#9E9199`, matte silver trim `#A99E9F`, black metal `#212128` for his boots and cybernetic hand, and silver `#B2B2B7` for his award decorations and emblem.
 - **Sheets:** in `characters/heyes/`, named `heyes-<outfit>.jpg`. Both were approved in earlier work. The user's original award and insignia references, which aren't stored in this repo, are the authority for fine detail.
