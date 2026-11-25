@@ -1633,7 +1633,8 @@ The ship's interior, as the user began designing it on 2026-11-16. The ship has 
   - **Right half:** a recessed bay with a violet light strip `#7E3ADA` down each side, under three round lights: white, violet `#9754E9` and white. In it, the doctor's bypass controller stands upright in its cradle: grey clamps `#6E708E` with yellow `#CF9941` and black hazard stripes, and a violet light strip in the cradle's base.
   - **What it does:** it controls the pods and shows the test subjects' vitals and other readings. The dock does the same, and also lets the doctor bypass the control room, granting him access, as the user set on 2026-11-23, and it charges the controller, as the user set on 2026-11-25.
 - **Doors:** automatic sliding doors, 10 ft (3.05 m) tall and 6 ft (1.83 m) wide, between the pod room and the medical wing next door, as the user set on 2026-11-23. They're in the front wall, facing the sealed back wall, as the user set on 2026-11-25. In every approved view the camera faces the back wall, so the front wall, and the doors, are behind it.
-- **Lift:** a lift connects the pod room to Lebensborn below it, as the user set on 2026-11-25. Where it opens into the room, and its look, are TBD.
+- **Lift:** a lift connects the pod room to Lebensborn below it, and opens near the back wall, as the user set on 2026-11-25. Which side of the room it's on, and its look, are TBD.
+- **Size:** the same size as [Orion](#orion-waves-nightclub), Wave's nightclub, with plenty of space for the pods, as the user set on 2026-11-25. Orion's widths aren't set yet, so the pod room's aren't either. The medical wing is a separate room, next door.
 - **Day or night:** an underground room with no windows. The opening is set at night.
 - **Main light:** the ceiling's white light panels `#EFEEF0` and its ring light, a cool white that becomes the rim light of anyone there, with the violet strips over the pods as a second light. **Where characters stand:** TBD. The floor down the middle is open. In the opening, the camera moves through it, with Wave in his pod.
 - **Reactive surfaces:** the glossy floor, which mirrors the lights, and the pods' glass. How they react to each story moment is TBD.
@@ -1652,7 +1653,7 @@ The ship's interior, as the user began designing it on 2026-11-16. The ship has 
     - **Style:** as in the other two views: cool and evenly lit, all in blues and violets, where the master style line asks for warm muted colour blocks and nostalgic lighting, and no film grain shows. Its lines are bold and near black, where the environment's lines are thin and tinted.
     - **Shape:** 1448×1086, which is 4:3, not 16:9. Its 16:9 version, [`pod-room-panel-night-16x9.jpg`](locations/crystal-tower/pod-room/pod-room-panel-night-16x9.jpg), is cropped to 16:9 a little above centre and scaled to 1920×1080, keeping the three round lights, the whole panel and the dock, and losing most of the vents above and below.
 - **The other test subjects:** featureless dark shapes in their pods for now, as the user set on 2026-11-23. Further into the story, the user will come back and add two more of them, whose looks and stories are TBD.
-- **TBD:** how many pods the room holds beyond the eight that show; its scale; and where its lift to Lebensborn opens into the room, and the lift's look.
+- **TBD:** how many pods the room holds beyond the eight that show; its ceiling height; and which side of the back wall the lift opens on, and the lift's look.
 
 ### Amethyst Path
 
