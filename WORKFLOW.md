@@ -6,6 +6,8 @@ Work through it top to bottom, because each stage needs the one before it. Tick 
 
 [README.md](README.md) is the single source of truth for the style. Every prompt is built in its order: the subject, then each character's style block, then the job's style block, word for word. No prompt goes to OpenArt, Higgsfield or any other generator until it has been shown and given the go-ahead.
 
+For every generation, edit, inpainting or retry, show the complete prompt in a copyable code block and obtain its own go-ahead. If the prompt changes, show it again for approval. Before sending, check the master style line, all character blocks and the full job block. After generation, report checks view by view, including correct anatomy (five fingers per hand), joints, left/right placement, lettering, object construction, canon style and colours. Reject failures; only the user's explicit final approval makes an asset canon. Save approved files and record known exceptions without changing the written canon.
+
 ## 1. Setup
 
 Do this once, and again whenever something changes.
@@ -325,6 +327,23 @@ A storyboard is a continuity and timing map, not a substitute for the character,
 - [ ] **Respect camera-view ownership:** the new SH006 plate is separate from `LoadingBay.png`. Never overwrite either approved source; use the assigned camera position for each composite.
 - [ ] **Repair character-only drafts before compositing:** the dollar-sign tattoo remains on the web of Ozzy's left thumb and index finger, the chip flush on the inside of his left wrist, and the balaclava flag on his left. The original bounty-hunter armour sheet remains authoritative.
 - [ ] **Animation approval stays separate:** the five-second test clip is only a draft; inspect motion, anatomy, exact plate pixels and sound before final canon approval.
+
+## Subsequent production approvals — 2026-11-24 to 2026-11-26
+
+These are additive production checkpoints, not approval to generate new artwork or mark the entire backdrop complete. The 2026-11-16 checkpoint, updated 2026-11-21, remains in force.
+
+| Reference or decision | Status |
+|---|---|
+| AL002 camera/movement reference (2026-11-24) | Canon route planning reference; MT-00 Rev01 geometry unchanged. FWD and REV have separate locked plates. `CAM-TRACK` remains proposed. Not stored in this repo yet. |
+| Lebensborn corrected controller docking image (2026-11-25) | Exact approved 1448×1086 composite; historical source and approved object sheet retained; changed generation source rejected as a console replacement. Not stored in this repo yet. |
+| Lebensborn controller operation reference (2026-11-25) | Canon 1920×1080 operation reference; seven controls, three indicators and blocked-restoration beep as recorded in README.md. Not stored in this repo yet. |
+| Wave's release (2026-11-25) | Approved story sequence, not approved storyboard, animation or sound mix. |
+| Lebensborn chamber and entrance (2026-11-26) | The doors' look is recorded in README.md's pod room entry and in STORY.md. The chamber's pod numbering, lighting and name conflict with the pod room's approved views, and wait on the user's choice. No shot or art approval is implied. |
+
+- [ ] **AL002 route continuity:** check R003 → footbridge → charging wall on traveller's right → R001; reverse view follows the opposite order. Use `CAM-AL002-FWD` and `CAM-AL002-REV` only with their own approved plates. The transition towards AL001 via R001 is off-screen. Do not use `CAM-TRACK` until separately approved, or resolve the cabinet mismatch by modifying a locked plate.
+- [ ] **Controller continuity:** use approved object sheet and operation reference; check Dr. Heyes's cybernetic RIGHT hand, seven controls and three indicators without mirroring. Check stasis, closure and lock as distinct states. An invalid restoration attempt produces one short electronic beep, without automatic closure, locking or restoration. Do not invent dial numbering, timing or other sounds. The approved operation reference retains its original draft caption; the dated approval supersedes that label without editing its pixels.
+- [ ] **Wave-release continuity:** use the pod room's approved layout in README.md and the story sequence in STORY.md. Before storyboarding, resolve the pod room's open conflicts and the TBD scene inputs, and approve the camera plates it needs. Keep all eight pods in the disturbance, the other seven closed, and Wave's pod closed and locked until Ozzy has left the chamber. Wave awakens while contained; the Tower then unlocks and opens his pod. Keep Ozzy's chip on the inside of his LEFT wrist, Wave's com chip and voice as in his README entry, and the Tower's own-system release distinct from Dr. Heyes's controller. No new action, timing or shot is approved by this checklist.
+- [ ] **Approval and backup:** retain the exact approved source artwork, metadata and approval records; reference aliases with old draft captions stay byte-identical. Confirm assets are present before use, and keep unresolved details TBD. The door tint approval changes only the README and STORY specifications, not the production method.
 
 ## Files and names
 
